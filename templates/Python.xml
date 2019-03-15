@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="dbg" value="$LOG$.debug('$LOG_TEXT$')" description="Debug log" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="completeSmart()" defaultValue="&quot;log&quot;" alwaysStopAt="true" />
+    <variable name="LOG_TEXT" expression="&quot;insert log&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
