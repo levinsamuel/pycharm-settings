@@ -2,4 +2,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
 </keymap>
