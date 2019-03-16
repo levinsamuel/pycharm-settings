@@ -12,6 +12,19 @@
       <file name="C:/git/levinsamuel/rand/python/tests/decorators.py" timestamp="1552535347585">
         <mark key="[" line="12" column="17" />
       </file>
+      <file name="C:/git/baseballdb/src/bbapp/management/commands/load.py" timestamp="1552717759058">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="C:/git/baseballdb/src/bbapp/__init__.py" timestamp="1552716715929">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
       <file name="C:/git/rand/python/tests/test_classes.py" timestamp="1552678473800">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -23,15 +36,22 @@
     <jumps>
       <jump line="60" column="12" filename="C:/git/rand/python/tests/test_classes.py" />
       <jump line="0" column="0" filename="C:/git/rand/python/tests/test_classes.py" />
+      <jump line="33" column="8" filename="C:/git/baseballdb/src/bbapp/management/commands/load.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnaW5zZXJ0IGxvZycpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">bG9nZ2luZy5nZXRMb2dnZXIoJycpLnNldExldmVsKGxvZ2dpbmcuV0FSTikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIHNzc3NnLmRlYnVnKCdoZXknKQo=</text>
       </register>
       <register name="u" type="4">
@@ -88,20 +108,29 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>marks</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>debug</text>
+      </register>
+      <register name="/" type="4">
+        <text>debug</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>debug</last-search>
+      <last-offset />
+      <last-pattern>debug</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>debug</entry>
+      </history-search>
       <history-cmd>
         <entry>marks</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,6 +147,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
