@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/git/levinsamuel/rand/python/tests/test_classes.py" timestamp="1552536270046">
@@ -12,8 +12,6 @@
       <file name="C:/git/levinsamuel/rand/python/tests/decorators.py" timestamp="1552535347585">
         <mark key="[" line="12" column="17" />
       </file>
-      <file name="C:/git/rand/python/tests/decorators.py" timestamp="1552694412474" />
-      <file name="C:/git/rand/python/tests/classes.py" timestamp="1552693563794" />
       <file name="C:/git/rand/python/tests/test_classes.py" timestamp="1552678473800">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -89,6 +87,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
+      <register name=":" type="4">
+        <text>marks</text>
+      </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
@@ -99,7 +100,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>marks</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -112,6 +115,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
