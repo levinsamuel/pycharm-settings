@@ -13,4 +13,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="test" value="def test_$TEST_NAME$(self):&#10;    $END$" description="Add a test method" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST_NAME" expression="" defaultValue="&quot;something&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

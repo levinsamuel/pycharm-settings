@@ -9,8 +9,17 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1552788693791">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/git/levinsamuel/rand/python/tests/decorators.py" timestamp="1552535347585">
         <mark key="[" line="12" column="17" />
+      </file>
+      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/__init__.py" timestamp="1552789065051">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/git/baseballdb/src/bbapp/management/commands/load.py" timestamp="1552717759058">
         <mark key="'" line="33" column="8" />
@@ -25,6 +34,19 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
+      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/dbtests/test_loader.py" timestamp="1552786820100">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_loader.py" timestamp="1552789447929">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+      </file>
       <file name="C:/git/rand/python/tests/test_classes.py" timestamp="1552678473800">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -37,22 +59,42 @@
       <jump line="60" column="12" filename="C:/git/rand/python/tests/test_classes.py" />
       <jump line="0" column="0" filename="C:/git/rand/python/tests/test_classes.py" />
       <jump line="33" column="8" filename="C:/git/baseballdb/src/bbapp/management/commands/load.py" />
+      <jump line="45" column="8" filename="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_loader.py" />
+      <jump line="10" column="0" filename="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_loader.py" />
+      <jump line="74" column="21" filename="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_loader.py" />
+      <jump line="9" column="29" filename="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_loader.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnaW5zZXJ0IGxvZycpCg==</text>
-      </register>
       <register name="&quot;" type="4">
+        <text>INFO</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>INFO</text>
+      </register>
+      <register name="/" type="4">
         <text>debug</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nLmluZm8oJ2RvZXMgdGhpcyBzdGlsbCBwcmludD8nKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bG9nLndhcm5pbmcoJ3doYXQgYWJvdXQgdGhpcz8nKQo=</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5nZXRMb2dnZXIoJycpLnNldExldmVsKGxvZ2dpbmcuV0FSTikK</text>
+        <text encoding="base64">bG9nLmluZm8oJ2RvZXMgdGhpcyBzdGlsbCBwcmludD8nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bG9nLmluZm8oJ2NyZWF0ZWQgbG9nZ2VyJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHNzc3NnLmRlYnVnKCdoZXknKQo=</text>
+        <text encoding="base64">cHJpbnQoJ2hpJykK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -100,21 +142,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="j" type="4">
-        <keys>
-          <key char="107" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGJiYXBwZGQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZygpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnaW5zZXJ0IGxvZycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>debug</text>
-      </register>
-      <register name="/" type="4">
-        <text>debug</text>
       </register>
     </registers>
     <search>
@@ -125,13 +169,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>debug</entry>
-      </history-search>
-      <history-cmd>
-        <entry>marks</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
@@ -142,7 +181,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -156,6 +195,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
