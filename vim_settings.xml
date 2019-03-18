@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552788693791">
+      <file name="/Dummy.txt" timestamp="1552884790651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/levinsamuel/rand/python/tests/decorators.py" timestamp="1552535347585">
@@ -37,12 +37,19 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/load.py" timestamp="1552856654631">
-        <mark key="'" line="8" column="0" />
+      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/load.py" timestamp="1552883756206">
+        <mark key="'" line="11" column="12" />
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="12" />
         <mark key="." line="25" column="12" />
         <mark key="^" line="25" column="13" />
+      </file>
+      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_model.py" timestamp="1552884290550">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="10" column="12" />
       </file>
       <file name="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/log_test.py" timestamp="1552838579790">
         <mark key="'" line="17" column="4" />
@@ -51,13 +58,12 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/loader.py" timestamp="1552799013570">
-        <mark key="a" line="112" column="12" />
+      <file name="C:/git/levinsamuel/baseballdb/src/bbapp/loader.py" timestamp="1552885471068">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="21" column="11" />
+        <mark key="[" line="186" column="34" />
+        <mark key="]" line="186" column="44" />
+        <mark key="^" line="186" column="44" />
+        <mark key="." line="186" column="44" />
       </file>
       <file name="C:/git/baseballdb/src/bbapp/__init__.py" timestamp="1552716715929">
         <mark key="[" line="2" column="20" />
@@ -105,10 +111,13 @@
       <jump line="0" column="7" filename="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/load.py" />
       <jump line="6" column="6" filename="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/load.py" />
       <jump line="8" column="0" filename="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/load.py" />
+      <jump line="11" column="12" filename="C:/git/levinsamuel/baseballdb/src/bbapp/management/commands/load.py" />
+      <jump line="13" column="0" filename="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_model.py" />
+      <jump line="0" column="0" filename="C:/git/levinsamuel/baseballdb/src/bbapp/simpletests/test_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>l</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -118,28 +127,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>loader_log</text>
+        <text>line</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bG9nLmluZm8oJ2RvZXMgdGhpcyBzdGlsbCBwcmludD8nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygndmVyYm9zaXR5IGlzICVzJywgdmVyYm9zaXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfZnJvbV9tYXBwaW5ncyhiYXRjaF9zaXplKQoKICAgIGRlZiBsb2FkX2Zyb21fbWFwcGluZ3Moc2VsZiwgYmF0Y2hfc2l6ZT0xMDAwKToKICAgICAgICAiIiJHaXZlbiBhIG1hcCBjb250YWluaW5nIHRoZSBtb2RlbCBmaWVsZHMgYW5kIHNvbWUgYXNzb2NpYXRlZCBkYXRhLAogICAgICAgIGluY2x1ZGluZyB0aGUgZmlsZSB0byBsb2FkLCBsb2FkIHRoZSBmaWxlcyIiIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLnNldExldmVsKGxvZ2dpbmcuSU5GTykK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygndmVyYm9zaXR5IGlzICVzJywgdmVyYm9zaXR5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLnNldExldmVsKGxvZ2dpbmcuSU5GTykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBsb2cuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -188,30 +197,30 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkLmxvYWRfZnJvbV9kaXJlY3Rvcnkocm9vdCwgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplKQo=</text>
+        <text encoding="base64">IyBsb2cuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkID0gTG9hZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkLmxvYWRfZnJvbV9kaXJlY3Rvcnkocm9vdCwgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ3JlYWQgcm9vdCBkaXI6ICVzJywgcm9vdCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkID0gTG9hZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctYicsICctLWJhdGNoLXNpemUnLCB0eXBlPWludCwgZGVzdD0nYmF0Y2hfc2l6ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PTEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ3JlYWQgcm9vdCBkaXI6ICVzJywgcm9vdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfYXJndW1lbnRzKHNlbGYsIHBhcnNlcik6Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctYicsICctLWJhdGNoLXNpemUnLCB0eXBlPWludCwgZGVzdD0nYmF0Y2hfc2l6ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PTEwMDApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>% s/line/line_/g</text>
       </register>
     </registers>
     <search>
-      <last-search>loader_log</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern>loader_log</last-pattern>
-      <last-replace>rl</last-replace>
-      <last-substitute>loader_log</last-substitute>
+      <last-pattern>line</last-pattern>
+      <last-replace>line_</last-replace>
+      <last-substitute>line</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,6 +236,8 @@
         <entry>:s</entry>
         <entry>log</entry>
         <entry>loader_log</entry>
+        <entry>/line/line_/g</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
         <entry>s/log/rl</entry>
@@ -236,6 +247,9 @@
         <entry>s/loader_log/rl/</entry>
         <entry>s/loader_log/rl/g</entry>
         <entry>w</entry>
+        <entry>s/line/lines/g</entry>
+        <entry>s%/line/line_/g</entry>
+        <entry>% s/line/line_/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
