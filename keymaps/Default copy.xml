@@ -10,9 +10,6 @@
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="PreviousEditorTab" />
-  <action id="Switcher">
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
