@@ -1,17 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1552944445756">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/.env" timestamp="1553540895514" />
+      <file name="$USER_HOME$/git/carta-web/.env" timestamp="1553543466042" />
       <file name="$USER_HOME$/git/carta-web/requirements.txt" timestamp="1553228900284">
         <mark key="[" line="469" column="12" />
         <mark key="]" line="469" column="12" />
         <mark key="." line="469" column="12" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/val/api/api_urls.py" timestamp="1553543520841" />
     </filemarks>
     <jumps />
     <registers>
@@ -35,6 +36,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
