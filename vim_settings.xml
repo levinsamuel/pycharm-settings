@@ -3,9 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552944445756">
+      <file name="/Dummy.txt" timestamp="1553622295737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" timestamp="1553623235281">
+        <mark key="'" line="228" column="8" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="1" />
+        <mark key="." line="257" column="1" />
+        <mark key="^" line="257" column="1" />
+      </file>
+      <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py" timestamp="1553622151812" />
       <file name="$USER_HOME$/git/carta-web/requirements.txt" timestamp="1553228900284">
         <mark key="[" line="469" column="12" />
         <mark key="]" line="469" column="12" />
@@ -18,7 +26,9 @@
         <mark key="." line="175" column="31" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="228" column="8" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>y</text>
