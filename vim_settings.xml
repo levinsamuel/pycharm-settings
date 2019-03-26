@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/carta-web/templates/valuations/react_base.html" timestamp="1553628076050" />
+      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/valuation_calculations.py" timestamp="1553634246067">
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553622295737">
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,6 +19,9 @@
         <mark key="." line="257" column="1" />
         <mark key="^" line="257" column="1" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1553633831590">
+        <mark key="'" line="60" column="4" />
+      </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py" timestamp="1553622151812" />
       <file name="$USER_HOME$/git/carta-web/requirements.txt" timestamp="1553228900284">
         <mark key="[" line="469" column="12" />
@@ -21,14 +29,27 @@
         <mark key="." line="469" column="12" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553619079663" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/views.py" timestamp="1553632734635">
-        <mark key="[" line="175" column="31" />
-        <mark key="]" line="175" column="31" />
-        <mark key="." line="175" column="31" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/views.py" timestamp="1553634292349">
+        <mark key="[" line="152" column="59" />
+        <mark key="]" line="151" column="18" />
+        <mark key="." line="151" column="18" />
+        <mark key="^" line="151" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553633805666">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="228" column="8" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" />
+      <jump line="53" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
+      <jump line="65" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="97" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="88" column="53" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="64" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="37" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -37,13 +58,22 @@
       <register name="-" type="4">
         <text>y</text>
       </register>
+      <register name="/" type="4">
+        <text>sections</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>sections</last-search>
+      <last-offset />
+      <last-pattern>sections</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>init</entry>
+        <entry>sections</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
