@@ -18,7 +18,9 @@
         <mark key="." line="257" column="1" />
         <mark key="^" line="257" column="1" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/val/views.py" timestamp="1553722263468" />
+      <file name="$USER_HOME$/git/carta-web/webpack-stats.json" timestamp="1553725268297">
+        <mark key="'" line="0" column="2191" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553708894575">
         <mark key="'" line="73" column="38" />
       </file>
@@ -28,6 +30,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
+        <mark key="'" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1553633831590">
         <mark key="'" line="60" column="4" />
       </file>
@@ -35,6 +40,9 @@
         <mark key="[" line="469" column="12" />
         <mark key="]" line="469" column="12" />
         <mark key="." line="469" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1553725061785">
+        <mark key="'" line="1285" column="52" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/views.py" timestamp="1553634292349">
         <mark key="]" line="151" column="18" />
@@ -66,6 +74,12 @@
       <jump line="72" column="48" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
       <jump line="90" column="24" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/val/urls.py" />
+      <jump line="1014" column="41" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="1292" column="41" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="1285" column="52" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="31" column="12" filename="$USER_HOME$/git/carta-web/webpack.config.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/git/carta-web/webpack.config.js" />
+      <jump line="0" column="2191" filename="$USER_HOME$/git/carta-web/webpack-stats.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -75,13 +89,13 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>ValT</text>
+        <text>val-tool</text>
       </register>
     </registers>
     <search>
-      <last-search>ValT</last-search>
+      <last-search>val-tool</last-search>
       <last-offset />
-      <last-pattern>ValT</last-pattern>
+      <last-pattern>val-tool</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -91,11 +105,15 @@
         <entry>sections</entry>
         <entry>__get</entry>
         <entry>LLC</entry>
-        <entry>val-tool</entry>
         <entry>corporations</entry>
         <entry>409a</entry>
         <entry>409A</entry>
         <entry>ValT</entry>
+        <entry>BASE_DIR</entry>
+        <entry>WEBPACK_LOADER</entry>
+        <entry>INSTALLED_APPS</entry>
+        <entry>BundleTrack</entry>
+        <entry>val-tool</entry>
       </history-search>
       <history-cmd />
       <history-expr />
