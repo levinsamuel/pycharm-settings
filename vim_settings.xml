@@ -32,8 +32,8 @@
         <mark key="." line="151" column="18" />
         <mark key="^" line="151" column="18" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553699635525">
-        <mark key="'" line="35" column="22" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553705192778">
+        <mark key="'" line="73" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -49,6 +49,7 @@
       <jump line="60" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
       <jump line="67" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="35" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="73" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -58,13 +59,13 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>__get</text>
+        <text>LLC</text>
       </register>
     </registers>
     <search>
-      <last-search>__get</last-search>
+      <last-search>LLC</last-search>
       <last-offset />
-      <last-pattern>__get</last-pattern>
+      <last-pattern>LLC</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -73,6 +74,7 @@
         <entry>init</entry>
         <entry>sections</entry>
         <entry>__get</entry>
+        <entry>LLC</entry>
       </history-search>
       <history-cmd />
       <history-expr />
