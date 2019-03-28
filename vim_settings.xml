@@ -21,11 +21,18 @@
       <file name="$USER_HOME$/git/carta-web/webpack-stats.json" timestamp="1553725268297">
         <mark key="'" line="0" column="2191" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553793540021">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="154" column="39" />
-        <mark key="." line="154" column="39" />
+      <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1553798126296">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553797941341">
+        <mark key="'" line="215" column="54" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="16" />
+        <mark key="." line="218" column="16" />
+        <mark key="^" line="217" column="36" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1553791760480">
         <mark key="'" line="72" column="48" />
@@ -44,6 +51,12 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" timestamp="1553791797812">
         <mark key="'" line="12" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1553798111476">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="132" column="67" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1553793846551">
         <mark key="'" line="117" column="57" />
@@ -131,31 +144,47 @@
       <jump line="10" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" />
       <jump line="12" column="5" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" />
       <jump line="117" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="210" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="215" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>units</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRfY29udGV4dCA9IHsKICAgICAgICAgICAgJ3JlcG9ydF9zdHlsZXNoZWV0JzogJzQwOWFfcHJpbnQnLAogICAgICAgICAgICAnaXNfODIwJzogc2VsZi52YWx1YXRpb24uaXNfODIwLAogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRfY29udGV4dFsndmFsdWF0aW9uX29mJ10gPSB2YWx1YXRpb25fb2YK</text>
       </register>
       <register name="-" type="4">
-        <text>units</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>llc</text>
+        <text>context</text>
       </register>
     </registers>
     <search>
-      <last-search>llc</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>llc</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>409a</entry>
         <entry>409A</entry>
         <entry>ValT</entry>
         <entry>BASE_DIR</entry>
@@ -175,6 +204,7 @@
         <entry>valuate</entry>
         <entry>report-editor</entry>
         <entry>llc</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd />
       <history-expr />
