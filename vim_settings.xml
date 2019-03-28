@@ -30,8 +30,8 @@
       <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1553737952839">
-        <mark key="'" line="58" column="4" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1553739571826">
+        <mark key="'" line="357" column="6" />
       </file>
       <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
         <mark key="'" line="4" column="6" />
@@ -104,6 +104,7 @@
       <jump line="19" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="22" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="58" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="357" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -113,13 +114,13 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>valuation_details</text>
+        <text>corporation_summary</text>
       </register>
     </registers>
     <search>
-      <last-search>valuation_details</last-search>
+      <last-search>corporation_summary</last-search>
       <last-offset />
-      <last-pattern>valuation_details</last-pattern>
+      <last-pattern>corporation_summary</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -144,6 +145,7 @@
         <entry>valuation</entry>
         <entry>valuationDetails</entry>
         <entry>valuation_details</entry>
+        <entry>corporation_summary</entry>
       </history-search>
       <history-cmd />
       <history-expr />
