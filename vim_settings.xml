@@ -11,6 +11,9 @@
       <file name="/Dummy.txt" timestamp="1553622295737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1553801632990">
+        <mark key="'" line="43" column="29" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" timestamp="1553623235281">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="257" column="0" />
@@ -27,8 +30,8 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553797941341">
-        <mark key="'" line="215" column="54" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553801315781">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="16" />
         <mark key="." line="218" column="16" />
@@ -61,11 +64,6 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1553793846551">
         <mark key="'" line="117" column="57" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/requirements.txt" timestamp="1553228900284">
-        <mark key="[" line="469" column="12" />
-        <mark key="]" line="469" column="12" />
-        <mark key="." line="469" column="12" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1553725061785">
         <mark key="'" line="1285" column="52" />
       </file>
@@ -97,7 +95,6 @@
       <jump line="88" column="53" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="64" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="37" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="60" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
       <jump line="67" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="35" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -138,7 +135,6 @@
       <jump line="576" column="5" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="605" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="572" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
-      <jump line="38" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="72" column="48" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
       <jump line="9" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" />
       <jump line="10" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" />
@@ -146,6 +142,15 @@
       <jump line="117" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="210" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="215" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="38" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="501" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="111" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="358" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="361" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="370" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="371" column="27" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="43" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="q" type="4">
@@ -173,20 +178,18 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>reporthtml</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>reporthtml</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>reporthtml</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>409A</entry>
-        <entry>ValT</entry>
         <entry>BASE_DIR</entry>
         <entry>WEBPACK_LOADER</entry>
         <entry>INSTALLED_APPS</entry>
@@ -205,6 +208,8 @@
         <entry>report-editor</entry>
         <entry>llc</entry>
         <entry>context</entry>
+        <entry>html</entry>
+        <entry>reporthtml</entry>
       </history-search>
       <history-cmd />
       <history-expr />
