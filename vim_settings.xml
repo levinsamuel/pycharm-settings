@@ -21,8 +21,11 @@
       <file name="$USER_HOME$/git/carta-web/webpack-stats.json" timestamp="1553725268297">
         <mark key="'" line="0" column="2191" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553708894575">
-        <mark key="'" line="73" column="38" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553744536091">
+        <mark key="'" line="38" column="13" />
+        <mark key="[" line="154" column="38" />
+        <mark key="]" line="154" column="39" />
+        <mark key="." line="154" column="39" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1553714506527">
         <mark key="'" line="90" column="24" />
@@ -39,6 +42,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1553633831590">
         <mark key="'" line="60" column="4" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1553743012447">
+        <mark key="'" line="92" column="6" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/requirements.txt" timestamp="1553228900284">
         <mark key="[" line="469" column="12" />
         <mark key="]" line="469" column="12" />
@@ -49,6 +55,13 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553736073555">
         <mark key="'" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1553743859648">
+        <mark key="'" line="572" column="18" />
+        <mark key="[" line="576" column="66" />
+        <mark key="]" line="576" column="66" />
+        <mark key="^" line="576" column="70" />
+        <mark key="." line="576" column="66" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/views.py" timestamp="1553634292349">
         <mark key="]" line="151" column="18" />
@@ -105,30 +118,36 @@
       <jump line="22" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="58" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="357" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="92" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="571" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="576" column="5" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="605" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="572" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="38" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
+      <register name="q" type="4">
+        <text />
+      </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>units</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>units</text>
       </register>
       <register name="/" type="4">
-        <text>corporation_summary</text>
+        <text>valuation.html</text>
       </register>
     </registers>
     <search>
-      <last-search>corporation_summary</last-search>
+      <last-search>valuation.html</last-search>
       <last-offset />
-      <last-pattern>corporation_summary</last-pattern>
+      <last-pattern>valuation.html</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
-        <entry>sections</entry>
-        <entry>__get</entry>
         <entry>LLC</entry>
         <entry>corporations</entry>
         <entry>409a</entry>
@@ -146,6 +165,9 @@
         <entry>valuationDetails</entry>
         <entry>valuation_details</entry>
         <entry>corporation_summary</entry>
+        <entry>llc</entry>
+        <entry>units</entry>
+        <entry>valuation.html</entry>
       </history-search>
       <history-cmd />
       <history-expr />
