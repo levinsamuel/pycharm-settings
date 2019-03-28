@@ -27,12 +27,13 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553801315781">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="16" />
-        <mark key="." line="218" column="16" />
-        <mark key="^" line="217" column="36" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1553814351407" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553816342639">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="119" column="62" />
+        <mark key="]" line="119" column="62" />
+        <mark key="." line="119" column="62" />
+        <mark key="^" line="119" column="62" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1553791760480">
         <mark key="'" line="72" column="48" />
@@ -148,48 +149,62 @@
       <jump line="370" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="371" column="27" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="43" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="27" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="50" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="79" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="119" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnZhbHVhdGlvbi5pc184MjBfZnVsbF9zZXJ2aWNlOgogICAgICAgICAgICByZXR1cm4gc2VsZi5BU0M4MjBfRlVMTF9TRVJWSUNFX1RFTVBMQVRFUwoKICAgICAgICBlbGlmIHNlbGYudmFsdWF0aW9uLmlzXzgyMF9zZWxmX3NlcnZpY2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLkFTQzgyMF9TRUxGX1NFUlZJQ0VfVEVNUExBVEVTCgogICAgICAgIGVsaWYgc2VsZi5jb3Jwb3JhdGlvbi5pc19sbGMoKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuSVJDNDA5QV9MTENfVEVNUExBVEVTCiAgICAgICAgZWxpZiBzZWxmLnZhbHVhdGlvbi5pc19oeWJyaWQ6CiAgICAgICAgICAgIHJldHVybiBzZWxmLklSQzQwOUFfSFlCUklEX1RFTVBMQVRFUwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLklSQzQwOUFfVEVNUExBVEVTCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIK</text>
+      <register name="&quot;" type="4">
+        <text>__get_sections():</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIEFTQzgyMF9TRUxGX1NFUlZJQ0VfVEVNUExBVEVTID0gdGVtcGxhdGVzLkFTQzgyMF9TRUxGX1NFUlZJQ0VfVEVNUExBVEVTCiAgICBBU0M4MjBfRlVMTF9TRVJWSUNFX1RFTVBMQVRFUyA9IHRlbXBsYXRlcy5BU0M4MjBfRlVMTF9TRVJWSUNFX1RFTVBMQVRFUwogICAgSVJDNDA5QV9MTENfVEVNUExBVEVTID0gdGVtcGxhdGVzLklSQzQwOUFfTExDX1RFTVBMQVRFUwogICAgSVJDNDA5QV9URU1QTEFURVMgPSB0ZW1wbGF0ZXMuSVJDNDA5QV9URU1QTEFURVMKICAgIElSQzQwOUFfSFlCUklEX1RFTVBMQVRFUyA9IHRlbXBsYXRlcy5JUkM0MDlBX0hZQlJJRF9URU1QTEFURVMKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRfY29udGV4dCA9IHsKICAgICAgICAgICAgJ3JlcG9ydF9zdHlsZXNoZWV0JzogJzQwOWFfcHJpbnQnLAogICAgICAgICAgICAnaXNfODIwJzogc2VsZi52YWx1YXRpb24uaXNfODIwLAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgogICAgICAgIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRfY29udGV4dCA9IHsKICAgICAgICAgICAgJ3JlcG9ydF9zdHlsZXNoZWV0JzogJzQwOWFfcHJpbnQnLAogICAgICAgICAgICAnaXNfODIwJzogc2VsZi52YWx1YXRpb24uaXNfODIwLAogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXBvcnRfY29udGV4dFsndmFsdWF0aW9uX29mJ10gPSB2YWx1YXRpb25fb2YK</text>
       </register>
+      <register name=":" type="4">
+        <text>52,62s/_TEMPLATES//</text>
+      </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>__get_sections():</text>
       </register>
       <register name="/" type="4">
-        <text>reporthtml</text>
+        <text>get_section</text>
       </register>
     </registers>
     <search>
-      <last-search>reporthtml</last-search>
+      <last-search>get_section</last-search>
       <last-offset />
-      <last-pattern>reporthtml</last-pattern>
+      <last-pattern>get_section</last-pattern>
+      <last-replace />
+      <last-substitute>_TEMPLATES</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BASE_DIR</entry>
-        <entry>WEBPACK_LOADER</entry>
-        <entry>INSTALLED_APPS</entry>
         <entry>BundleTrack</entry>
         <entry>val-tool</entry>
         <entry>graphql</entry>
@@ -207,8 +222,14 @@
         <entry>context</entry>
         <entry>html</entry>
         <entry>reporthtml</entry>
+        <entry>(</entry>
+        <entry>_TEMPLATES</entry>
+        <entry>get_section</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>29,32s/(/tuple(/</entry>
+        <entry>52,62s/_TEMPLATES//</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
