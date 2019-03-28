@@ -30,6 +30,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1553737952839">
+        <mark key="'" line="58" column="4" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
         <mark key="'" line="4" column="6" />
       </file>
@@ -88,6 +91,19 @@
       <jump line="0" column="2191" filename="$USER_HOME$/git/carta-web/webpack-stats.json" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/entries.js" />
       <jump line="0" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" />
+      <jump line="417" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="2" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="6" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="7" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="8" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="9" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -97,13 +113,13 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>Graph</text>
+        <text>valuation_details</text>
       </register>
     </registers>
     <search>
-      <last-search>Graph</last-search>
+      <last-search>valuation_details</last-search>
       <last-offset />
-      <last-pattern>Graph</last-pattern>
+      <last-pattern>valuation_details</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -125,6 +141,9 @@
         <entry>graphql</entry>
         <entry>Grapoh</entry>
         <entry>Graph</entry>
+        <entry>valuation</entry>
+        <entry>valuationDetails</entry>
+        <entry>valuation_details</entry>
       </history-search>
       <history-cmd />
       <history-expr />
