@@ -44,6 +44,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1553725061785">
         <mark key="'" line="1285" column="52" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553736073555">
+        <mark key="'" line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/views.py" timestamp="1553634292349">
         <mark key="]" line="151" column="18" />
         <mark key="." line="151" column="18" />
@@ -84,6 +87,7 @@
       <jump line="4" column="6" filename="$USER_HOME$/git/carta-web/webpack.config.js" />
       <jump line="0" column="2191" filename="$USER_HOME$/git/carta-web/webpack-stats.json" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/entries.js" />
+      <jump line="0" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -93,13 +97,13 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>val-tool</text>
+        <text>Graph</text>
       </register>
     </registers>
     <search>
-      <last-search>val-tool</last-search>
+      <last-search>Graph</last-search>
       <last-offset />
-      <last-pattern>val-tool</last-pattern>
+      <last-pattern>Graph</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -118,6 +122,9 @@
         <entry>INSTALLED_APPS</entry>
         <entry>BundleTrack</entry>
         <entry>val-tool</entry>
+        <entry>graphql</entry>
+        <entry>Grapoh</entry>
+        <entry>Graph</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -129,6 +136,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
