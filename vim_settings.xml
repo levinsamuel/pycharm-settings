@@ -27,12 +27,12 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553823798916">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-        <mark key="^" line="31" column="56" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553824570524">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="37" column="43" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="37" column="45" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1553791760480">
         <mark key="'" line="72" column="48" />
@@ -45,6 +45,9 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
         <mark key="'" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1553824670604">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1553633831590">
         <mark key="'" line="60" column="4" />
@@ -156,11 +159,11 @@
       <jump line="33" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>__get_sections():</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>get_section</text>
