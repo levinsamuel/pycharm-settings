@@ -33,8 +33,8 @@
         <mark key="." line="46" column="51" />
         <mark key="^" line="46" column="51" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1553891717971">
-        <mark key="'" line="243" column="26" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1553892779590">
+        <mark key="'" line="67" column="30" />
         <mark key="[" line="195" column="23" />
         <mark key="]" line="195" column="26" />
         <mark key="." line="195" column="26" />
@@ -113,16 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="30" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
-      <jump line="58" column="11" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
-      <jump line="74" column="29" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
-      <jump line="92" column="29" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
-      <jump line="90" column="24" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/val/urls.py" />
-      <jump line="1014" column="41" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
-      <jump line="1292" column="41" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
-      <jump line="1285" column="52" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
       <jump line="31" column="12" filename="$USER_HOME$/git/carta-web/webpack.config.js" />
       <jump line="4" column="6" filename="$USER_HOME$/git/carta-web/webpack.config.js" />
       <jump line="0" column="2191" filename="$USER_HOME$/git/carta-web/webpack-stats.json" />
@@ -213,6 +203,16 @@
       <jump line="195" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="231" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="243" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="215" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="71" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="160" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="164" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="168" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="253" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="365" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="434" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="63" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="67" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +222,7 @@
         <text>llc</text>
       </register>
       <register name="/" type="4">
-        <text>llc\/discu</text>
+        <text>Market</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeyUgZWxpZiByZXBvcnRfdHlwZS5pc19MTEMgYW5kIHJlcG9ydF90eXBlLmlzX1BJVV9hbmRfb3B0aW9uICV9TGlxdWlkYXRpb24gVGhyZXNob2xkIGFuZCBDb21tb24gVW5pdCBWYWx1YXRpb24KICAgICAgICAgICAgeyUgZWxpZiByZXBvcnRfdHlwZS5pc19MTEMgYW5kIHJlcG9ydF90eXBlLmlzX1BJVV9ncmFudCAlfUxpcXVpZGF0aW9uIFRocmVzaG9sZCBWYWx1YXRpb24K</text>
@@ -262,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>llc\/discu</last-search>
+      <last-search>Market</last-search>
       <last-offset />
-      <last-pattern>llc\/discu</last-pattern>
+      <last-pattern>Market</last-pattern>
       <last-replace>template</last-replace>
       <last-substitute>get_sections()</last-substitute>
       <last-dir>1</last-dir>
@@ -272,8 +272,6 @@
     </search>
     <history>
       <history-search>
-        <entry>report-editor</entry>
-        <entry>context</entry>
         <entry>html</entry>
         <entry>reporthtml</entry>
         <entry>(</entry>
@@ -292,6 +290,8 @@
         <entry>llc\/comp</entry>
         <entry>llc</entry>
         <entry>llc\/discu</entry>
+        <entry>market</entry>
+        <entry>Market</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
