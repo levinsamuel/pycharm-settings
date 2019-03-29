@@ -222,7 +222,7 @@
         <text>llc</text>
       </register>
       <register name="/" type="4">
-        <text>Market</text>
+        <text>grouped_notes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeyUgZWxpZiByZXBvcnRfdHlwZS5pc19MTEMgYW5kIHJlcG9ydF90eXBlLmlzX1BJVV9hbmRfb3B0aW9uICV9TGlxdWlkYXRpb24gVGhyZXNob2xkIGFuZCBDb21tb24gVW5pdCBWYWx1YXRpb24KICAgICAgICAgICAgeyUgZWxpZiByZXBvcnRfdHlwZS5pc19MTEMgYW5kIHJlcG9ydF90eXBlLmlzX1BJVV9ncmFudCAlfUxpcXVpZGF0aW9uIFRocmVzaG9sZCBWYWx1YXRpb24K</text>
@@ -262,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Market</last-search>
+      <last-search>grouped_notes</last-search>
       <last-offset />
-      <last-pattern>Market</last-pattern>
+      <last-pattern>grouped_notes</last-pattern>
       <last-replace>template</last-replace>
       <last-substitute>get_sections()</last-substitute>
       <last-dir>1</last-dir>
@@ -272,7 +272,6 @@
     </search>
     <history>
       <history-search>
-        <entry>html</entry>
         <entry>reporthtml</entry>
         <entry>(</entry>
         <entry>_TEMPLATES</entry>
@@ -292,6 +291,7 @@
         <entry>llc\/discu</entry>
         <entry>market</entry>
         <entry>Market</entry>
+        <entry>grouped_notes</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
