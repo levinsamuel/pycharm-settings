@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1553880168183">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1553801632990">
         <mark key="'" line="43" column="29" />
       </file>
@@ -23,11 +26,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1553878029678">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="29" column="13" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1553880017617">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="50" column="31" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553831556326">
         <mark key="'" line="49" column="49" />
@@ -61,12 +65,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" timestamp="1553791797812">
         <mark key="'" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1553832103658">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1553880379173">
         <mark key="'" line="74" column="0" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-        <mark key="^" line="54" column="17" />
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="61" column="43" />
+        <mark key="." line="61" column="43" />
+        <mark key="^" line="61" column="43" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1553793846551">
         <mark key="'" line="117" column="57" />
@@ -77,7 +81,8 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553736073555">
         <mark key="'" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/types/test_types.py" timestamp="1553831896334">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/types/test_types.py" timestamp="1553880287929">
+        <mark key="'" line="14" column="12" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -176,16 +181,25 @@
       <jump line="89" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="49" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="74" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="10" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="33" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="50" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/types/test_types.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/types/test_types.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>get_report_type</text>
+        <text>()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SFRNTCA9IExpc3RbTGlzdFtBbnldXQo=</text>
@@ -194,50 +208,47 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF90ZW1wbGF0ZTogSFRNTAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnBkZiBpbXBvcnQgUmVwb3J0VHlwZXMK</text>
+        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgdGVtcGxhdGUsIGlzXzgyMCwgaXNfTExDLCBpc19vcHRpb25fZ3JhbnQsIGlzX1BJVV9ncmFudCk6CiAgICAgICAgc2VsZi5fdGVtcGxhdGUgPSB0ZW1wbGF0ZQogICAgICAgIHNlbGYuX2lzXzgyMCA9IGlzXzgyMAogICAgICAgIHNlbGYuX2lzX0xMQyA9IGlzX0xMQwogICAgICAgIHNlbGYuX2lzX29wdGlvbl9ncmFudCA9IGlzX29wdGlvbl9ncmFudAogICAgICAgIHNlbGYuX2lzX1BJVV9ncmFudCA9IGlzX1BJVV9ncmFudAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRlbXBsYXRlKHNlbGYpIC0+IEhUTUw6CiAgICAgICAgcmV0dXJuIHNlbGYuX3RlbXBsYXRlCgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNfODIwKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYuX2lzXzgyMAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX0xMQyhzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBzZWxmLl9pc19MTEMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBpc19vcHRpb25fZ3JhbnQoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc2VsZi5faXNfb3B0aW9uX2dyYW50CgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNfUElVX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYuX2lzX1BJVV9ncmFudAoK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEByZXBvcnRfdHlwZS5zZXR0ZXIKICAgIGRlZiByZXBvcnRfdHlwZShzZWxmLCB2YWx1ZSk6CiAgICAgICAgc2VsZi5fcmVwb3J0X3R5cGUgPSB2YWx1ZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEByZXBvcnRfdHlwZS5zZXR0ZXIK</text>
+        <text encoding="base64">CiAgICBkZWYgaXNfODIwKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbMV0KCiAgICBkZWYgaXNfTExDKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbMl0KCiAgICBkZWYgaXNfb3B0aW9uX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbM10KCiAgICBkZWYgaXNfUElVX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbNF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2VjdGlvbnMoc2VsZikgLT4gSFRNTDoKICAgICAgICByZXR1cm4gc2VsZi52YWx1ZVswXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEByZXBvcnRfdHlwZS5zZXR0ZXIKICAgIGRlZiByZXBvcnRfdHlwZShzZWxmLCB2YWx1ZSk6CiAgICAgICAgc2VsZi5fcmVwb3J0X3R5cGUgPSB2YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcG9ydF90eXBlID0gcmVwb3J0X3R5cGUK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnBkZiBpbXBvcnQgUmVwb3J0VHlwZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/report_type/get_report_type/</text>
+        <text>%s/()//</text>
       </register>
     </registers>
     <search>
-      <last-search>get_report_type</last-search>
+      <last-search>()</last-search>
       <last-offset />
-      <last-pattern>get_report_type</last-pattern>
-      <last-replace>get_report_type</last-replace>
-      <last-substitute>report_type</last-substitute>
+      <last-pattern>()</last-pattern>
+      <last-replace />
+      <last-substitute>()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Graph</entry>
-        <entry>valuation</entry>
-        <entry>valuationDetails</entry>
         <entry>valuation_details</entry>
         <entry>corporation_summary</entry>
         <entry>units</entry>
@@ -255,6 +266,9 @@
         <entry>,</entry>
         <entry>report_type</entry>
         <entry>get_report_type</entry>
+        <entry>tuple</entry>
+        <entry>is_8</entry>
+        <entry>()</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
@@ -263,6 +277,8 @@
         <entry>13,$s/,/ or/</entry>
         <entry>%s/report_type/context_generator.report_type/</entry>
         <entry>%s/report_type/get_report_type/</entry>
+        <entry>%s/is_8/value.is_8/</entry>
+        <entry>%s/()//</entry>
       </history-cmd>
       <history-expr />
       <history-input />
