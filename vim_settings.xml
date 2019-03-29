@@ -26,12 +26,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1553881637013">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="40" column="58" />
-        <mark key="." line="40" column="58" />
-        <mark key="^" line="40" column="58" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1553882867533">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553880932372">
         <mark key="'" line="49" column="67" />
@@ -106,10 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="8" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" />
-      <jump line="53" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
-      <jump line="65" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="97" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="88" column="53" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="64" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -205,10 +201,15 @@
       <jump line="8" column="12" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="7" column="12" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="6" column="12" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
+      <jump line="40" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="58" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -223,30 +224,30 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF90ZW1wbGF0ZTogSFRNTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgdGVtcGxhdGUsIGlzXzgyMCwgaXNfTExDLCBpc19vcHRpb25fZ3JhbnQsIGlzX1BJVV9ncmFudCk6CiAgICAgICAgc2VsZi5fdGVtcGxhdGUgPSB0ZW1wbGF0ZQogICAgICAgIHNlbGYuX2lzXzgyMCA9IGlzXzgyMAogICAgICAgIHNlbGYuX2lzX0xMQyA9IGlzX0xMQwogICAgICAgIHNlbGYuX2lzX29wdGlvbl9ncmFudCA9IGlzX29wdGlvbl9ncmFudAogICAgICAgIHNlbGYuX2lzX1BJVV9ncmFudCA9IGlzX1BJVV9ncmFudAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRlbXBsYXRlKHNlbGYpIC0+IEhUTUw6CiAgICAgICAgcmV0dXJuIHNlbGYuX3RlbXBsYXRlCgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNfODIwKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYuX2lzXzgyMAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX0xMQyhzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBzZWxmLl9pc19MTEMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBpc19vcHRpb25fZ3JhbnQoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc2VsZi5faXNfb3B0aW9uX2dyYW50CgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNfUElVX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYuX2lzX1BJVV9ncmFudAoK</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgaXNfODIwKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbMV0KCiAgICBkZWYgaXNfTExDKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbMl0KCiAgICBkZWYgaXNfb3B0aW9uX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbM10KCiAgICBkZWYgaXNfUElVX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsdWVbNF0K</text>
+        <text encoding="base64">ICAgIF90ZW1wbGF0ZTogSFRNTAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2VjdGlvbnMoc2VsZikgLT4gSFRNTDoKICAgICAgICByZXR1cm4gc2VsZi52YWx1ZVswXQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgdGVtcGxhdGUsIGlzXzgyMCwgaXNfTExDLCBpc19vcHRpb25fZ3JhbnQsIGlzX1BJVV9ncmFudCk6CiAgICAgICAgc2VsZi5fdGVtcGxhdGUgPSB0ZW1wbGF0ZQogICAgICAgIHNlbGYuX2lzXzgyMCA9IGlzXzgyMAogICAgICAgIHNlbGYuX2lzX0xMQyA9IGlzX0xMQwogICAgICAgIHNlbGYuX2lzX29wdGlvbl9ncmFudCA9IGlzX29wdGlvbl9ncmFudAogICAgICAgIHNlbGYuX2lzX1BJVV9ncmFudCA9IGlzX1BJVV9ncmFudAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRlbXBsYXRlKHNlbGYpIC0+IEhUTUw6CiAgICAgICAgcmV0dXJuIHNlbGYuX3RlbXBsYXRlCgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNfODIwKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYuX2lzXzgyMAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX0xMQyhzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBzZWxmLl9pc19MTEMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBpc19vcHRpb25fZ3JhbnQoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc2VsZi5faXNfb3B0aW9uX2dyYW50CgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNfUElVX2dyYW50KHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHNlbGYuX2lzX1BJVV9ncmFudAoK</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
