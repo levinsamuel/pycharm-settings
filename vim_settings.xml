@@ -33,12 +33,12 @@
         <mark key="." line="46" column="51" />
         <mark key="^" line="46" column="51" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1553899591110">
-        <mark key="'" line="67" column="30" />
-        <mark key="[" line="282" column="31" />
-        <mark key="]" line="283" column="7" />
-        <mark key="." line="283" column="7" />
-        <mark key="^" line="283" column="7" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1553908335442">
+        <mark key="'" line="419" column="8" />
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="4" />
+        <mark key="." line="477" column="4" />
+        <mark key="^" line="478" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553880932372">
         <mark key="'" line="49" column="67" />
@@ -116,7 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" />
       <jump line="417" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="2" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="3" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
@@ -216,13 +215,14 @@
       <jump line="1300" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1302" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1303" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="419" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>llc</text>
+        <text>G</text>
       </register>
       <register name="-" type="4">
-        <text>llc</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text>backsolve</text>
