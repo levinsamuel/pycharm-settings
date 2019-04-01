@@ -71,12 +71,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554142198233">
-        <mark key="'" line="280" column="41" />
-        <mark key="[" line="295" column="78" />
-        <mark key="]" line="295" column="76" />
-        <mark key="." line="295" column="76" />
-        <mark key="^" line="295" column="76" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554143185090">
+        <mark key="'" line="299" column="73" />
+        <mark key="[" line="299" column="91" />
+        <mark key="]" line="300" column="24" />
+        <mark key="." line="300" column="24" />
+        <mark key="^" line="300" column="24" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553918018832">
         <mark key="'" line="459" column="8" />
@@ -131,8 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
       <jump line="8" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
       <jump line="9" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
       <jump line="13" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/types/test_types.py" />
@@ -231,6 +229,8 @@
       <jump line="389" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="454" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="280" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="299" column="73" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -243,7 +243,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dlom</text>
+        <text>or</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYW1iZGEgY29udGV4dDogY29udGV4dFsnYmFja3NvbHZlJ10uaXNfdXNlZCBvciBub3QgY29udGV4dFsncmVwb3J0X3R5cGUnXS5pc19MTEMgb3IgY29udGV4dFsncmVwb3J0X3R5cGUnXS5pc19vcHRpb25fZ3JhbnQsCg==</text>
@@ -283,9 +283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dlom</last-search>
+      <last-search>or</last-search>
       <last-offset />
-      <last-pattern>dlom</last-pattern>
+      <last-pattern>or</last-pattern>
       <last-replace>constants.REPORT_</last-replace>
       <last-substitute>PdfGenerator.</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_section</entry>
         <entry>get_sections()</entry>
         <entry>title</entry>
         <entry>{</entry>
@@ -308,11 +307,12 @@
         <entry>safe</entry>
         <entry>PdfGenerator.</entry>
         <entry>import</entry>
-        <entry>lambda</entry>
         <entry>Asset Volatility</entry>
         <entry>Appendix</entry>
         <entry>LLC</entry>
         <entry>dlom</entry>
+        <entry>lambda</entry>
+        <entry>or</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
