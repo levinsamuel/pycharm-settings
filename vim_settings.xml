@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1553915969523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1554152947237">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1554157482330">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="95" column="25" />
+        <mark key="]" line="96" column="3" />
+        <mark key="^" line="96" column="3" />
+        <mark key="." line="96" column="3" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1553791760480">
         <mark key="'" line="72" column="48" />
@@ -116,7 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="12" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="13" column="82" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="16" column="8" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="18" column="17" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
@@ -216,16 +215,17 @@
       <jump line="28" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="26" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Asset Volatility</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>report_type</text>
