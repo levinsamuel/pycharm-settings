@@ -71,19 +71,8 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554151191900">
-        <mark key="'" line="309" column="73" />
-        <mark key="[" line="199" column="59" />
-        <mark key="]" line="199" column="62" />
-        <mark key="." line="199" column="62" />
-        <mark key="^" line="199" column="62" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553918018832">
         <mark key="'" line="459" column="8" />
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="129" column="14" />
-        <mark key="^" line="18" column="39" />
-        <mark key="." line="129" column="14" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
         <mark key="'" line="0" column="0" />
@@ -104,12 +93,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" timestamp="1553791797812">
         <mark key="'" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1554152317995">
-        <mark key="'" line="69" column="8" />
-        <mark key="[" line="87" column="70" />
-        <mark key="]" line="87" column="71" />
-        <mark key="." line="87" column="71" />
-        <mark key="^" line="87" column="70" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1554154814582">
+        <mark key="'" line="26" column="29" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1553725061785">
         <mark key="'" line="1285" column="52" />
@@ -120,20 +108,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1553917265494">
-        <mark key="'" line="572" column="18" />
-        <mark key="[" line="704" column="25" />
-        <mark key="]" line="704" column="26" />
-        <mark key="^" line="704" column="21" />
-        <mark key="." line="704" column="26" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/entries.js" timestamp="1553726593442">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="67" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="15" column="19" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="4" column="14" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="5" column="12" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
       <jump line="13" column="82" filename="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" />
@@ -232,6 +211,8 @@
       <jump line="98" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="97" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="69" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="28" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="26" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -244,7 +225,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>eval</text>
+        <text>report_type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYW1iZGEgY29udGV4dDogY29udGV4dFsnYmFja3NvbHZlJ10uaXNfdXNlZCBvciBub3QgY29udGV4dFsncmVwb3J0X3R5cGUnXS5pc19MTEMgb3IgY29udGV4dFsncmVwb3J0X3R5cGUnXS5pc19vcHRpb25fZ3JhbnQsCg==</text>
@@ -256,37 +237,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF90ZW1wbGF0ZXM6IEhUTUwK</text>
+        <text encoding="base64">ICAgIF9yZXBvcnRfdHlwZTogUmVwb3J0VHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF90ZW1wbGF0ZXM6IEhUTUwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikKCiAgICAgICAgcmV0dXJuIHNlY3Rpb25zCgogICAgZGVmIGdldF9jb250ZXh0KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy51bWJyZWxsYSBpbXBvcnQgZ2V0X3VtYnJlbGxhCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikKCiAgICAgICAgcmV0dXJuIHNlY3Rpb25zCgogICAgZGVmIGdldF9jb250ZXh0KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhBUkRDT0RFRF9JTkRFWCA9IDMK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy51bWJyZWxsYSBpbXBvcnQgZ2V0X3VtYnJlbGxhCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PdfGenerator./constants.REPORT_/</text>
       </register>
     </registers>
     <search>
-      <last-search>eval</last-search>
+      <last-search>report_type</last-search>
       <last-offset />
-      <last-pattern>eval</last-pattern>
+      <last-pattern>report_type</last-pattern>
       <last-replace>constants.REPORT_</last-replace>
       <last-substitute>PdfGenerator.</last-substitute>
       <last-dir>1</last-dir>
@@ -294,7 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>{</entry>
         <entry>llc\/comp</entry>
         <entry>llc</entry>
@@ -314,6 +294,7 @@
         <entry>lambda</entry>
         <entry>or</entry>
         <entry>eval</entry>
+        <entry>report_type</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
