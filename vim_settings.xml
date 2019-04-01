@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1553915969523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1553916014394">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1554152947237">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1553791760480">
         <mark key="'" line="72" column="48" />
@@ -237,8 +237,8 @@
       <register name="a" type="4">
         <text>Asset Volatility</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -253,31 +253,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF90ZW1wbGF0ZXM6IEhUTUwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikKCiAgICAgICAgcmV0dXJuIHNlY3Rpb25zCgogICAgZGVmIGdldF9jb250ZXh0KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy51bWJyZWxsYSBpbXBvcnQgZ2V0X3VtYnJlbGxhCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWYgc3ViX3NlY3Rpb25bMF0oY29udGV4dCk6CiAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMuZXh0ZW5kKHN1Yl9zZWN0aW9uWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvblsyXSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGVyZSBpcyBubyAiZWxzZSIgdGVtcGxhdGUgbGlzdAogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgICAgICAgICAjIGZpcnN0IGl0ZW0gaXMgbm90IGNhbGxhYmxlLCB0aGVuIGp1c3QgYWRkIHRoZSB0ZW1wbGF0ZXMKICAgICAgICAgICAgICAgIHNlY3Rpb25zLmV4dGVuZChzdWJfc2VjdGlvbikKCiAgICAgICAgcmV0dXJuIHNlY3Rpb25zCgogICAgZGVmIGdldF9jb250ZXh0KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhBUkRDT0RFRF9JTkRFWCA9IDMK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy51bWJyZWxsYSBpbXBvcnQgZ2V0X3VtYnJlbGxhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZJTEVOQU1FX0lOREVYID0gMAogICAgVElUTEVfSU5ERVggPSAxCiAgICBURU1QTEFURV9JTkRFWCA9IDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnBkZiBpbXBvcnQgVmFsdWF0aW9uUmVwb3J0UGRmR2VuZXJhdG9yIGFzIFBkZkdlbmVyYXRvcgo=</text>
+        <text encoding="base64">ICAgIEhBUkRDT0RFRF9JTkRFWCA9IDMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/PdfGenerator./constants.REPORT_/</text>
