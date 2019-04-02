@@ -78,12 +78,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554231874527">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554233003378">
         <mark key="'" line="11" column="56" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="82" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="492" column="9" />
+        <mark key="]" line="492" column="9" />
+        <mark key="^" line="557" column="8" />
+        <mark key="." line="492" column="9" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1553918018832">
         <mark key="'" line="459" column="8" />
@@ -236,11 +236,11 @@
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHNlbGYuaWZfdHJ1ZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHNlbGYuaWZfZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>None</text>
