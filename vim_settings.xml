@@ -122,8 +122,8 @@
       <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" timestamp="1554155777041">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1553725061785">
-        <mark key="'" line="1285" column="52" />
+      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1554331239507">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/types/test_types.py" timestamp="1554238357850">
         <mark key="'" line="14" column="12" />
@@ -136,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="15" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="16" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="18" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -236,6 +235,7 @@
       <jump line="3" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
       <jump line="16" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
       <jump line="31" column="36" filename="$USER_HOME$/git/carta-web/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -248,7 +248,7 @@
         <text encoding="base64">ICAgIDIuMi4g</text>
       </register>
       <register name="/" type="4">
-        <text>JWT</text>
+        <text>IS_LOCAL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0Wy0xXVsxXSA9PSAnQmFja3NvbHZlIHZvbGF0aWxpdHkgc2Vuc2l0aXZpdHknCg==</text>
@@ -288,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JWT</last-search>
+      <last-search>IS_LOCAL</last-search>
       <last-offset />
-      <last-pattern>JWT</last-pattern>
+      <last-pattern>IS_LOCAL</last-pattern>
       <last-replace>return templates.</last-replace>
       <last-substitute encoding="base64">cmV0dXJuIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -298,7 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Asset Volatility</entry>
         <entry>Appendix</entry>
         <entry>LLC</entry>
         <entry>dlom</entry>
@@ -318,6 +317,7 @@
         <entry encoding="base64">cmV0dXJuIA==</entry>
         <entry>template</entry>
         <entry>JWT</entry>
+        <entry>IS_LOCAL</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
