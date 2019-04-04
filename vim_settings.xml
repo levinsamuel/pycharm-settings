@@ -108,6 +108,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" timestamp="1553791797812">
         <mark key="'" line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1554415367770">
+        <mark key="'" line="131" column="43" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" timestamp="1554155777041">
         <mark key="'" line="0" column="0" />
       </file>
@@ -126,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="16" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="18" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="19" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -226,6 +228,7 @@
       <jump line="16" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" />
       <jump line="31" column="36" filename="$USER_HOME$/git/carta-web/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="131" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -238,7 +241,7 @@
         <text encoding="base64">ICAgIDIuMi4g</text>
       </register>
       <register name="/" type="4">
-        <text>IS_LOCAL</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0Wy0xXVsxXSA9PSAnQmFja3NvbHZlIHZvbGF0aWxpdHkgc2Vuc2l0aXZpdHknCg==</text>
@@ -278,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IS_LOCAL</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>IS_LOCAL</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>return templates.</last-replace>
       <last-substitute encoding="base64">cmV0dXJuIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -294,7 +297,6 @@
         <entry>or</entry>
         <entry>Lis</entry>
         <entry>self</entry>
-        <entry>class</entry>
         <entry>eval</entry>
         <entry>if_true</entry>
         <entry>lambda</entry>
@@ -308,6 +310,7 @@
         <entry>template</entry>
         <entry>JWT</entry>
         <entry>IS_LOCAL</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
