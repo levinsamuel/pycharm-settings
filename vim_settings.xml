@@ -32,6 +32,7 @@
       <file name="/False" timestamp="1554757263124">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1554762866790" />
       <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
         <mark key="'" line="4" column="6" />
       </file>
@@ -69,8 +70,8 @@
         <mark key="." line="23" column="94" />
         <mark key="^" line="23" column="94" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1554761420938">
-        <mark key="'" line="303" column="56" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1554762747472">
+        <mark key="'" line="341" column="56" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1554760589990">
         <mark key="'" line="112" column="29" />
@@ -163,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="129" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="250" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -177,22 +177,6 @@
       <jump line="106" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="113" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="251" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="318" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="341" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="361" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="378" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="379" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="381" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="96" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="99" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="100" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="107" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="108" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="114" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="115" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="256" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="257" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="303" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="246" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="868" column="66" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="876" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
@@ -263,6 +247,23 @@
       <jump line="262" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="55" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" />
       <jump line="112" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="89" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="361" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="378" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="379" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="381" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="96" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="99" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="100" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="107" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="108" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="114" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="115" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="256" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="257" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="303" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="318" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="341" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -275,7 +276,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>approach_equity</text>
+        <text>backsolve</text>
       </register>
       <register name="0" type="4">
         <text>approach.mvic if pre_dlom else approach.post_dlom_mvic</text>
@@ -315,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>approach_equity</last-search>
+      <last-search>backsolve</last-search>
       <last-offset />
-      <last-pattern>approach_equity</last-pattern>
+      <last-pattern>backsolve</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -340,11 +341,11 @@
         <entry>scenario</entry>
         <entry>get_incremental</entry>
         <entry>mvic</entry>
-        <entry>backsolve</entry>
         <entry>self.backsolve</entry>
         <entry>equity_value</entry>
         <entry>self.equity_value</entry>
         <entry>approach_equity</entry>
+        <entry>backsolve</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
