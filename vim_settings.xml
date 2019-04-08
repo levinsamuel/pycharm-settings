@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554760551174">
+        <mark key="'" line="55" column="20" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554757035388">
         <mark key="'" line="43" column="29" />
       </file>
@@ -59,12 +62,6 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553736073555">
         <mark key="'" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" timestamp="1553917377276">
-        <mark key="'" line="220" column="35" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" timestamp="1553881835840">
         <mark key="'" line="6" column="12" />
         <mark key="[" line="23" column="103" />
@@ -75,8 +72,8 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1554754749447">
         <mark key="'" line="303" column="56" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1554759180573">
-        <mark key="'" line="112" column="15" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1554760589990">
+        <mark key="'" line="112" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1554229516341">
         <mark key="[" line="0" column="0" />
@@ -166,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="126" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="129" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="250" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -265,7 +261,8 @@
       <jump line="106" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="107" column="65" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="262" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
-      <jump line="112" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="55" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" />
+      <jump line="112" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -278,7 +275,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>self.equity_value</text>
+        <text>approach_equity</text>
       </register>
       <register name="0" type="4">
         <text>approach.mvic if pre_dlom else approach.post_dlom_mvic</text>
@@ -318,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.equity_value</last-search>
+      <last-search>approach_equity</last-search>
       <last-offset />
-      <last-pattern>self.equity_value</last-pattern>
+      <last-pattern>approach_equity</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>const</entry>
         <entry>report_ty</entry>
         <entry>report_type</entry>
         <entry>.is_LLC</entry>
@@ -348,6 +344,7 @@
         <entry>self.backsolve</entry>
         <entry>equity_value</entry>
         <entry>self.equity_value</entry>
+        <entry>approach_equity</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
