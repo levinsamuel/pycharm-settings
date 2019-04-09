@@ -100,12 +100,12 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554419671638">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1554841937401">
         <mark key="'" line="360" column="26" />
-        <mark key="[" line="253" column="80" />
-        <mark key="]" line="253" column="81" />
-        <mark key="." line="253" column="81" />
-        <mark key="^" line="253" column="81" />
+        <mark key="[" line="526" column="0" />
+        <mark key="]" line="526" column="0" />
+        <mark key="^" line="534" column="91" />
+        <mark key="." line="526" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1554413159740">
         <mark key="'" line="459" column="8" />
@@ -273,11 +273,11 @@
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>backsolve</text>
