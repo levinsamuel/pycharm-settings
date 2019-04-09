@@ -6,8 +6,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554760551174">
         <mark key="'" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554757035388">
-        <mark key="'" line="43" column="29" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554830221756">
+        <mark key="'" line="47" column="29" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
         <mark key="'" line="1" column="3" />
@@ -270,7 +274,7 @@
         <text>ValuationReportContextGenerator</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRfc2NlbmFyaW9fbXZpYygpCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -285,31 +289,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRfc2NlbmFyaW9fbXZpYygpCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFsbG9jYXRpb24udXNlc19tdmljOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fX2dldF9zY2VuYXJpb19tdmljKHByZV9kbG9tPVRydWUpCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBpZiAKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRfc2NlbmFyaW9fbXZpYygpCiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFsbG9jYXRpb24udXNlc19tdmljOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fX2dldF9zY2VuYXJpb19tdmljKHByZV9kbG9tPVRydWUpCiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2dldF9zY2VuYXJpb19tdmljKHNlbGYsIHByZV9kbG9tPUZhbHNlKToKICAgICAgICBtdmljID0gMAogICAgICAgIGZvciBrZXkgaW4gY29uc3RhbnRzLkFQUFJPQUNIRVM6CiAgICAgICAgICAgIGFwcHJvYWNoID0gZ2V0YXR0cihzZWxmLCBrZXkpCiAgICAgICAgICAgIHZhbHVlID0gYXBwcm9hY2gubXZpYyBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9tdmljCiAgICAgICAgICAgIG12aWMgKz0gdmFsdWUgKiBhcHByb2FjaC53ZWlnaHQKICAgICAgICByZXR1cm4gbXZpYwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBreXMgPSBjb250ZXh0LmtleXMoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCBnZXRfcmVwb3J0X3R5cGVfb2JqKToKCiAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2dldF9zY2VuYXJpb19tdmljKHNlbGYsIHByZV9kbG9tPUZhbHNlKToKICAgICAgICBtdmljID0gMAogICAgICAgIGZvciBrZXkgaW4gY29uc3RhbnRzLkFQUFJPQUNIRVM6CiAgICAgICAgICAgIGFwcHJvYWNoID0gZ2V0YXR0cihzZWxmLCBrZXkpCiAgICAgICAgICAgIHZhbHVlID0gYXBwcm9hY2gubXZpYyBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9tdmljCiAgICAgICAgICAgIG12aWMgKz0gdmFsdWUgKiBhcHByb2FjaC53ZWlnaHQKICAgICAgICByZXR1cm4gbXZpYwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBreXMgPSBjb250ZXh0LmtleXMoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LCBnZXRfcmVwb3J0X3R5cGVfb2JqKToKCiAgICAgICAgY29udGV4dCA9IHsKICAgICAgICAgICAgJ3JlcG9ydF90eXBlJzogZ2V0X3JlcG9ydF90eXBlX29iai5nZXRfY29udGV4dCgpLAogICAgICAgICAgICAnYmFja3NvbHZlJzogTm9vcCgpCiAgICAgICAgfQoKICAgICAgICByZXN1bHQgPSB0ZW1wbGF0ZXMuZ2V0X3JlcG9ydF9zZWN0aW9ucyh0ZW1wbGF0ZXMuQVNDODIwX0ZVTExfU0VSVklDRV9URU1QTEFURVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dCkKCiAgICAgICAgYXNzZXJ0IHJlc3VsdFswXVsxXSA9PSAnQ292ZXIgcGFnZScKICAgICAgICBhc3NlcnQgcmVzdWx0Wy0xXVsxXSA9PSAnQmFja3NvbHZlIHZvbGF0aWxpdHkgc2Vuc2l0aXZpdHknCgogICAgZGVmIHRlc3RfZXZhbHVhdGVfY29tcGxleF90ZW1wbGF0ZV9leHByZXNzaW9uKHNlbGYsIA==</text>
+        <text encoding="base64">LCBnZXRfcmVwb3J0X3R5cGVfb2JqKToKCiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
