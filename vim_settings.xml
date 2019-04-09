@@ -7,11 +7,7 @@
         <mark key="'" line="55" column="20" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554830221756">
-        <mark key="'" line="47" column="29" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="39" column="0" />
+        <mark key="'" line="43" column="29" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
         <mark key="'" line="1" column="3" />
@@ -74,8 +70,12 @@
         <mark key="." line="23" column="94" />
         <mark key="^" line="23" column="94" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1554762747472">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1554839509664">
         <mark key="'" line="341" column="56" />
+        <mark key="[" line="368" column="74" />
+        <mark key="]" line="369" column="7" />
+        <mark key="." line="369" column="7" />
+        <mark key="^" line="369" column="7" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1554833402493">
         <mark key="'" line="112" column="29" />
@@ -292,28 +292,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRfc2NlbmFyaW9fbXZpYygpCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFsbG9jYXRpb24udXNlc19tdmljOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fX2dldF9zY2VuYXJpb19tdmljKHByZV9kbG9tPVRydWUpCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBpZiAKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRfc2NlbmFyaW9fbXZpYygpCiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFsbG9jYXRpb24udXNlc19tdmljOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fX2dldF9zY2VuYXJpb19tdmljKHByZV9kbG9tPVRydWUpCiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2dldF9zY2VuYXJpb19tdmljKHNlbGYsIHByZV9kbG9tPUZhbHNlKToKICAgICAgICBtdmljID0gMAogICAgICAgIGZvciBrZXkgaW4gY29uc3RhbnRzLkFQUFJPQUNIRVM6CiAgICAgICAgICAgIGFwcHJvYWNoID0gZ2V0YXR0cihzZWxmLCBrZXkpCiAgICAgICAgICAgIHZhbHVlID0gYXBwcm9hY2gubXZpYyBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9tdmljCiAgICAgICAgICAgIG12aWMgKz0gdmFsdWUgKiBhcHByb2FjaC53ZWlnaHQKICAgICAgICByZXR1cm4gbXZpYwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBreXMgPSBjb250ZXh0LmtleXMoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LCBnZXRfcmVwb3J0X3R5cGVfb2JqKToKCiAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2dldF9zY2VuYXJpb19tdmljKHNlbGYsIHByZV9kbG9tPUZhbHNlKToKICAgICAgICBtdmljID0gMAogICAgICAgIGZvciBrZXkgaW4gY29uc3RhbnRzLkFQUFJPQUNIRVM6CiAgICAgICAgICAgIGFwcHJvYWNoID0gZ2V0YXR0cihzZWxmLCBrZXkpCiAgICAgICAgICAgIHZhbHVlID0gYXBwcm9hY2gubXZpYyBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9tdmljCiAgICAgICAgICAgIG12aWMgKz0gdmFsdWUgKiBhcHByb2FjaC53ZWlnaHQKICAgICAgICByZXR1cm4gbXZpYwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBreXMgPSBjb250ZXh0LmtleXMoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
