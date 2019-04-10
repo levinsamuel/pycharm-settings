@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554938703230">
         <mark key="'" line="55" column="20" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554939871846">
+        <mark key="'" line="665" column="24" />
+      </file>
       <file name="/a.dummy" timestamp="1553915969523">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,20 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="361" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="378" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="379" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="381" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="96" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="99" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="100" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="107" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="108" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="114" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="115" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="256" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="257" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="303" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="318" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="341" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -200,6 +189,20 @@
       <jump line="362" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="21" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" />
       <jump line="120" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="18" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="614" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="615" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="617" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="622" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="626" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="637" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="640" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="643" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="646" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="648" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="650" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="665" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -212,7 +215,7 @@
         <text>, HYBRID_SCENARIO_LATE_EXIT</text>
       </register>
       <register name="/" type="4">
-        <text>'comp_data</text>
+        <text>captable_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0W0NPTVBTX0VBUkxZX0VYSVRdLnVwZGF0ZShzZWxmLmdldF9zY2VuYXJpb19jb250ZXh0KHNlbGYuZWFybHlfZXhpdCkpCg==</text>
@@ -252,9 +255,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'comp_data</last-search>
+      <last-search>captable_data</last-search>
       <last-offset />
-      <last-pattern>'comp_data</last-pattern>
+      <last-pattern>captable_data</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -262,7 +265,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Repor</entry>
         <entry encoding="base64">XDxnZXRfcmVwb3J0X3R5cGVfb2JqXD4=</entry>
         <entry>context</entry>
         <entry>choices</entry>
@@ -282,6 +284,7 @@
         <entry>hybrid</entry>
         <entry>comp_data</entry>
         <entry>'comp_data</entry>
+        <entry>captable_data</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
