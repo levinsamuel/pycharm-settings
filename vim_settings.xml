@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554760551174">
         <mark key="'" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554917956469">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554918406533">
         <mark key="'" line="202" column="33" />
-        <mark key="[" line="228" column="15" />
-        <mark key="]" line="228" column="60" />
-        <mark key="." line="228" column="60" />
-        <mark key="^" line="228" column="60" />
+        <mark key="[" line="215" column="31" />
+        <mark key="]" line="215" column="61" />
+        <mark key="." line="215" column="61" />
+        <mark key="^" line="215" column="61" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
         <mark key="'" line="1" column="3" />
@@ -287,13 +287,10 @@
         <text>ValuationReportContextGenerator</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self.scenarios.get(
-            valuation_relation__relation_type=ValuationTemplate.HYBRID,
-            valuation_relation__is_hybrid_late=True,
-        )</text>
+        <text>scenarios_queryset.get(valuation_relation__is_hybrid_late=True)</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>scenarios_queryset.get(valuation_relation__is_hybrid_late=True)</text>
       </register>
       <register name="/" type="4">
         <text>hybrid</text>
@@ -304,38 +301,38 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzY2VuYXJpb3NfcXVlcnlzZXQgPSBzZWxmLnNjZW5hcmlvcy5maWx0ZXIodmFsdWF0aW9uX3JlbGF0aW9uX19yZWxhdGlvbl90eXBlPVZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCkK</text>
+      </register>
+      <register name="2" type="4">
         <text>self.scenarios.get(
             valuation_relation__relation_type=ValuationTemplate.HYBRID,
             valuation_relation__is_hybrid_late=True,
         )</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>self.scenarios.get(
             valuation_relation__relation_type=ValuationTemplate.HYBRID,
             valuation_relation__is_hybrid_early=True,
         )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzY2VuYXJpb3NfcXVlcnlzZXQgPSBzZWxmLnNjZW5hcmlvcy5maWx0ZXIodmFsdWF0aW9uX3JlbGF0aW9uX19yZWxhdGlvbl90eXBlPVZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIGlmIG9yZGVyZWQ6CiAgICAgICAgIyAgICAgc2NlbmFyaW9zX3F1ZXJ5c2V0ID0gc2NlbmFyaW9zX3F1ZXJ5c2V0Lm9yZGVyX2J5KCctdmFsdWF0aW9uX3JlbGF0aW9uX19pc19oeWJyaWRfZWFybHknKQogICAgICAgICMgY29uc3RhbnRzLgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcmRlcmVkOgogICAgICAgICAgICBzY2VuYXJpb3NfcXVlcnlzZXQgPSBzY2VuYXJpb3NfcXVlcnlzZXQub3JkZXJfYnkoJy12YWx1YXRpb25fcmVsYXRpb25fX2lzX2h5YnJpZF9lYXJseScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBvcmRlcmVkOgogICAgICAgICAgICBzY2VuYXJpb3NfcXVlcnlzZXQgPSBzY2VuYXJpb3NfcXVlcnlzZXQub3JkZXJfYnkoJy12YWx1YXRpb25fcmVsYXRpb25fX2lzX2h5YnJpZF9lYXJseScpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCd2YWx1YXRpb24tcmVwb3J0LzQwOWEvZXhoaWJpdF9jc2UuaHRtbCcsICdDU0UgZXhoaWJpdCcpLAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">KAogICAgICAgICAgICAgICAgJ3ZhbHVhdGlvbi1yZXBvcnQvNDA5YS9leGhpYml0X2JhY2tzb2x2ZV92b2xhdGlsaXR5X3JlZ3Jlc3Npb24uaHRtbCcsICAjIG5vcWE6IEU1MDEKICAgICAgICAgICAgICAgICdWb2xhdGlsaXR5IC0gYmFja3NvbHZlLCByZWdyZXNzaW9uJywKICAgICAgICAgICAgKSwKICAgICAgICAgICAgKCd2YWx1YXRpb24tcmVwb3J0LzQwOWEvZXhoaWJpdF9iYWNrc29sdmVfMS5odG1sJywgJ0JhY2tzb2x2ZSBleGhpYml0IDEnKSwKICAgICAgICAgICAgKCd2YWx1YXRpb24tcmVwb3J0LzQwOWEvZXhoaWJpdF9iYWNrc29sdmVfMi5odG1sJywgJ0JhY2tzb2x2ZSBleGhpYml0IDInKSwKIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
