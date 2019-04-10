@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554760551174">
         <mark key="'" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554854436494">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554914204382">
         <mark key="'" line="202" column="33" />
-        <mark key="[" line="211" column="110" />
-        <mark key="]" line="211" column="112" />
-        <mark key="." line="211" column="112" />
-        <mark key="^" line="211" column="112" />
+        <mark key="[" line="211" column="56" />
+        <mark key="]" line="211" column="54" />
+        <mark key="." line="211" column="54" />
+        <mark key="^" line="211" column="54" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
         <mark key="'" line="1" column="3" />
@@ -140,20 +140,21 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" timestamp="1553791797812">
         <mark key="'" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1554419267383">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1554914193744">
         <mark key="'" line="98" column="12" />
-        <mark key="[" line="128" column="64" />
-        <mark key="]" line="128" column="76" />
-        <mark key="^" line="128" column="76" />
-        <mark key="." line="128" column="76" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" timestamp="1554421165881">
-        <mark key="'" line="325" column="4" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="51" />
+        <mark key="[" line="99" column="49" />
+        <mark key="]" line="99" column="49" />
+        <mark key="^" line="99" column="49" />
+        <mark key="." line="99" column="49" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1554848727781">
         <mark key="'" line="340" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1554913925514">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="2" column="76" />
+        <mark key="." line="2" column="76" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1554331239507">
         <mark key="'" line="0" column="0" />
@@ -285,8 +286,8 @@
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG9yZGVyZWQ6CiAgICAgICAgIyAgICAgc2NlbmFyaW9zX3F1ZXJ5c2V0ID0gc2NlbmFyaW9zX3F1ZXJ5c2V0Lm9yZGVyX2J5KCctdmFsdWF0aW9uX3JlbGF0aW9uX19pc19oeWJyaWRfZWFybHknKQogICAgICAgICMgY29uc3RhbnRzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -294,8 +295,8 @@
       <register name="/" type="4">
         <text>hybrid</text>
       </register>
-      <register name="0" type="4">
-        <text>approach.mvic if pre_dlom else approach.post_dlom_mvic</text>
+      <register name="0" type="2">
+        <text encoding="base64">SFlCUklEX1NDRU5BUklPX0VBUkxZX0VYSVQgPSAnZWFybHlfZXhpdCcK</text>
       </register>
       <register name="q" type="4">
         <text />
