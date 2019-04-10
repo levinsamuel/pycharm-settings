@@ -57,6 +57,12 @@
         <mark key="^" line="871" column="28" />
         <mark key="." line="871" column="28" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1554924657388">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="64" />
+        <mark key="^" line="46" column="64" />
+        <mark key="." line="46" column="64" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/.env" timestamp="1554240775132">
         <mark key="'" line="31" column="36" />
         <mark key="[" line="78" column="0" />
@@ -89,6 +95,13 @@
       </file>
       <file name="/Dummy.txt" timestamp="1554229516341">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1554925046479">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="68" />
+        <mark key="." line="48" column="68" />
+        <mark key="^" line="48" column="68" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" timestamp="1553623235281">
         <mark key="'" line="228" column="8" />
@@ -188,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" />
       <jump line="112" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="89" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="361" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -288,58 +300,53 @@
       <jump line="352" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="354" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="362" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ScenarioContextGenerator</text>
+        <text>early_exit</text>
       </register>
       <register name="-" type="4">
-        <text>ScenarioContextGenerator</text>
+        <text>early_exit</text>
       </register>
       <register name="/" type="4">
         <text>'comp_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SFlCUklEX1NDRU5BUklPX0VBUkxZX0VYSVQgPSAnZWFybHlfZXhpdCcK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0W0NPTVBTX0VBUkxZX0VYSVRdLnVwZGF0ZShzZWxmLmdldF9zY2VuYXJpb19jb250ZXh0KHNlbGYuZWFybHlfZXhpdCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BfbGV2ZWxfa2V5PUhZQlJJRF9TQ0VOQVJJT19MQVRFX0VYSVQK</text>
+        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCBzY2VuYXJpbyBpbiBzZWxmLnNjZW5hcmlvcy5pdGVtcygpOgogICAgICAgICAgICBzY2VuYXJpb19jb250ZXh0ID0gY29udGV4dFtrZXldCiAgICAgICAgICAgIHNjZW5hcmlvX2NvbnRleHQudXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2NlbmFyaW8pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGtleSBpbiB0b3BfbGV2ZWxfa2V5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5OiBjb250ZXh0LmNvcHkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTGF0ZUV4aXRTY2VuYXJpb0NvbnRleHRHZW5lcmF0b3IoU2NlbmFyaW9Db250ZXh0R2VuZXJhdG9yKToKICAgIAogICAgZGVmIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3BfbGV2ZWxfa2V5cyA9IHNlbGYuc2NlbmFyaW9zLmtleXMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzY2VuYXJpb3NfcXVlcnlzZXQgPSBzZWxmLnNjZW5hcmlvcy5maWx0ZXIodmFsdWF0aW9uX3JlbGF0aW9uX19yZWxhdGlvbl90eXBlPVZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjZW5hcmlvcyA9IHtDT01QU19FQVJMWV9FWElUOiBlYXJseV9leGl0LAogICAgICAgICAgICAgICAgICAgICAgICAgIENPTVBTX0xBVEVfRVhJVDogbGF0ZV9leGl0fQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>self.scenarios.get(
-            valuation_relation__relation_type=ValuationTemplate.HYBRID,
-            valuation_relation__is_hybrid_late=True,
-        )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIENPTVBTX0VBUkxZX0VYSVQgPSAnY29tcHNfZWFybHlfZXhpdCcKICAgIENPTVBTX0xBVEVfRVhJVCA9ICdjb21wc19sYXRlX2V4aXQnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>self.scenarios.get(
-            valuation_relation__relation_type=ValuationTemplate.HYBRID,
-            valuation_relation__is_hybrid_early=True,
-        )</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIENPTVBTX0xBVEVfRVhJVCA9ICdvbXBzX2Vhcmx5X2V4aXQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzY2VuYXJpb3NfcXVlcnlzZXQgPSBzZWxmLnNjZW5hcmlvcy5maWx0ZXIodmFsdWF0aW9uX3JlbGF0aW9uX19yZWxhdGlvbl90eXBlPVZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BfbGV2ZWxfa2V5PUhZQlJJRF9TQ0VOQVJJT19MQVRFX0VYSVQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG9yZGVyZWQ6CiAgICAgICAgIyAgICAgc2NlbmFyaW9zX3F1ZXJ5c2V0ID0gc2NlbmFyaW9zX3F1ZXJ5c2V0Lm9yZGVyX2J5KCctdmFsdWF0aW9uX3JlbGF0aW9uX19pc19oeWJyaWRfZWFybHknKQogICAgICAgICMgY29uc3RhbnRzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
