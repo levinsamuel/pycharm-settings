@@ -76,12 +76,11 @@
       <file name="/" timestamp="1554757263107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/financial_detail.py" timestamp="1555000339231">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="382" column="62" />
-        <mark key="^" line="382" column="62" />
-        <mark key="." line="382" column="62" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/financial_detail.py" timestamp="1555003325176">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1553633831590">
         <mark key="'" line="60" column="4" />
@@ -222,8 +221,8 @@
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>INFO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZy4K</text>
       </register>
       <register name="-" type="4">
         <text>INFO</text>
@@ -238,31 +237,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCBzY2VuYXJpbyBpbiBzZWxmLnNjZW5hcmlvcy5pdGVtcygpOgogICAgICAgICAgICBzY2VuYXJpb19jb250ZXh0ID0gY29udGV4dFtrZXldCiAgICAgICAgICAgIHNjZW5hcmlvX2NvbnRleHQudXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2NlbmFyaW8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGtleSBpbiB0b3BfbGV2ZWxfa2V5cwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCBzY2VuYXJpbyBpbiBzZWxmLnNjZW5hcmlvcy5pdGVtcygpOgogICAgICAgICAgICBzY2VuYXJpb19jb250ZXh0ID0gY29udGV4dFtrZXldCiAgICAgICAgICAgIHNjZW5hcmlvX2NvbnRleHQudXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2NlbmFyaW8pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5OiBjb250ZXh0LmNvcHkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGtleSBpbiB0b3BfbGV2ZWxfa2V5cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b3BfbGV2ZWxfa2V5cyA9IHNlbGYuc2NlbmFyaW9zLmtleXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5OiBjb250ZXh0LmNvcHkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjZW5hcmlvcyA9IHtDT01QU19FQVJMWV9FWElUOiBlYXJseV9leGl0LAogICAgICAgICAgICAgICAgICAgICAgICAgIENPTVBTX0xBVEVfRVhJVDogbGF0ZV9leGl0fQo=</text>
+        <text encoding="base64">ICAgICAgICB0b3BfbGV2ZWxfa2V5cyA9IHNlbGYuc2NlbmFyaW9zLmtleXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENPTVBTX0VBUkxZX0VYSVQgPSAnY29tcHNfZWFybHlfZXhpdCcKICAgIENPTVBTX0xBVEVfRVhJVCA9ICdjb21wc19sYXRlX2V4aXQnCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjZW5hcmlvcyA9IHtDT01QU19FQVJMWV9FWElUOiBlYXJseV9leGl0LAogICAgICAgICAgICAgICAgICAgICAgICAgIENPTVBTX0xBVEVfRVhJVDogbGF0ZV9leGl0fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENPTVBTX0xBVEVfRVhJVCA9ICdvbXBzX2Vhcmx5X2V4aXQnCg==</text>
+        <text encoding="base64">ICAgIENPTVBTX0VBUkxZX0VYSVQgPSAnY29tcHNfZWFybHlfZXhpdCcKICAgIENPTVBTX0xBVEVfRVhJVCA9ICdjb21wc19sYXRlX2V4aXQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BfbGV2ZWxfa2V5PUhZQlJJRF9TQ0VOQVJJT19MQVRFX0VYSVQK</text>
+        <text encoding="base64">ICAgIENPTVBTX0xBVEVfRVhJVCA9ICdvbXBzX2Vhcmx5X2V4aXQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
