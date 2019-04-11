@@ -95,8 +95,12 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1554944605246">
+      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1554956818288">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="866" column="47" />
+        <mark key="]" line="866" column="51" />
+        <mark key="." line="866" column="51" />
+        <mark key="^" line="866" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1554938399740">
         <mark key="[" line="90" column="38" />
@@ -219,10 +223,10 @@
         <text>ValuationReportContextGenerator</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, HYBRID_SCENARIO_LATE_EXIT</text>
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>, HYBRID_SCENARIO_LATE_EXIT</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>captable_data</text>
