@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554938703230">
         <mark key="'" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1554939871846">
-        <mark key="'" line="665" column="24" />
-      </file>
       <file name="/a.dummy" timestamp="1553915969523">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,8 +23,7 @@
         <mark key="'" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1554943450092">
-        <mark key="'" line="1190" column="20" />
-        <mark key="[" line="869" column="13" />
+        <mark key="'" line="1200" column="20" />
         <mark key="]" line="287" column="31" />
         <mark key="^" line="287" column="31" />
         <mark key="." line="287" column="31" />
@@ -76,12 +72,6 @@
       <file name="/" timestamp="1554757263107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/financial_detail.py" timestamp="1555003325176">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1553633831590">
         <mark key="'" line="60" column="4" />
       </file>
@@ -107,8 +97,8 @@
         <mark key="^" line="90" column="50" />
         <mark key="." line="90" column="50" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1554849825649">
-        <mark key="'" line="982" column="19" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1555008365634">
+        <mark key="'" line="572" column="0" />
         <mark key="[" line="142" column="16" />
       </file>
       <file name="$USER_HOME$/git/carta-web/entries.js" timestamp="1553726593442">
@@ -116,10 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="44" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="48" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="57" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="58" column="73" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="64" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="66" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -170,7 +156,6 @@
       <jump line="333" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="335" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="340" column="14" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="984" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="989" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="320" column="88" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="978" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
@@ -216,6 +201,11 @@
       <jump line="665" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="14" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/financial_detail.py" />
       <jump line="28" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/financial_detail.py" />
+      <jump line="984" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="504" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="569" column="2" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="571" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="572" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -228,7 +218,7 @@
         <text>INFO</text>
       </register>
       <register name="/" type="4">
-        <text>captable_data</text>
+        <text>LLC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0W0NPTVBTX0VBUkxZX0VYSVRdLnVwZGF0ZShzZWxmLmdldF9zY2VuYXJpb19jb250ZXh0KHNlbGYuZWFybHlfZXhpdCkpCg==</text>
@@ -268,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>captable_data</last-search>
+      <last-search>LLC</last-search>
       <last-offset />
-      <last-pattern>captable_data</last-pattern>
+      <last-pattern>LLC</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -278,7 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfcmVwb3J0X3R5cGVfb2JqXD4=</entry>
         <entry>context</entry>
         <entry>choices</entry>
         <entry>scenario</entry>
@@ -298,6 +287,7 @@
         <entry>comp_data</entry>
         <entry>'comp_data</entry>
         <entry>captable_data</entry>
+        <entry>LLC</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
