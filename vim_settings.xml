@@ -77,6 +77,13 @@
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/discussion_backsolve.html" timestamp="1555087535283">
         <mark key="[" line="86" column="77" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" timestamp="1555367229244">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="56" column="60" />
+        <mark key="]" line="56" column="78" />
+        <mark key="^" line="56" column="78" />
+        <mark key="." line="56" column="78" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" timestamp="1553881835840">
         <mark key="'" line="6" column="12" />
         <mark key="[" line="23" column="103" />
@@ -193,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="144" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="145" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="153" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="177" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -293,6 +298,8 @@
       <jump line="21" column="5" filename="$USER_HOME$/git/carta-web/entries.js" />
       <jump line="47" column="50" filename="$USER_HOME$/git/carta-web/entries.js" />
       <jump line="223" column="11" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
+      <jump line="41" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -305,7 +312,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>valuate</text>
+        <text>equity_adjustment_quartiles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgZ3JvdXAgaW4gc2VsZi5nZXRfdGVtcGxhdGVzKHJlc2V0KToK</text>
@@ -346,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>valuate</last-search>
+      <last-search>equity_adjustment_quartiles</last-search>
       <last-offset />
-      <last-pattern>valuate</last-pattern>
+      <last-pattern>equity_adjustment_quartiles</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -356,8 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>late</entry>
-        <entry>Late</entry>
         <entry>Early</entry>
         <entry>early</entry>
         <entry>hybrid</entry>
@@ -376,6 +381,8 @@
         <entry>valuation-station</entry>
         <entry>valuate3</entry>
         <entry>valuate</entry>
+        <entry>equity-adjustment-quartiles</entry>
+        <entry>equity_adjustment_quartiles</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
