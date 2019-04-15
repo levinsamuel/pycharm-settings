@@ -23,8 +23,8 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1555351575049">
-        <mark key="'" line="125" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/urls.py" timestamp="1555353652374">
+        <mark key="'" line="223" column="11" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/captable.py" timestamp="1555014912737">
         <mark key="'" line="1" column="13" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="36" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="142" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="144" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="145" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -293,6 +292,7 @@
       <jump line="430" column="4" filename="$USER_HOME$/git/carta-web/entries.js" />
       <jump line="21" column="5" filename="$USER_HOME$/git/carta-web/entries.js" />
       <jump line="47" column="50" filename="$USER_HOME$/git/carta-web/entries.js" />
+      <jump line="223" column="11" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -305,7 +305,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>valuation-station</text>
+        <text>valuate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgZ3JvdXAgaW4gc2VsZi5nZXRfdGVtcGxhdGVzKHJlc2V0KToK</text>
@@ -346,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search>valuation-station</last-search>
+      <last-search>valuate</last-search>
       <last-offset />
-      <last-pattern>valuation-station</last-pattern>
+      <last-pattern>valuate</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -356,8 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>backsolve</entry>
-        <entry>is_used</entry>
         <entry>late</entry>
         <entry>Late</entry>
         <entry>Early</entry>
@@ -376,6 +374,8 @@
         <entry>staff</entry>
         <entry>valuation</entry>
         <entry>valuation-station</entry>
+        <entry>valuate3</entry>
+        <entry>valuate</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
