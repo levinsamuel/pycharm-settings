@@ -33,8 +33,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1554923660386">
-        <mark key="'" line="362" column="33" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1555368052511">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="/False" timestamp="1554757263124">
         <mark key="[" line="0" column="0" />
@@ -77,12 +81,17 @@
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/discussion_backsolve.html" timestamp="1555087535283">
         <mark key="[" line="86" column="77" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" timestamp="1555367229244">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="56" column="60" />
-        <mark key="]" line="56" column="78" />
-        <mark key="^" line="56" column="78" />
-        <mark key="." line="56" column="78" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" timestamp="1555368001982">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="55" column="60" />
+        <mark key="]" line="55" column="78" />
+        <mark key="^" line="55" column="78" />
+        <mark key="." line="55" column="78" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/__init__.py" timestamp="1555368145199">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" timestamp="1553881835840">
         <mark key="'" line="6" column="12" />
@@ -98,7 +107,7 @@
         <mark key="." line="369" column="7" />
         <mark key="^" line="369" column="7" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1554833402493">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1555367817190">
         <mark key="'" line="112" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1554229516341">
@@ -200,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="153" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="177" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="179" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="198" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -300,13 +307,15 @@
       <jump line="223" column="11" filename="$USER_HOME$/git/carta-web/eshares/urls.py" />
       <jump line="41" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" />
       <jump line="53" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" />
+      <jump line="45" column="79" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -321,32 +330,32 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEV4cHJlc3Npb24oCiAgICAgICAgZXhwcmVzc2lvbj0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>Expression(
         expression=(</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWZfdHJ1ZT0oKCd2YWx1YXRpb24tcmVwb3J0L2xsYy9lbmdhZ2VtZW50bGV0dGVyX2luc2VydF9QSVUuaHRtbCcsICdFbmdhZ2VtZW50IExldHRlcicpLCksCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gTm9uZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb250ZXh0IGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnRleHQgPSBzZWxmLmNvbnRleHRfZ2VuZXJhdG9yLmdldF9jb250ZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
