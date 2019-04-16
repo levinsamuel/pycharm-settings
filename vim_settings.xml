@@ -53,11 +53,12 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="43" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1554943450092">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1555442515873">
         <mark key="'" line="1200" column="20" />
-        <mark key="]" line="287" column="31" />
+        <mark key="[" line="866" column="0" />
+        <mark key="]" line="866" column="70" />
         <mark key="^" line="287" column="31" />
-        <mark key="." line="287" column="31" />
+        <mark key="." line="866" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1554929795791">
         <mark key="[" line="46" column="65" />
@@ -315,7 +316,7 @@
         <text>ValuationReportContextGenerator</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLm12aWMgaWYgcHJlX2Rsb20gZWxzZSBhcHByb2FjaC5wb3N0X2Rsb21fbXZpYwo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -330,32 +331,32 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLm12aWMgaWYgcHJlX2Rsb20gZWxzZSBhcHByb2FjaC5wb3N0X2Rsb21fbXZpYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLmVxdWl0eV92YWx1ZSBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9lcXVpdHlfdmFsdWUK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEV4cHJlc3Npb24oCiAgICAgICAgZXhwcmVzc2lvbj0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIEV4cHJlc3Npb24oCiAgICAgICAgZXhwcmVzc2lvbj0=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>Expression(
         expression=(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZfdHJ1ZT0oKCd2YWx1YXRpb24tcmVwb3J0L2xsYy9lbmdhZ2VtZW50bGV0dGVyX2luc2VydF9QSVUuaHRtbCcsICdFbmdhZ2VtZW50IExldHRlcicpLCksCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWZfdHJ1ZT0oKCd2YWx1YXRpb24tcmVwb3J0L2xsYy9lbmdhZ2VtZW50bGV0dGVyX2luc2VydF9QSVUuaHRtbCcsICdFbmdhZ2VtZW50IExldHRlcicpLCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
