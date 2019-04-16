@@ -33,8 +33,8 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1555368052511">
-        <mark key="'" line="3" column="13" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1555449179677">
+        <mark key="'" line="101" column="16" />
         <mark key="[" line="11" column="48" />
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
@@ -60,11 +60,10 @@
         <mark key="^" line="287" column="31" />
         <mark key="." line="866" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1554929795791">
-        <mark key="[" line="46" column="65" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="46" column="11" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1555449823228">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/.env" timestamp="1555108524213">
         <mark key="'" line="31" column="36" />
@@ -114,6 +113,12 @@
       <file name="/Dummy.txt" timestamp="1554229516341">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1555450070576">
+        <mark key="[" line="49" column="57" />
+        <mark key="]" line="49" column="74" />
+        <mark key="." line="49" column="74" />
+        <mark key="^" line="49" column="74" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" timestamp="1553623235281">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="257" column="0" />
@@ -131,7 +136,7 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1555087231270">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1555449707710">
         <mark key="[" line="504" column="18" />
         <mark key="]" line="504" column="18" />
         <mark key="^" line="33" column="12" />
@@ -210,23 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="179" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="198" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="214" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="226" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="304" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="305" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="306" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="325" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="317" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="318" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="320" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="333" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="266" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="355" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="488" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="557" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="254" column="67" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="562" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="7" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
@@ -310,62 +298,78 @@
       <jump line="53" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" />
       <jump line="45" column="79" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="3" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="313" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="324" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="344" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="345" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="349" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="351" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="352" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="356" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="358" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="366" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="383" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="391" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="70" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="80" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="92" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="101" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ValuationReportContextGenerator</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLm12aWMgaWYgcHJlX2Rsb20gZWxzZSBhcHByb2FjaC5wb3N0X2Rsb21fbXZpYwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wX2RhdGEnXSA9IGNvbnRleHRbQ09NUFNfTEFURV9FWElUXVsnY29tcF9kYXRhJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>equity_adjustment_quartiles</text>
+        <text>comp_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZ3JvdXAgaW4gc2VsZi5nZXRfdGVtcGxhdGVzKHJlc2V0KToK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wX2RhdGEnXSA9IGNvbnRleHRbQ09NUFNfTEFURV9FWElUXVsnY29tcF9kYXRhJ10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLm12aWMgaWYgcHJlX2Rsb20gZWxzZSBhcHByb2FjaC5wb3N0X2Rsb21fbXZpYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VhX2NvbXBfZGF0YSc6IGNvbXBfZGF0YSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLmVxdWl0eV92YWx1ZSBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9lcXVpdHlfdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb21wIGRhdGEgZm9yIHRoZSBlcXVpdHkgYWRqdXN0bWVudCwgaWYgb25lIHdhcyBydW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLm12aWMgaWYgcHJlX2Rsb20gZWxzZSBhcHByb2FjaC5wb3N0X2Rsb21fbXZpYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHJvYWNoLmVxdWl0eV92YWx1ZSBpZiBwcmVfZGxvbSBlbHNlIGFwcHJvYWNoLnBvc3RfZGxvbV9lcXVpdHlfdmFsdWUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEV4cHJlc3Npb24oCiAgICAgICAgZXhwcmVzc2lvbj0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAuY29tcHMgaW1wb3J0IFB1YmxpY0NvbXBzQ29udGV4dEdlbmVyYXRvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIEV4cHJlc3Npb24oCiAgICAgICAgZXhwcmVzc2lvbj0=</text>
       </register>
-      <register name="8" type="4">
-        <text>Expression(
-        expression=(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZfdHJ1ZT0oKCd2YWx1YXRpb24tcmVwb3J0L2xsYy9lbmdhZ2VtZW50bGV0dGVyX2luc2VydF9QSVUuaHRtbCcsICdFbmdhZ2VtZW50IExldHRlcicpLCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
       </register>
     </registers>
     <search>
-      <last-search>equity_adjustment_quartiles</last-search>
+      <last-search>comp_data</last-search>
       <last-offset />
-      <last-pattern>equity_adjustment_quartiles</last-pattern>
+      <last-pattern>comp_data</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -376,8 +380,6 @@
         <entry>Early</entry>
         <entry>early</entry>
         <entry>hybrid</entry>
-        <entry>comp_data</entry>
-        <entry>'comp_data</entry>
         <entry>captable_data</entry>
         <entry>LLC</entry>
         <entry>import</entry>
@@ -393,6 +395,8 @@
         <entry>valuate</entry>
         <entry>equity-adjustment-quartiles</entry>
         <entry>equity_adjustment_quartiles</entry>
+        <entry>'comp_data</entry>
+        <entry>comp_data</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
