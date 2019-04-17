@@ -71,7 +71,7 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553736073555">
         <mark key="'" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/staff/models.py" timestamp="1555519341186" />
+      <file name="$USER_HOME$/git/carta-web/eshares/staff/models.py" timestamp="1555521124048" />
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/discussion_backsolve.html" timestamp="1555087535283">
         <mark key="[" line="86" column="77" />
       </file>
@@ -200,8 +200,8 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1555008365634">
-        <mark key="'" line="572" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1555521181756">
+        <mark key="'" line="565" column="33" />
         <mark key="[" line="142" column="16" />
       </file>
       <file name="$USER_HOME$/git/carta-web/entries.js" timestamp="1555351691237">
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="67" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="562" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="7" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="9" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
@@ -309,6 +308,7 @@
       <jump line="80" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="92" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="101" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="565" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -321,7 +321,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>comp_data</text>
+        <text>CORP_THR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wX2RhdGEnXSA9IGNvbnRleHRbQ09NUFNfTEFURV9FWElUXVsnY29tcF9kYXRhJ10K</text>
@@ -361,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>comp_data</last-search>
+      <last-search>CORP_THR</last-search>
       <last-offset />
-      <last-pattern>comp_data</last-pattern>
+      <last-pattern>CORP_THR</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -371,8 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Early</entry>
-        <entry>early</entry>
         <entry>hybrid</entry>
         <entry>captable_data</entry>
         <entry>LLC</entry>
@@ -391,6 +389,8 @@
         <entry>equity_adjustment_quartiles</entry>
         <entry>'comp_data</entry>
         <entry>comp_data</entry>
+        <entry>COPR_THRE</entry>
+        <entry>CORP_THR</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
