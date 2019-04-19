@@ -3,9 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" timestamp="1555621096285" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approach.py" timestamp="1554938703230">
         <mark key="'" line="55" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1555629170078">
+        <mark key="'" line="0" column="17" />
+        <mark key="^" line="21" column="76" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
+        <mark key="'" line="1" column="3" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="71" />
+        <mark key="^" line="1" column="71" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/exceptions.py" timestamp="1555536706052">
         <mark key="'" line="22" column="0" />
@@ -31,17 +41,44 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/financings/tasks.py" timestamp="1555620371080">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1555449179677">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1555442515873">
+      <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
+        <mark key="'" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/test_templates.py" timestamp="1554423334123">
+        <mark key="'" line="38" column="18" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="37" column="44" />
+        <mark key="." line="37" column="44" />
+        <mark key="^" line="43" column="79" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/financials/models.py" timestamp="1555697000798" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1555696500045">
         <mark key="'" line="1211" column="20" />
-        <mark key="^" line="287" column="31" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1555449823228">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/.env" timestamp="1555108524213">
+        <mark key="'" line="31" column="36" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="12" />
+        <mark key="^" line="79" column="12" />
+        <mark key="." line="79" column="12" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1555639769690">
         <mark key="'" line="1151" column="41" />
@@ -65,6 +102,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" timestamp="1553881835840">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="23" column="103" />
+        <mark key="]" line="23" column="94" />
+        <mark key="." line="23" column="94" />
+        <mark key="^" line="23" column="94" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1554839509664">
         <mark key="'" line="341" column="56" />
         <mark key="[" line="368" column="74" />
@@ -75,6 +119,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1555367817190">
         <mark key="'" line="112" column="29" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1555450070576">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+        <mark key="^" line="3" column="74" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/storages/backends/s3boto.py" timestamp="1553623235281">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="257" column="0" />
@@ -84,6 +134,13 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/webpack-stats.json" timestamp="1553725268297">
         <mark key="'" line="0" column="2191" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1553829785276">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1555449707710">
         <mark key="[" line="504" column="18" />
@@ -98,6 +155,19 @@
         <mark key="^" line="179" column="57" />
         <mark key="." line="351" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1555530028408">
+        <mark key="'" line="357" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1553827288991">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/urls.py" timestamp="1553791797812">
         <mark key="'" line="12" column="5" />
       </file>
@@ -107,11 +177,29 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1555613258111">
+        <mark key="'" line="176" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1554913925514">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="76" />
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1554956818288">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="866" column="47" />
+        <mark key="]" line="866" column="51" />
+        <mark key="." line="866" column="51" />
+        <mark key="^" line="866" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1555638264681">
+        <mark key="'" line="11" column="101" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/staff/urls.py" timestamp="1555351598083">
         <mark key="'" line="0" column="0" />
@@ -132,92 +220,6 @@
         <mark key="]" line="23" column="70" />
         <mark key="^" line="23" column="70" />
         <mark key="." line="23" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/common/tasks/scheduled.py" timestamp="1555619987232" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1555629170078">
-        <mark key="'" line="0" column="17" />
-        <mark key="^" line="21" column="76" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
-        <mark key="'" line="1" column="3" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="71" />
-        <mark key="." line="1" column="71" />
-        <mark key="^" line="1" column="71" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/financings/tasks.py" timestamp="1555620371080">
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="41" column="22" />
-        <mark key="." line="41" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
-        <mark key="'" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/test_templates.py" timestamp="1554423334123">
-        <mark key="'" line="38" column="18" />
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="43" column="79" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/.env" timestamp="1555108524213">
-        <mark key="'" line="31" column="36" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="79" column="12" />
-        <mark key="." line="79" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/templates/valuations/new/report/report.prince" timestamp="1553881835840">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="23" column="103" />
-        <mark key="]" line="23" column="94" />
-        <mark key="." line="23" column="94" />
-        <mark key="^" line="23" column="94" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1555450070576">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="74" />
-        <mark key="." line="3" column="74" />
-        <mark key="^" line="3" column="74" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1553829785276">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1555530028408">
-        <mark key="'" line="357" column="6" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1553827288991">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" timestamp="1555613258111">
-        <mark key="'" line="176" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1554956818288">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="866" column="47" />
-        <mark key="]" line="866" column="51" />
-        <mark key="." line="866" column="51" />
-        <mark key="^" line="866" column="51" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1555638264681">
-        <mark key="'" line="11" column="101" />
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/git/carta-web/entries.js" timestamp="1555351691237">
         <mark key="'" line="47" column="50" />
