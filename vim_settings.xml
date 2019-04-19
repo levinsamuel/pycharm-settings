@@ -43,13 +43,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1555628441377">
-        <mark key="'" line="658" column="53" />
-        <mark key="[" line="658" column="54" />
-        <mark key="]" line="658" column="72" />
-        <mark key="^" line="658" column="72" />
-        <mark key="." line="658" column="72" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/urls.py" timestamp="1553736073555">
         <mark key="'" line="0" column="30" />
       </file>
@@ -127,13 +120,16 @@
         <mark key="'" line="565" column="33" />
         <mark key="[" line="142" column="16" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/views.py" timestamp="1555637205317">
+        <mark key="[" line="260" column="68" />
+        <mark key="]" line="260" column="70" />
+        <mark key="^" line="260" column="70" />
+        <mark key="." line="260" column="70" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/tasks/scheduled.py" timestamp="1555619987232" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1555629170078">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
         <mark key="^" line="21" column="76" />
-        <mark key="." line="380" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/utils/collections.py" timestamp="1553915091023">
         <mark key="'" line="1" column="3" />
@@ -218,9 +214,15 @@
       <file name="$USER_HOME$/git/carta-web/entries.js" timestamp="1555351691237">
         <mark key="'" line="47" column="50" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" timestamp="1555637239375">
+        <mark key="'" line="233" column="64" />
+        <mark key="[" line="233" column="27" />
+        <mark key="]" line="233" column="64" />
+        <mark key="^" line="233" column="64" />
+        <mark key="." line="233" column="64" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="101" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="565" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="27" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
@@ -320,6 +322,7 @@
       <jump line="381" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="618" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="0" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="233" column="64" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
