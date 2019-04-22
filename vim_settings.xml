@@ -144,6 +144,19 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1555954078520">
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="62" />
+        <mark key="." line="58" column="62" />
+        <mark key="^" line="58" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1555953940624">
+        <mark key="'" line="102" column="43" />
+        <mark key="[" line="101" column="87" />
+        <mark key="]" line="101" column="116" />
+        <mark key="." line="101" column="116" />
+        <mark key="^" line="101" column="116" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/val/urls.py" timestamp="1553714559991">
         <mark key="'" line="0" column="0" />
       </file>
@@ -216,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/api/views/report_editor.py" />
       <jump line="193" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="86" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="612" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -316,52 +328,53 @@
       <jump line="81" column="7" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="1" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="77" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="99" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ValuationReportContextGenerator</text>
+        <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>single_tem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTm9VbWJyZWxsYVZhbHVhdGlvblJlbGF0aW9uKE9iamVjdERvZXNOb3RFeGlzdCk6CiAgICAiIiJObyBtYXRjaGluZyB1bWJyZWxsYSB2YWx1YXRpb24gcmVsYXRpb24gZXhpc3RzIiIiCgoK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>TemplateDoesNotExist</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBHcmFiIGEgZnJlc2ggY29weSBvZiBhIHRlbXBsYXRlIHN0cmFpZ2h0IGZyb20gdGhlIGZpbGUuCg==</text>
+        <text encoding="base64">ICAgIEV4cHJlc3Npb24oCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2dldF9zaW5nbGVfdGVtcGxhdGUoc2VsZiwgbmFtZTogc3RyKSAtPiBzdHI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZmlsZW5hbWUgPT0gbmFtZToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUsIHRpdGxlIGluIHNlbGYuY29udGV4dF9nZW5lcmF0b3IuZ2V0X3JlcG9ydF9zZWN0aW9ucygpWzBdOgo=</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
