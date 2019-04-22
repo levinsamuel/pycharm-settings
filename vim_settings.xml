@@ -65,12 +65,12 @@
       <file name="$USER_HOME$/git/carta-web/webpack.config.js" timestamp="1553725228326">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/test_templates.py" timestamp="1554423334123">
-        <mark key="'" line="38" column="18" />
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="43" column="79" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/test_templates.py" timestamp="1555970970671">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/reports/mixins.py" timestamp="1555706756600">
         <mark key="'" line="1193" column="35" />
@@ -149,7 +149,7 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1555954078520">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1555970493213">
         <mark key="[" line="58" column="59" />
         <mark key="]" line="58" column="62" />
         <mark key="." line="58" column="62" />
@@ -234,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="612" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="5" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="616" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -334,19 +332,21 @@
       <jump line="1" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="77" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="99" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="18" column="28" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/test_templates.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/test_templates.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICd0ZW1wbGF0ZXMnLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>single_tem</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
@@ -386,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>single_tem</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>single_tem</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -396,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valuation_metho</entry>
         <entry>expression</entry>
         <entry>valation</entry>
         <entry>staff</entry>
@@ -416,6 +415,7 @@
         <entry>import</entry>
         <entry>generate</entry>
         <entry>single_tem</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
