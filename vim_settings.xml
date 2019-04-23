@@ -18,11 +18,11 @@
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/context/context/test_context.py" timestamp="1556056215479">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/context/context/test_context.py" timestamp="1556057192047">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="40" column="41" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1555706772771">
         <mark key="'" line="15" column="0" />
@@ -179,12 +179,12 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1556054474356">
-        <mark key="'" line="83" column="71" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="84" column="23" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1556057208263">
+        <mark key="'" line="82" column="71" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1554913925514">
         <mark key="[" line="2" column="52" />
@@ -337,7 +337,7 @@
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbnMgPT0gNTMzIGFuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -352,13 +352,19 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnR5cGVzIGltcG9ydCBSZXBvcnRUeXBlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbnMgPT0gNTMzIGFuZAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>,
                      new_callable=MagicMock(return_value=533)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>(
             return_value = {
                  'report_type': ReportType(
@@ -374,26 +380,20 @@
             }
         )</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
                      'is_llc': True,
                      'is_piu
                  }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja2VyIGlzIG5vdCBOb25lIGFuZCBjb250ZXh0IGlzIG5vdCBOb3NkZGUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhcHRhYmxlX2RhdGEgPSBzZWxmLl9fZ2V0X2NhcHRhYmxlX2RhdGEoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2dldF9jYXB0YWJsZV9kYXRhKHNlbGYpIC0+IERpY3Rbc3RyLCBMaXN0WydDYXB0YWJsZURhdGEnXV06CiAgICAgICAgcmV0dXJuIAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
