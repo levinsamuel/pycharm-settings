@@ -169,12 +169,12 @@
         <mark key="^" line="32" column="42" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1556061127460">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1556062137604">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="31" column="78" />
+        <mark key="]" line="31" column="78" />
+        <mark key="." line="31" column="78" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1556057208263">
         <mark key="'" line="82" column="71" />
@@ -333,48 +333,50 @@
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGRmIGlzIG5vdCBOb25lCg==</text>
+      <register name="&quot;" type="4">
+        <text>,
+                                         new_callable=lambda: MagicMock(return_value='test content')</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbi5nZXRfY29ycG9yYXRpb24gPSBNYWdpY01vY2soCiAgICAgICAgcmV0dXJuX3ZhbHVlPU1vY2tNb2RlbCgpCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KHBkZiwgJ3NhdmVfc2VjdGlvbicpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>,
+                                         new_callable=lambda: MagicMock(return_value='test content')</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlX21vY2suYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXBsYWNlZF90ZW1wbGF0ZXMgPSBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5yZXBvcnQudGVtcGxhdGVzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcGxhY2VkX3RlbXBsYXRlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld19jYWxsYWJsZT1sYW1iZGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvbGQtdGVtcGxhdGUnOiAnbmV3LXRlbXBsYXRlJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXBsYWNlZF90ZW1wbGF0ZXMgPSBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5yZXBvcnQudGVtcGxhdGVzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcGxhY2VkX3RlbXBsYXRlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld19jYWxsYWJsZT1sYW1iZGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvbGQtdGVtcGxhdGUnOiAnbmV3LXRlbXBsYXRlJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnc2VjdGlvbiBjb250ZW50OiBbJXNdJywgY29udGVudCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnBkZiBpbXBvcnQgVmFsdWF0aW9uUmVwb3J0UGRmR2VuZXJhdG9yCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgcGRmIGlzIG5vdCBOb25lCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>,
                  new_callable=lambda: MagicMock(return_value=context_gen)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBWYWx1YXRpb25SZXBvcnRQZGZHZW5lcmF0b3IoCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnR5cGVzIGltcG9ydCBSZXBvcnRUeXBlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbnMgPT0gNTMzIGFuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
