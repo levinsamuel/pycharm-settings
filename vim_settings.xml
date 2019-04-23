@@ -103,7 +103,12 @@
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="51" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/services/test_umbrella.py" timestamp="1556047851897" />
+      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/services/test_umbrella.py" timestamp="1556049023712">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="26" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps.py" timestamp="1555368001982">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="55" column="60" />
@@ -331,11 +336,11 @@
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ValidationError</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>ValidationError</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
