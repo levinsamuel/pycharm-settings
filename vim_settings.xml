@@ -31,9 +31,6 @@
         <mark key="^" line="414" column="69" />
         <mark key="." line="622" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/exceptions.py" timestamp="1555976242874">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1554423534344">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="0" />
@@ -172,12 +169,12 @@
         <mark key="^" line="32" column="42" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1553827288991">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1556058779797">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="64" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1556057208263">
         <mark key="'" line="82" column="71" />
@@ -336,11 +333,11 @@
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -351,49 +348,34 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,
+                 new_callable=lambda: MagicMock(return_value=context_gen)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnR5cGVzIGltcG9ydCBSZXBvcnRUeXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbnMgPT0gNTMzIGFuZAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-                     new_callable=MagicMock(return_value=533)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>(
-            return_value = {
-                 'report_type': ReportType(
-                     templates=(
-                         (
-                             ('fake-templates/fake_template.html', 'Fake page'),
-                         ),
-                     ),
-                     is_820=False,
-                     is_llc=True,
-                     valuation_purpose=constants.LLC_LIQUIDATION_THRESHOLD
-                 ).get_context()
-            }
-        )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBWYWx1YXRpb25SZXBvcnRQZGZHZW5lcmF0b3IoCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                     'is_llc': True,
-                     'is_piu
-                 }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnR5cGVzIGltcG9ydCBSZXBvcnRUeXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja2VyIGlzIG5vdCBOb25lIGFuZCBjb250ZXh0IGlzIG5vdCBOb3NkZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbnMgPT0gNTMzIGFuZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,
+                     new_callable=MagicMock(return_value=533)</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
