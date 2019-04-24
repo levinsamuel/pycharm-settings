@@ -101,12 +101,12 @@
         <mark key="^" line="55" column="78" />
         <mark key="." line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" timestamp="1556129132934">
-        <mark key="'" line="227" column="17" />
-        <mark key="[" line="516" column="39" />
-        <mark key="]" line="516" column="69" />
-        <mark key="." line="516" column="69" />
-        <mark key="^" line="516" column="69" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" timestamp="1556137122606">
+        <mark key="'" line="509" column="25" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="22" column="66" />
+        <mark key="." line="22" column="66" />
+        <mark key="^" line="22" column="66" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" timestamp="1556037709002">
         <mark key="[" line="84" column="56" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="529" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="564" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="565" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="0" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
@@ -314,16 +313,17 @@
       <jump line="65" column="74" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="67" column="17" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="227" column="17" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="509" column="25" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4900000</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>4900000</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>get_selected</text>
