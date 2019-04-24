@@ -26,10 +26,9 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1555706772771">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="622" column="0" />
-        <mark key="]" line="622" column="0" />
-        <mark key="^" line="414" column="69" />
-        <mark key="." line="622" column="0" />
+        <mark key="[" line="640" column="0" />
+        <mark key="]" line="640" column="0" />
+        <mark key="." line="640" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/types.py" timestamp="1554423534344">
         <mark key="'" line="0" column="0" />
@@ -64,10 +63,10 @@
         <mark key="." line="1195" column="35" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/financials/models.py" timestamp="1556037578011">
-        <mark key="[" line="769" column="30" />
-        <mark key="]" line="769" column="38" />
-        <mark key="." line="769" column="38" />
-        <mark key="^" line="769" column="38" />
+        <mark key="[" line="171" column="30" />
+        <mark key="]" line="171" column="38" />
+        <mark key="." line="171" column="38" />
+        <mark key="^" line="171" column="38" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1555696500045">
         <mark key="'" line="1211" column="20" />
@@ -102,11 +101,12 @@
         <mark key="^" line="55" column="78" />
         <mark key="." line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" timestamp="1555979229705">
-        <mark key="'" line="476" column="96" />
-        <mark key="[" line="512" column="8" />
-        <mark key="]" line="512" column="8" />
-        <mark key="." line="512" column="8" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" timestamp="1556129132934">
+        <mark key="'" line="227" column="17" />
+        <mark key="[" line="516" column="39" />
+        <mark key="]" line="516" column="69" />
+        <mark key="." line="516" column="69" />
+        <mark key="^" line="516" column="69" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" timestamp="1556037709002">
         <mark key="[" line="84" column="56" />
@@ -214,13 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="500" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="501" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="502" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="503" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="530" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="506" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="529" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="564" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="565" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
@@ -314,19 +307,26 @@
       <jump line="33" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" />
       <jump line="49" column="14" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" />
       <jump line="57" column="27" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" />
+      <jump line="526" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="515" column="6" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="510" column="23" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="523" column="23" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="65" column="74" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="67" column="17" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="227" column="17" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text>4900000</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>4900000</text>
       </register>
       <register name="/" type="4">
-        <text>corporation_valuation</text>
+        <text>get_selected</text>
       </register>
       <register name="0" type="4">
         <text>test_reset_sections_does_not_error</text>
@@ -366,9 +366,9 @@
       </register>
     </registers>
     <search>
-      <last-search>corporation_valuation</last-search>
+      <last-search>get_selected</last-search>
       <last-offset />
-      <last-pattern>corporation_valuation</last-pattern>
+      <last-pattern>get_selected</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valuate3</entry>
         <entry>valuate</entry>
         <entry>equity-adjustment-quartiles</entry>
         <entry>equity_adjustment_quartiles</entry>
@@ -396,6 +395,7 @@
         <entry>assert</entry>
         <entry>financials</entry>
         <entry>corporation_valuation</entry>
+        <entry>get_selected</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
