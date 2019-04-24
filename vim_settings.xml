@@ -82,11 +82,12 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1556037880464">
-        <mark key="[" line="45" column="59" />
-        <mark key="]" line="45" column="51" />
-        <mark key="^" line="45" column="51" />
-        <mark key="." line="45" column="51" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1556139446695">
+        <mark key="'" line="50" column="21" />
+        <mark key="[" line="257" column="41" />
+        <mark key="]" line="257" column="41" />
+        <mark key="^" line="257" column="40" />
+        <mark key="." line="257" column="41" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/services/test_umbrella.py" timestamp="1556049023712">
         <mark key="[" line="9" column="27" />
@@ -101,12 +102,12 @@
         <mark key="^" line="55" column="78" />
         <mark key="." line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" timestamp="1556138267685">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" timestamp="1556139477835">
         <mark key="'" line="509" column="0" />
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="548" column="0" />
-        <mark key="." line="548" column="0" />
-        <mark key="^" line="536" column="50" />
+        <mark key="[" line="547" column="32" />
+        <mark key="]" line="547" column="39" />
+        <mark key="." line="547" column="39" />
+        <mark key="^" line="547" column="39" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" timestamp="1556037709002">
         <mark key="[" line="84" column="56" />
@@ -214,13 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="428" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="383" column="8" filename="$USER_HOME$/git/carta-web/eshares/financials/models.py" />
-      <jump line="1190" column="35" filename="$USER_HOME$/git/carta-web/eshares/reports/mixins.py" />
-      <jump line="229" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="31" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="88" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="132" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
@@ -314,19 +308,26 @@
       <jump line="26" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="510" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="509" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
+      <jump line="123" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="36" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="42" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="257" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="45" column="81" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="50" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_selected</text>
+        <text>Valuation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBkZWYgdGVzdF9sb3dfdmFsdWVfbm9uYXVkaXRlZF9jb21wYW55X2RvZXNfbm90X3JlcXVpcmVfYXBwcm92YWwoc2VsZiwgbW9ja2VyLCB1bWJyZWxsYSk6CiAgICAgICAgIyBub3QgYXVkaXRlZAogICAgICAgIHVtYnJlbGxhLmF1ZGl0X2Zpcm0gPSBOb25lCiAgICAgICAgIyBtb2NrIGNvbXBhbnkgdmFsdWUKICAgICAgICBtb2NrX2NvbXBhbnlfdmFsdWUgPSBjb25zdGFudHMuQ09SUF9USFJFU0hfRVZfTUlETUFSS0VUIC0gMTAwMAogICAgICAgIHZhbHVhdGlvbiA9IHVtYnJlbGxhLmdldF9zZWxlY3RlZF92YWx1YXRpb24oKQogICAgICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgICAgIHZhbHVhdGlvbiwgJ2dldF9jb21wYW55X3ZhbHVlJywgcmV0dXJuX3ZhbHVlPW1vY2tfY29tcGFueV92YWx1ZQogICAgICAgICkKCiAgICAgICAgcmVxdWlyZXNfYXBwcm92YWwgPSB1bWJyZWxsYS5yZXF1aXJlX2FwcHJvdmFsKCkKICAgICAgICBhc3NlcnQgbm90IHJlcXVpcmVzX2FwcHJvdmFsCg==</text>
@@ -366,9 +367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_selected</last-search>
+      <last-search>Valuation</last-search>
       <last-offset />
-      <last-pattern>get_selected</last-pattern>
+      <last-pattern>Valuation</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -390,12 +391,12 @@
         <entry>generate</entry>
         <entry>single_tem</entry>
         <entry>company_value</entry>
-        <entry>Valuation</entry>
         <entry>eshares</entry>
         <entry>assert</entry>
         <entry>financials</entry>
         <entry>corporation_valuation</entry>
         <entry>get_selected</entry>
+        <entry>Valuation</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
