@@ -156,18 +156,6 @@
         <mark key="^" line="35" column="58" />
         <mark key="." line="35" column="58" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1556063592432">
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="65" column="42" />
-        <mark key="." line="65" column="42" />
-        <mark key="^" line="65" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1556063517337">
-        <mark key="[" line="100" column="81" />
-        <mark key="]" line="100" column="80" />
-        <mark key="." line="100" column="80" />
-        <mark key="^" line="100" column="80" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/management/commands/make_demo_valbot_request.py" timestamp="1556037779207">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -180,13 +168,6 @@
         <mark key="]" line="49" column="37" />
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1556057208263">
-        <mark key="'" line="82" column="71" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="83" column="23" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1554913925514">
         <mark key="[" line="2" column="52" />
@@ -345,7 +326,7 @@
         <text>content</text>
       </register>
       <register name="/" type="4">
-        <text>assert</text>
+        <text>corporation_valuation</text>
       </register>
       <register name="0" type="4">
         <text>test_reset_sections_does_not_error</text>
@@ -385,9 +366,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assert</last-search>
+      <last-search>corporation_valuation</last-search>
       <last-offset />
-      <last-pattern>assert</last-pattern>
+      <last-pattern>corporation_valuation</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -395,8 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valuation</entry>
-        <entry>valuation-station</entry>
         <entry>valuate3</entry>
         <entry>valuate</entry>
         <entry>equity-adjustment-quartiles</entry>
@@ -415,6 +394,8 @@
         <entry>Valuation</entry>
         <entry>eshares</entry>
         <entry>assert</entry>
+        <entry>financials</entry>
+        <entry>corporation_valuation</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
