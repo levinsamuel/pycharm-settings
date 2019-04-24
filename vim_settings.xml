@@ -156,25 +156,30 @@
         <mark key="^" line="35" column="58" />
         <mark key="." line="35" column="58" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1556055613261">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="37" column="35" />
-        <mark key="^" line="37" column="35" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1556063592432">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="42" />
+        <mark key="." line="65" column="42" />
+        <mark key="^" line="65" column="42" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1556043048355" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1556063517337">
+        <mark key="[" line="100" column="81" />
+        <mark key="]" line="100" column="80" />
+        <mark key="." line="100" column="80" />
+        <mark key="^" line="100" column="80" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/management/commands/make_demo_valbot_request.py" timestamp="1556037779207">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="32" column="42" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1556062137604">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="31" column="78" />
-        <mark key="]" line="31" column="78" />
-        <mark key="." line="31" column="78" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" timestamp="1556063602386">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="44" column="85" />
+        <mark key="." line="44" column="85" />
+        <mark key="^" line="44" column="85" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1556057208263">
         <mark key="'" line="82" column="71" />
@@ -228,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
-      <jump line="464" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="488" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="468" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="493" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
@@ -328,52 +331,53 @@
       <jump line="2" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="236" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/implementations/test_smb_backsolve_strategy.py" />
       <jump line="85" column="71" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="34" column="50" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/pdf/test_pdf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,
-                                         new_callable=lambda: MagicMock(return_value='test content')</text>
+        <text>jango.template.loader.get_template</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jango.template.loader.get_template</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KHBkZiwgJ3NhdmVfc2VjdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcGRmLnJlc2V0X3NlY3Rpb24oJ29sZC10ZW1wbGF0ZScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>,
-                                         new_callable=lambda: MagicMock(return_value='test content')</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX21vY2suYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXBsYWNlZF90ZW1wbGF0ZXMgPSBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5yZXBvcnQudGVtcGxhdGVzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcGxhY2VkX3RlbXBsYXRlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld19jYWxsYWJsZT1sYW1iZGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvbGQtdGVtcGxhdGUnOiAnbmV3LXRlbXBsYXRlJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Y2xhc3MgRmFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXBsYWNlZF90ZW1wbGF0ZXMgPSBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5yZXBvcnQudGVtcGxhdGVzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcGxhY2VkX3RlbXBsYXRlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld19jYWxsYWJsZT1sYW1iZGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvbGQtdGVtcGxhdGUnOiAnbmV3LXRlbXBsYXRlJwo=</text>
+        <text encoding="base64">ZGVmIHRlbXBsYXRlKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnc2VjdGlvbiBjb250ZW50OiBbJXNdJywgY29udGVudCkK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucmVwb3J0LnBkZiBpbXBvcnQgVmFsdWF0aW9uUmVwb3J0UGRmR2VuZXJhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZWRfcmVwbGFjZXIgPSBNYWdpY01vY2socmV0dXJuX3ZhbHVlPSduZXctdGVtcGxhdGUnKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGRmIGlzIG5vdCBOb25lCg==</text>
+      <register name="7" type="4">
+        <text>{
+                                              'old-template': 'new-template'
+                                          }</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-                 new_callable=lambda: MagicMock(return_value=context_gen)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
