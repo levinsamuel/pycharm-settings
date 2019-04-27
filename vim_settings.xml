@@ -21,11 +21,7 @@
         <mark key="." line="1195" column="35" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556322471310">
-        <mark key="'" line="1150" column="0" />
-        <mark key="[" line="914" column="66" />
-        <mark key="]" line="915" column="41" />
-        <mark key="." line="915" column="41" />
-        <mark key="^" line="915" column="41" />
+        <mark key="'" line="1159" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1556224626821">
         <mark key="'" line="39" column="8" />
@@ -37,12 +33,6 @@
         <mark key="[" line="84" column="56" />
         <mark key="]" line="84" column="56" />
         <mark key="." line="84" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1556311521269">
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="57" column="53" />
-        <mark key="^" line="57" column="53" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -72,6 +62,13 @@
         <mark key="[" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" timestamp="1556300818535" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556337090521">
+        <mark key="'" line="739" column="0" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1556245017402">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,7 +89,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="170" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="179" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="186" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
@@ -192,61 +188,62 @@
       <jump line="5" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="145" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1149" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="735" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>mocker</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>mocker</text>
       </register>
       <register name="/" type="4">
-        <text>is_hybrid</text>
+        <text>hybrid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCdiYWNrc29sdmUgaWQ6ICVkLCBlYXJseSBleGl0IHNjZW5hcmlvIGlzIE5vbmUsIHBlcmZvcm1pbmcgcmVndWxhciBiYWNrc29sdmUnKQo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBiYWNrc29sdmUoc2NlbmFyaW8pOgogICAgYWxsb2NhdGlvbiA9IEFsbG9jYXRpb24oKQogICAgcmV0dXJuIEJhY2tzb2x2ZSgKICAgICAgICBiYWNrc29sdmVfZGF0ZT1kYXRldGltZSgyMDE3LCA1LCAxNiksCiAgICAgICAgc2NlbmFyaW89c2NlbmFyaW8sCiAgICAgICAgYWxsb2NhdGlvbj1hbGxvY2F0aW9uLAogICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Yl9jb250ZXh0ID0gY29udGV4dFtrZXldCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgJ2dldF92YWx1YXRpb24nLAogICAgICAgIE1hZ2ljTW9jaygKICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPXZhbHVhdGlvbgogICAgICAgICkKICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Yl9jb250ZXh0ID0gY29udGV4dFtrZXldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tzb2x2ZS5ydW5faHlicmlkX2JhY2tzb2x2ZShiYWNrc29sdmUuYmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19oeWJyaWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tzb2x2ZS5ydW5faHlicmlkX2JhY2tzb2x2ZShiYWNrc29sdmUuYmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19oeWJyaWQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IG1vZGVscy5Gb3JlaWduS2V5KHRvPSd2YWx1YXRpb25zLlZhbHVhdGlvbicsIG9uX2RlbGV0ZT1tb2RlbHMuRE9fTk9USElORykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdlaWdodCA9IG1vZGVscy5GbG9hdEZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IG1vZGVscy5Gb3JlaWduS2V5KHRvPSd2YWx1YXRpb25zLlZhbHVhdGlvbicsIG9uX2RlbGV0ZT1tb2RlbHMuRE9fTk9USElORykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdlaWdodCA9IG1vZGVscy5GbG9hdEZpZWxkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
       </register>
     </registers>
     <search>
-      <last-search>is_hybrid</last-search>
+      <last-search>hybrid</last-search>
       <last-offset />
-      <last-pattern>is_hybrid</last-pattern>
+      <last-pattern>hybrid</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -254,8 +251,6 @@
     </search>
     <history>
       <history-search>
-        <entry>COPR_THRE</entry>
-        <entry>CORP_THR</entry>
         <entry>manager</entry>
         <entry>is_valuations_manager</entry>
         <entry>get_request</entry>
@@ -271,9 +266,11 @@
         <entry>Valuation</entry>
         <entry>backsolve</entry>
         <entry>date</entry>
-        <entry>hybrid</entry>
         <entry>run_hybrid</entry>
         <entry>is_hybrid</entry>
+        <entry>run_hybrid_backsolve</entry>
+        <entry>run_backsolve</entry>
+        <entry>hybrid</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
