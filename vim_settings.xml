@@ -62,12 +62,12 @@
         <mark key="[" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" timestamp="1556300818535" />
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556337090521">
-        <mark key="'" line="739" column="0" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556339351697">
+        <mark key="'" line="749" column="0" />
+        <mark key="[" line="751" column="8" />
+        <mark key="]" line="750" column="0" />
+        <mark key="." line="750" column="0" />
+        <mark key="^" line="751" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1556245017402">
         <mark key="[" line="0" column="0" />
@@ -195,46 +195,48 @@
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mocker</text>
+        <text>MagicMock()</text>
       </register>
       <register name="-" type="4">
-        <text>mocker</text>
+        <text>MagicMock()</text>
       </register>
       <register name="/" type="4">
         <text>hybrid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBiYWNrc29sdmUoc2NlbmFyaW8pOgogICAgYWxsb2NhdGlvbiA9IEFsbG9jYXRpb24oKQogICAgcmV0dXJuIEJhY2tzb2x2ZSgKICAgICAgICBiYWNrc29sdmVfZGF0ZT1kYXRldGltZSgyMDE3LCA1LCAxNiksCiAgICAgICAgc2NlbmFyaW89c2NlbmFyaW8sCiAgICAgICAgYWxsb2NhdGlvbj1hbGxvY2F0aW9uLAogICAgKQo=</text>
+      <register name="0" type="4">
+        <text>early_exit_scenario</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgJ2dldF92YWx1YXRpb24nLAogICAgICAgIE1hZ2ljTW9jaygKICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPXZhbHVhdGlvbgogICAgICAgICkKICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Yl9jb250ZXh0ID0gY29udGV4dFtrZXldCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      <register name="3" type="4">
+        <text>Valuation(
+        valuation_date=datetime(2017, 5, 16),
+    )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tzb2x2ZS5ydW5faHlicmlkX2JhY2tzb2x2ZShiYWNrc29sdmUuYmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgJ2dldF92YWx1YXRpb24nLAogICAgICAgIE1hZ2ljTW9jaygKICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPXZhbHVhdGlvbgogICAgICAgICkKICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19oeWJyaWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Yl9jb250ZXh0ID0gY29udGV4dFtrZXldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tzb2x2ZS5ydW5faHlicmlkX2JhY2tzb2x2ZShiYWNrc29sdmUuYmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IG1vZGVscy5Gb3JlaWduS2V5KHRvPSd2YWx1YXRpb25zLlZhbHVhdGlvbicsIG9uX2RlbGV0ZT1tb2RlbHMuRE9fTk9USElORykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19oeWJyaWQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdlaWdodCA9IG1vZGVscy5GbG9hdEZpZWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
