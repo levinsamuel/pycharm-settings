@@ -34,8 +34,13 @@
         <mark key="]" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556340041026">
-        <mark key="'" line="161" column="32" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556343368710">
+        <mark key="'" line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556342755134">
+        <mark key="[" line="99" column="48" />
+        <mark key="]" line="99" column="48" />
+        <mark key="." line="99" column="48" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -65,11 +70,11 @@
         <mark key="[" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" timestamp="1556300818535" />
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556341933681">
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="65" />
-        <mark key="." line="44" column="65" />
-        <mark key="^" line="44" column="65" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556343383351">
+        <mark key="[" line="65" column="85" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1556245017402">
         <mark key="[" line="0" column="0" />
@@ -91,9 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
-      <jump line="200" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
-      <jump line="217" column="23" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="228" column="23" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="236" column="22" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="241" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
@@ -189,65 +191,66 @@
       <jump line="145" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1149" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="735" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
-      <jump line="161" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="44" column="44" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="161" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="13" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="14" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eSA9IDAuNAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBCYWNrc29sdmUoCiAgICAgICAgYmFja3NvbHZlX2RhdGU9ZGF0ZXRpbWUoMjAxNywgNSwgMTYpLAogICAgICAgIHNjZW5hcmlvPXNjZW5hcmlvLAogICAgICAgIGFsbG9jYXRpb249YWxsb2NhdGlvbiwKICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>MagicMock(return_value=0.4)</text>
+        <text>volatility</text>
       </register>
       <register name="/" type="4">
-        <text>hybrid</text>
+        <text>allocation</text>
       </register>
-      <register name="0" type="4">
-        <text>early_exit_scenario</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoQWxsb2NhdGlvbiwgJ3ZvbGF0aWxpdHknLCByZXR1cm5fdmFsdWU9MC40KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eSA9IDAuNAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBCYWNrc29sdmUoCiAgICAgICAgYmFja3NvbHZlX2RhdGU9ZGF0ZXRpbWUoMjAxNywgNSwgMTYpLAogICAgICAgIHNjZW5hcmlvPXNjZW5hcmlvLAogICAgICAgIGFsbG9jYXRpb249YWxsb2NhdGlvbiwKICAgICkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kID0gVk9MQVRJTElUWV9TRUxFQ1RJT05fTUFOVUFMCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpA</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24uZ2V0X2NhcHRhYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eSA9IDAuNAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kID0gVk9MQVRJTElUWV9TRUxFQ1RJT05fTUFOVUFMCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>Valuation(
-        valuation_date=datetime(2017, 5, 16),
-    )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgJ2dldF92YWx1YXRpb24nLAogICAgICAgIE1hZ2ljTW9jaygKICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPXZhbHVhdGlvbgogICAgICAgICkKICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
       </register>
     </registers>
     <search>
-      <last-search>hybrid</last-search>
+      <last-search>allocation</last-search>
       <last-offset />
-      <last-pattern>hybrid</last-pattern>
+      <last-pattern>allocation</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -255,7 +258,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manager</entry>
         <entry>is_valuations_manager</entry>
         <entry>get_request</entry>
         <entry>import</entry>
@@ -275,6 +277,7 @@
         <entry>run_hybrid_backsolve</entry>
         <entry>run_backsolve</entry>
         <entry>hybrid</entry>
+        <entry>allocation</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
