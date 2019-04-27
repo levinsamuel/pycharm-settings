@@ -65,12 +65,11 @@
         <mark key="[" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" timestamp="1556300818535" />
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556340705270">
-        <mark key="'" line="44" column="44" />
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="30" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556341933681">
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="65" />
+        <mark key="." line="44" column="65" />
+        <mark key="^" line="44" column="65" />
       </file>
       <file name="/Dummy.txt" timestamp="1556245017402">
         <mark key="[" line="0" column="0" />
@@ -197,8 +196,8 @@
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MagicMock(return_value=0.4)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eSA9IDAuNAo=</text>
       </register>
       <register name="-" type="4">
         <text>MagicMock(return_value=0.4)</text>
@@ -213,33 +212,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eSA9IDAuNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kID0gVk9MQVRJTElUWV9TRUxFQ1RJT05fTUFOVUFMCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGFsbG9jYXRpb24gPSBBbGxvY2F0aW9uKCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>Valuation(
         valuation_date=datetime(2017, 5, 16),
     )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgJ2dldF92YWx1YXRpb24nLAogICAgICAgIE1hZ2ljTW9jaygKICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPXZhbHVhdGlvbgogICAgICAgICkKICAgICkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Yl9jb250ZXh0ID0gY29udGV4dFtrZXldCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgJ2dldF92YWx1YXRpb24nLAogICAgICAgIE1hZ2ljTW9jaygKICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPXZhbHVhdGlvbgogICAgICAgICkKICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
