@@ -22,12 +22,6 @@
         <mark key="]" line="32" column="7" />
         <mark key="." line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1555706772771">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="640" column="0" />
-        <mark key="]" line="640" column="0" />
-        <mark key="." line="640" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/exceptions.py" timestamp="1556163292122">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="23" column="0" />
@@ -42,22 +36,11 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/reports/mixins.py" timestamp="1555706756600">
-        <mark key="'" line="1193" column="35" />
-        <mark key="[" line="1195" column="35" />
-        <mark key="]" line="1195" column="35" />
-        <mark key="." line="1195" column="35" />
-      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1556579998457" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556579014589">
         <mark key="'" line="241" column="61" />
         <mark key="[" line="886" column="8" />
         <mark key="]" line="886" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1556224626821">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="8" />
-        <mark key="." line="51" column="8" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1556557755532">
         <mark key="[" line="45" column="76" />
@@ -66,11 +49,12 @@
         <mark key="." line="49" column="39" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556579188516" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556579199042">
-        <mark key="[" line="194" column="60" />
-        <mark key="]" line="194" column="86" />
-        <mark key="^" line="194" column="86" />
-        <mark key="." line="194" column="86" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556580696358">
+        <mark key="'" line="275" column="17" />
+        <mark key="[" line="241" column="60" />
+        <mark key="]" line="241" column="64" />
+        <mark key="^" line="241" column="64" />
+        <mark key="." line="241" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1556245017402">
         <mark key="[" line="0" column="0" />
@@ -120,7 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="523" column="23" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="65" column="74" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="67" column="17" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="227" column="17" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
@@ -220,72 +203,53 @@
       <jump line="23" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="240" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="241" column="61" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="275" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIHZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZD1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>allocation</text>
       </register>
       <register name="/" type="4">
         <text>Allocation.objects</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoQWxsb2NhdGlvbiwgJ3Jpc2tfZnJlZV9yYXRlX3dlaWdodGVkX3R0ZScsIHJldHVybl92YWx1ZT0xLjQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFsbG9jYXRpb24uc2F2ZSh1cGRhdGVfZmllbGRzPVsnZGlzdHJpYnV0aW9ucycsICdicmVha3BvaW50cycsICd0b3RhbHMnXSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIHZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZD1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBlZV9kaXN0cmlidXRpb25zLCBlZV9icmVha3BvaW50cywgZWVfdG90YWxzID0gW05vbmVdKjMK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZWFybHlfZXhpdF9vcG0ucnVuX29wbSgpCiAgICAgICAgICAgIGVhcmx5X2V4aXRfb3BtID0g</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZWFybHlfZXhpdF9vcG0ucnVuX29wbSgpCiAgICAgICAgICAgIGVhcmx5X2V4aXRfb3BtID0g</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBjaGFuZ2UgdGhpcyB0byB1c2UgdGhlIGJhY2tzb2x2ZS1kYXRlIGFsbG9jYXRpb24KICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uID0gZWFybHlfZXhpdF9zY2VuYXJpby5hbGxvY2F0aW9uCgogICAgICAgICAgICBpZiBlYXJseV9leGl0X2FsbG9jYXRpb24udG90YWxzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJFYXJseSBzY2VuYXJpbyBhbGxvY2F0aW9uIG11c3QgYmUgcnVuIGJlZm9yZSB0aGUgaHlicmlkIGJhY2tzb2x2ZS4iKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9yZXdpbmRfdmFsdWUgPSBlYXJseV9leGl0X3NjZW5hcmlvLnNjZW5hcmlvX2NvbXBhbnlfdmFsdWUgLSAoc2VsZi5uZXdfY2FwaXRhbF9yYWlzZWQgb3IgMCkKICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uX2J1aWxkZXIgPSBzZWxmLmdldF9hbGxvY2F0aW9uX2J1aWxkZXIoZWFybHlfZXhpdF9yZXdpbmRfdmFsdWUpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>AllocationBuilder(
-            company_value=None,
-            non_convertible_debt=self.allocation.get_non_convertible_debt_wtte(),
-            excludes_debt=self.allocation.excludes_debt,
-            treat_capped_notes_as_equity=self.allocation.treat_capped_notes_as_equity,
-            as_of_date=self.backsolve_date,
-            captable_data=self.get_captable_data(),
-            time_to_next_liquidity=self.allocation.get_time_to_next_liquidity(),
-            risk_free_rate_weighted_tte=self.allocation.risk_free_rate_weighted_tte,
-            volatility=self.allocation.volatility,
-        )</text>
-      </register>
-      <register name="9" type="4">
-        <text>AllocationBuilder(
-                company_value=early_exit_rewind_value,
-                non_convertible_debt=self.allocation.get_non_convertible_debt_wtte(),
-                excludes_debt=self.allocation.excludes_debt,
-                treat_capped_notes_as_equity=self.allocation.treat_capped_notes_as_equity,
-                as_of_date=self.backsolve_date,
-                captable_data=self.get_captable_data(),
-                time_to_next_liquidity=self.allocation.get_time_to_next_liquidity(),
-                risk_free_rate_weighted_tte=self.allocation.risk_free_rate_weighted_tte,
-                volatility=self.allocation.volatility,
-            )</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
