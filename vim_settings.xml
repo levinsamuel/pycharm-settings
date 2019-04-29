@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/git/carta-web/bin/create_release_notes.py" timestamp="1556209113870">
         <mark key="[" line="69" column="26" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556575709377">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="80" />
-        <mark key="^" line="38" column="80" />
-        <mark key="." line="38" column="80" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556577635737">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/reports/mixins.py" timestamp="1555706756600">
         <mark key="'" line="1193" column="35" />
@@ -48,7 +48,7 @@
         <mark key="]" line="1195" column="35" />
         <mark key="." line="1195" column="35" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556567728402">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556577470076">
         <mark key="'" line="865" column="33" />
         <mark key="[" line="886" column="8" />
         <mark key="]" line="886" column="29" />
@@ -65,7 +65,7 @@
         <mark key="^" line="49" column="39" />
         <mark key="." line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556574717165">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556578104382">
         <mark key="[" line="179" column="72" />
         <mark key="]" line="179" column="85" />
         <mark key="^" line="179" column="85" />
@@ -224,34 +224,40 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>get_opm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>get_opm</text>
+        <text>__get_scenario_value</text>
       </register>
       <register name="/" type="4">
         <text>fetch_comp_data</text>
       </register>
-      <register name="0" type="4">
-        <text>scenario_company_value</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoQWxsb2NhdGlvbiwgJ3Jpc2tfZnJlZV9yYXRlX3dlaWdodGVkX3R0ZScsIHJldHVybl92YWx1ZT0xLjQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZWFybHlfZXhpdF9vcG0ucnVuX29wbSgpCiAgICAgICAgICAgIGVhcmx5X2V4aXRfb3BtID0g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBjaGFuZ2UgdGhpcyB0byB1c2UgdGhlIGJhY2tzb2x2ZS1kYXRlIGFsbG9jYXRpb24KICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uID0gZWFybHlfZXhpdF9zY2VuYXJpby5hbGxvY2F0aW9uCgogICAgICAgICAgICBpZiBlYXJseV9leGl0X2FsbG9jYXRpb24udG90YWxzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJFYXJseSBzY2VuYXJpbyBhbGxvY2F0aW9uIG11c3QgYmUgcnVuIGJlZm9yZSB0aGUgaHlicmlkIGJhY2tzb2x2ZS4iKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZWFybHlfZXhpdF9vcG0ucnVuX29wbSgpCiAgICAgICAgICAgIGVhcmx5X2V4aXRfb3BtID0g</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBjaGFuZ2UgdGhpcyB0byB1c2UgdGhlIGJhY2tzb2x2ZS1kYXRlIGFsbG9jYXRpb24KICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uID0gZWFybHlfZXhpdF9zY2VuYXJpby5hbGxvY2F0aW9uCgogICAgICAgICAgICBpZiBlYXJseV9leGl0X2FsbG9jYXRpb24udG90YWxzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJFYXJseSBzY2VuYXJpbyBhbGxvY2F0aW9uIG11c3QgYmUgcnVuIGJlZm9yZSB0aGUgaHlicmlkIGJhY2tzb2x2ZS4iKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9yZXdpbmRfdmFsdWUgPSBlYXJseV9leGl0X3NjZW5hcmlvLnNjZW5hcmlvX2NvbXBhbnlfdmFsdWUgLSAoc2VsZi5uZXdfY2FwaXRhbF9yYWlzZWQgb3IgMCkKICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uX2J1aWxkZXIgPSBzZWxmLmdldF9hbGxvY2F0aW9uX2J1aWxkZXIoZWFybHlfZXhpdF9yZXdpbmRfdmFsdWUpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>AllocationBuilder(
             company_value=None,
             non_convertible_debt=self.allocation.get_non_convertible_debt_wtte(),
@@ -264,7 +270,7 @@
             volatility=self.allocation.volatility,
         )</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>AllocationBuilder(
                 company_value=early_exit_rewind_value,
                 non_convertible_debt=self.allocation.get_non_convertible_debt_wtte(),
@@ -277,14 +283,8 @@
                 volatility=self.allocation.volatility,
             )</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgYWxsb2NhdGlvbl9idWlsZGVyID0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICB3ZWlnaHQgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKAogICAgICAgIG1heF9kaWdpdHM9MjIsCiAgICAgICAgZGVjaW1hbF9wbGFjZXM9MjEsCiAgICAgICAgZGVmYXVsdD0wLAogICAgICAgIHZhbGlkYXRvcnM9W01pblZhbHVlVmFsaWRhdG9yKDApXSwKICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
