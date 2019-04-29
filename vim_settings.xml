@@ -25,10 +25,12 @@
       <file name="/Python Console" timestamp="1556311502276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1556306780805">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="12" />
-        <mark key="." line="79" column="12" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1556556208385">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="107" column="71" />
+        <mark key="]" line="108" column="35" />
+        <mark key="." line="108" column="35" />
+        <mark key="^" line="108" column="35" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1555706772771">
         <mark key="'" line="15" column="0" />
@@ -86,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="11" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="500" column="11" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="25" column="21" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
@@ -186,16 +187,17 @@
       <jump line="13" column="7" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
       <jump line="47" column="75" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
       <jump line="50" column="89" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
+      <jump line="57" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TemplateDoesNotExist</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGNvbnN0YW50cyAgIyBub3FhOiBGNDAxCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wbSA9IG9wbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, mocker</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mocker</text>
@@ -207,32 +209,32 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wbSA9IG9wbQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wbSA9IG9wbQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wbSA9IG9wbQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wbSA9IG9wbQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGNvbnN0YW50cyAgIyBub3FhOiBGNDAxCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>, mocker):
         valuation</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">bW9ja2VyLnBhdGNoLm9iamVjdCgKICAgICAgICAgICAgdmFsdWF0aW9uLAogICAgICAgICAgICA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IHNjZW5hcmlvLmdldF92YWx1YXRpb24oKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbi5nZXRfaHlicmlkX2Vhcmx5X3NjZW5hcmlvID0gTWFnaWNNb2NrKHJldHVybl92YWx1ZT1lYXJseV9leGl0X3NjZW5hcmlvKQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoQWxsb2NhdGlvbiwgJ3RvdGFscycsIHJldHVybl92YWx1ZT1bXSkK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
