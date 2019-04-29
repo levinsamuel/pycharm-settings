@@ -52,7 +52,8 @@
         <mark key="^" line="49" column="39" />
         <mark key="." line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556342755134">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556565627525">
+        <mark key="'" line="42" column="4" />
         <mark key="[" line="99" column="48" />
         <mark key="]" line="99" column="48" />
         <mark key="." line="99" column="48" />
@@ -111,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="21" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="476" column="96" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/umbrella/test_umbrella.py" />
       <jump line="716" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -211,6 +211,7 @@
       <jump line="50" column="89" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
       <jump line="57" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" />
       <jump line="865" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -223,7 +224,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mocker</text>
+        <text>fetch_comp_data</text>
       </register>
       <register name="0" type="4">
         <text>mock.MagicMock(return_value=[early, late])</text>
@@ -263,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mocker</last-search>
+      <last-search>fetch_comp_data</last-search>
       <last-offset />
-      <last-pattern>mocker</last-pattern>
+      <last-pattern>fetch_comp_data</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -273,7 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_request</entry>
         <entry>import</entry>
         <entry>generate</entry>
         <entry>single_tem</entry>
@@ -293,6 +293,7 @@
         <entry>hybrid</entry>
         <entry>allocation</entry>
         <entry>mocker</entry>
+        <entry>fetch_comp_data</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
