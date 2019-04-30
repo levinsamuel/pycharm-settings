@@ -36,11 +36,21 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" timestamp="1556581824838">
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="72" />
-        <mark key="^" line="52" column="72" />
-        <mark key="." line="52" column="72" />
+      <file name="$USER_HOME$/git/carta-web/tests/backend/conftest.py" timestamp="1556583538881">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/conftest.py" timestamp="1556583581234">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" timestamp="1556583345092">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/factories/valuations/factories.py" timestamp="1556582233048">
         <mark key="]" line="96" column="24" />
@@ -61,12 +71,12 @@
         <mark key="." line="49" column="39" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556579188516" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556580696358">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556583717112">
         <mark key="'" line="275" column="17" />
-        <mark key="[" line="241" column="60" />
-        <mark key="]" line="241" column="64" />
-        <mark key="^" line="241" column="64" />
-        <mark key="." line="241" column="64" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="12" />
+        <mark key="^" line="265" column="91" />
+        <mark key="." line="266" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1556245017402">
         <mark key="[" line="0" column="0" />
@@ -215,10 +225,10 @@
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbC5tb2RlbHMgaW1wb3J0IFJlcXVlc3RGb3JJbmZvcm1hdGlvbiwgQ29ycG9yYXRpb25TdW1tYXJ5LCBWYWx1YXRpb25SZXBvcnQKCmZyb20gZXNoYXJlcy52YWwubW9kZWxzIGltcG9ydCAoCiAgICBJUkM0MDlBUmVwb3J0LAogICAgSVJDNDA5QUZhaXJNYXJrZXRWYWx1ZSwKICAgIElSQzQwOUFSZXBvcnREQ0ZEYXRhLAogICAgSVJDNDA5QVJlcG9ydElucHV0cywKICAgIElSQzQwOUFWYWx1YXRpb25SZXF1ZXN0LAogICAgSVJDNDA5QVJlcG9ydENhc2hGbG93RENGRGF0YSwKICAgIElSQzQwOUFSZXBvcnRHUENEYXRhLAogICAgQVNDODIwVmFsdWF0aW9uUmVxdWVzdCwKICAgIEFTQzgyMFNlbGZTZXJ2aWNlVmFsdWF0aW9uUmVxdWVzdAopCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5lYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gaXMgTm9uZToK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>Allocation.objects</text>
@@ -230,31 +240,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbC5tb2RlbHMgaW1wb3J0IFJlcXVlc3RGb3JJbmZvcm1hdGlvbiwgQ29ycG9yYXRpb25TdW1tYXJ5LCBWYWx1YXRpb25SZXBvcnQKCmZyb20gZXNoYXJlcy52YWwubW9kZWxzIGltcG9ydCAoCiAgICBJUkM0MDlBUmVwb3J0LAogICAgSVJDNDA5QUZhaXJNYXJrZXRWYWx1ZSwKICAgIElSQzQwOUFSZXBvcnREQ0ZEYXRhLAogICAgSVJDNDA5QVJlcG9ydElucHV0cywKICAgIElSQzQwOUFWYWx1YXRpb25SZXF1ZXN0LAogICAgSVJDNDA5QVJlcG9ydENhc2hGbG93RENGRGF0YSwKICAgIElSQzQwOUFSZXBvcnRHUENEYXRhLAogICAgQVNDODIwVmFsdWF0aW9uUmVxdWVzdCwKICAgIEFTQzgyMFNlbGZTZXJ2aWNlVmFsdWF0aW9uUmVxdWVzdAopCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5lYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gaXMgTm9uZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIElSQzQwOUFSZXBvcnRDYXNoRmxvd0RDRkRhdGFGYWN0b3J5LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX25vX3ZhbHVhdGlvbnNfYXJlX3NlbGVjdGVkX3JhaXNlc19leGNlcHRpb24oc2VsZik6CiAgICAgICAgY29ycG9yYXRpb24gPSBDb3Jwb3JhdGlvbkZhY3RvcnkoKQogICAgICAgIHZhbHVhdGlvbiA9IElSQzQwOUFWYWx1YXRpb24ub2JqZWN0cy5jcmVhdGUoY29ycG9yYXRpb25fcGs9Y29ycG9yYXRpb24uaWQpCgogICAgICAgIHVtYnJlbGxhID0gVW1icmVsbGEub2JqZWN0cy5jcmVhdGUoKQogICAgICAgIHV2ciA9IFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24ub2JqZWN0cy5jcmVhdGUodmFsdWF0aW9uPXZhbHVhdGlvbiwgdW1icmVsbGE9dW1icmVsbGEpCgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhleGNlcHRpb25zLk5vVW1icmVsbGFWYWx1YXRpb25SZWxhdGlvbik6CiAgICAgICAgICAgIGdldF9zZWxlY3RlZF92YWx1YXRpb24odXZyLnVtYnJlbGxhX2lkKQo=</text>
+        <text encoding="base64">ICAgIElSQzQwOUFSZXBvcnREQ0ZEYXRhRmFjdG9yeSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIHZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZD1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIElSQzQwOUFSZXBvcnRJbnB1dHNGYWN0b3J5LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5maXh0dXJlcy5jb25mdGVzdCBpbXBvcnQgKCAgIyBub3FhOiBmaXh0dXJlcwogICAgc2V0dXAsCiAgICB0ZXN0X2Vudl9sZWdhbF9hZG1pbmlzdHJhdG9yLAogICAgdGVzdF9lbnZfc3VwZXJ1c2VyLAogICAgbXVsdGlwbGVfb25ib2FyZGluZ19yZXF1ZXN0cywKKQpmcm9tIHRlc3RzLmZpeHR1cmVzLmNvcnBvcmF0aW9ucy5maXh0dXJlcyBpbXBvcnQgKCAgIyBub3FhOiBmaXh0dXJlcwogICAgY29ycG9yYXRpb25fd2l0aF9zZWN1cml0aWVzLAogICAgb2xkX3Blcm1pc3Npb25zX2NvcnBvcmF0aW9uCikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlZV9kaXN0cmlidXRpb25zLCBlZV9icmVha3BvaW50cywgZWVfdG90YWxzID0gW05vbmVdKjMK</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mYWN0b3JpZXMub3JnYW5pemF0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IE9yZ2FuaXphdGlvbkZhY3RvcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mYWN0b3JpZXMuY29ycG9yYXRpb25zLmZhY3RvcmllcyBpbXBvcnQgQ29ycG9yYXRpb25GYWN0b3J5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdGlvbnMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgIFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
