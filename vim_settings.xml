@@ -36,12 +36,24 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1556579998457" />
+      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" timestamp="1556581824838">
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="72" />
+        <mark key="^" line="52" column="72" />
+        <mark key="." line="52" column="72" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/factories/valuations/factories.py" timestamp="1556582233048">
+        <mark key="]" line="96" column="24" />
+        <mark key="^" line="96" column="24" />
+        <mark key="." line="96" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1556581443675" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556579014589">
         <mark key="'" line="241" column="61" />
         <mark key="[" line="886" column="8" />
         <mark key="]" line="886" column="29" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/services/test_valuation.py" timestamp="1556581166372" />
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1556557755532">
         <mark key="[" line="45" column="76" />
         <mark key="]" line="49" column="39" />
@@ -85,13 +97,6 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1556300790250">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="866" column="47" />
-        <mark key="]" line="866" column="51" />
-        <mark key="." line="866" column="51" />
-        <mark key="^" line="866" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/__init__.py" timestamp="1556303018707">
         <mark key="[" line="38" column="35" />
@@ -210,10 +215,10 @@
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIHZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZD1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbC5tb2RlbHMgaW1wb3J0IFJlcXVlc3RGb3JJbmZvcm1hdGlvbiwgQ29ycG9yYXRpb25TdW1tYXJ5LCBWYWx1YXRpb25SZXBvcnQKCmZyb20gZXNoYXJlcy52YWwubW9kZWxzIGltcG9ydCAoCiAgICBJUkM0MDlBUmVwb3J0LAogICAgSVJDNDA5QUZhaXJNYXJrZXRWYWx1ZSwKICAgIElSQzQwOUFSZXBvcnREQ0ZEYXRhLAogICAgSVJDNDA5QVJlcG9ydElucHV0cywKICAgIElSQzQwOUFWYWx1YXRpb25SZXF1ZXN0LAogICAgSVJDNDA5QVJlcG9ydENhc2hGbG93RENGRGF0YSwKICAgIElSQzQwOUFSZXBvcnRHUENEYXRhLAogICAgQVNDODIwVmFsdWF0aW9uUmVxdWVzdCwKICAgIEFTQzgyMFNlbGZTZXJ2aWNlVmFsdWF0aW9uUmVxdWVzdAopCg==</text>
       </register>
       <register name="-" type="4">
-        <text>allocation</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Allocation.objects</text>
@@ -225,31 +230,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIHZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZD1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbC5tb2RlbHMgaW1wb3J0IFJlcXVlc3RGb3JJbmZvcm1hdGlvbiwgQ29ycG9yYXRpb25TdW1tYXJ5LCBWYWx1YXRpb25SZXBvcnQKCmZyb20gZXNoYXJlcy52YWwubW9kZWxzIGltcG9ydCAoCiAgICBJUkM0MDlBUmVwb3J0LAogICAgSVJDNDA5QUZhaXJNYXJrZXRWYWx1ZSwKICAgIElSQzQwOUFSZXBvcnREQ0ZEYXRhLAogICAgSVJDNDA5QVJlcG9ydElucHV0cywKICAgIElSQzQwOUFWYWx1YXRpb25SZXF1ZXN0LAogICAgSVJDNDA5QVJlcG9ydENhc2hGbG93RENGRGF0YSwKICAgIElSQzQwOUFSZXBvcnRHUENEYXRhLAogICAgQVNDODIwVmFsdWF0aW9uUmVxdWVzdCwKICAgIEFTQzgyMFNlbGZTZXJ2aWNlVmFsdWF0aW9uUmVxdWVzdAopCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlZV9kaXN0cmlidXRpb25zLCBlZV9icmVha3BvaW50cywgZWVfdG90YWxzID0gW05vbmVdKjMK</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX25vX3ZhbHVhdGlvbnNfYXJlX3NlbGVjdGVkX3JhaXNlc19leGNlcHRpb24oc2VsZik6CiAgICAgICAgY29ycG9yYXRpb24gPSBDb3Jwb3JhdGlvbkZhY3RvcnkoKQogICAgICAgIHZhbHVhdGlvbiA9IElSQzQwOUFWYWx1YXRpb24ub2JqZWN0cy5jcmVhdGUoY29ycG9yYXRpb25fcGs9Y29ycG9yYXRpb24uaWQpCgogICAgICAgIHVtYnJlbGxhID0gVW1icmVsbGEub2JqZWN0cy5jcmVhdGUoKQogICAgICAgIHV2ciA9IFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24ub2JqZWN0cy5jcmVhdGUodmFsdWF0aW9uPXZhbHVhdGlvbiwgdW1icmVsbGE9dW1icmVsbGEpCgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhleGNlcHRpb25zLk5vVW1icmVsbGFWYWx1YXRpb25SZWxhdGlvbik6CiAgICAgICAgICAgIGdldF9zZWxlY3RlZF92YWx1YXRpb24odXZyLnVtYnJlbGxhX2lkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIHZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZD1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eV9zZWxlY3Rpb25fbWV0aG9kCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBlZV9kaXN0cmlidXRpb25zLCBlZV9icmVha3BvaW50cywgZWVfdG90YWxzID0gW05vbmVdKjMK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWFybHlfZXhpdF9vcG0ucnVuX29wbSgpCiAgICAgICAgICAgIGVhcmx5X2V4aXRfb3BtID0g</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBjaGFuZ2UgdGhpcyB0byB1c2UgdGhlIGJhY2tzb2x2ZS1kYXRlIGFsbG9jYXRpb24KICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uID0gZWFybHlfZXhpdF9zY2VuYXJpby5hbGxvY2F0aW9uCgogICAgICAgICAgICBpZiBlYXJseV9leGl0X2FsbG9jYXRpb24udG90YWxzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJFYXJseSBzY2VuYXJpbyBhbGxvY2F0aW9uIG11c3QgYmUgcnVuIGJlZm9yZSB0aGUgaHlicmlkIGJhY2tzb2x2ZS4iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGVhcmx5X2V4aXRfc2NlbmFyaW8uc2NlbmFyaW9fY29tcGFueV92YWx1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
