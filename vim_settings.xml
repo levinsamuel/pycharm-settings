@@ -44,12 +44,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" timestamp="1556642602185">
+      <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" timestamp="1556671116662">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="32" column="75" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="42" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="43" column="42" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/factories/valuations/factories.py" timestamp="1556585041453">
         <mark key="[" line="1" column="25" />
@@ -80,7 +80,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="87" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1556570172655">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1556670692447">
         <mark key="'" line="57" column="13" />
         <mark key="[" line="65" column="50" />
         <mark key="]" line="65" column="50" />
@@ -214,10 +214,10 @@
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>backsolve</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>backsolve</text>
       </register>
       <register name="/" type="4">
         <text>\/llc</text>
@@ -228,33 +228,33 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>context['report_type']['is_llc']
                                             and</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Y29udGV4dFsncmVwb3J0X3R5cGUnXVsnaXNfbGxjJ10KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCA=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3ZhbHVhdGlvbi1yZXBvcnQvNDA5YS9lbmdhZ2VtZW50bGV0dGVyX2luc2VydC5odG1sJywgJ0VuZ2FnZW1lbnQgTGV0dGVyJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHZhbHVhdGlvbi5pc19oeWJyaWQ6CiAgICAgICAgICAgIHJldHVybiB0ZW1wbGF0ZXMuSVJDNDA5QV9IWUJSSURfVEVNUExBVEVTCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ3ZhbHVhdGlvbi1yZXBvcnQvNDA5YS9lbmdhZ2VtZW50bGV0dGVyX2luc2VydC5odG1sJywgJ0VuZ2FnZW1lbnQgTGV0dGVyJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHZhbHVhdGlvbi5pc19oeWJyaWQ6CiAgICAgICAgICAgIHJldHVybiB0ZW1wbGF0ZXMuSVJDNDA5QV9IWUJSSURfVEVNUExBVEVTCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MsIFRlc3RDYXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmUgPSBCYWNrc29sdmUub2JqZWN0cy5jcmVhdGUoCiAgICAgICAgICAgIHNjZW5hcmlvPXNjZW5hcmlvLAogICAgICAgICAgICBhbGxvY2F0aW9uPUFsbG9jYXRpb24ub2JqZWN0cy5jcmVhdGUoCiAgICAgICAgICAgICAgICB2b2xhdGlsaXR5X3NlbGVjdGlvbl9tZXRob2Q9Y29uc3RhbnRzLlZPTEFUSUxJVFlfU0VMRUNUSU9OX1JFR1JFU1NJT04sCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGJhY2tzb2x2ZV9kYXRlPWRhdGUoMjAxNywgNiwgMSksCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MsIFRlc3RDYXNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
