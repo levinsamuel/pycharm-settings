@@ -60,6 +60,12 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1556647120583" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1556581443675" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556820577632">
+        <mark key="[" line="226" column="20" />
+        <mark key="]" line="226" column="20" />
+        <mark key="^" line="224" column="15" />
+        <mark key="." line="226" column="20" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/services/test_valuation.py" timestamp="1556581166372" />
       <file name="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" timestamp="1556737850465">
         <mark key="[" line="113" column="0" />
@@ -73,10 +79,27 @@
         <mark key="." line="49" column="39" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556579188516" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556583717112">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556820117735">
         <mark key="'" line="273" column="17" />
+        <mark key="[" line="165" column="44" />
+        <mark key="]" line="165" column="68" />
+        <mark key="." line="165" column="68" />
+        <mark key="^" line="165" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="87" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1556661878909" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1556819849396" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_scenarios.py" timestamp="1556820812612">
+        <mark key="[" line="201" column="32" />
+        <mark key="]" line="201" column="32" />
+        <mark key="^" line="200" column="8" />
+        <mark key="." line="201" column="32" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/valuation_scenario_relation.py" timestamp="1556560578947">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -203,16 +226,16 @@
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>\/llc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd2YWx1YXRpb24tcmVwb3J0L2xsYy9jb21wYW55c3VtbWFyeV9pbnNlcnQuaHRtbCc6ICd2YWx1YXRpb24tcmVwb3J0LzQwOWEvY29tcGFueXN1bW1hcnlfaW5zZXJ0Lmh0bWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvID0gX19jcmVhdGVfZWFybHlfZXhpdF9zY2VuYXJpbyh2YWx1YXRpb24pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
