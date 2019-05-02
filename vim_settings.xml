@@ -60,13 +60,12 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1556647120583" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1556581443675" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1556820577632">
-        <mark key="[" line="226" column="20" />
-        <mark key="]" line="226" column="20" />
-        <mark key="^" line="224" column="15" />
-        <mark key="." line="226" column="20" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/services/test_valuation.py" timestamp="1556581166372" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" timestamp="1556822215754">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="75" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" timestamp="1556737850465">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -80,26 +79,10 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1556579188516" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1556820117735">
-        <mark key="'" line="273" column="17" />
-        <mark key="[" line="165" column="44" />
-        <mark key="]" line="165" column="68" />
-        <mark key="." line="165" column="68" />
-        <mark key="^" line="165" column="68" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="87" />
+        <mark key="'" line="272" column="17" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1556661878909" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1556819849396" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_scenarios.py" timestamp="1556820812612">
-        <mark key="[" line="201" column="32" />
-        <mark key="]" line="201" column="32" />
-        <mark key="^" line="200" column="8" />
-        <mark key="." line="201" column="32" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/valuation_scenario_relation.py" timestamp="1556560578947">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -225,11 +208,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25zLm1vZGVscyBpbXBvcnQgVW1icmVsbGFWYWx1YXRpb25SZWxhdGlvbiwgZXhjZXB0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>\/llc</text>
@@ -240,34 +223,34 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25zLm1vZGVscyBpbXBvcnQgVW1icmVsbGFWYWx1YXRpb25SZWxhdGlvbiwgZXhjZXB0aW9ucwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>getattr(
             ValuationReportContextGenerator, '_ValuationReportContextGenerator__get_sections'
         )(valuation, corporation)</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB0ZXN0X2Vudl9sZWdhbF9hZG1pbmlzdHJhdG9yX3dpdGhfc2lnbmF0b3JpZXMoc2V0dXApOgogICAgdGVzdF9lbnYgPSBjcmVhdGVfdGVzdF9lbnYoCiAgICAgICAgcm9sZT1MRUdBTF9BRE1JTklTVFJBVE9SLAogICAgICAgIHNldF9zaWduYXRvcmllcz1UcnVlLAogICAgICAgIGFkZF9zaGFyZV9jbGFzcz1GYWxzZSwKICAgICAgICAqKnNldHVwKQoKICAgIGNvcnBvcmF0aW9uID0gdGVzdF9lbnZbJ2NvcnBvcmF0aW9uJ10KICAgICMgQ3JlYXRlIGEgc2hhcmUgY2xhc3MKICAgIGNzYyA9IENvbW1vblNoYXJlQ2xhc3NGYWN0b3J5LmNyZWF0ZShjb3Jwb3JhdGlvbj1jb3Jwb3JhdGlvbikKCiAgICAjIENyZWF0ZSBhIHZhbHVhdGlvbiBSZXBvcnQKICAgIHJlcG9ydCA9IElSQzQwOUFSZXBvcnRGYWN0b3J5KAogICAgICAgIGNvcnBvcmF0aW9uPWNvcnBvcmF0aW9uLAogICAgICAgIGVmZmVjdGl2ZV9kYXRlPWRhdGUoeWVhcj0yMDE2LCBtb250aD03LCBkYXk9MSksCiAgICAgICAgZXhwaXJhdGlvbl9kYXRlPWRhdGUoeWVhcj0yMDE3LCBtb250aD03LCBkYXk9MSksCiAgICApCiAgICBJUkM0MDlBRmFpck1hcmtldFZhbHVlRmFjdG9yeSgKICAgICAgICByZXBvcnQ9cmVwb3J0LAogICAgICAgIHNoYXJlX2NsYXNzPWNzYywKICAgICkKCiAgICByZXR1cm4gdGVzdF9lbnYKCgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSB0ZXN0cy5maXh0dXJlcy5jb25mdGVzdCBpbXBvcnQgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSB0ZXN0cy5maXh0dXJlcy52YWx1YXRpb25zLmZpeHR1cmVzIGltcG9ydCB2YWx1YXRpb25fNDA5YQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGNvbnN0YW50cwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFNjZW5hcmlvLCBBbGxvY2F0aW9uLCBCYWNrc29sdmUsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5maXh0dXJlcy5jb25mdGVzdCBpbXBvcnQgKgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5maXh0dXJlcy5jb25mdGVzdCBpbXBvcnQgKgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
