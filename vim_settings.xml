@@ -124,6 +124,7 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/graphene/types/schema.py" timestamp="1556841248653" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/set_up_hybrid_val.py" timestamp="1556836328850">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="60" />
@@ -138,7 +139,13 @@
         <mark key="^" line="99" column="45" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1556661878909" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1556839531940" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1556841436005">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="433" column="9" />
+        <mark key="]" line="433" column="25" />
+        <mark key="." line="433" column="25" />
+        <mark key="^" line="433" column="25" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_scenarios.py" timestamp="1556835256134">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -159,10 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
-      <jump line="13" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
-      <jump line="14" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="762" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
       <jump line="34" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
       <jump line="13" column="7" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
@@ -259,16 +262,20 @@
       <jump line="21" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
       <jump line="105" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
       <jump line="19" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
+      <jump line="426" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="16" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>graphene.Schema</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>graphene.Schema</text>
       </register>
       <register name="/" type="4">
         <text>ordered</text>
@@ -280,15 +287,18 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JhcGhxbChzZWxmLCAqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdGlvbnMsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>def __has_hybrid_early(valuation):
     return ValuationScenarioRelation.objects.filter(
         valuation=valuation,
@@ -307,20 +317,17 @@ def __has_hybrid_late(valuation):
 
 d</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBfX2hhc19oeWJyaWRfbGF0ZSh2YWx1YXRpb24pOgogICAgICAgIF9fY3JlYXRlX2xhdGVfZXhpdF9zY2VuYXJpbyh2YWx1YXRpb24sIGVhcmx5X2V4aXRfc2NlbmFyaW8pCgogICAgX19zZXRfdGVtcGxhdGVfdHlwZSh2YWx1YXRpb24pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvID0gX19nZXRfZWFybHlfZXhpdF9zY2VuYXJpbyh2YWx1YXRpb24pCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGZhaWxfaWZfZXhpc3RzIGFuZCBlYXJseV9leGl0IGlzIG5vdCBOb25lIGFuZCBsYXRlX2V4aXQgaXMgbm90IE5vbmU6CiAgICAgICAgcmFpc2UgZXhjZXB0aW9ucy4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMK</text>
+        <text encoding="base64">ICAgIGlmIGZhaWxfaWZfZXhpc3RzIGFuZCBlYXJseV9leGl0IGlzIG5vdCBOb25lIGFuZCBsYXRlX2V4aXQgaXMgbm90IE5vbmU6CiAgICAgICAgcmFpc2UgZXhjZXB0aW9ucy4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
