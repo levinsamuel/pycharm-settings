@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1556904566582">
-        <mark key="'" line="111" column="28" />
-        <mark key="[" line="109" column="16" />
-        <mark key="]" line="109" column="26" />
-        <mark key="." line="109" column="26" />
-        <mark key="^" line="109" column="26" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1556906825394">
+        <mark key="'" line="113" column="28" />
+        <mark key="[" line="122" column="35" />
+        <mark key="]" line="122" column="46" />
+        <mark key="." line="122" column="46" />
+        <mark key="^" line="122" column="46" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1556826405532">
         <mark key="'" line="15" column="0" />
@@ -143,6 +143,12 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_allocation.py" timestamp="1556906409257">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/graphene/types/schema.py" timestamp="1556841248653" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" timestamp="1556850163618">
         <mark key="'" line="11" column="17" />
@@ -165,12 +171,12 @@
         <mark key="^" line="99" column="45" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/llc/cover_page_insert.html" timestamp="1556661878909" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1556847275731">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1556906872511">
         <mark key="'" line="366" column="44" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="." line="424" column="0" />
-        <mark key="^" line="424" column="23" />
+        <mark key="[" line="425" column="43" />
+        <mark key="]" line="425" column="51" />
+        <mark key="." line="425" column="51" />
+        <mark key="^" line="425" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_scenarios.py" timestamp="1556835256134">
         <mark key="[" line="10" column="0" />
@@ -305,62 +311,46 @@
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Allocation</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Allocation</text>
       </register>
       <register name="/" type="4">
         <text>ordered</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zY2VuYXJpb3MuZ2V0KAogICAgICAgICAgICB2YWx1YXRpb25fcmVsYXRpb25fX3JlbGF0aW9uX3R5cGU9VmFsdWF0aW9uVGVtcGxhdGUuSFlCUklELCB2YWx1YXRpb25fcmVsYXRpb25fX2lzX2h5YnJpZF9lYXJseT1UcnVlCiAgICAgICAgKQo=</text>
+        <text encoding="base64">bG9nLmluZm8oJ211dGF0ZSBtZXRob2Q6ICVzJywgbXV0YXRpb25zLlJ1bkFsbG9jYXRpb24ubXV0YXRlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nLmRlYnVnKCdsb2NhbHMgaW4gbXV0YXRpb24gbW9kdWxlOiAlcycsIGxvY2FscygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBsb2dfZXJyb3JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU2NoZW1hV2l0aExvZ2dpbmcoZ3JhcGhlbmUuU2NoZW1hKToKICAgIGRlZiBleGVjdXRlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc3VwZXIoKS5leGVjdXRlKCphcmdzLCAqKmt3YXJncykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZy5lcnJvcignZ3JhcGhxbCBlcnJvcjogJXMnLCBlKQogICAgICAgICAgICByYWlzZSBlCgoK</text>
+        <text encoding="base64">bG9nLmRlYnVnKCdsb2NhbHMgaW4gbXV0YXRpb24gbW9kdWxlOiAlcycsIGxvY2FscygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ211dGF0ZSBjYWxsZWQgb24gVXBkYXRlU2NlbmFyaW8sIGlkOiAlZCcsIGlkKQo=</text>
+        <text encoding="base64">ICAgIEBsb2dfZXJyb3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JhcGhxbChzZWxmLCAqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">Y2xhc3MgU2NoZW1hV2l0aExvZ2dpbmcoZ3JhcGhlbmUuU2NoZW1hKToKICAgIGRlZiBleGVjdXRlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc3VwZXIoKS5leGVjdXRlKCphcmdzLCAqKmt3YXJncykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZy5lcnJvcignZ3JhcGhxbCBlcnJvcjogJXMnLCBlKQogICAgICAgICAgICByYWlzZSBlCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ211dGF0ZSBjYWxsZWQgb24gVXBkYXRlU2NlbmFyaW8sIGlkOiAlZCcsIGlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JhcGhxbChzZWxmLCAqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdGlvbnMsCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>def __has_hybrid_early(valuation):
-    return ValuationScenarioRelation.objects.filter(
-        valuation=valuation,
-        relation_type=constants.ValuationTemplate.HYBRID,
-        is_hybrid_early=True,
-    ).exists()
-
-
-def __has_hybrid_late(valuation):
-    return ValuationScenarioRelation.objects.filter(
-        valuation=valuation,
-        relation_type=constants.ValuationTemplate.HYBRID,
-        is_hybrid_late=True,
-    ).exists()
-
-
-d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
