@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1556845301192">
-        <mark key="'" line="8" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1556904566582">
+        <mark key="'" line="111" column="28" />
+        <mark key="[" line="109" column="16" />
+        <mark key="]" line="109" column="26" />
+        <mark key="." line="109" column="26" />
+        <mark key="^" line="109" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1556826405532">
         <mark key="'" line="15" column="0" />
@@ -198,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="896" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1124" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1596" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1598" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
@@ -298,16 +298,17 @@
       <jump line="17" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
       <jump line="366" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="10" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" />
+      <jump line="108" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBsb2dfZXJyb3JzCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>SchemaWithLogging</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ordered</text>
@@ -319,27 +320,30 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBsb2dfZXJyb3JzCg==</text>
+        <text encoding="base64">bG9nLmRlYnVnKCdsb2NhbHMgaW4gbXV0YXRpb24gbW9kdWxlOiAlcycsIGxvY2FscygpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgU2NoZW1hV2l0aExvZ2dpbmcoZ3JhcGhlbmUuU2NoZW1hKToKICAgIGRlZiBleGVjdXRlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc3VwZXIoKS5leGVjdXRlKCphcmdzLCAqKmt3YXJncykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZy5lcnJvcignZ3JhcGhxbCBlcnJvcjogJXMnLCBlKQogICAgICAgICAgICByYWlzZSBlCgoK</text>
+        <text encoding="base64">ICAgIEBsb2dfZXJyb3JzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ211dGF0ZSBjYWxsZWQgb24gVXBkYXRlU2NlbmFyaW8sIGlkOiAlZCcsIGlkKQo=</text>
+        <text encoding="base64">Y2xhc3MgU2NoZW1hV2l0aExvZ2dpbmcoZ3JhcGhlbmUuU2NoZW1hKToKICAgIGRlZiBleGVjdXRlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc3VwZXIoKS5leGVjdXRlKCphcmdzLCAqKmt3YXJncykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZy5lcnJvcignZ3JhcGhxbCBlcnJvcjogJXMnLCBlKQogICAgICAgICAgICByYWlzZSBlCgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JhcGhxbChzZWxmLCAqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ211dGF0ZSBjYWxsZWQgb24gVXBkYXRlU2NlbmFyaW8sIGlkOiAlZCcsIGlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JhcGhxbChzZWxmLCAqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2NyaXB0cy5jcmVhdGVfc2NlbmFyaW9zIGltcG9ydCBzZXRfdXBfaHlicmlkX3ZhbAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdGlvbnMsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>def __has_hybrid_early(valuation):
     return ValuationScenarioRelation.objects.filter(
         valuation=valuation,
@@ -357,9 +361,6 @@ def __has_hybrid_late(valuation):
 
 
 d</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBfX2hhc19oeWJyaWRfbGF0ZSh2YWx1YXRpb24pOgogICAgICAgIF9fY3JlYXRlX2xhdGVfZXhpdF9zY2VuYXJpbyh2YWx1YXRpb24sIGVhcmx5X2V4aXRfc2NlbmFyaW8pCgogICAgX19zZXRfdGVtcGxhdGVfdHlwZSh2YWx1YXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
