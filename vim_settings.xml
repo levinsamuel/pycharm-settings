@@ -76,12 +76,19 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="87" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1556929686826">
+        <mark key="'" line="136" column="12" />
+        <mark key="[" line="137" column="94" />
+        <mark key="]" line="105" column="19" />
+        <mark key="^" line="105" column="19" />
+        <mark key="." line="105" column="19" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/valuation_scenario_relation.py" timestamp="1556560578947">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1556916115950">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1556929089556">
         <mark key="[" line="193" column="64" />
         <mark key="]" line="194" column="95" />
         <mark key="." line="194" column="95" />
@@ -181,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1596" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1598" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1601" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1620" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
@@ -281,6 +287,7 @@
       <jump line="10" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" />
       <jump line="108" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" />
       <jump line="67" column="57" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="136" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -293,7 +300,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>GraphQL</text>
+        <text>raise</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3Jlc29sdmUgLSBtYWtlIGxvZ2dlcicpCiAgICAgICAgbG9nX2xvY2FsLmRlYnVnKCdyZXNvbHZlIC0gbG9jYWwgbG9nZ2VyJykK</text>
@@ -333,9 +340,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GraphQL</last-search>
+      <last-search>raise</last-search>
       <last-offset />
-      <last-pattern>GraphQL</last-pattern>
+      <last-pattern>raise</last-pattern>
       <last-replace>['is_PIU_and_option']</last-replace>
       <last-substitute>.is_PIU_and_option</last-substitute>
       <last-dir>1</last-dir>
@@ -343,8 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_selected</entry>
-        <entry>Valuation</entry>
         <entry>backsolve</entry>
         <entry>date</entry>
         <entry>run_hybrid</entry>
@@ -363,6 +368,8 @@
         <entry>constants</entry>
         <entry>ordered</entry>
         <entry>GraphQL</entry>
+        <entry>rause</entry>
+        <entry>raise</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
