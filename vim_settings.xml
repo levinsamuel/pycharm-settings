@@ -28,6 +28,13 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" timestamp="1557165688977">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" timestamp="1556737612351">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="1" column="0" />
@@ -148,25 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2006" column="41" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
-      <jump line="93" column="47" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
-      <jump line="12" column="14" filename="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" />
-      <jump line="149" column="45" filename="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" />
-      <jump line="22" column="32" filename="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/git/carta-web/tests/backend/valuations/models/backsolve/test_backsolve.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/carta-web/tests/backend/valuations/conftest.py" />
-      <jump line="273" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="53" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="54" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="55" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="56" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="58" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="259" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="265" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="269" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="270" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="332" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="57" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="525" column="7" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="536" column="7" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="527" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
@@ -248,22 +236,41 @@
       <jump line="8" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" />
       <jump line="266" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="91" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="88" column="18" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="90" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="110" column="84" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="9" column="761" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="13" column="87" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="111" column="23" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="114" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="32" column="25" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="20" column="109" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="21" column="109" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="25" column="139" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="27" column="104" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="17" column="147" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="18" column="140" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="19" column="120" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="14" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="125" column="20" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="28" column="20" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBBbGxvY2F0aW9uQnVpbGRlcigKICAgICAgICAgICAgY29tcGFueV92YWx1ZT1Ob25lLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD1zZWxmLmFsbG9jYXRpb24uZ2V0X25vbl9jb252ZXJ0aWJsZV9kZWJ0X3d0dGUoKSwKICAgICAgICAgICAgZXhjbHVkZXNfZGVidD1zZWxmLmFsbG9jYXRpb24uZXhjbHVkZXNfZGVidCwKICAgICAgICAgICAgdHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eT1zZWxmLmFsbG9jYXRpb24udHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSwKICAgICAgICAgICAgYXNfb2ZfZGF0ZT1zZWxmLmJhY2tzb2x2ZV9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXNlbGYuZ2V0X2NhcHRhYmxlX2RhdGEoKSwKICAgICAgICAgICAgdGltZV90b19uZXh0X2xpcXVpZGl0eT1zZWxmLmFsbG9jYXRpb24uZ2V0X3RpbWVfdG9fbmV4dF9saXF1aWRpdHkoKSwKICAgICAgICAgICAgcmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlPXNlbGYuYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUsCiAgICAgICAgICAgIHZvbGF0aWxpdHk9c2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHksCiAgICAgICAgKQo=</text>
+      <register name="a" type="4">
+        <text>{{ report_type.share_name }}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcyBub3RlZCBhYm92ZSwgdGhpcyBhbmFseXNpcyBjb25zaWRlcnMgdGhlIHt7IGxhdGVfZXhpdC5iYWNrc29sdmVfc2hhcmVfY2xhc3NfbmFtZSB9fSB0cmFuc2FjdGlvbiwgc3BlY2lmaWNhbGx5IHRob3NlIHt7IHJlcG9ydF90eXBlLnNoYXJlX25hbWUgfX1zIGlzc3VlZCBpbiBleGNoYW5nZSBmb3IgbmV3IGNhcGl0YWwgYXMgd2VsbCBhcyB0aGUgZGVidCBvZiB0aGUgQ29tcGFueS4gVGhlIGFuYWx5c2lzIHVzZXMgdGhlIEJsYWNrLVNjaG9sZXMgb3B0aW9uIHByaWNpbmcgbW9kZWwgKE9QTSkgdG8gZGV0ZXJtaW5lIHRoZSB2YWx1ZSBvZiB0aGUgQ29tcGFueSB0aGF0IHJlc3VsdHMgaW4gYSBjdW11bGF0aXZlIHZhbHVlIG9mIHRoZSB0cmFuc2FjdGVkIHt7IHJlcG9ydF90eXBlLnNoYXJlX25hbWUgfX1zIGVxdWFsIHRvIHRoZSBhbW91bnQgcGFpZCBmb3IgdGhvc2Uge3sgcmVwb3J0X3R5cGUuc2hhcmVfbmFtZSB9fXMsIG9yICR7eyBsYXRlX2V4aXQuYmFja3NvbHZlX3NoYXJlX2NsYXNzX3ByaWNlfGZsb2F0Zm9ybWF0OjIgfX0gcGVyIHt7IHJlcG9ydF90eXBlLnNoYXJlX25hbWUgfX0uIEZvciBwdXJwb3NlcyBvZiBkZXRlcm1pbmluZyBjb21wYW55IHZhbHVlIHdpdGggYSBCbGFjay1TY2hvbGVzIE9QTSwgZml2ZSBrZXkgaW5wdXRzIGFyZSByZXF1aXJlZDoK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>shares</text>
       </register>
       <register name="/" type="4">
-        <text>raise</text>
+        <text encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3Jlc29sdmUgLSBtYWtlIGxvZ2dlcicpCiAgICAgICAgbG9nX2xvY2FsLmRlYnVnKCdyZXNvbHZlIC0gbG9jYWwgbG9nZ2VyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcyBub3RlZCBhYm92ZSwgdGhpcyBhbmFseXNpcyBjb25zaWRlcnMgdGhlIHt7IGxhdGVfZXhpdC5iYWNrc29sdmVfc2hhcmVfY2xhc3NfbmFtZSB9fSB0cmFuc2FjdGlvbiwgc3BlY2lmaWNhbGx5IHRob3NlIHt7IHJlcG9ydF90eXBlLnNoYXJlX25hbWUgfX1zIGlzc3VlZCBpbiBleGNoYW5nZSBmb3IgbmV3IGNhcGl0YWwgYXMgd2VsbCBhcyB0aGUgZGVidCBvZiB0aGUgQ29tcGFueS4gVGhlIGFuYWx5c2lzIHVzZXMgdGhlIEJsYWNrLVNjaG9sZXMgb3B0aW9uIHByaWNpbmcgbW9kZWwgKE9QTSkgdG8gZGV0ZXJtaW5lIHRoZSB2YWx1ZSBvZiB0aGUgQ29tcGFueSB0aGF0IHJlc3VsdHMgaW4gYSBjdW11bGF0aXZlIHZhbHVlIG9mIHRoZSB0cmFuc2FjdGVkIHt7IHJlcG9ydF90eXBlLnNoYXJlX25hbWUgfX1zIGVxdWFsIHRvIHRoZSBhbW91bnQgcGFpZCBmb3IgdGhvc2Uge3sgcmVwb3J0X3R5cGUuc2hhcmVfbmFtZSB9fXMsIG9yICR7eyBsYXRlX2V4aXQuYmFja3NvbHZlX3NoYXJlX2NsYXNzX3ByaWNlfGZsb2F0Zm9ybWF0OjIgfX0gcGVyIHt7IHJlcG9ydF90eXBlLnNoYXJlX25hbWUgfX0uIEZvciBwdXJwb3NlcyBvZiBkZXRlcm1pbmluZyBjb21wYW55IHZhbHVlIHdpdGggYSBCbGFjay1TY2hvbGVzIE9QTSwgZml2ZSBrZXkgaW5wdXRzIGFyZSByZXF1aXJlZDoK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -296,30 +303,20 @@
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ211dGF0ZSBjYWxsZWQgb24gVXBkYXRlU2NlbmFyaW8sIGlkOiAlZCcsIGlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/.is_PIU_and_option/['is_PIU_and_option']/</text>
+        <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
       </register>
     </registers>
     <search>
-      <last-search>raise</last-search>
+      <last-search encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-search>
       <last-offset />
-      <last-pattern>raise</last-pattern>
-      <last-replace>['is_PIU_and_option']</last-replace>
-      <last-substitute>.is_PIU_and_option</last-substitute>
+      <last-pattern encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-pattern>
+      <last-replace>{{ report_type.share_name }}\1</last-replace>
+      <last-substitute encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>backsolve</entry>
-        <entry>date</entry>
-        <entry>run_hybrid</entry>
-        <entry>is_hybrid</entry>
-        <entry>run_hybrid_backsolve</entry>
-        <entry>run_backsolve</entry>
-        <entry>hybrid</entry>
-        <entry>allocation</entry>
-        <entry>mocker</entry>
-        <entry>fetch_comp_data</entry>
         <entry>create</entry>
         <entry>Allocation.objects</entry>
         <entry>tests</entry>
@@ -330,6 +327,16 @@
         <entry>GraphQL</entry>
         <entry>rause</entry>
         <entry>raise</entry>
+        <entry>share</entry>
+        <entry>[ ]share[s ]</entry>
+        <entry>\bshare\b</entry>
+        <entry encoding="base64">IFtzU11oYXJlW3MuIF0=</entry>
+        <entry encoding="base64">XDxzaGFyZVtzXT9cPg==</entry>
+        <entry encoding="base64">XDxzaGFyZVw+</entry>
+        <entry encoding="base64">XDxzaGFyZXM/XD4=</entry>
+        <entry encoding="base64">XDxzaGFyZXNcP1w+</entry>
+        <entry encoding="base64">XDxzaGFyZVwoc1w/XCk=</entry>
+        <entry encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
@@ -347,6 +354,10 @@
         <entry>%s/.is_LLC/['is_LLC']/</entry>
         <entry>%s/.is_option_grant/['is_option_grant']</entry>
         <entry>%s/.is_PIU_and_option/['is_PIU_and_option']/</entry>
+        <entry>%s/share/{{ report_type.share_name }}/</entry>
+        <entry encoding="base64">JXMvXDxzaGFyZVwoc1w/XCkvXD1AYVwxLw==</entry>
+        <entry encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi88Yy1yPmFcMS8=</entry>
+        <entry encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
