@@ -101,6 +101,11 @@
         <mark key="^" line="49" column="39" />
         <mark key="." line="49" column="39" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557204985051">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -252,8 +257,8 @@
       <register name="a" type="4">
         <text>{{ report_type.share_name }}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>early_exit_scenario.weight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNhbiB3ZSBnZXQgcmlkIG9mIHRoZXNlIG51bGw9VHJ1ZXMK</text>
       </register>
       <register name="-" type="4">
         <text>early_exit_scenario.weight</text>
@@ -268,32 +273,32 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdCA9IHNjZW5hcmlvLmdldF9lYXJseV9leGl0X3NjZW5hcmlvKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbiB3ZSBnZXQgcmlkIG9mIHRoZXNlIG51bGw9VHJ1ZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdCA9IHNjZW5hcmlvLmdldF9lYXJseV9leGl0X3NjZW5hcmlvKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF9fc2V0X3RlbXBsYXRlX3R5cGUodmFsdWF0aW9uKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9fc2V0X3RlbXBsYXRlX3R5cGUodmFsdWF0aW9uKQo=</text>
+        <text encoding="base64">ZGVmIF9fc2V0X3RlbXBsYXRlX3R5cGUodmFsdWF0aW9uKToK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIF9fc2V0X3RlbXBsYXRlX3R5cGUodmFsdWF0aW9uKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbHVhdGlvbi50ZW1wbGF0ZV90eXBlID0gY29uc3RhbnRzLlZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRAogICAgdmFsdWF0aW9uLnNhdmUoKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)
         valuation_relation__relation_type=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuLm11dGF0aW9ucyBpbXBvcnQgbG9nX2Vycm9ycwo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
