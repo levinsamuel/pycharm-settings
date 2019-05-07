@@ -64,7 +64,11 @@
         <mark key="^" line="90" column="88" />
         <mark key="." line="90" column="88" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1557178492494" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1557246674096">
+        <mark key="[" line="151" column="23" />
+        <mark key="]" line="151" column="23" />
+        <mark key="." line="151" column="23" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1556224626821">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="51" column="0" />
@@ -257,11 +261,11 @@
       <register name="a" type="4">
         <text>{{ report_type.share_name }}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbiB3ZSBnZXQgcmlkIG9mIHRoZXNlIG51bGw9VHJ1ZXMK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>early_exit_scenario.weight</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</text>
