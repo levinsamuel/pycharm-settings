@@ -108,12 +108,12 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="24" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557944155056">
-        <mark key="'" line="320" column="70" />
-        <mark key="[" line="319" column="73" />
-        <mark key="]" line="319" column="85" />
-        <mark key="." line="319" column="85" />
-        <mark key="^" line="319" column="85" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557944767921">
+        <mark key="'" line="324" column="70" />
+        <mark key="[" line="300" column="93" />
+        <mark key="]" line="316" column="60" />
+        <mark key="^" line="316" column="60" />
+        <mark key="." line="316" column="60" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1557943255900">
         <mark key="'" line="120" column="18" />
@@ -280,25 +280,40 @@
       <register name="a" type="4">
         <text>early_exit_fmv_weight</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>totals</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbl92b2xhdGlsaXR5ID0gc2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>totals</text>
+        <text>allocation_volatility</text>
       </register>
       <register name="/" type="4">
         <text>is_backso</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9hbGxvY2F0aW9uLnRvdGFscyA9IE5vbmUK</text>
+      <register name="0" type="4">
+        <text>early_exit_allocation</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbl92b2xhdGlsaXR5ID0gc2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2Vhcmx5X2V4aXRfcHJpbWFyeV9hbGxvY2F0aW9uKHNlbGYsIGVhcmx5X2V4aXRfc2NlbmFyaW8pOgogICAgICAgIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiA9IGVhcmx5X2V4aXRfc2NlbmFyaW8uYWxsb2NhdGlvbgogICAgICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lIG9yIGVhcmx5X2V4aXRfYWxsb2NhdGlvbi50b3RhbHMgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdFYXJseS1leGl0IHNjZW5hcmlvIGhhcyBub3QgYmVlbiBhbGxvY2F0ZWQnKQogICAgICAgIHJldHVybiBlYXJseV9leGl0X2FsbG9jYXRpb24KCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>elf.early_exit_backsolve_date_allocation
+            if early_exit_backsolve_date_allocation is None:
+                allocation_volatility = self.allocation.volatility_selection_method
+                early_exit_backsolve_date_allocation = self._create_early_exit_allocation(allocation_volatility)</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9hbGxvY2F0aW9uLnRvdGFscyA9IE5vbmUK</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>self.early_exit_backsolve_date_allocation = Allocation.objects.create(
             volatility_selection_method=constants.VOLATILITY_SELECTION_MANUAL,
             time_to_next_financing=early_exit_primary_allocation.time_to_next_financing,
@@ -306,27 +321,14 @@
             treat_capped_note
         )</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGltZV90b19uZXh0X2ZpbmFuY2luZz1lYXJseV9leGl0X3ByaW1hcnlfYWxsb2NhdGlvbi50aW1lX3RvX25leHRfZmluYW5jaW5nCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZWFybHlfZXhpdF9hbGxvY2F0aW9uX2J1aWxkZXIoc2VsZiwgZWFybHlfZXhpdF9zY2VuYXJpbywgY29tcGFueV92YWx1ZSkgLT4gJ0FsbG9jYXRpb25CdWlsZGVyJzoKICAgICAgICAiIiJDcmVhdGUgYW4gYWxsb2NhdGlvbiBidWlsZGVyIHVzaW5nIHRoZSBwcm9wZXJ0aWVzIG9mIHRoaXMgYmFja3NvbHZlIGFuZCBpdHMgZWFybHktZXhpdCBzY2VuYXJpbywKICAgICAgICBzdWNoIGFzIHRoZSBjYXB0YWJsZSBkYXRhIGFzIG9mIHRoZSBiYWNrc29sdmUgZGF0ZSIiIgogICAgICAgIHJldHVybiBzZWxmLmdldF9hbGxvY2F0aW9uX2J1aWxkZXIoZWFybHlfZXhpdF9hbGxvY2F0aW9uLCBjb21wYW55X3ZhbHVlKQoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2FsbG9jYXRpb24gPSBzZWxmLl9nZXRfZWFybHlfZXhpdF9hbGxvY2F0aW9uKGVhcmx5X2V4aXRfc2NlbmFyaW8pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZWFybHlfZXhpdF9hbGxvY2F0aW9uX2J1aWxkZXIoc2VsZiwgZWFybHlfZXhpdF9zY2VuYXJpbywgY29tcGFueV92YWx1ZSkgLT4gJ0FsbG9jYXRpb25CdWlsZGVyJzoKICAgICAgICAiIiJDcmVhdGUgYW4gYWxsb2NhdGlvbiBidWlsZGVyIHVzaW5nIHRoZSBwcm9wZXJ0aWVzIG9mIHRoaXMgYmFja3NvbHZlIGFuZCBpdHMgZWFybHktZXhpdCBzY2VuYXJpbywKICAgICAgICBzdWNoIGFzIHRoZSBjYXB0YWJsZSBkYXRhIGFzIG9mIHRoZSBiYWNrc29sdmUgZGF0ZSIiIgogICAgICAgIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiA9IHNlbGYuX2dldF9lYXJseV9leGl0X2FsbG9jYXRpb24oZWFybHlfZXhpdF9zY2VuYXJpbykKICAgICAgICByZXR1cm4gc2VsZi5nZXRfYWxsb2NhdGlvbl9idWlsZGVyKGVhcmx5X2V4aXRfYWxsb2NhdGlvbiwgY29tcGFueV92YWx1ZSkKCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>s
-        allocation_builder</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2FsbG9jYXRpb24gPSBzZWxmLl9nZXRfZWFybHlfZXhpdF9hbGxvY2F0aW9uKGVhcmx5X2V4aXRfc2NlbmFyaW8pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZWFybHlfZXhpdF9hbGxvY2F0aW9uX2J1aWxkZXIoc2VsZiwgZWFybHlfZXhpdF9zY2VuYXJpbywgY29tcGFueV92YWx1ZSkgLT4gJ0FsbG9jYXRpb25CdWlsZGVyJzoKICAgICAgICAiIiJDcmVhdGUgYW4gYWxsb2NhdGlvbiBidWlsZGVyIHVzaW5nIHRoZSBwcm9wZXJ0aWVzIG9mIHRoaXMgYmFja3NvbHZlIGFuZCBpdHMgZWFybHktZXhpdCBzY2VuYXJpbywKICAgICAgICBzdWNoIGFzIHRoZSBjYXB0YWJsZSBkYXRhIGFzIG9mIHRoZSBiYWNrc29sdmUgZGF0ZSIiIgogICAgICAgIHJldHVybiBzZWxmLmdldF9hbGxvY2F0aW9uX2J1aWxkZXIoZWFybHlfZXhpdF9hbGxvY2F0aW9uLCBjb21wYW55X3ZhbHVlKQoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
