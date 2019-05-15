@@ -108,12 +108,12 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="24" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557944767921">
-        <mark key="'" line="324" column="70" />
-        <mark key="[" line="300" column="93" />
-        <mark key="]" line="316" column="60" />
-        <mark key="^" line="316" column="60" />
-        <mark key="." line="316" column="60" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557947073841">
+        <mark key="'" line="284" column="8" />
+        <mark key="[" line="200" column="101" />
+        <mark key="]" line="201" column="43" />
+        <mark key="." line="201" column="43" />
+        <mark key="^" line="201" column="43" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1557943255900">
         <mark key="'" line="120" column="18" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="6" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="7" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="8" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
@@ -275,60 +274,53 @@
       <jump line="113" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="120" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="319" column="70" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="288" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_fmv_weight</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbl92b2xhdGlsaXR5ID0gc2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>allocation_volatility</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>is_backso</text>
       </register>
-      <register name="0" type="4">
-        <text>early_exit_allocation</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNhdmUodXBkYXRlX2ZpZWxkcz1bJ2JhY2tzb2x2ZV9lcXVpdHlfdmFsdWUnLCAnYmFja3NvbHZlX3NoYXJlX2NsYXNzJywgJ25ld19jYXBpdGFsX3JhaXNlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdlYXJseV9leGl0X2Ztdl93ZWlnaHQnXSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbl92b2xhdGlsaXR5ID0gc2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHlfc2VsZWN0aW9uX21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2Vhcmx5X2V4aXRfcHJpbWFyeV9hbGxvY2F0aW9uKHNlbGYsIGVhcmx5X2V4aXRfc2NlbmFyaW8pOgogICAgICAgIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiA9IGVhcmx5X2V4aXRfc2NlbmFyaW8uYWxsb2NhdGlvbgogICAgICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lIG9yIGVhcmx5X2V4aXRfYWxsb2NhdGlvbi50b3RhbHMgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdFYXJseS1leGl0IHNjZW5hcmlvIGhhcyBub3QgYmVlbiBhbGxvY2F0ZWQnKQogICAgICAgIHJldHVybiBlYXJseV9leGl0X2FsbG9jYXRpb24KCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlYXJseV9leGl0X2Ztdl93ZWlnaHQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGVhcmx5X2V4aXRfZm12X3dlaWdodF9sb2NhbCA9IGVhcmx5X2V4aXRfZm12X3dlaWdodAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGVhcmx5X2V4aXRfZm12X3dlaWdodF9sb2NhbCA9IHNlbGYuZWFybHlfZXhpdF9mbXZfd2VpZ2h0Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>elf.early_exit_backsolve_date_allocation
-            if early_exit_backsolve_date_allocation is None:
-                allocation_volatility = self.allocation.volatility_selection_method
-                early_exit_backsolve_date_allocation = self._create_early_exit_allocation(allocation_volatility)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X29wbSwgZWFybHlfZXhpdF9idW5kbGUgPSBOb25lLCBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9idW5kbGUgPSB7CiAgICAgICAgICAgICAgICAnb3BtJzogZWFybHlfZXhpdF9vcG0sCiAgICAgICAgICAgICAgICAnc2NlbmFyaW8nOiBlYXJseV9leGl0X3NjZW5hcmlvLAogICAgICAgICAgICAgICAgJ25ld19jYXBpdGFsX3JhaXNlZCc6IG5ld19jYXBpdGFsX3JhaXNlZCwKICAgICAgICAgICAgICAgICdmbXZfd2VpZ2h0JzogZWFybHlfZXhpdF9mbXZfd2VpZ2h0CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9hbGxvY2F0aW9uLnRvdGFscyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9idW5kbGU9ZWFybHlfZXhpdF9idW5kbGUsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>self.early_exit_backsolve_date_allocation = Allocation.objects.create(
-            volatility_selection_method=constants.VOLATILITY_SELECTION_MANUAL,
-            time_to_next_financing=early_exit_primary_allocation.time_to_next_financing,
-            weighted_time_to_exit=early_exit_primary_allocation.weighted_time_to_exit,
-            treat_capped_note
-        )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfY2FwaXRhbF9yYWlzZWQsIGVhcmx5X2V4aXRfZm12X3dlaWdodCA9ICgKICAgICAgICAgICAgZWFybHlfZXhpdF9idW5kbGVbJ25ld19jYXBpdGFsX3JhaXNlZCddLCBlYXJseV9leGl0X2J1bmRsZVsnZm12X3dlaWdodCddCiAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZV90b19uZXh0X2ZpbmFuY2luZz1lYXJseV9leGl0X3ByaW1hcnlfYWxsb2NhdGlvbi50aW1lX3RvX25leHRfZmluYW5jaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlYXJseV9leGl0X2J1bmRsZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlYXJseV9leGl0X2J1bmRsZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgbmV3X2NhcGl0YWxfcmFpc2VkLCBlYXJseV9leGl0X2Ztdl93ZWlnaHQgPSAoCiAgICAgICAgICAgICAgICBlYXJseV9leGl0X2J1bmRsZVsnbmV3X2NhcGl0YWxfcmFpc2VkJ10sIGVhcmx5X2V4aXRfYnVuZGxlWydmbXZfd2VpZ2h0J10KICAgICAgICAgICAgKQogICAgICAgICAgICBpZiBuZXdfY2FwaXRhbF9yYWlzZWQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLm5ld19jYXBpdGFsX3JhaXNlZCA9IG5ld19jYXBpdGFsX3JhaXNlZAogICAgICAgICAgICBpZiBlYXJseV9leGl0X2Ztdl93ZWlnaHQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLmVhcmx5X2V4aXRfZm12X3dlaWdodCA9IGVhcmx5X2V4aXRfZm12X3dlaWdodAogICAgICAgICAgICBlZV9kaXN0cmlidXRpb25zLCBlZV9icmVha3BvaW50cywgZWVfdG90YWxzID0gZWFybHlfZXhpdF9idW5kbGVbJ29wbSddCiAgICAgICAgICAgIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbiA9IHNlbGYuX2dldF9vcl9jcmVhdGVfZWFybHlfZXhpdF9hbGxvY2F0aW9uKCkKICAgICAgICAgICAgZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uLmRpc3RyaWJ1dGlvbnMgPSBlZV9kaXN0cmlidXRpb25zCiAgICAgICAgICAgIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbi5icmVha3BvaW50cyA9IGVlX2JyZWFrcG9pbnRzCiAgICAgICAgICAgIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbi50b3RhbHMgPSBlZV90b3RhbHMKICAgICAgICAgICAgZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uLnNhdmUoCiAgICAgICAgICAgICAgICB1cGRhdGVfZmllbGRzPVsnZGlzdHJpYnV0aW9ucycsICdicmVha3BvaW50cycsICd0b3RhbHMnXQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZWFybHlfZXhpdF9hbGxvY2F0aW9uX2J1aWxkZXIoc2VsZiwgZWFybHlfZXhpdF9zY2VuYXJpbywgY29tcGFueV92YWx1ZSkgLT4gJ0FsbG9jYXRpb25CdWlsZGVyJzoKICAgICAgICAiIiJDcmVhdGUgYW4gYWxsb2NhdGlvbiBidWlsZGVyIHVzaW5nIHRoZSBwcm9wZXJ0aWVzIG9mIHRoaXMgYmFja3NvbHZlIGFuZCBpdHMgZWFybHktZXhpdCBzY2VuYXJpbywKICAgICAgICBzdWNoIGFzIHRoZSBjYXB0YWJsZSBkYXRhIGFzIG9mIHRoZSBiYWNrc29sdmUgZGF0ZSIiIgogICAgICAgIHJldHVybiBzZWxmLmdldF9hbGxvY2F0aW9uX2J1aWxkZXIoZWFybHlfZXhpdF9hbGxvY2F0aW9uLCBjb21wYW55X3ZhbHVlKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
