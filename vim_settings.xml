@@ -108,11 +108,12 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="24" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557791016646">
-        <mark key="[" line="223" column="63" />
-        <mark key="]" line="227" column="70" />
-        <mark key="^" line="227" column="70" />
-        <mark key="." line="227" column="70" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557889203578">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="20" column="88" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -164,20 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="10" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="11" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="12" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="13" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="213" column="3" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="27" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
-      <jump line="62" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
-      <jump line="2" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
-      <jump line="5" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
-      <jump line="10" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
-      <jump line="12" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
-      <jump line="74" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="99" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="15" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="0" column="14" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
@@ -264,19 +251,33 @@
       <jump line="3" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" />
       <jump line="21" column="22" filename="$USER_HOME$/code/scripts/populate_early_exit_id.py" />
       <jump line="1" column="45" filename="$USER_HOME$/code/scripts/populate_early_exit_id.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="325" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="19" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="333" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="13" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="14" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="15" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="16" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="17" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="18" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="20" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="1" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_fmv_weight</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFVtYnJlbGxhLAo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMuY29ycG9yYXRpb25zLm1vZGVscyBpbXBvcnQgQ29ycG9yYXRpb24K</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>raise</text>
+        <text>import</text>
       </register>
       <register name="0" type="4">
         <text>early_exit_fmv_weight</text>
@@ -285,40 +286,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFVtYnJlbGxhLAo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMuY29ycG9yYXRpb25zLm1vZGVscyBpbXBvcnQgQ29ycG9yYXRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMub3JnYW5pemF0aW9ucy5tb2RlbHMgaW1wb3J0IE9yZ2FuaXphdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ3NoYXJlIGNsYXNzIGtleTogJXMnLCBzaGFyZV9jbGFzc19rZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5tb2RlbHMuY2FwdGFibGVfZGF0YSBpbXBvcnQgQ2FwdGFibGVEYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhdGVfd2VpZ2h0ID0gbGF0ZV93ZWlnaHQK</text>
+        <text encoding="base64">ICAgIFVtYnJlbGxhLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdGVfd2VpZ2h0PXNlbGYuc2NlbmFyaW8ud2VpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2Ztdl93ZWlnaHRfbG9jYWwgPSBlYXJseV9leGl0X2Ztdl93ZWlnaHQgaWYgZWFybHlfZXhpdF9mbXZfd2VpZ2h0IGlzIG5vdCBOb25lIGVsc2Ugc2VsZi5kZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ3NoYXJlIGNsYXNzIGtleTogJXMnLCBzaGFyZV9jbGFzc19rZXkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVjaW1hbChzdHIoZWFybHlfZXhpdF9zY1snb2lwJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhdGVfd2VpZ2h0ID0gbGF0ZV93ZWlnaHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAoc2VsZi5lYXJseV93ZWlnaHQgKiBEZWNpbWFsKHN0cihlYXJseV9leGl0X3NjWydtYXJrZXRhYmxlX3ZhbHVlJ10pKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdGVfd2VpZ2h0PXNlbGYuc2NlbmFyaW8ud2VpZ2h0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlY2ltYWwoc3RyKHNjWydvaXAnXSkpCiAgICAgICAgICAgICAgICAtICgoc2VsZi5sYXRlX3dlaWdodCAqICkKICAgICAgICAgICAgICAgICAgICsgKHNlbGYuZWFybHlfd2VpZ2h0ICogRGVjaW1hbChzdHIoZWFybHlfZXhpdF9zY1snbWFya2V0YWJsZV92YWx1ZSddKSkpCiAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2Ztdl93ZWlnaHRfbG9jYWwgPSBlYXJseV9leGl0X2Ztdl93ZWlnaHQgaWYgZWFybHlfZXhpdF9mbXZfd2VpZ2h0IGlzIG5vdCBOb25lIGVsc2Ugc2VsZi5kZGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
       </register>
     </registers>
     <search>
-      <last-search>raise</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>raise</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace>{{ report_type.share_name }}\1</last-replace>
       <last-substitute encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -330,7 +331,6 @@
         <entry>Allocation.objects</entry>
         <entry>tests</entry>
         <entry>\/llc</entry>
-        <entry>import</entry>
         <entry>constants</entry>
         <entry>ordered</entry>
         <entry>GraphQL</entry>
@@ -346,6 +346,7 @@
         <entry encoding="base64">XDxzaGFyZVwoc1w/XCk=</entry>
         <entry encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</entry>
         <entry>raise</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
