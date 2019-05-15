@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1557174031859">
         <mark key="[" line="155" column="28" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" timestamp="1557960727067">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/context/context/test_context.py" timestamp="1556738059015">
         <mark key="'" line="54" column="12" />
         <mark key="[" line="54" column="9" />
@@ -25,12 +31,12 @@
         <mark key="]" line="640" column="0" />
         <mark key="." line="640" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1557959105002">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1557960930120">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="58" />
-        <mark key="]" line="62" column="94" />
-        <mark key="^" line="62" column="94" />
-        <mark key="." line="62" column="94" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1556577635737">
         <mark key="[" line="51" column="0" />
@@ -195,25 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
-      <jump line="21" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
-      <jump line="105" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
-      <jump line="426" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
-      <jump line="16" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
-      <jump line="16" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
-      <jump line="19" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" />
-      <jump line="80" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
-      <jump line="17" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" />
-      <jump line="366" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
-      <jump line="10" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" />
-      <jump line="108" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" />
-      <jump line="67" column="57" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
       <jump line="136" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
       <jump line="110" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
       <jump line="113" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
@@ -295,19 +282,38 @@
       <jump line="60" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/calculations.py" />
       <jump line="13" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/calculations.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/calculations.py" />
+      <jump line="47" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="49" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="50" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="57" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="59" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="60" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="62" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="64" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="65" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="72" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="74" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="75" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="97" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="100" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="96" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="98" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="99" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_volatility</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVhcmx5X2V4aXRfc2MgPSBuZXh0KGZpbHRlcihsYW1iZGEgc2M6IHNjWydzaGFyZV9jbGFzcyddID09IHNlbGYuYmFja3NvbHZlX3NoYXJlX2NsYXNzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>self.late_weight</text>
       </register>
       <register name="/" type="4">
-        <text>get_comp_data</text>
+        <text>volatility</text>
       </register>
       <register name="0" type="4">
         <text>early_exit_fmv_weight</text>
@@ -316,40 +322,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVhcmx5X2V4aXRfc2MgPSBuZXh0KGZpbHRlcihsYW1iZGEgc2M6IHNjWydzaGFyZV9jbGFzcyddID09IHNlbGYuYmFja3NvbHZlX3NoYXJlX2NsYXNzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhdGVfd2VpZ2h0ID0gRGVjaW1hbCgnMScpIC0gZWFybHlfd2VpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIHZvbGF0aWxpdHkgPSBjdXN0b21fdHlwZXMuRGVjaW1hbCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2Vhcmx5IG9pcCwgd2VpZ2h0ZWQgZWFybHkgZXhpdCBtYXJrZXRhYmxlIHZhbHVlLCBsYXRlLWV4aXQgc2VlayBwcmljZTogJWYsICVmLCAlZicsCiAgICAgICAgICAgICAgICAgIGVhcmx5X29pcCwgd2VpZ2h0ZWRfZWFybHksIGxhdGVfZXhpdF9zZWVrX3ByaWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGVhcmx5X2V4aXRfc2MgPSBuZXh0KGZpbHRlcihsYW1iZGEgc2M6IHNjWydzaGFyZV9jbGFzcyddID09IHNlbGYuYmFja3NvbHZlX3NoYXJlX2NsYXNzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlX2V4aXRfc2Vla19wcmljZSA9IChlYXJseV9vaXAgLSB3ZWlnaHRlZF9lYXJseSkgLyBzZWxmLmxhdGVfd2VpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhdGVfd2VpZ2h0ID0gRGVjaW1hbCgnMScpIC0gZWFybHlfd2VpZ2h0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHRlZF9lYXJseSA9IHNlbGYuZWFybHlfd2VpZ2h0ICogRGVjaW1hbChzdHIoZWFybHlfZXhpdF9zY1snbWFya2V0YWJsZV92YWx1ZSddKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2Vhcmx5IG9pcCwgd2VpZ2h0ZWQgZWFybHkgZXhpdCBtYXJrZXRhYmxlIHZhbHVlLCBsYXRlLWV4aXQgc2VlayBwcmljZTogJWYsICVmLCAlZicsCiAgICAgICAgICAgICAgICAgIGVhcmx5X29pcCwgd2VpZ2h0ZWRfZWFybHksIGxhdGVfZXhpdF9zZWVrX3ByaWNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9vaXAgPSBEZWNpbWFsKHN0cigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXRlX2V4aXRfc2Vla19wcmljZSA9IChlYXJseV9vaXAgLSB3ZWlnaHRlZF9lYXJseSkgLyBzZWxmLmxhdGVfd2VpZ2h0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSBzZWxmLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHRlZF9lYXJseSA9IHNlbGYuZWFybHlfd2VpZ2h0ICogRGVjaW1hbChzdHIoZWFybHlfZXhpdF9zY1snbWFya2V0YWJsZV92YWx1ZSddKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zYXZlX2Vhcmx5X2V4aXRfYWxsb2NhdGlvbihlYXJseV9leGl0X29wbSwgbmV3X2NhcGl0YWxfcmFpc2VkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVhcmx5X2V4aXRfZm12X3dlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9vaXAgPSBEZWNpbWFsKHN0cigpKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICBzZWxmLl9nZXRfZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uKGVhcmx5X2V4aXRfc2NlbmFyaW8pCiAgICAgICAgKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSBzZWxmLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
       </register>
     </registers>
     <search>
-      <last-search>get_comp_data</last-search>
+      <last-search>volatility</last-search>
       <last-offset />
-      <last-pattern>get_comp_data</last-pattern>
+      <last-pattern>volatility</last-pattern>
       <last-replace>{{ report_type.share_name }}\1</last-replace>
       <last-substitute encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GraphQL</entry>
         <entry>rause</entry>
         <entry>share</entry>
         <entry>[ ]share[s ]</entry>
@@ -377,6 +382,7 @@
         <entry>is_backsolve_allocation</entry>
         <entry>Allocation</entry>
         <entry>get_comp_data</entry>
+        <entry>volatility</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
