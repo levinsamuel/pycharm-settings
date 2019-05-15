@@ -108,19 +108,19 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="24" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557950421618">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557952074188">
         <mark key="'" line="289" column="68" />
-        <mark key="[" line="216" column="59" />
-        <mark key="]" line="216" column="59" />
-        <mark key="." line="216" column="59" />
-        <mark key="^" line="280" column="8" />
+        <mark key="[" line="320" column="94" />
+        <mark key="]" line="322" column="47" />
+        <mark key="^" line="322" column="47" />
+        <mark key="." line="322" column="47" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1557949959201">
-        <mark key="'" line="283" column="8" />
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="^" line="407" column="32" />
-        <mark key="." line="411" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1557951656893">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="209" column="39" />
+        <mark key="]" line="210" column="64" />
+        <mark key="^" line="210" column="64" />
+        <mark key="." line="210" column="64" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="215" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
       <jump line="39" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
       <jump line="66" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
@@ -275,62 +274,62 @@
       <jump line="411" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="283" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="289" column="68" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
+      <jump line="75" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_fmv_weight</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSBzZWxmLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgogICAgICAgIGlmIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbiBpcyBOb25lOgogICAgICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSAoCiAgICAgICAgICAgICAgICBzZWxmLl9jcmVhdGVfZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uKGVhcmx5X2V4aXRfcHJpbWFyeV9hbGxvY2F0aW9uKQogICAgICAgICAgICApCiAgICAgICAgcmV0dXJuIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgoKICAgIGRlZiBfY3JlYXRlX2Vhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbihzZWxmLCBlYXJseV9leGl0X3ByaW1hcnlfYWxsb2NhdGlvbjogQWxsb2NhdGlvbik6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>Allocation</text>
+        <text>get_comp_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmUgPSBnZXRhdHRyKHNlbGYsICdiYWNrc29sdmUnLCBOb25lKSBvciBnZXRhdHRyKHNlbGYsICdsYXRlX2V4aXRfYmFja3NvbHZlJywgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSBzZWxmLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgogICAgICAgIGlmIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbiBpcyBOb25lOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSBzZWxmLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgogICAgICAgIGlmIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbiBpcyBOb25lOgogICAgICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSAoCiAgICAgICAgICAgICAgICBzZWxmLl9jcmVhdGVfZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uKGVhcmx5X2V4aXRfcHJpbWFyeV9hbGxvY2F0aW9uKQogICAgICAgICAgICApCiAgICAgICAgcmV0dXJuIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgoKICAgIGRlZiBfY3JlYXRlX2Vhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbihzZWxmLCBlYXJseV9leGl0X3ByaW1hcnlfYWxsb2NhdGlvbjogQWxsb2NhdGlvbik6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBXaGF0IGlzIGdvaW5nIG9uIGhlcmU/Cg==</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24ud2VpZ2h0ZWRfdGltZV90b19leGl0ID0gZWFybHlfZXhpdF9wcmltYXJ5X2FsbG9jYXRpb24ud2VpZ2h0ZWRfdGltZV90b19leGl0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5ZWFyX3N0YXJ0ID0gc2VsZi5hc19vZl9kYXRlIC0gcmVsYXRpdmVkZWx0YSh5ZWFycz0xKQogICAgICAgIHJldHVybiBzY2VuYXJpby5nZXRfb3JfY3JlYXRlX2ZpbmFuY2lhbF9kZXRhaWwoZmluYW5jaWFsX2RhdGU9eWVhcl9zdGFydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuaXNfYmFja3NvbHZlX2FsbG9jYXRpb246Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBXaGF0IGlzIGdvaW5nIG9uIGhlcmU/Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c2VsZi5nZXRfYmFja3NvbHZlX2lmX2V4aXN0cygpCiAgICAgICAgaWYg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB5ZWFyX3N0YXJ0ID0gc2VsZi5hc19vZl9kYXRlIC0gcmVsYXRpdmVkZWx0YSh5ZWFycz0xKQogICAgICAgIHJldHVybiBzY2VuYXJpby5nZXRfb3JfY3JlYXRlX2ZpbmFuY2lhbF9kZXRhaWwoZmluYW5jaWFsX2RhdGU9eWVhcl9zdGFydCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>'new_capital_raised',
-                                 'early_exit_fmv_weight'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuaXNfYmFja3NvbHZlX2FsbG9jYXRpb246Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">c2VsZi5nZXRfYmFja3NvbHZlX2lmX2V4aXN0cygpCiAgICAgICAgaWYg</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
       </register>
     </registers>
     <search>
-      <last-search>Allocation</last-search>
+      <last-search>get_comp_data</last-search>
       <last-offset />
-      <last-pattern>Allocation</last-pattern>
+      <last-pattern>get_comp_data</last-pattern>
       <last-replace>{{ report_type.share_name }}\1</last-replace>
       <last-substitute encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ordered</entry>
         <entry>GraphQL</entry>
         <entry>rause</entry>
         <entry>share</entry>
@@ -358,6 +356,7 @@
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>is_backsolve_allocation</entry>
         <entry>Allocation</entry>
+        <entry>get_comp_data</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
