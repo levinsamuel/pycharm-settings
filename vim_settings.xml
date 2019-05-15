@@ -108,11 +108,12 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="24" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557933787505">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1557938041105">
         <mark key="'" line="2" column="14" />
-        <mark key="]" line="299" column="71" />
-        <mark key="^" line="299" column="71" />
-        <mark key="." line="299" column="71" />
+        <mark key="[" line="302" column="12" />
+        <mark key="]" line="302" column="12" />
+        <mark key="^" line="301" column="54" />
+        <mark key="." line="302" column="12" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -272,17 +273,17 @@
       <register name="a" type="4">
         <text>early_exit_fmv_weight</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgICAgICB2b2xhdGlsaXR5X3NlbGVjdGlvbl9tZXRob2Q9YWxsb2NhdGlvbl92b2xhdGlsaXR5CiAgICAgICAgICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>allocation_volatility</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgICAgICB2b2xhdGlsaXR5X3NlbGVjdGlvbl9tZXRob2Q9YWxsb2NhdGlvbl92b2xhdGlsaXR5CiAgICAgICAgICAgICAgICApCg==</text>
+      <register name="0" type="4">
+        <text>early_exit_backsolve_date_allocation</text>
       </register>
       <register name="q" type="4">
         <text />
