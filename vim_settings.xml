@@ -25,6 +25,13 @@
         <mark key="^" line="54" column="8" />
         <mark key="." line="54" column="9" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" timestamp="1557963416966">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="40" column="66" />
+        <mark key="." line="40" column="66" />
+        <mark key="^" line="40" column="66" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1556826405532">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="640" column="0" />
@@ -201,12 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
-      <jump line="113" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
-      <jump line="116" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
-      <jump line="124" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
-      <jump line="3" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
       <jump line="126" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" />
       <jump line="7" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" />
       <jump line="8" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" />
@@ -301,6 +302,12 @@
       <jump line="98" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
       <jump line="99" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
       <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
+      <jump line="33" column="7" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -325,28 +332,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvbGF0aWxpdHkgPSBjdXN0b21fdHlwZXMuRGVjaW1hbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmNvbW1vbl9zdG9ja19lcXVpdmFsZW50IGltcG9ydCAoCiAgICAgICAgICAgIENvbW1vblN0b2NrRXF1aXZhbGVudAogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVhcmx5X2V4aXRfc2MgPSBuZXh0KGZpbHRlcihsYW1iZGEgc2M6IHNjWydzaGFyZV9jbGFzcyddID09IHNlbGYuYmFja3NvbHZlX3NoYXJlX2NsYXNzKSkK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmNhcHRhYmxlX2Zvcm1hdHRlciBpbXBvcnQgKAogICAgICAgICAgICBBbGxvY2F0aW9uQ29uZmlndXJhdGlvbgogICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhdGVfd2VpZ2h0ID0gRGVjaW1hbCgnMScpIC0gZWFybHlfd2VpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLm9wdGlvbl9wcmljaW5nX21vZGVsIGltcG9ydCAoCiAgICAgICAgICAgIE9wdGlvblByaWNpbmdNb2RlbAogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2Vhcmx5IG9pcCwgd2VpZ2h0ZWQgZWFybHkgZXhpdCBtYXJrZXRhYmxlIHZhbHVlLCBsYXRlLWV4aXQgc2VlayBwcmljZTogJWYsICVmLCAlZicsCiAgICAgICAgICAgICAgICAgIGVhcmx5X29pcCwgd2VpZ2h0ZWRfZWFybHksIGxhdGVfZXhpdF9zZWVrX3ByaWNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlX2V4aXRfc2Vla19wcmljZSA9IChlYXJseV9vaXAgLSB3ZWlnaHRlZF9lYXJseSkgLyBzZWxmLmxhdGVfd2VpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIHZvbGF0aWxpdHkgPSBjdXN0b21fdHlwZXMuRGVjaW1hbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHRlZF9lYXJseSA9IHNlbGYuZWFybHlfd2VpZ2h0ICogRGVjaW1hbChzdHIoZWFybHlfZXhpdF9zY1snbWFya2V0YWJsZV92YWx1ZSddKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGVhcmx5X2V4aXRfc2MgPSBuZXh0KGZpbHRlcihsYW1iZGEgc2M6IHNjWydzaGFyZV9jbGFzcyddID09IHNlbGYuYmFja3NvbHZlX3NoYXJlX2NsYXNzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9vaXAgPSBEZWNpbWFsKHN0cigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhdGVfd2VpZ2h0ID0gRGVjaW1hbCgnMScpIC0gZWFybHlfd2VpZ2h0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2FsbG9jYXRpb24gPSBzZWxmLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2Vhcmx5IG9pcCwgd2VpZ2h0ZWQgZWFybHkgZXhpdCBtYXJrZXRhYmxlIHZhbHVlLCBsYXRlLWV4aXQgc2VlayBwcmljZTogJWYsICVmLCAlZicsCiAgICAgICAgICAgICAgICAgIGVhcmx5X29pcCwgd2VpZ2h0ZWRfZWFybHksIGxhdGVfZXhpdF9zZWVrX3ByaWNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
