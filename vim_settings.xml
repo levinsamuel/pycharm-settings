@@ -9,8 +9,12 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1557174031859">
-        <mark key="[" line="155" column="28" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558372586275">
+        <mark key="'" line="168" column="54" />
+        <mark key="[" line="718" column="8" />
+        <mark key="]" line="719" column="51" />
+        <mark key="." line="719" column="51" />
+        <mark key="^" line="719" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" timestamp="1558031795156">
         <mark key="'" line="26" column="4" />
@@ -58,7 +62,6 @@
         <mark key="^" line="90" column="88" />
         <mark key="." line="90" column="88" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1557789432990" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/set_up_hybrid_val.py" timestamp="1556836328850">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="60" />
@@ -91,7 +94,6 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="24" column="79" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1558063263675" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1557951656893">
         <mark key="'" line="75" column="21" />
         <mark key="[" line="209" column="39" />
@@ -165,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="91" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
       <jump line="88" column="18" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
       <jump line="90" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
@@ -265,16 +266,17 @@
       <jump line="12" column="31" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
       <jump line="9" column="89" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
       <jump line="74" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
+      <jump line="168" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_volatility</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>scenarios_queryset</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>scenarios_queryset</text>
       </register>
       <register name="/" type="4">
         <text>volatility</text>
