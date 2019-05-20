@@ -101,6 +101,13 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="40" column="4" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1558387876696">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="451" column="50" />
+        <mark key="]" line="451" column="50" />
+        <mark key="." line="451" column="50" />
+        <mark key="^" line="451" column="50" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1558031693666">
         <mark key="[" line="381" column="0" />
         <mark key="]" line="381" column="0" />
@@ -120,6 +127,13 @@
         <mark key="]" line="40" column="58" />
         <mark key="^" line="40" column="58" />
         <mark key="." line="40" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1558388505340">
+        <mark key="'" line="194" column="8" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1556913908518">
         <mark key="'" line="67" column="57" />
@@ -154,12 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
-      <jump line="88" column="18" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
-      <jump line="90" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
-      <jump line="110" column="84" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
-      <jump line="9" column="761" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
-      <jump line="13" column="87" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
       <jump line="111" column="23" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
       <jump line="114" column="19" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
       <jump line="32" column="25" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
@@ -254,16 +262,22 @@
       <jump line="9" column="89" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
       <jump line="74" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
       <jump line="168" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="467" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="470" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
+      <jump line="147" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="183" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_volatility</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UmbrellaValuationRelation</text>
+        <text>getattr(v, 'replace', None):</text>
       </register>
       <register name="-" type="4">
-        <text>UmbrellaValuationRelation</text>
+        <text>getattr(v, 'replace', None):</text>
       </register>
       <register name="/" type="4">
         <text>volatility</text>
@@ -278,28 +292,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="3" type="4">
+        <text encoding="base64">dAoKICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbGF0ZSBleGl0IHZhbHVlOicsIGxhdGVfZXhpdF92YWx1ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJycpCg==</text>
+        <text encoding="base64">aHRtbC5lc2NhcGUoICIiIiYgPCAiICcgPiIiIiApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiVGhlcmUgc2hvdWxkIG5vdCBiZSBhIFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24gaW4gdGhlIGRiIGJlZm9yZSBiYWNrZmlsbGluZy4iKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2h0bWxfZXNjYXBlX3ZhbHVlcyhjb250ZXh0KToKICAgICAgICBmb3IgaywgdiBpbiBjb250ZXh0Lml0ZW1zKCk6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWxhdGlvbl92YWx1ZXNfc2V0ID0gVmFsdWF0aW9uLm9iamVjdHMuYWxsKCkudmFsdWVzKCdpZCcsICd1bWJyZWxsYV9pZCcpCiAgICAgICAgVW1icmVsbGFWYWx1YXRpb25SZWxhdGlvbi5vYmplY3RzLmJ1bGtfY3JlYXRlKFsKICAgICAgICAgICAgVW1icmVsbGFWYWx1YXRpb25SZWxhdGlvbigKICAgICAgICAgICAgICAgIHZhbHVhdGlvbl9pZD1yZWxhdGlvbl92YWx1ZXNbJ2lkJ10sCiAgICAgICAgICAgICAgICB1bWJyZWxsYV9pZD1yZWxhdGlvbl92YWx1ZXNbJ3VtYnJlbGxhX2lkJ10sCiAgICAgICAgICAgICAgICBzZWxlY3RlZD1UcnVlLAogICAgICAgICAgICApCiAgICAgICAgICAgIGZvciByZWxhdGlvbl92YWx1ZXMgaW4gcmVsYXRpb25fdmFsdWVzX3NldAogICAgICAgIF0pCg==</text>
+        <text encoding="base64">aW1wb3J0IGh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdGlvbnMgPSBbCiAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRfY29udGVudF9odG1sID0gcmVwb3J0X2NvbnRlbnRfaHRtbC5yZXBsYWNlKCcmJywgJyZhbXA7JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJ1blB5dGhvbihiYWNrZmlsbF91bWJyZWxsYV92YWx1YXRpb25fcmVsYXRpb25zKSwK</text>
+        <text encoding="base64">ICAgICAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
