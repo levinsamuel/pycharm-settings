@@ -101,12 +101,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1558387876696">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1558397866772">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="451" column="50" />
-        <mark key="]" line="451" column="50" />
-        <mark key="." line="451" column="50" />
-        <mark key="^" line="451" column="50" />
+        <mark key="[" line="157" column="79" />
+        <mark key="]" line="157" column="83" />
+        <mark key="." line="157" column="83" />
+        <mark key="^" line="157" column="83" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1558031693666">
         <mark key="[" line="381" column="0" />
@@ -271,10 +271,10 @@
         <text>early_exit_volatility</text>
       </register>
       <register name="&quot;" type="4">
-        <text>obj</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>volatility</text>
@@ -286,31 +286,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW1icmVsbGFfY29weSA9IGNvcHkodikKICAgICAgICAgICAgZm9yIGF0dHIgaW4gZGlyKHVtYnJlbGxhX2NvcHkpOgogICAgICAgICAgICAgICAgcHJldl92YWwgPSBnZXRhdHRyKHVtYnJlbGxhX2NvcHksIGF0dHIsIE5vbmUpCiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHByZXZfdmFsLCBzdHIpOgogICAgICAgICAgICAgICAgICAgIHNldGF0dHIodW1icmVsbGFfY29weSwgYXR0ciwgaHRtbC5lc2NhcGUocHJldl92YWwpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFtrXSA9IGVzY2FwZWRfdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW1icmVsbGFfY29weSA9IGNvcHkodikKICAgICAgICAgICAgZm9yIGF0dHIgaW4gZGlyKHVtYnJlbGxhX2NvcHkpOgogICAgICAgICAgICAgICAgcHJldl92YWwgPSBnZXRhdHRyKHVtYnJlbGxhX2NvcHksIGF0dHIsIE5vbmUpCiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHByZXZfdmFsLCBzdHIpOgogICAgICAgICAgICAgICAgICAgIHNldGF0dHIodW1icmVsbGFfY29weSwgYXR0ciwgaHRtbC5lc2NhcGUocHJldl92YWwpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRfY29weSA9IGRpY3QoY29udGV4dCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFtrXSA9IGVzY2FwZWRfdgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dAoKICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnRleHRfY29weSA9IGRpY3QoY29udGV4dCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aHRtbC5lc2NhcGUoICIiIiYgPCAiICcgPiIiIiApCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dAoKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
