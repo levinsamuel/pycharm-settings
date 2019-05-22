@@ -3,16 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" timestamp="1558501500231">
+        <mark key="'" line="2153" column="38" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1556913428289">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="46" />
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558494274486">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558501272083">
         <mark key="'" line="9" column="17" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="112" />
+        <mark key="[" line="617" column="0" />
+        <mark key="]" line="617" column="0" />
+        <mark key="." line="617" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" timestamp="1558501457190">
+        <mark key="'" line="16" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1558495201430">
         <mark key="[" line="0" column="0" />
@@ -47,6 +54,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1558502107175">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_allocation_allocation_date.py" timestamp="1558484276399">
         <mark key="[" line="29" column="91" />
         <mark key="]" line="29" column="103" />
@@ -72,11 +85,20 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/corporation.py" timestamp="1558501343459">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1556557755532">
         <mark key="[" line="45" column="76" />
         <mark key="]" line="49" column="39" />
         <mark key="^" line="49" column="39" />
         <mark key="." line="49" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/common/components/model_methods.py" timestamp="1558501535677">
+        <mark key="'" line="276" column="27" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1558500827820">
         <mark key="[" line="355" column="27" />
@@ -90,6 +112,9 @@
         <mark key="]" line="100" column="7" />
         <mark key="." line="100" column="7" />
         <mark key="^" line="100" column="7" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" timestamp="1558501562874">
+        <mark key="'" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -206,29 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="33" column="7" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="91" column="7" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
-      <jump line="12" column="31" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
-      <jump line="9" column="89" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
-      <jump line="168" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="467" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="470" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="147" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="183" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/engagementletter_insert.html" />
-      <jump line="112" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" />
-      <jump line="99" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="134" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="139" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="200" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="234" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -306,49 +308,72 @@
       <jump line="748" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" />
       <jump line="768" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" />
       <jump line="803" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/corporation.py" />
+      <jump line="397" column="6" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="2094" column="19" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="2422" column="21" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="2678" column="34" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="2685" column="34" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="2692" column="34" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="2832" column="21" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="16" column="10" filename="$USER_HOME$/git/carta-web/eshares/corporations/models/legacy_models.py" />
+      <jump line="1382" column="6" filename="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" />
+      <jump line="1471" column="33" filename="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" />
+      <jump line="1528" column="21" filename="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" />
+      <jump line="2135" column="21" filename="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" />
+      <jump line="2144" column="21" filename="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" />
+      <jump line="2153" column="38" filename="$USER_HOME$/git/carta-web/eshares/corporations/helpers.py" />
+      <jump line="99" column="6" filename="$USER_HOME$/git/carta-web/eshares/common/components/model_methods.py" />
+      <jump line="276" column="27" filename="$USER_HOME$/git/carta-web/eshares/common/components/model_methods.py" />
+      <jump line="470" column="6" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
+      <jump line="569" column="45" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
+      <jump line="725" column="20" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
+      <jump line="995" column="23" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
+      <jump line="11" column="27" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
+      <jump line="12" column="10" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>early_exit_volatility</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FwdGFibGVfY29ycG9yYXRpb25fcGs9c2VsZi5jb3Jwb3JhdGlvbl9waywK</text>
+      <register name="&quot;" type="4">
+        <text>parent_id</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>parent_id</text>
       </register>
       <register name="/" type="4">
-        <text>create_captable_data</text>
+        <text>DoesNotExist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FwdGFibGVfY29ycG9yYXRpb25fcGs9c2VsZi5jb3Jwb3JhdGlvbl9waywK</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy5jb3Jwb3JhdGlvbnMubW9kZWxzIGltcG9ydCBDb3Jwb3JhdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFZhbHVhdGlvblNjZW5hcmlvUmVsYXRpb24ub2JqZWN0cy5jcmVhdGUoCiAgICAgICAgdmFsdWF0aW9uPXZhbHVhdGlvbiwKICAgICAgICBzY2VuYXJpbz1lYXJseV9leGl0LAogICAgICAgIHJlbGF0aW9uX3R5cGU9Y29uc3RhbnRzLlZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCwKICAgICkKCg==</text>
+        <text encoding="base64">ICAgIHBhcmVudF9pZCA9IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHJlZnJlc2hfY2FwdGFibGVfZGF0YShwYXJlbnRfaWQsIGNvcnBvcmF0aW9uX3BrLCBvcmdhbml6YXRpb25fcGspOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uLnZhbHVhdGlvbl9kYXRlCg==</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy5vcmdhbml6YXRpb25zLm1vZGVscyBpbXBvcnQgT3JnYW5pemF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uX2RhdGUgLSB0aW1lZGVsdGEoZGF5cz0xKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy5jb3Jwb3JhdGlvbnMubW9kZWxzIGltcG9ydCBDb3Jwb3JhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvPWVhcmx5X2V4aXRfc2NlbmFyaW8K</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy5jb3Jwb3JhdGlvbnMuaGVscGVycyBpbXBvcnQgaXNfbGxjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbW92ZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdzY2VuYXJpbycsCiAgICAgICAgICAgIG5hbWU9J2Vhcmx5X2V4aXRfc2NlbmFyaW8nLAogICAgICAgICksCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvcnBvcmF0aW9ucy5tb2RlbHMgaW1wb3J0IENvcnBvcmF0aW9uCgoKZGVmIGdldF9jb3Jwb3JhdGlvbihjb3JwX3BrKToKICAgIHJldHVybiBDb3Jwb3JhdGlvbi5vYmplY3RzLmdldChwaz1jb3JwX3BrKQoKCmRlZiBnZXRfY29ycG9yYXRpb25fZmllbGQoY29ycF9wazogaW50LCBmaWVsZDogc3RyKToKICAgICcnJwogICAgVXNlIHRoaXMgd2hlbiB5b3Ugd2FudCB0byBiZSBwZXJmb3JtYW5jZS1jb25zY2lvdXMgYW5kIG5vdCBmZXRjaCBhCiAgICB3aG9sZSBDb3Jwb3JhdGlvbiByb3cganVzdCB0byB1c2UgYSBzaW5nbGUgZmllbGQuCgogICAgPj4+IGdldF9jb3Jwb3JhdGlvbl9maWVsZCg3LCAidHlwZSIpCiAgICAnQ29ycG9yYXRpb24nCgogICAgJycnCgogICAgcmV0dXJuICgKICAgICAgICBDb3Jwb3JhdGlvbgogICAgICAgIC5vYmplY3RzCiAgICAgICAgLmZpbHRlcihpZD1jb3JwX3BrKQogICAgICAgIC52YWx1ZXNfbGlzdChmaWVsZCwgZmxhdD1UcnVlKQogICAgICAgIC5nZXQoKQogICAgKQoKCmRlZiBpc19jb3Jwb3JhdGlvbl9sbGMoY29ycF9wayk6Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdzY2VuYXJpbycsCiAgICAgICAgICAgIG5hbWU9J2Vhcmx5X2V4aXRfc2NlbmFyaW8nLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRm9yZWlnbktleShudWxsPVRydWUsIG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkRPX05PVEhJTkcsIHJlbGF0ZWRfbmFtZT0nbGF0ZV9leGl0X3NjZW5hcmlvJywgdG89J3ZhbHVhdGlvbnMuU2NlbmFyaW8nKSwKICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy5jb3Jwb3JhdGlvbnMuaGVscGVycyBpbXBvcnQgaXNfbGxjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBiYWNrZmlsbF9lYXJseV9leGl0X3NjZW5hcmlvKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgogICAgICAgIFNjZW5hcmlvID0gYXBwcy5nZXRfbW9kZWwoJ3ZhbHVhdGlvbnMnLCAnU2NlbmFyaW8nKQogICAgICAgIFZhbHVhdGlvblNjZW5hcmlvUmVsYXRpb24gPSBhcHBzLmdldF9tb2RlbCgndmFsdWF0aW9ucycsICdWYWx1YXRpb25TY2VuYXJpb1JlbGF0aW9uJykKCiAgICAgICAgZWFybHlfZXhpdHMgPSBWYWx1YXRpb25TY2VuYXJpb1JlbGF0aW9uLm9iamVjdHMuZmlsdGVyKGlzX2h5YnJpZF9lYXJseT1UcnVlKS5jb3VudCgpCgogICAgICAgIHByaW50KCdydW5uaW5nIHNxbCB0byBiYWNrZmlsbCB0aGUgZWFybHkgZXhpdCBzY2VuYXJpbyBpZCBmcm9tIHRoZSB2YWx1YXRpb24tc2NlbmFyaW8tcmVsYXRpb24gdGFibGU6JywKICAgICAgICAgICAgICBzcWwsIHNlcD0nXG4nKQogICAgICAgIHdpdGggY29ubmVjdGlvbi5jdXJzb3IoKSBhcyBjOgogICAgICAgICAgICBjLmV4ZWN1dGUoc3FsKQoKICAgICAgICBuZXdfZWFybHlfZXhpdHMgPSBTY2VuYXJpby5vYmplY3RzLmZpbHRlcihlYXJseV9leGl0X3NjZW5hcmlvX19pc251bGw9RmFsc2UpLmNvdW50KCkKICAgICAgICBwcmludCgnRWFybHkgZXhpdCByZWxhdGlvbnM6IFtbJywgZWFybHlfZXhpdHMsICddXSwgaWRzIGluIHRoZSBzY2VuYXJpbyB0YWJsZTogW1snLAogICAgICAgICAgICAgIG5ld19lYXJseV9leGl0cywgJ11dJykKCiAgICBvcGVyYXRpb25zID0gWwogICAgICAgIG1pZ3JhdGlvbnMuQ3JlYXRlTW9kZWwoCiAgICAgICAgICAgIG5hbWU9J1NjZW5hcmlvU2VsZlJlbGF0aW9uJywKICAgICAgICAgICAgZmllbGRzPVsKICAgICAgICAgICAgICAgICgnaWQnLCBtb2RlbHMuQXV0b0ZpZWxkKGF1dG9fY3JlYXRlZD1UcnVlLCBwcmltYXJ5X2tleT1UcnVlLCBzZXJpYWxpemU9RmFsc2UsIHZlcmJvc2VfbmFtZT0nSUQnKSksCiAgICAgICAgICAgICAgICAoJ2NyZWF0ZWQnLCBtb2RlbF91dGlscy5maWVsZHMuQXV0b0NyZWF0ZWRGaWVsZChkZWZhdWx0PWRqYW5nby51dGlscy50aW1lem9uZS5ub3csIGVkaXRhYmxlPUZhbHNlLCB2ZXJib3NlX25hbWU9J2NyZWF0ZWQnKSksCiAgICAgICAgICAgICAgICAoJ21vZGlmaWVkJywgbW9kZWxfdXRpbHMuZmllbGRzLkF1dG9MYXN0TW9kaWZpZWRGaWVsZChkZWZhdWx0PWRqYW5nby51dGlscy50aW1lem9uZS5ub3csIGVkaXRhYmxlPUZhbHNlLCB2ZXJib3NlX25hbWU9J21vZGlmaWVkJykpLAogICAgICAgICAgICAgICAgKCdpc192b2lkJywgbW9kZWxzLkJvb2xlYW5GaWVsZChkYl9pbmRleD1UcnVlLCBkZWZhdWx0PUZhbHNlKSksCiAgICAgICAgICAgICAgICAoJ3JlbGF0aW9uX3R5cGUnLCBFbnVtRmllbGQoZW51bT1lc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzLlNjZW5hcmlvUmVsYXRpb25UZW1wbGF0ZSkpLAogICAgICAgICAgICAgICAgKCdjcmVhdGVkX2J5JywgbW9kZWxzLkZvcmVpZ25LZXkoYmxhbms9VHJ1ZSwgZWRpdGFibGU9RmFsc2UsIG51bGw9VHJ1ZSwgb25fZGVsZXRlPW1vZGVscy5kZWxldGlvbi5DQVNDQURFLCByZWxhdGVkX25hbWU9JysnLCB0bz1zZXR0aW5ncy5BVVRIX1VTRVJfTU9ERUwpKSwKICAgICAgICAgICAgICAgICgnZnJvbV9zY2VuYXJpbycsIGVzaGFyZXMuY29tbW9uLmNvbXBvbmVudHMubW9kZWxzLkVTaGFyZXNGb3JlaWduS2V5KG9uX2RlbGV0ZT1tb2RlbHMuZGVsZXRpb24uRE9fTk9USElORywgcmVsYXRlZF9uYW1lPSd0b19zY2VuYXJpbycsIHRvPSd2YWx1YXRpb25zLlNjZW5hcmlvJykpLAogICAgICAgICAgICAgICAgKCd0b19zY2VuYXJpbycsIGVzaGFyZXMuY29tbW9uLmNvbXBvbmVudHMubW9kZWxzLkVTaGFyZXNGb3JlaWduS2V5KG9uX2RlbGV0ZT1tb2RlbHMuZGVsZXRpb24uRE9fTk9USElORywgcmVsYXRlZF9uYW1lPSdmcm9tX3NjZW5hcmlvJywgdG89J3ZhbHVhdGlvbnMuU2NlbmFyaW8nKSksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIGJhc2VzPShlc2hhcmVzLmNvbW1vbi5jb21wb25lbnRzLm1vZGVsX21ldGhvZHMuRVNoYXJlc01vZGVsSGVscGVyLCBlc2hhcmVzLmNvbW1vbi50ZXN0cy5xdWlja19jaGVjay5RdWlja0NoZWNrTW9kZWxNaXhpbiwgZXNoYXJlcy5jb21tb24uY29tcG9uZW50cy51dGlscy5jb3JlLkFsbFN1YmNsYXNzZXNNaXhpbiwgbW9kZWxzLk1vZGVsKSwKICAgICAgICApLAogICAgICAgIG1pZ3JhdGlvbnMuQWx0ZXJVbmlxdWVUb2dldGhlcigKICAgICAgICAgICAgbmFtZT0nc2NlbmFyaW9zZWxmcmVsYXRpb24nLAogICAgICAgICAgICB1bmlxdWVfdG9nZXRoZXI9c2V0KFsoJ2Zyb21fc2NlbmFyaW8nLCAndG9fc2NlbmFyaW8nLCAncmVsYXRpb25fdHlwZScpXSksCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLlJ1blB5dGhvbihiYWNrZmlsbF9lYXJseV9leGl0X3NjZW5hcmlvKSwKICAgIF0K</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy5jb3Jwb3JhdGlvbnMubW9kZWxzIGltcG9ydCBDb3Jwb3JhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create_captable_data</last-search>
+      <last-search>DoesNotExist</last-search>
       <last-offset />
-      <last-pattern>create_captable_data</last-pattern>
+      <last-pattern>DoesNotExist</last-pattern>
       <last-replace>{{ report_type.share_name }}\1</last-replace>
       <last-substitute encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -368,7 +393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>late_exi</entry>
         <entry>is_backso</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>is_backsolve_allocation</entry>
@@ -388,6 +412,7 @@
         <entry>early</entry>
         <entry>early_exit_scenario</entry>
         <entry>create_captable_data</entry>
+        <entry>DoesNotExist</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
