@@ -9,11 +9,11 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1558559923146">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1558564655847">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="38" column="7" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1558460140508">
         <mark key="[" line="41" column="0" />
@@ -139,18 +139,18 @@
         <mark key="^" line="1187" column="43" />
         <mark key="." line="1187" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1558562974199">
-        <mark key="[" line="122" column="57" />
-        <mark key="]" line="122" column="82" />
-        <mark key="^" line="122" column="82" />
-        <mark key="." line="122" column="82" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1558564599497">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="93" column="24" />
+        <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558561867803">
-        <mark key="'" line="602" column="0" />
-        <mark key="[" line="25" column="79" />
-        <mark key="]" line="25" column="92" />
-        <mark key="^" line="25" column="92" />
-        <mark key="." line="25" column="92" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558564441197">
+        <mark key="'" line="608" column="0" />
+        <mark key="[" line="166" column="50" />
+        <mark key="]" line="167" column="33" />
+        <mark key="^" line="167" column="33" />
+        <mark key="." line="167" column="33" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_backsolve.py" timestamp="1558561216732">
         <mark key="[" line="39" column="0" />
@@ -384,10 +384,10 @@
         <text>valuation_with_updated_valuation_date</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ALTERNATE_DATE</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>ALTERNATE_DATE</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>raise</text>
@@ -399,31 +399,37 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMgaW1wb3J0IGh5YnJpZF92YWx1YXRpb24gYXMgaHlicmlkX3ZhbF9zZXJ2aWNlCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5vcmRlcmVkX3NjZW5hcmlvcyBpbXBvcnQgSHlicmlkU2NlbmFyaW9PcmRlcmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBWYWx1YXRpb25UZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiJHZXQgdGhlIHNjZW5hcmlvcyB1c2VkIGZvciB0aGUgYWN0aXZlIHZhbHVhdGlvbiB0ZW1wbGF0ZSB0eXBlIiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJHZXQgdGhlIHNjZW5hcmlvcyBsaW5rZWQgdG8gdGhpcyB2YWx1YXRpb24gdGhhdCBhcmUgaW4gdXNlIChtZWFuaW5nIHRoaXMgdmFsdWF0aW9uJ3MgdGVtcGxhdGUgdHlwZQogICAgICAgIG1hdGNoZXMgdGhlIHRlbXBsYXRlIHR5cGUgb2YgdGhlIHJlbGF0aW9uLiIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5tb2RlbHMgaW1wb3J0IENhcHRhYmxlRGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5tb2RlbHMuY2FwdGFibGVfZGF0YSBpbXBvcnQgQ2FwdGFibGVEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IE9iamVjdERvZXNOb3RFeGlzdDoKICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ycG9yYXRpb25fcGs9c2VsZi5zY2VuYXJpby5nZXRfdmFsdWF0aW9uKCkuY2FwdGFibGVfY29ycG9yYXRpb25fcGssCg==</text>
+        <text encoding="base64">ICAgICA9IGh5YnJpZHMubGF0ZV9leGl0X3NjZW5hcmlvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICA9IGh5YnJpZHMuZWFybHlfZXhpdF92YWxfZGF0ZV9zY2VuYXJpbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJHZXQgdGhlIHNjZW5hcmlvIHRoYXQgc2VydmVzIGFzIHRoaXMgc2NlbmFyaW8ncyBlYXJseS1leGl0IGNvdW50ZXJwYXJ0LCBpZiBvbmUgZXhpc3RzLiIiIgogICAgICAgIHJldHVybiBzZWxmLnJlbGF0ZWRfc2NlbmFyaW9zLmdldChmcm9tX3NjZW5hcmlvX19yZWxhdGlvbl90eXBlPVNjZW5hcmlvUmVsYXRpb25UZW1wbGF0ZS5IWUJSSURfRUFSTFlfRVhJVCkK</text>
+        <text encoding="base64">ICAgICMgZGVmYXVsdCBiYWNrc29sdmUgZGF0ZSBiZWZvcmUgdmFsIGRhdGUKICAgIGJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uLnZhbHVhdGlvbl9kYXRlIC0gdGltZWRlbHRhKGRheXM9MSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>early_exit, late_exit = None, None
+        for scenario in scenarios:
+            early_exit = scenario.get_early_exit_scenario()
+            if early_exit is not None:
+                late_exit = scenario
+                break
+        return early_exit, late_exit</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
