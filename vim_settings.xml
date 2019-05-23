@@ -9,12 +9,12 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558564441197">
-        <mark key="'" line="608" column="0" />
-        <mark key="[" line="166" column="50" />
-        <mark key="]" line="167" column="33" />
-        <mark key="^" line="167" column="33" />
-        <mark key="." line="167" column="33" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558633118385">
+        <mark key="'" line="166" column="37" />
+        <mark key="[" line="166" column="38" />
+        <mark key="]" line="166" column="49" />
+        <mark key="^" line="166" column="49" />
+        <mark key="." line="166" column="49" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_backsolve.py" timestamp="1558561216732">
         <mark key="[" line="39" column="0" />
@@ -22,11 +22,11 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1558576879258">
-        <mark key="[" line="59" column="64" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1558633832641">
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="21" />
+        <mark key="." line="59" column="27" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1558460140508">
         <mark key="[" line="41" column="0" />
@@ -76,12 +76,12 @@
         <mark key="^" line="12" column="114" />
         <mark key="." line="12" column="114" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1558630888048">
-        <mark key="'" line="1721" column="48" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1558632853423">
+        <mark key="'" line="1720" column="48" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="^" line="238" column="13" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_captable_data.py" timestamp="1558537505374">
         <mark key="[" line="15" column="0" />
@@ -179,11 +179,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1558494678560">
-        <mark key="[" line="164" column="62" />
-        <mark key="]" line="167" column="48" />
-        <mark key="." line="167" column="48" />
-        <mark key="^" line="167" column="48" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1558633849729">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1558562851274">
         <mark key="'" line="100" column="46" />
@@ -209,6 +209,11 @@
         <mark key="]" line="13" column="51" />
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1558633705148">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/allocation/test_allocation.py" timestamp="1558545952475">
         <mark key="[" line="2" column="17" />
@@ -278,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" />
       <jump line="680" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" />
       <jump line="690" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" />
       <jump line="709" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" />
@@ -378,52 +382,53 @@
       <jump line="219" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1704" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="164" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Decimal('0.25'),</text>
+        <text>secondary_rationale</text>
       </register>
       <register name="-" type="4">
-        <text>Decimal('0.25'),</text>
+        <text>secondary_rationale</text>
       </register>
       <register name="/" type="4">
         <text>raise</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmdldF92YWx1YXRpb25fcmVsYXRpb24oKS52YWx1YXRpb25faWQgPT0gZWFybHlfc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbl9yZWxhdGlvbigpLnZhbHVhdGlvbl9pZDoKICAgICAgICAgICAgcmV0dXJuIGVhcmx5X3NjZW5hcmlvCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdFYXJseSBleGl0IHNjZW5hcmlvIGZvdW5kLCBidXQgdGhlIHZhbHVhdGlvbiBJRHMgb2YgdGhlIHNjZW5hcmlvcyBkb25cJ3QgbWF0Y2gnKQo=</text>
+        <text encoding="base64">ICAgIHNlY29uZGFyeV9yYXRpb25hbGUgPSBncmFwaGVuZS5TdHJpbmcoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3ZhbGlkYXRlX3NhbWVfcGFyZW50X3ZhbHVhdGlvbihzZWxmLCBvdGhlcl9zY2VuYXJpbyk6CiAgICAgICAgaWYgc2VsZi5nZXRfdmFsdWF0aW9uX3JlbGF0aW9uKCkudmFsdWF0aW9uX2lkID09IG90aGVyX3NjZW5hcmlvLmdldF92YWx1YXRpb25fcmVsYXRpb24oKS52YWx1YXRpb25faWQ6CiAgICAgICAgICAgIHJldHVybiBvdGhlcl9zY2VuYXJpbwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgICAgICdUaGUgdmFsdWF0aW9uIElEcyBvZiB0aGUgc2NlbmFyaW9zIGRvblwndCBtYXRjaC4gU2VsZjogW3t9Ont9XSwgb3RoZXI6IFt7fTp7fV0nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzZWxmLmlkLCBzZWxmLm5hbWUsIG90aGVyX3NjZW5hcmlvLmlkLCBvdGhlcl9zY2VuYXJpby5uYW1lCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmdldF92YWx1YXRpb25fcmVsYXRpb24oKS52YWx1YXRpb25faWQgPT0gZWFybHlfc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbl9yZWxhdGlvbigpLnZhbHVhdGlvbl9pZDoKICAgICAgICAgICAgcmV0dXJuIGVhcmx5X3NjZW5hcmlvCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdFYXJseSBleGl0IHNjZW5hcmlvIGZvdW5kLCBidXQgdGhlIHZhbHVhdGlvbiBJRHMgb2YgdGhlIHNjZW5hcmlvcyBkb25cJ3QgbWF0Y2gnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9zY2VuYXJpbycK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcmRlcmVkX2h5YnJpZF9zY2VuYXJpb3MubGFiZWxzKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">XQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGUgPSBlYXJseV9leGl0X3ZhbF9kYXRlLmdldF9iYWNrc29sdmVfZGF0ZV9hbHRlcm5hdGl2ZSgpCiAgICAgICAgICAgIGlmIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBvcmRlcmVkX3NjZW5hcmlvcy5pbnNlcnQoMCwgZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZSkKICAgICAgICAgICAgICAgIGxhYmVscy5pbnNlcnQoMCwg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX3NjZW5hcmlvX2xhYmVscyhpbnN0YW5jZSwgaW5mbywgKiprd2FyZ3MpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNjZW5hcmlvX2xhYmVscyA9IGdyYXBoZW5lLk9iamVjdFR5cGUoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGxhYmVsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVhcmx5X2V4aXRfdmFsX2RhdGVfc2NlbmFyaW8gPSBlYXJseV9leGl0X3ZhbF9kYXRlCiAgICAgICAgc2VsZi5lYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX3NjZW5hcmlvID0gZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZQogICAgICAgIHNlbGYubGF0ZV9leGl0X3NjZW5hcmlvID0gbGF0ZV9leGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5vcmRlcmVkX3NjZW5hcmlvcyBpbXBvcnQgSHlicmlkU2NlbmFyaW9PcmRlcmluZwo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX3ZhbGlkYXRlX3NhbWVfcGFyZW50X3ZhbHVhdGlvbihzZWxmLCBvdGhlcl9zY2VuYXJpbyk6CiAgICAgICAgaWYgc2VsZi5nZXRfdmFsdWF0aW9uX3JlbGF0aW9uKCkudmFsdWF0aW9uX2lkID09IG90aGVyX3NjZW5hcmlvLmdldF92YWx1YXRpb25fcmVsYXRpb24oKS52YWx1YXRpb25faWQ6CiAgICAgICAgICAgIHJldHVybiBvdGhlcl9zY2VuYXJpbwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgICAgICdUaGUgdmFsdWF0aW9uIElEcyBvZiB0aGUgc2NlbmFyaW9zIGRvblwndCBtYXRjaC4gU2VsZjogW3t9Ont9XSwgb3RoZXI6IFt7fTp7fV0nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzZWxmLmlkLCBzZWxmLm5hbWUsIG90aGVyX3NjZW5hcmlvLmlkLCBvdGhlcl9zY2VuYXJpby5uYW1lCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
