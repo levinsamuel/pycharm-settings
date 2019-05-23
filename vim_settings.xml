@@ -38,6 +38,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="26" column="30" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0072_create_captable.py" timestamp="1558645639399">
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="61" />
+        <mark key="." line="36" column="61" />
+        <mark key="^" line="36" column="61" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/factories/valuations/factories.py" timestamp="1556585041453">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -49,11 +55,6 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1558561270761">
-        <mark key="]" line="12" column="114" />
-        <mark key="^" line="12" column="114" />
-        <mark key="." line="12" column="114" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1558642732754">
         <mark key="'" line="219" column="13" />
@@ -190,6 +191,10 @@
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0059_backfill_umbrella_valuation_relations.py" timestamp="1558645102446">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="109" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid_valuation.py" timestamp="1558560380545">
         <mark key="[" line="14" column="27" />
@@ -372,46 +377,46 @@
         <text>valuation_with_updated_valuation_date</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>captable_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IG1vZGVscy5Gb3JlaWduS2V5KAogICAgICAgICd2YWx1YXRpb25zLlZhbHVhdGlvbicsCiAgICAgICAgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFLAogICAgICAgIHJlbGF0ZWRfbmFtZT0iY2FwdGFibGVfZGF0YSIsCiAgICAgICAgbnVsbD1UcnVlLAogICAgICAgIGJsYW5rPVRydWUsCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiVGhlcmUgc2hvdWxkIG5vdCBiZSBhIFVtYnJlbGxhVmFsdWF0aW9uUmVsYXRpb24gaW4gdGhlIGRiIGJlZm9yZSBiYWNrZmlsbGluZy4iKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CgogICAgIyBUT0RPOiByZW1vdmUgdGhlc2UKICAgIHZhbHVhdGlvbiA9IG1vZGVscy5Gb3JlaWduS2V5KAogICAgICAgICd2YWx1YXRpb25zLlZhbHVhdGlvbicsCiAgICAgICAgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFLAogICAgICAgIHJlbGF0ZWRfbmFtZT0iY2FwdGFibGVfZGF0YSIsCiAgICAgICAgbnVsbD1UcnVlLAogICAgICAgIGJsYW5rPVRydWUsCiAgICApCgogICAgYmFja3NvbHZlID0gbW9kZWxzLkZvcmVpZ25LZXkoCiAgICAgICAgJ3ZhbHVhdGlvbnMuQmFja3NvbHZlJywKICAgICAgICBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUsCiAgICAgICAgcmVsYXRlZF9uYW1lPSJjYXB0YWJsZV9kYXRhIiwKICAgICAgICBudWxsPVRydWUsCiAgICAgICAgYmxhbms9VHJ1ZSwKICAgICkK</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLmNhcHRhYmxlX2RhdGEgaW1wb3J0IENhcHRhYmxlRGF0YQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLnV0aWxzIGltcG9ydCBFbnVtRmllbGQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaW50ZXJlc3QgaW1wb3J0IGNvbXB1dGVfYWNjcnVlZF9pbnRlcmVzdAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGNvbnN0YW50cwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEV4YWN0RGVjaW1hbEZpZWxkLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEVTaGFyZXNKU09ORmllbGQsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFkdmFuY2VkUXVlcnlTZXQsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFkdmFuY2VkTWFuYWdlciwK</text>
+        <text encoding="base64">ICAgIEFkdmFuY2VkUXVlcnlTZXQsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</text>
