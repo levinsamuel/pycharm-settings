@@ -186,11 +186,17 @@
         <mark key="^" line="1187" column="43" />
         <mark key="." line="1187" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558710418020">
-        <mark key="[" line="615" column="0" />
-        <mark key="]" line="615" column="0" />
-        <mark key="." line="615" column="0" />
-        <mark key="^" line="618" column="76" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/captable_formatter/captable_formatter.py" timestamp="1558655850170">
+        <mark key="'" line="188" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1558714390332">
+        <mark key="[" line="621" column="66" />
+        <mark key="]" line="621" column="92" />
+        <mark key="." line="621" column="92" />
+        <mark key="^" line="621" column="92" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" timestamp="1558714269395">
+        <mark key="'" line="35" column="62" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/scenario_self_relation.py" timestamp="1558489350883">
         <mark key="'" line="38" column="50" />
@@ -218,6 +224,9 @@
         <mark key="^" line="29" column="103" />
         <mark key="." line="29" column="103" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/post_money_table.py" timestamp="1558655813336">
+        <mark key="'" line="157" column="41" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_captable_data.py" timestamp="1558656683698">
         <mark key="[" line="14" column="101" />
         <mark key="]" line="15" column="53" />
@@ -240,6 +249,9 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" timestamp="1558656699349">
         <mark key="[" line="142" column="101" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/utils.py" timestamp="1558655330017">
+        <mark key="'" line="21" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1558671791028">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,6 +260,13 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/copy.py" timestamp="1558714249789">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="55" />
+        <mark key="^" line="44" column="55" />
+        <mark key="." line="44" column="55" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/middleware/permission_enforcer_middleware.py" timestamp="1558662150568">
         <mark key="[" line="0" column="41" />
@@ -291,27 +310,24 @@
         <mark key="." line="353" column="12" />
         <mark key="^" line="353" column="12" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/organization.py" timestamp="1558655504065">
+        <mark key="'" line="172" column="53" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/__init__.py" timestamp="1558643904072">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="43" />
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" timestamp="1558674667826">
-        <mark key="'" line="54" column="45" />
-        <mark key="[" line="54" column="45" />
-        <mark key="]" line="54" column="66" />
-        <mark key="." line="54" column="66" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" timestamp="1558714292310">
+        <mark key="'" line="60" column="53" />
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
         <mark key="^" line="54" column="66" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="64" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="621" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="282" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
-      <jump line="286" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
-      <jump line="623" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="624" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="625" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="627" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="631" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -406,16 +422,22 @@
       <jump line="309" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="343" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="336" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/copy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
+      <jump line="53" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
+      <jump line="35" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
+      <jump line="56" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
+      <jump line="60" column="53" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\.captable_data</text>
