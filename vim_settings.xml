@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/valuation_calculations.py" timestamp="1558723397719">
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="70" column="29" />
+        <mark key="^" line="70" column="29" />
+        <mark key="." line="70" column="29" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1556913428289">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="46" />
@@ -319,11 +325,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" timestamp="1558720703466">
-        <mark key="[" line="322" column="7" />
-        <mark key="]" line="323" column="76" />
-        <mark key="^" line="323" column="76" />
-        <mark key="." line="323" column="76" />
+      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" timestamp="1558723894645">
+        <mark key="'" line="300" column="11" />
+        <mark key="[" line="324" column="56" />
+        <mark key="]" line="329" column="63" />
+        <mark key="^" line="323" column="38" />
+        <mark key="." line="329" column="63" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0074_auto_20190521_2028.py" timestamp="1558495926924">
         <mark key="[" line="14" column="0" />
@@ -388,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="64" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/captable_formatter/captable_formatter.py" />
       <jump line="48" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
       <jump line="298" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="1" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/middleware/permission_enforcer_middleware.py" />
@@ -488,19 +494,20 @@
       <jump line="142" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/post_money_table.py" />
       <jump line="58" column="61" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
       <jump line="3" column="5" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" />
+      <jump line="300" column="11" filename="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>key</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>\.captable_data</text>
+        <text encoding="base64">XDxnZXRfcmVmZXJlbmNlX2FuZF9nZW5lcmF0ZWRfZGF0YVw+</text>
       </register>
       <register name="0" type="4">
         <text>self.captable.captable_data.all()</text>
@@ -545,9 +552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.captable_data</last-search>
+      <last-search encoding="base64">XDxnZXRfcmVmZXJlbmNlX2FuZF9nZW5lcmF0ZWRfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern>\.captable_data</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcmVmZXJlbmNlX2FuZF9nZW5lcmF0ZWRfZGF0YVw+</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refresh_captable_data</entry>
         <entry>CaptableGet\</entry>
         <entry>CaptableGet</entry>
         <entry>Hybrid</entry>
@@ -575,6 +581,7 @@
         <entry>captable_data</entry>
         <entry>.captable_data</entry>
         <entry>\.captable_data</entry>
+        <entry encoding="base64">XDxnZXRfcmVmZXJlbmNlX2FuZF9nZW5lcmF0ZWRfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
