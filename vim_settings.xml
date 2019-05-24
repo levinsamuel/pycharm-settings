@@ -27,11 +27,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1558712016938">
-        <mark key="'" line="309" column="11" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="69" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1558713664562">
+        <mark key="'" line="336" column="29" />
+        <mark key="[" line="336" column="43" />
+        <mark key="]" line="336" column="43" />
+        <mark key="." line="336" column="43" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/captable/captable_data.py" timestamp="1558667015485">
         <mark key="[" line="21" column="72" />
@@ -306,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="619" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="102" column="64" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="621" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="282" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
@@ -403,19 +402,20 @@
       <jump line="30" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" />
       <jump line="110" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" />
       <jump line="21" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" />
-      <jump line="336" column="53" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="210" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
       <jump line="309" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
+      <jump line="343" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
+      <jump line="336" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>captable_data</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>\.captable_data</text>
