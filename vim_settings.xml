@@ -94,12 +94,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1558653133916">
-        <mark key="'" line="286" column="0" />
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="16" column="63" />
-        <mark key="^" line="91" column="35" />
-        <mark key="." line="16" column="63" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1558657655968">
+        <mark key="'" line="298" column="26" />
+        <mark key="[" line="234" column="56" />
+        <mark key="]" line="234" column="61" />
+        <mark key="^" line="234" column="61" />
+        <mark key="." line="234" column="61" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -322,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="323" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="325" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="327" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
@@ -422,6 +421,7 @@
       <jump line="177" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/captable_formatter/captable_formatter.py" />
       <jump line="188" column="64" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/captable_formatter/captable_formatter.py" />
       <jump line="48" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
+      <jump line="298" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -434,7 +434,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>filter_con</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcmVmZXRjaCgnY2FwdGFibGVfZGF0YScsIHF1ZXJ5c2V0PUNhcHRhYmxlRGF0YS5vYmplY3RzLmFsbCgpKSwK</text>
@@ -474,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>filter_con</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>filter_con</last-pattern>
       <last-replace>{{ report_type.share_name }}\1</last-replace>
       <last-substitute encoding="base64">XDxzaGFyZVwoc1w/XClcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -484,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>early</entry>
         <entry>early_exit_scenario</entry>
         <entry>create_captable_data</entry>
         <entry>DoesNotExist</entry>
@@ -504,6 +503,7 @@
         <entry>corporation_pk</entry>
         <entry>CaptableData</entry>
         <entry>static</entry>
+        <entry>filter_con</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
