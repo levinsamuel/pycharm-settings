@@ -198,12 +198,13 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/post_money_table.py" timestamp="1558715608464">
         <mark key="'" line="142" column="38" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1558728419312">
-        <mark key="'" line="3" column="34" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1558729582659">
+        <mark key="'" line="5" column="34" />
+        <mark key="i" line="35" column="81" />
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_create_captable_links.py" timestamp="1558651551811">
         <mark key="'" line="14" column="61" />
@@ -444,34 +445,43 @@
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhcHRhYmxlLmNhcHRhYmxlX2RhdGEgPSBNYWdpY01vY2soKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>mocker</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfcmVmZXJlbmNlX2FuZF9nZW5lcmF0ZWRfZGF0YVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>self.captable.captable_data.all()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb3BpZWRfdmFsID0gY29weV92YWx1YXRpb24odmFsdWF0aW9uKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhcHRhYmxlLmNhcHRhYmxlX2RhdGEgPSBNYWdpY01vY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBjb3BpZWRfdmFsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLmNhcHRhYmxlLmNhcHRhYmxlIGltcG9ydCBIYXNDYXB0YWJsZU1peGluCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgQ2FwdGFibGUsICdjYXB0YWJsZV9kYXRhJwogICAgKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKQHB5dGVzdC5maXh0dXJlCmRlZiBjb3B5X3ZhbHVhdGlvbigpOgogICAgcmV0dXJuIA==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNhcHRhYmxlLmNhcHRhYmxlX2RhdGEgPSBNYWdpY01vY2soKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLmNhcHRhYmxlLmNhcHRhYmxlIGltcG9ydCBIYXNDYXB0YWJsZU1peGluCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>@property
     def captable_data(self):
         &quot;&quot;&quot;Return a queryset against CaptableData for backwards compatibility&quot;&quot;&quot;
@@ -479,17 +489,8 @@
         # captable_id is a required field on captable_data, so if ID is None, this will return None
         return CaptableData.objects.filter(captable_id=captable_id, captable_id__isnull=False)</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgQHByb3BlcnR5CiAgICBkZWYgY2FwdGFibGVfZGF0YShzZWxmKToKICAgICAgICAiIiJSZXR1cm4gYSBxdWVyeXNldCBhZ2FpbnN0IENhcHRhYmxlRGF0YSBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkiIiIKICAgICAgICBjYXB0YWJsZV9pZCA9IHNlbGYuY2FwdGFibGUuaWQgaWYgc2VsZi5jYXB0YWJsZSBlbHNlIE5vbmUKICAgICAgICAjIGNhcHRhYmxlX2lkIGlzIGEgcmVxdWlyZWQgZmllbGQgb24gY2FwdGFibGVfZGF0YSwgc28gaWYgSUQgaXMgTm9uZSwgdGhpcyB3aWxsIHJldHVybiBOb25lCiAgICAgICAgcmV0dXJuIENhcHRhYmxlRGF0YS5vYmplY3RzLmZpbHRlcihjYXB0YWJsZV9pZD1jYXB0YWJsZV9pZCwgY2FwdGFibGVfaWRfX2lzbnVsbD1GYWxzZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
