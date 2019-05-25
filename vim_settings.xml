@@ -56,12 +56,10 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0072_create_captable.py" timestamp="1558727651938">
-        <mark key="'" line="55" column="34" />
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="92" column="74" />
-        <mark key="." line="92" column="73" />
-        <mark key="^" line="92" column="73" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0072_create_captable.py" timestamp="1558733964680">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/captable.py" timestamp="1558714827326">
         <mark key="'" line="63" column="29" />
@@ -206,12 +204,12 @@
         <mark key="^" line="43" column="24" />
         <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_create_captable_links.py" timestamp="1558651551811">
-        <mark key="'" line="14" column="61" />
-        <mark key="[" line="43" column="75" />
-        <mark key="]" line="43" column="75" />
-        <mark key="^" line="14" column="53" />
-        <mark key="." line="43" column="75" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_create_captable_links.py" timestamp="1558734000022">
+        <mark key="'" line="68" column="61" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/set_up_hybrid_val.py" timestamp="1558500039966">
         <mark key="[" line="7" column="63" />
@@ -445,11 +443,11 @@
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJ1blB5dGhvbihjcmVhdGVfY2FwdGFibGVzX2Zvcl9leGlzdGluZ19jYXB0YWJsZV9kYXRhKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfcmVmZXJlbmNlX2FuZF9nZW5lcmF0ZWRfZGF0YVw+</text>
@@ -461,36 +459,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBjb3BpZWRfdmFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJ1blB5dGhvbihjcmVhdGVfY2FwdGFibGVzX2Zvcl9leGlzdGluZ19jYXB0YWJsZV9kYXRhKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgQ2FwdGFibGUsICdjYXB0YWJsZV9kYXRhJwogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJ1blB5dGhvbihwb3B1bGF0ZV9jYXB0YWJsZV9pZF9saW5rc19mb3JfZXhpc3RpbmdfbW9kZWxzKSwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKQHB5dGVzdC5maXh0dXJlCmRlZiBjb3B5X3ZhbHVhdGlvbigpOgogICAgcmV0dXJuIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGMuZXhlY3V0ZSh1cGRhdGVfZGF0ZV9zcWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhcHRhYmxlLmNhcHRhYmxlX2RhdGEgPSBNYWdpY01vY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0V4ZWN1dGluZyBzcWwgdG8gYmFjay1maWxsIGNhcHRhYmxlIGlkIG9uIHt9OicuZm9ybWF0KG1vZGVsX25hbWUpLAogICAgICAgICAgICAgICAgICBtYWluX21vZGVsX2NhcHRhYmxlX2lkX3NxbCwgc2VwPSdcbicpCiAgICAgICAgICAgIHdpdGggY29ubmVjdGlvbi5jdXJzb3IoKSBhcyBjOgogICAgICAgICAgICAgICAgYy5leGVjdXRlKG1haW5fbW9kZWxfY2FwdGFibGVfaWRfc3FsKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLmNhcHRhYmxlLmNhcHRhYmxlIGltcG9ydCBIYXNDYXB0YWJsZU1peGluCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBjb3BpZWRfdmFsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgQ2FwdGFibGUsICdjYXB0YWJsZV9kYXRhJwogICAgKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKQHB5dGVzdC5maXh0dXJlCmRlZiBjb3B5X3ZhbHVhdGlvbigpOgogICAgcmV0dXJuIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>@property
-    def captable_data(self):
-        &quot;&quot;&quot;Return a queryset against CaptableData for backwards compatibility&quot;&quot;&quot;
-        captable_id = self.captable.id if self.captable else None
-        # captable_id is a required field on captable_data, so if ID is None, this will return None
-        return CaptableData.objects.filter(captable_id=captable_id, captable_id__isnull=False)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNhcHRhYmxlLmNhcHRhYmxlX2RhdGEgPSBNYWdpY01vY2soKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgQHByb3BlcnR5CiAgICBkZWYgY2FwdGFibGVfZGF0YShzZWxmKToKICAgICAgICAiIiJSZXR1cm4gYSBxdWVyeXNldCBhZ2FpbnN0IENhcHRhYmxlRGF0YSBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkiIiIKICAgICAgICBjYXB0YWJsZV9pZCA9IHNlbGYuY2FwdGFibGUuaWQgaWYgc2VsZi5jYXB0YWJsZSBlbHNlIE5vbmUKICAgICAgICAjIGNhcHRhYmxlX2lkIGlzIGEgcmVxdWlyZWQgZmllbGQgb24gY2FwdGFibGVfZGF0YSwgc28gaWYgSUQgaXMgTm9uZSwgdGhpcyB3aWxsIHJldHVybiBOb25lCiAgICAgICAgcmV0dXJuIENhcHRhYmxlRGF0YS5vYmplY3RzLmZpbHRlcihjYXB0YWJsZV9pZD1jYXB0YWJsZV9pZCwgY2FwdGFibGVfaWRfX2lzbnVsbD1GYWxzZSkK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLmNhcHRhYmxlLmNhcHRhYmxlIGltcG9ydCBIYXNDYXB0YWJsZU1peGluCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
