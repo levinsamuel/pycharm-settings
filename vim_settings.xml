@@ -115,7 +115,12 @@
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1558804621493">
         <mark key="'" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1558806959997" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1558821853659">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="36" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="48" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/post_money_table.py" timestamp="1558715608464">
         <mark key="'" line="142" column="38" />
       </file>
@@ -186,6 +191,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" timestamp="1558821958849">
+        <mark key="[" line="669" column="0" />
+        <mark key="]" line="669" column="12" />
+        <mark key="." line="669" column="12" />
+        <mark key="^" line="668" column="87" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/organization.py" timestamp="1558714857043">
         <mark key="'" line="37" column="12" />
@@ -305,10 +316,10 @@
         <text>valuation_with_updated_valuation_date</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, CaptableData</text>
+        <text>, captable_corporation_pk</text>
       </register>
       <register name="-" type="4">
-        <text>, CaptableData</text>
+        <text>, captable_corporation_pk</text>
       </register>
       <register name="/" type="4">
         <text>captable_corporation</text>
@@ -319,34 +330,34 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjYXB0YWJsZV9nZXR0ZXI9ZGF0YV9nZXR0ZXIsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlbW92ZSB0aGVzZSBvbmNlIG1pZ3JhdGVkCiAgICAgICAgc2Vjb25kX3BhcmVudF9pZF9uYW1lPXBhcmVudC5fbWV0YS5tb2RlbF9uYW1lICsgJ19pZCcsCiAgICAgICAgc2Vjb25kX3BhcmVudF9pZD1wYXJlbnQuaWQK</text>
+      </register>
+      <register name="3" type="4">
         <text>.captable
     if captable is not None:
         captable</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDYXB0YWJsZURhdGEub2JqZWN0cy5jcmVhdGUoY29ycG9yYXRpb25fcGs9c2VsZi5jYXB0YWJsZV9jb3Jwb3JhdGlvbl9waywgdmFsdWF0aW9uPXNlbGYsICoqa3dhcmdzKQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVfY2FwdGFibGVfZGF0YShzZWxmLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYXB0YWJsZURhdGEub2JqZWN0cy5jcmVhdGUoY29ycG9yYXRpb25fcGs9c2VsZi5jYXB0YWJsZV9jb3Jwb3JhdGlvbl9waywgdmFsdWF0aW9uPXNlbGYsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVfY2FwdGFibGVfZGF0YShzZWxmLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja3NvbHZlPXNlbGYsCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ycG9yYXRpb25fcGs9c2VsZi5zY2VuYXJpby5nZXRfdmFsdWF0aW9uKCkuY2FwdGFibGVfY29ycG9yYXRpb25fcGssCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
