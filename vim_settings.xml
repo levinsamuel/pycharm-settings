@@ -144,11 +144,12 @@
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" timestamp="1558890797944">
-        <mark key="[" line="60" column="77" />
-        <mark key="]" line="60" column="95" />
-        <mark key="^" line="60" column="95" />
-        <mark key="." line="60" column="95" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" timestamp="1558896769598">
+        <mark key="'" line="2" column="30" />
+        <mark key="[" line="94" column="42" />
+        <mark key="]" line="94" column="50" />
+        <mark key="^" line="94" column="50" />
+        <mark key="." line="94" column="50" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/models/preferred.py" timestamp="1558715458215">
         <mark key="'" line="139" column="54" />
@@ -183,6 +184,13 @@
         <mark key="^" line="323" column="38" />
         <mark key="." line="329" column="63" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" timestamp="1558896171858">
+        <mark key="'" line="74" column="25" />
+        <mark key="[" line="494" column="64" />
+        <mark key="]" line="494" column="64" />
+        <mark key="." line="494" column="64" />
+        <mark key="^" line="494" column="64" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0074_auto_20190521_2028.py" timestamp="1558495926924">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -199,7 +207,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" timestamp="1558890929054">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/captable_data.py" timestamp="1558895215779">
         <mark key="[" line="669" column="0" />
         <mark key="]" line="669" column="12" />
         <mark key="." line="669" column="12" />
@@ -217,15 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="502" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="75" column="3" filename="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" />
-      <jump line="194" column="38" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" />
-      <jump line="481" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
-      <jump line="767" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
-      <jump line="813" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
-      <jump line="855" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
-      <jump line="897" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="933" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="973" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
@@ -317,54 +316,61 @@
       <jump line="617" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="280" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="494" column="84" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
+      <jump line="502" column="20" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
+      <jump line="10" column="39" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
+      <jump line="95" column="14" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
+      <jump line="96" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
+      <jump line="2" column="30" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>valuation_with_updated_valuation_date</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhcHRhYmxlX2lkIGlzIGEgcmVxdWlyZWQgZmllbGQgb24gY2FwdGFibGVfZGF0YSwgc28gaWYgSUQgaXMgTm9uZSwgdGhpcyB3aWxsIHJldHVybiBOb25lCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>update_fields=['captable_id']</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>captable_corporation</text>
       </register>
-      <register name="0" type="4">
-        <text>valuation.save</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2VzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy5jYXB0YWJsZV9kYXRhLkNhcHRhYmxlLm9iamVjdHMuY3JlYXRlJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhcHRhYmxlX2lkIGlzIGEgcmVxdWlyZWQgZmllbGQgb24gY2FwdGFibGVfZGF0YSwgc28gaWYgSUQgaXMgTm9uZSwgdGhpcyB3aWxsIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXB0YWJsZS5jcmVhdGVfY2FwdGFibGVfZGF0YSA9IG1vY2tfY3JlYXRlX2NhcHRhYmxlX2RhdGFfb2JqZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZWRfc2F2ZSA9IHZhbHVhdGlvbi5zYXZlCg==</text>
+        <text encoding="base64">ICAgIGNhcHRhYmxlLl92YWx1YXRpb24gPSB2YWx1YXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBjYXB0YWJsZS5fdmFsdWF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgnZXNoYXJlcy52YWx1YXRpb25zLicpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBjYXB0YWJsZV9kYXRhX2NyZWF0b3IodmFsdWF0aW9uKToKICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBweXRlc3QgaW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0YWJsZV9nZXR0ZXI9ZGF0YV9nZXR0ZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlbW92ZSB0aGVzZSBvbmNlIG1pZ3JhdGVkCiAgICAgICAgc2Vjb25kX3BhcmVudF9pZF9uYW1lPXBhcmVudC5fbWV0YS5tb2RlbF9uYW1lICsgJ19pZCcsCiAgICAgICAgc2Vjb25kX3BhcmVudF9pZD1wYXJlbnQuaWQK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBjYXB0YWJsZV9kYXRhX2NyZWF0b3IodmFsdWF0aW9uKToKICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.captable
-    if captable is not None:
-        captable</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY2FwdGFibGVfZGF0YSBpbXBvcnQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhcHRhYmxlX2lkIGlzIGEgcmVxdWlyZWQgZmllbGQgb24gY2FwdGFibGVfZGF0YSwgc28gaWYgSUQgaXMgTm9uZSwgdGhpcyB3aWxsIHJldHVybiBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
