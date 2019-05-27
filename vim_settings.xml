@@ -159,6 +159,12 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" timestamp="1558925800504">
+        <mark key="[" line="140" column="18" />
+        <mark key="]" line="141" column="18" />
+        <mark key="^" line="141" column="18" />
+        <mark key="." line="141" column="18" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/models/preferred.py" timestamp="1558715458215">
         <mark key="'" line="139" column="54" />
       </file>
@@ -195,10 +201,10 @@
         <mark key="." line="381" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/scripts/create_scenarios.py" timestamp="1558905912728">
-        <mark key="[" line="156" column="20" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="172" column="0" />
+        <mark key="[" line="159" column="20" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="175" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0067_auto_20190502_1926.py" timestamp="1558495611828">
         <mark key="[" line="67" column="0" />
@@ -382,7 +388,7 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5yZWZyZXNoX2NhcHRhYmxlX2RhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZQo=</text>
       </register>
       <register name="-" type="4">
         <text>gets_correct_parent_id_name</text>
@@ -397,31 +403,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5yZWZyZXNoX2NhcHRhYmxlX2RhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5yZWZyZXNoX2NhcHRhYmxlX2RhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBoYW5kbGUgdGhpcywgaWYgYSBiYWNrc29sdmUgYW5kIG5vIHNjZW5hcmlvcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNvbmRfcGFyZW50X2lkX25hbWU9J3ZhbHVhdGlvbl9pZCcsIHNlY29uZF9wYXJlbnRfaWQ9dmFsdWF0aW9uLmlkLAo=</text>
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5yZWZyZXNoX2NhcHRhYmxlX2RhdGEoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0YWJsZV9jb3Jwb3JhdGlvbl9waz1jYXB0YWJsZV9nZXR0ZXIuY29ycG9yYXRpb24ucGssCg==</text>
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5yZWZyZXNoX2NhcHRhYmxlX2RhdGEoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBjYXB0YWJsZS52YWx1YXRpb24uZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWNvbmRfcGFyZW50X2lkX25hbWU9J3ZhbHVhdGlvbl9pZCcsIHNlY29uZF9wYXJlbnRfaWQ9dmFsdWF0aW9uLmlkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uX2lkPXZhbHVhdGlvbi5pZCwK</text>
+        <text encoding="base64">ICAgICAgICBjYXB0YWJsZV9jb3Jwb3JhdGlvbl9waz1jYXB0YWJsZV9nZXR0ZXIuY29ycG9yYXRpb24ucGssCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ycG9yYXRpb25fcGs9Y2FwdGFibGVfZGF0YV9jcmVhdG9yLmNvcnBvcmF0aW9uX3BrLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBjYXB0YWJsZS52YWx1YXRpb24uZ2V0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kX3BhcmVudF9pZD12YWx1YXRpb25fd2l0aF9jYXB0YWJsZS5pZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uX2lkPXZhbHVhdGlvbi5pZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kX3BhcmVudF9pZF9uYW1lPSd2YWx1YXRpb25faWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ycG9yYXRpb25fcGs9Y2FwdGFibGVfZGF0YV9jcmVhdG9yLmNvcnBvcmF0aW9uX3BrLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
