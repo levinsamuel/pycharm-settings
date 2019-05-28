@@ -72,11 +72,6 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1559072503292">
-        <mark key="[" line="91" column="25" />
-        <mark key="]" line="91" column="25" />
-        <mark key="." line="91" column="25" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -135,12 +130,14 @@
       <file name="$USER_HOME$/git/carta-web/eshares/staff/api/api_urls.py" timestamp="1559074551029">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1559077525850">
+        <mark key="[" line="102" column="64" />
+        <mark key="]" line="104" column="112" />
+        <mark key="^" line="104" column="112" />
+        <mark key="." line="104" column="112" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1559072526734">
         <mark key="'" line="17" column="46" />
-        <mark key="[" line="147" column="25" />
-        <mark key="]" line="147" column="32" />
-        <mark key="." line="147" column="32" />
-        <mark key="^" line="147" column="32" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/scenario_self_relation.py" timestamp="1558489350883">
         <mark key="'" line="38" column="50" />
@@ -348,7 +345,7 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>DO_NOTHING</text>
@@ -363,31 +360,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdlYXJseSBleGl0IHNjZW5hcmlvIGRvZXMgbm90IGV4aXN0LCBjcmVhdGluZyBpdCBmb3IgdmFsdWF0aW9uIGlkOiAlcycsIHZhbHVhdGlvbi5pZCkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uLCAnRWFybHkgRXhpdCcsIHZhbHVhdGlvbi52YWx1YXRpb25fZGF0ZSwgRGVjaW1hbCgnMC43NScpLCBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX3NjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvID0gX19jcmVhdGVfZWFybHlfZXhpdF9zY2VuYXJpbygK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfc2NlbmFyaW8gaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uLCAnRWFybHkgRXhpdCcsIHZhbHVhdGlvbi52YWx1YXRpb25fZGF0ZSwgRGVjaW1hbCgnMC43NScpLCBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX3NjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfc2MgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvID0gX19jcmVhdGVfZWFybHlfZXhpdF9zY2VuYXJpbygK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfc2NlbmFyaW8gaXMgTm9uZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY2VuYXJpb1NlbGZSZWxhdGlvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgZnJvbV9zY2VuYXJpbz1sYXRlX2V4aXRfc2NlbmFyaW8sCiAgICAgICAgICAgIHRvX3NjZW5hcmlvPWVhcmx5X2V4aXRfc2NlbmFyaW8sCiAgICAgICAgICAgIHJlbGF0aW9uX3R5cGU9Y29uc3RhbnRzLlNjZW5hcmlvUmVsYXRpb25UZW1wbGF0ZS5IWUJSSURfRUFSTFlfRVhJVCwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfc2MgaXMgTm9uZToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
