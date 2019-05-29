@@ -35,6 +35,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1559154944169">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1559158968058">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1559083181124">
         <mark key="'" line="30" column="64" />
         <mark key="[" line="1" column="0" />
@@ -100,9 +105,9 @@
         <mark key="." line="382" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1559155147153">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0074_auto_20190521_2028.py" timestamp="1558495926924">
         <mark key="[" line="14" column="0" />
@@ -222,7 +227,7 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLnN3YXBwYWJsZV9kZXBlbmRlbmN5KHNldHRpbmdzLkFVVEhfVVNFUl9NT0RFTCksCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -237,42 +242,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLnN3YXBwYWJsZV9kZXBlbmRlbmN5KHNldHRpbmdzLkFVVEhfVVNFUl9NT0RFTCksCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudWxsPVRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZ2V0X2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlX2lmX2V4aXN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWxhdGVkX25hbWU9J2xhdGVfZXhpdF9iYWNrc29sdmUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlKGluc3RhbmNlLCBpbmZvLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAndmFsdWF0aW9ucy5BbGxvY2F0aW9uJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlID0gZ3JhcGhlbmUuRmllbGQobGFtYmRhOiBTY2VuYXJpb1R5cGUpCg==</text>
+        <text encoding="base64">ICAgIGVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWxsb2NhdGlvbiA9IG1vZGVscy5PbmVUb09uZUZpZWxkKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBTY2VuYXJpb1JlbGF0aW9uVGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLnN3YXBwYWJsZV9kZXBlbmRlbmN5KHNldHRpbmdzLkFVVEhfVVNFUl9NT0RFTCksCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>bd_relation = (
-            ScenarioSelfRelation.objects
-                .filter(relation_type=ScenarioRelationTemplate.HYBRID_EARLY_EXIT)
-                .filter(
-                    from_scenario__from_scenario__relation_type=ScenarioRelationTemplate.BACKSOLVE_DATE_ALTERNATIVE,
-                    from_scenario__from_scenario__from_scenario_id=self.scenario.id
-                )
-        ).first()
-        if bd_relation is not None:
-            return bd_relation.to_scenario
-        else:
-            return None</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZ2V0X2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlX2lmX2V4aXN0cygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
