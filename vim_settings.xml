@@ -18,11 +18,18 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1559084588647">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1559154944169">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="12" />
+        <mark key="^" line="273" column="105" />
+        <mark key="." line="275" column="12" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1559152934150">
-        <mark key="[" line="188" column="19" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/backsolve.py" timestamp="1559154546886">
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="81" />
+        <mark key="^" line="181" column="78" />
+        <mark key="." line="14" column="81" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1559083181124">
         <mark key="'" line="30" column="64" />
@@ -63,11 +70,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/copy.py" timestamp="1559071463996">
         <mark key="[" line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1559085139840">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="165" column="88" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1559155147153">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
         <mark key="^" line="165" column="88" />
-        <mark key="." line="165" column="88" />
+        <mark key="." line="170" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -176,11 +183,11 @@
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29ycG9yYXRpb25fcGs9c2VsZi5jYXB0YWJsZV9jb3Jwb3JhdGlvbi5waywg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29ycG9yYXRpb25fcGs9c2VsZi5jYXB0YWJsZV9jb3Jwb3JhdGlvbi5waywg</text>
+        <text>BACKSOLVE_DATE_ALTERNATIVE</text>
       </register>
       <register name="/" type="4">
         <text>flipper</text>
@@ -191,32 +198,43 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvcnBvcmF0aW9uX3BrPXNlbGYuY2FwdGFibGVfY29ycG9yYXRpb24ucGssIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZ2V0X2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlX2lmX2V4aXN0cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2FsbG9jYXRpb249YWxsb2NhdGlvbiwK</text>
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlKGluc3RhbmNlLCBpbmZvLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2FsbG9jYXRpb25faWQgPSBrd2FyZ3MuZ2V0KCdlYXJseV9leGl0X2FsbG9jYXRpb25faWQnLCBOb25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2Ztdl93ZWlnaHQgPSBrd2FyZ3MuZ2V0KCdlYXJseV9leGl0X2Ztdl93ZWlnaHQnLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlID0gZ3JhcGhlbmUuRmllbGQobGFtYmRhOiBTY2VuYXJpb1R5cGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uX2lkPWVhcmx5X2V4aXRfYWxsb2NhdGlvbl9pZCwK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBTY2VuYXJpb1JlbGF0aW9uVGVtcGxhdGUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9mbXZfd2VpZ2h0PWVhcmx5X2V4aXRfZm12X3dlaWdodCwK</text>
+      <register name="7" type="4">
+        <text>bd_relation = (
+            ScenarioSelfRelation.objects
+                .filter(relation_type=ScenarioRelationTemplate.HYBRID_EARLY_EXIT)
+                .filter(
+                    from_scenario__from_scenario__relation_type=ScenarioRelationTemplate.BACKSOLVE_DATE_ALTERNATIVE,
+                    from_scenario__from_scenario__from_scenario_id=self.scenario.id
+                )
+        ).first()
+        if bd_relation is not None:
+            return bd_relation.to_scenario
+        else:
+            return None</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uID0gQWxsb2NhdGlvbi5vYmplY3RzLmdldChwaz1lYXJseV9leGl0X2FsbG9jYXRpb25faWQpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiAoCiAgICAgICAgIyAgICAgc2VsZi5zY2VuYXJpbwogICAgICAgICMgICAgICAgICAucmVsYXRlZF9zY2VuYXJpb3MuZmlsdGVyKGZyb21fc2NlbmFyaW9fX3JlbGF0aW9uX3R5cGU9U2NlbmFyaW9SZWxhdGlvblRlbXBsYXRlLkhZQlJJRF9FQVJMWV9FWElUKQogICAgICAgICMgICAgICAgICAucmVsYXRlZF9zY2VuYXJpb3MuZmlsdGVyKAogICAgICAgICMgICAgICAgICAgICAgZnJvbV9zY2VuYXJpb19fcmVsYXRpb25fdHlwZT1TY2VuYXJpb1JlbGF0aW9uVGVtcGxhdGUuQkFDS1NPTFZFX0RBVEVfQUxURVJOQVRJVkUKICAgICAgICAjICAgICAgICAgKQogICAgICAgICMgKS5maXJzdCgp</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
