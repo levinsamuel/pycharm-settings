@@ -14,6 +14,11 @@
       <file name="/a.dummy" timestamp="1559157030353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0074_create_captable.py" timestamp="1559157811653">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/captable/captable.py" timestamp="1559097644514">
         <mark key="'" line="2" column="46" />
         <mark key="[" line="2" column="57" />
@@ -216,8 +221,8 @@
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLnN3YXBwYWJsZV9kZXBlbmRlbmN5KHNldHRpbmdzLkFVVEhfVVNFUl9NT0RFTCksCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -232,24 +237,27 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLnN3YXBwYWJsZV9kZXBlbmRlbmN5KHNldHRpbmdzLkFVVEhfVVNFUl9NT0RFTCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZ2V0X2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlX2lmX2V4aXN0cygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlKGluc3RhbmNlLCBpbmZvLCAqKmt3YXJncyk6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZ2V0X2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlX2lmX2V4aXN0cygpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2JhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlKGluc3RhbmNlLCBpbmZvLCAqKmt3YXJncyk6Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlID0gZ3JhcGhlbmUuRmllbGQobGFtYmRhOiBTY2VuYXJpb1R5cGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlX2FsdGVybmF0aXZlID0gZ3JhcGhlbmUuRmllbGQobGFtYmRhOiBTY2VuYXJpb1R5cGUpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBTY2VuYXJpb1JlbGF0aW9uVGVtcGxhdGUK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>bd_relation = (
             ScenarioSelfRelation.objects
                 .filter(relation_type=ScenarioRelationTemplate.HYBRID_EARLY_EXIT)
@@ -263,11 +271,8 @@
         else:
             return None</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiAoCiAgICAgICAgIyAgICAgc2VsZi5zY2VuYXJpbwogICAgICAgICMgICAgICAgICAucmVsYXRlZF9zY2VuYXJpb3MuZmlsdGVyKGZyb21fc2NlbmFyaW9fX3JlbGF0aW9uX3R5cGU9U2NlbmFyaW9SZWxhdGlvblRlbXBsYXRlLkhZQlJJRF9FQVJMWV9FWElUKQogICAgICAgICMgICAgICAgICAucmVsYXRlZF9zY2VuYXJpb3MuZmlsdGVyKAogICAgICAgICMgICAgICAgICAgICAgZnJvbV9zY2VuYXJpb19fcmVsYXRpb25fdHlwZT1TY2VuYXJpb1JlbGF0aW9uVGVtcGxhdGUuQkFDS1NPTFZFX0RBVEVfQUxURVJOQVRJVkUKICAgICAgICAjICAgICAgICAgKQogICAgICAgICMgKS5maXJzdCgp</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
