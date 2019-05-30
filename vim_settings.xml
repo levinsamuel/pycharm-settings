@@ -53,11 +53,10 @@
         <mark key="]" line="431" column="0" />
         <mark key="." line="431" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0075_create_scenaro_selfrelation.py" timestamp="1559257048422">
-        <mark key="[" line="54" column="26" />
-        <mark key="]" line="53" column="64" />
-        <mark key="^" line="53" column="64" />
-        <mark key="." line="53" column="64" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0075_create_scenaro_selfrelation.py" timestamp="1559257801405">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1559144538106">
         <mark key="'" line="28" column="0" />
@@ -221,7 +220,7 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEFsbG9jYXRpb24gPSBhcHBzLmdldF9tb2RlbCgndmFsdWF0aW9ucycsICdBbGxvY2F0aW9uJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">RVNoYXJlc01vZGVsLCA=</text>
@@ -236,7 +235,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEFsbG9jYXRpb24gPSBhcHBzLmdldF9tb2RlbCgndmFsdWF0aW9ucycsICdBbGxvY2F0aW9uJykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -251,16 +250,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBBcHByb2FjaCwgRmluYW5jaWFsRGV0YWlsLCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBBcHByb2FjaCwgRmluYW5jaWFsRGV0YWlsLCAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/captable_data/captable.captable_data/g</text>
