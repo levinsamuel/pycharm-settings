@@ -101,10 +101,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="87" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/investor_services/scenario_modeling/waterfall/waterfall_allocation_builder.py" timestamp="1559149669336">
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="12" />
-        <mark key="." line="84" column="12" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation.py" timestamp="1559272072306">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1558468227110">
         <mark key="[" line="431" column="0" />
@@ -355,16 +356,16 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>custom_types.Decimal()</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>custom_types.Decimal()</text>
       </register>
       <register name="/" type="4">
         <text>allocation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGVzaGFyZXMuY29tbW9uLmNvbXBvbmVudHMudXRpbHMuY29yZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lX3RvX25leHRfZmluYW5jaW5nID0gY3VzdG9tX3R5cGVzLkRlY2ltYWwoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
