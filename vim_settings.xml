@@ -104,6 +104,13 @@
         <mark key="^" line="130" column="19" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" timestamp="1559320119368">
+        <mark key="'" line="146" column="47" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1559259213052">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -216,8 +223,8 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1559278317570">
-        <mark key="'" line="17" column="46" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1559320220155">
+        <mark key="'" line="194" column="63" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="97" />
         <mark key="^" line="626" column="33" />
@@ -369,10 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="25" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
-      <jump line="95" column="14" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
-      <jump line="2" column="30" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
       <jump line="52" column="4" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
       <jump line="98" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" />
       <jump line="13" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" />
@@ -469,6 +472,10 @@
       <jump line="2287" column="5" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
       <jump line="2295" column="4" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
       <jump line="2284" column="5" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="93" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" />
+      <jump line="145" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" />
+      <jump line="194" column="63" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -481,7 +488,7 @@
         <text encoding="base64">bW9kZWxzLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>CARTA_LOGIN</text>
+        <text>get_hybrid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGMuZXhlY3V0ZSgiIiJVUERBVEUgVkFMVUFUSU9OU19BTExPQ0FUSU9OIFZBCiAgICAgICAgICAgICAgICAgICAgICAgICAgU0VUIEFMTE9DQVRJT05fREFURSA9IFZWLlZBTFVBVElPTl9EQVRFCiAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgVlMuQUxMT0NBVElPTl9JRCwgSVZWLlZBTFVBVElPTl9EQVRFLCBJVlYuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gVkFMVUFUSU9OU19TQ0VOQVJJTyBWUyAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEpPSU4gVkFMVUFUSU9OU19WQUxVQVRJT05TQ0VOQVJJT1JFTEFUSU9OIFZTUiBPTiBWUy5JRCA9IFZTUi5TQ0VOQVJJT19JRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgSk9JTiBWQUxVQVRJT05TX1ZBTFVBVElPTiBJVlYgT04gSVZWLklEID0gVlNSLlZBTFVBVElPTl9JRAogICAgICAgICAgICAgICAgICAgICAgICAgICkgVlYKICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBWVi5JRCBJTiAoe30pCiAgICAgICAgICAgICAgICAgICAgICAgICAgIiIiLmZvcm1hdCgnLCcuam9pbihpZF9zbGljZSkpKQo=</text>
@@ -525,9 +532,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CARTA_LOGIN</last-search>
+      <last-search>get_hybrid</last-search>
       <last-offset />
-      <last-pattern>CARTA_LOGIN</last-pattern>
+      <last-pattern>get_hybrid</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raise</entry>
-        <entry>delete</entry>
         <entry>CaptableData</entry>
         <entry>static</entry>
         <entry>filter_con</entry>
@@ -555,6 +560,8 @@
         <entry>captable</entry>
         <entry>allocation</entry>
         <entry>CARTA_LOGIN</entry>
+        <entry>get_hybrid_late</entry>
+        <entry>get_hybrid</entry>
       </history-search>
       <history-cmd>
         <entry>29,32s/(/tuple(/</entry>
