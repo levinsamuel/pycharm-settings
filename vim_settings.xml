@@ -377,6 +377,9 @@
         <mark key="." line="85" column="58" />
         <mark key="^" line="85" column="58" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1559591831714">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0077_allocation_allocation_date.py" timestamp="1559259347104">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="6" column="47" />
@@ -421,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="20" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="195" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="216" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="238" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
@@ -521,6 +523,7 @@
       <jump line="168" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="204" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" />
       <jump line="1144" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -533,7 +536,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>\.backsolve</text>
+        <text>XERO_STATUS</text>
       </register>
       <register name="0" type="4">
         <text>invested_capital_captable_date</text>
@@ -573,9 +576,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.backsolve</last-search>
+      <last-search>XERO_STATUS</last-search>
       <last-offset />
-      <last-pattern>\.backsolve</last-pattern>
+      <last-pattern>XERO_STATUS</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +586,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Valu</entry>
         <entry>features</entry>
         <entry>flipper</entry>
         <entry>from_scenario</entry>
@@ -603,6 +605,7 @@
         <entry>valuation_date</entry>
         <entry>.backsolve</entry>
         <entry>\.backsolve</entry>
+        <entry>XERO_STATUS</entry>
       </history-search>
       <history-cmd>
         <entry>52,62s/_TEMPLATES//</entry>
