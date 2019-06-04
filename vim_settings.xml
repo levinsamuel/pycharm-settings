@@ -150,11 +150,11 @@
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1559604590616">
-        <mark key="[" line="253" column="114" />
-        <mark key="]" line="255" column="103" />
-        <mark key="^" line="255" column="103" />
-        <mark key="." line="255" column="103" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1559665283224">
+        <mark key="[" line="255" column="37" />
+        <mark key="]" line="255" column="70" />
+        <mark key="^" line="255" column="70" />
+        <mark key="." line="255" column="70" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0077_add_allocation_date.py" timestamp="1559525095837">
         <mark key="[" line="5" column="40" />
@@ -178,8 +178,8 @@
         <mark key="^" line="110" column="48" />
         <mark key="." line="193" column="38" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1559586258590">
-        <mark key="[" line="96" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1559665186573">
+        <mark key="[" line="36" column="52" />
         <mark key="]" line="96" column="38" />
         <mark key="." line="96" column="38" />
       </file>
@@ -218,6 +218,12 @@
         <mark key="]" line="119" column="51" />
         <mark key="^" line="106" column="62" />
         <mark key="." line="119" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/corporation.py" timestamp="1559665111874">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/invested_capital.py" timestamp="1559597334839">
         <mark key="'" line="47" column="24" />
@@ -401,11 +407,11 @@
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuY2FwdGFibGVfZGF0YSBpbXBvcnQgcmVmcmVzaF9jYXB0YWJsZV9kYXRhCg==</text>
+      <register name="&quot;" type="4">
+        <text>corporation_pk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>corporation_pk</text>
       </register>
       <register name="/" type="4">
         <text>XERO_STATUS</text>
