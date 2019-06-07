@@ -40,9 +40,6 @@
         <mark key="^" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1559584510603">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1558975482135">
         <mark key="'" line="336" column="29" />
         <mark key="[" line="336" column="43" />
@@ -162,7 +159,7 @@
         <mark key="." line="53" column="51" />
         <mark key="^" line="53" column="51" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1559854509311">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1559864707589">
         <mark key="'" line="203" column="8" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -195,7 +192,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1559856016053">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1559864433576">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="26" column="41" />
         <mark key="]" line="27" column="51" />
@@ -286,6 +283,9 @@
         <mark key="^" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" timestamp="1559864664955">
+        <mark key="'" line="260" column="39" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_create_captable_links.py" timestamp="1558750300767">
         <mark key="'" line="68" column="61" />
         <mark key="[" line="12" column="5" />
@@ -329,11 +329,20 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1559865351158">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="42" column="53" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/middleware/permission_enforcer_middleware.py" timestamp="1558662150568">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="45" />
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/common/components/models.py" timestamp="1559759223749">
+        <mark key="'" line="595" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0067_auto_20190502_1926.py" timestamp="1558495611828">
         <mark key="[" line="67" column="0" />
@@ -354,6 +363,9 @@
         <mark key="]" line="85" column="58" />
         <mark key="." line="85" column="58" />
         <mark key="^" line="85" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1559591831714">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0077_allocation_allocation_date.py" timestamp="1559259347104">
         <mark key="[" line="5" column="40" />
@@ -385,9 +397,6 @@
         <mark key="." line="353" column="12" />
         <mark key="^" line="353" column="12" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/__init__.py" timestamp="1559762566933">
-        <mark key="[" line="18" column="28" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" timestamp="1559355853335">
         <mark key="'" line="60" column="45" />
         <mark key="[" line="60" column="58" />
@@ -397,10 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
-      <jump line="17" column="33" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
-      <jump line="172" column="107" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_captable_data.py" />
       <jump line="965" column="36" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
       <jump line="54" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
@@ -497,19 +502,23 @@
       <jump line="666" column="76" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="211" column="36" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="30" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/backsolve_type.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" />
+      <jump line="143" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" />
+      <jump line="241" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" />
+      <jump line="260" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfc2hhcmVfY2xhc3MgPSBrd2FyZ3MuZ2V0KCdiYWNrc29sdmVfc2hhcmVfY2xhc3MnLCBOb25lKQo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcG9ydCBncmFwaGVuZV90eXBlcyBhcyBjdXN0b21fdHlwZXM=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>early_exit</text>
+        <text>'oip'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfc2hhcmVfY2xhc3MgPSBrd2FyZ3MuZ2V0KCdiYWNrc29sdmVfc2hhcmVfY2xhc3MnLCBOb25lKQo=</text>
@@ -518,40 +527,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IFZhbHVhdGlvbi5vYmplY3RzLmdldChwaz1pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBBUFBST0FDSEVTCg==</text>
+        <text encoding="base64">ICAgICAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvX3NuYWtlX2Nhc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXRlX2V4aXRfc2Vla19wcmljZSA9IGdldF9sYXRlX2V4aXRfYmFja3NvbHZlX3NlZWtfcHJpY2UoCiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9zY1snb2lwJ10sIHNlbGYuZWFybHlfZXhpdF9zY1snbWFya2V0YWJsZV92YWx1ZSddLCBzZWxmLmVhcmx5X3dlaWdodAogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYXBwcm9hY2hfa2V5IGluIEFQUFJPQUNIRVM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3RvdGFscyA9IHNlbGYuZWFybHlfZXhpdF90b3RhbHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwcm9hY2ggPSBnZXRhdHRyKHBhcmVudCwgYXBwcm9hY2hfa2V5LCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVhcmx5X2V4aXRfdG90YWxzID0gZWFybHlfZXhpdF90b3RhbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLmFwcHJvYWNoZXMgaW1wb3J0IEFQUFJPQUNIX0NMQVNTRVMK</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjID0gX2dldF9zaGFyZV9jbGFzc19mcm9tX3RvdGFscyhlYXJseV9leGl0X3RvdGFscywgc2VsZi5iYWNrc29sdmVfc2hhcmVfY2xhc3MpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgYXBwcm9hY2guc2NlbmFyaW8uZmllbGQudW5pcXVlKQo=</text>
+      <register name="9" type="4">
+        <text>next(
+            (sc for sc in early_exit_totals if sc['share_class'] == self.backsolve_share_class),
+            defaultdict(int)
+        )</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>early_exit</last-search>
+      <last-search>'oip'</last-search>
       <last-offset />
-      <last-pattern>early_exit</last-pattern>
+      <last-pattern>'oip'</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -559,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_hybrid</entry>
         <entry>capatble</entry>
         <entry>captable</entry>
         <entry>run_backsolve</entry>
@@ -579,6 +590,7 @@
         <entry>get_standard_scenario</entry>
         <entry>holdings</entry>
         <entry>early_exit</entry>
+        <entry>'oip'</entry>
       </history-search>
       <history-cmd>
         <entry>52,62s/_TEMPLATES//</entry>
