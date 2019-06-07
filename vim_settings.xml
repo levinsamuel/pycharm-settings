@@ -192,12 +192,12 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1559864433576">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="27" column="51" />
-        <mark key="." line="27" column="51" />
-        <mark key="^" line="27" column="51" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1559866925515">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="80" column="27" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/management/commands/update_snapshots.py" timestamp="1559360593698">
         <mark key="[" line="64" column="32" />
@@ -269,12 +269,12 @@
         <mark key="." line="29" column="66" />
         <mark key="^" line="29" column="66" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/backsolve_type.py" timestamp="1559854545059">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="24" />
-        <mark key="^" line="30" column="49" />
-        <mark key="." line="30" column="49" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/backsolve_type.py" timestamp="1559866751003">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="22" />
+        <mark key="^" line="68" column="48" />
+        <mark key="." line="67" column="22" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" timestamp="1559767108934">
         <mark key="'" line="74" column="16" />
@@ -512,49 +512,46 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>'oip'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfc2hhcmVfY2xhc3MgPSBrd2FyZ3MuZ2V0KCdiYWNrc29sdmVfc2hhcmVfY2xhc3MnLCBOb25lKQo=</text>
+      <register name="0" type="4">
+        <text>goal_seek_fmv</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgY3VycmVudGx5LCBvbmx5IGNyaXRlcmlhIGlzIHRoYXQgaWYgdGhlcmUgaXMgYW4gZWFybHkgZXhpdCBzY2VuYXJpbyBhc3NvY2lhdGVkCiAgICAjIHdpdGggdGhpcyBvbmUsIGFzc3VtZSB0aGlzIGlzIGEgbGF0ZS1leGl0IHNjZW5hcmlvIGFuZCBydW4gYSBoeWJyaWQgYmFja3NvbHZlCiAgICAjIGlmIG5vdCwgcnVuIGEgc3RhbmRhcmQgYmFja3NvbHZlLiBPdGhlciBraW5kcyBvZiBiYWNrc29sdmVzIHdpbGwgaGF2ZSB0byBtb2RpZnkKICAgICMgdGhpcyBsb2dpYwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlX2V4aXRfc2Vla19wcmljZSA9IGdldF9sYXRlX2V4aXRfYmFja3NvbHZlX3NlZWtfcHJpY2UoCiAgICAgICAgICAgIHNlbGYuZWFybHlfZXhpdF9zY1snb2lwJ10sIHNlbGYuZWFybHlfZXhpdF9zY1snbWFya2V0YWJsZV92YWx1ZSddLCBzZWxmLmVhcmx5X3dlaWdodAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2FsbG9jYXRpb249YWxsb2NhdGlvbiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3RvdGFscyA9IHNlbGYuZWFybHlfZXhpdF90b3RhbHMK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb25fYnVpbGRlciA9IF9nZXRfYWxsb2NhdGlvbl9idWlsZGVyKGJhY2tzb2x2ZSwgYmFja3NvbHZlLmFsbG9jYXRpb24pCiAgICBvcG0gPSBhbGxvY2F0aW9uX2J1aWxkZXIuZ2V0X29wbSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVhcmx5X2V4aXRfdG90YWxzID0gZWFybHlfZXhpdF90b3RhbHMK</text>
+        <text encoding="base64">ICAgIGVhcmx5X2V4aXRfYWxsb2NhdGlvbjogQWxsb2NhdGlvbiA9IE5vbmUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjID0gX2dldF9zaGFyZV9jbGFzc19mcm9tX3RvdGFscyhlYXJseV9leGl0X3RvdGFscywgc2VsZi5iYWNrc29sdmVfc2hhcmVfY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb25fYnVpbGRlciA9IF9nZXRfYWxsb2NhdGlvbl9idWlsZGVyKGJhY2tzb2x2ZSwgYmFja3NvbHZlLmFsbG9jYXRpb24pCiAgICBvcG0gPSBhbGxvY2F0aW9uX2J1aWxkZXIuZ2V0X29wbSgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>next(
-            (sc for sc in early_exit_totals if sc['share_class'] == self.backsolve_share_class),
-            defaultdict(int)
-        )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVhcmx5X2V4aXRfc2NlbmFyaW8gPSBiYWNrc29sdmUuZ2V0X2Vhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWx0ZXJuYXRlX3NjZW5hcmlvKCkKICAgIGFsbG9jYXRpb24gPSBOb25lCiAgICBpZiBlYXJseV9leGl0X3NjZW5hcmlvIGlzIG5vdCBOb25lOgogICAgICAgIGFsbG9jYXRpb24gPSBlYXJseV9leGl0X3NjZW5hcmlvLmFsbG9jYXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
