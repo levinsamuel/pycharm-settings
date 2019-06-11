@@ -47,11 +47,11 @@
         <mark key="." line="336" column="51" />
         <mark key="^" line="336" column="51" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context.py" timestamp="1559021858523">
-        <mark key="[" line="202" column="40" />
-        <mark key="]" line="202" column="64" />
-        <mark key="." line="202" column="64" />
-        <mark key="^" line="202" column="64" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context.py" timestamp="1560273652028">
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="59" column="33" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0072_create_captable.py" timestamp="1559157012772">
         <mark key="[" line="18" column="24" />
@@ -363,11 +363,11 @@
         <mark key="^" line="323" column="38" />
         <mark key="." line="329" column="63" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1559579244098">
-        <mark key="'" line="228" column="47" />
-        <mark key="[" line="85" column="44" />
-        <mark key="]" line="85" column="58" />
-        <mark key="." line="85" column="58" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1560273728804">
+        <mark key="'" line="93" column="47" />
+        <mark key="[" line="93" column="47" />
+        <mark key="]" line="93" column="47" />
+        <mark key="." line="93" column="47" />
         <mark key="^" line="85" column="58" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/base.py" timestamp="1559591831714">
@@ -412,8 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
-      <jump line="62" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
       <jump line="63" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
       <jump line="64" column="76" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
       <jump line="69" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
@@ -512,19 +510,21 @@
       <jump line="363" column="38" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
       <jump line="384" column="38" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
       <jump line="464" column="69" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="108" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="93" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="4">
-        <text>backsolve_date</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>backsolve_date</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>save_backsolve</text>
+        <text>get_captable_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYWxsb2NhdGlvbi5iYWNrc29sdmVzIGltcG9ydCBTaGFyZUNsYXNzQmFja3NvbHZlCg==</text>
@@ -564,9 +564,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save_backsolve</last-search>
+      <last-search>get_captable_data</last-search>
       <last-offset />
-      <last-pattern>save_backsolve</last-pattern>
+      <last-pattern>get_captable_data</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -574,8 +574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>captable</entry>
-        <entry>run_backsolve</entry>
         <entry>run_all</entry>
         <entry>corporation_pk</entry>
         <entry>REFERENCE_TEST_DATA</entry>
@@ -594,6 +592,8 @@
         <entry>early_exit</entry>
         <entry>'oip'</entry>
         <entry>save_backsolve</entry>
+        <entry>get_captable_date</entry>
+        <entry>get_captable_data</entry>
       </history-search>
       <history-cmd>
         <entry>52,62s/_TEMPLATES//</entry>
