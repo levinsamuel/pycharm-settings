@@ -311,11 +311,11 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/allocation/test_allocation.py" timestamp="1558545952475">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="70" column="50" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/allocation/test_allocation.py" timestamp="1560281988708">
+        <mark key="[" line="53" column="110" />
+        <mark key="]" line="36" column="74" />
+        <mark key="." line="36" column="74" />
+        <mark key="^" line="36" column="74" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" timestamp="1559856053676">
         <mark key="[" line="45" column="56" />
@@ -329,15 +329,15 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/implementations/test_smb_backsolve_strategy.py" timestamp="1558548807103">
-        <mark key="[" line="353" column="8" />
-        <mark key="]" line="353" column="12" />
-        <mark key="." line="353" column="12" />
-        <mark key="^" line="353" column="12" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/implementations/test_smb_backsolve_strategy.py" timestamp="1560282460141">
+        <mark key="'" line="8" column="36" />
+        <mark key="[" line="678" column="69" />
+        <mark key="]" line="678" column="91" />
+        <mark key="." line="678" column="91" />
+        <mark key="^" line="678" column="91" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="595" column="0" filename="$USER_HOME$/git/carta-web/eshares/common/components/models.py" />
       <jump line="215" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1253" column="25" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
       <jump line="23" column="67" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
@@ -437,52 +437,56 @@
       <jump line="6" column="42" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_sensitivity_analysis.py" />
       <jump line="14" column="4" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_sensitivity_analysis.py" />
       <jump line="326" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="8" column="36" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/implementations/test_smb_backsolve_strategy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBTY2VuYXJpbwo=</text>
+      <register name="&quot;" type="4">
+        <text>return_value=mock_automated_valuation)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bW9ja2VkX2J1aWxkX3NlbnNpdGl2aXR5X2NlbGwgPSA=</text>
+        <text>return_value=mock_automated_valuation)</text>
       </register>
       <register name="/" type="4">
         <text>scenario</text>
       </register>
       <register name="0" type="4">
-        <text>build_sensitivity_cell</text>
+        <text>mock_run_all_allocations</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBTY2VuYXJpbwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2F1dG9tYXRlZF92YWx1YXRpb24gPSBtb2NrZXIuTWFnaWNNb2NrKCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>mock_automated_valuation.run_all_allocations.assert_called_once()
+
+
+class</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBTY2VuYXJpbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtb2NrZWRfYnVpbGRfc2Vuc2l0aXZpdHlfY2VsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX3NlbnNpdGl2aXR5X2NlbGwobW9ja2VyKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtb2NrZWRfYnVpbGRfc2Vuc2l0aXZpdHlfY2VsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vY2tlZF9idWlsZF9zZW5zaXRpdml0eV9jZWxsID0gbW9ja2VyLnBhdGNoKAogICAgICAgICdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuc2Vuc2l0aXZpdHlfYW5hbHlzaXMuYnVpbGRfc2Vuc2l0aXZpdHlfY2VsbCcsCiAgICAgICAgcmV0dXJuX3ZhbHVlPSdmYWtlX2NlbGwnCiAgICApCg==</text>
+        <text encoding="base64">ZGVmIGJ1aWxkX3NlbnNpdGl2aXR5X2NlbGwobW9ja2VyKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjZW5hcmlvID0gU2NlbmFyaW8ub2JqZWN0cy5nZXQocGs9c2NlbmFyaW9faWQpCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlZF9idWlsZF9zZW5zaXRpdml0eV9jZWxsID0gbW9ja2VyLnBhdGNoKAogICAgICAgICdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuc2Vuc2l0aXZpdHlfYW5hbHlzaXMuYnVpbGRfc2Vuc2l0aXZpdHlfY2VsbCcsCiAgICAgICAgcmV0dXJuX3ZhbHVlPSdmYWtlX2NlbGwnCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
