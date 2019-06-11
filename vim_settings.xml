@@ -120,12 +120,12 @@
         <mark key="^" line="431" column="97" />
         <mark key="." line="431" column="97" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560270547980">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="83" column="29" />
-        <mark key="." line="83" column="29" />
-        <mark key="^" line="83" column="29" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560273007027">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="81" column="50" />
+        <mark key="]" line="81" column="75" />
+        <mark key="." line="81" column="75" />
+        <mark key="^" line="81" column="75" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -518,10 +518,10 @@
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="4">
-        <text>allocation.backsolves import ShareClassBacksolve</text>
+        <text>backsolve_date</text>
       </register>
       <register name="-" type="4">
-        <text>allocation.backsolves import ShareClassBacksolve</text>
+        <text>backsolve_date</text>
       </register>
       <register name="/" type="4">
         <text>save_backsolve</text>
@@ -533,31 +533,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoeWJyaWRfYmFja3NvbHZlX25vX3NhdmUuCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZGF0ZSA9IGh5YnJpZF9iYWNrc29sdmVfbm9fc2F2ZS5iYWNrc29sdmVfZGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBoeWJyaWRfYmFja3NvbHZlX25vX3NhdmUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlID0gbW9ja2VyLnBhdGNoKAogICAgICAgICAgICAnZXNoYXJlcy52YWx1YXRpb25zLnNlcnZpY2VzLmJhY2tzb2x2ZS5IeWJyaWRCYWNrc29sdmUucnVuX2JhY2tzb2x2ZScsCiAgICAgICAgICAgIHJldHVybl92YWx1ZT0xMDAwMDAwMAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlID0gbW9ja2VyLnBhdGNoKAogICAgICAgICAgICAnZXNoYXJlcy52YWx1YXRpb25zLnNlcnZpY2VzLmJhY2tzb2x2ZS5IeWJyaWRCYWNrc29sdmUucnVuX2JhY2tzb2x2ZScsCiAgICAgICAgICAgIHJldHVybl92YWx1ZT0xMDAwMDAwMAogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuZ2V0X2xhdGVfZXhpdF9iYWNrc29sdmVfc2Vla19wcmljZScsKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlID0gbW9ja2VyLnBhdGNoKAogICAgICAgICAgICAnZXNoYXJlcy52YWx1YXRpb25zLnNlcnZpY2VzLmJhY2tzb2x2ZS5IeWJyaWRCYWNrc29sdmUucnVuX2JhY2tzb2x2ZScsCiAgICAgICAgICAgIHJldHVybl92YWx1ZT0xMDAwMDAwMAogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuZ2V0X2xhdGVfZXhpdF9iYWNrc29sdmVfc2Vla19wcmljZScsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9mbXZfd2VpZ2h0PURlY2ltYWwoJzAuNzUnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja3NvbHZlX3NoYXJlX2NsYXNzPSdTZXJpZXMgQScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9mbXZfd2VpZ2h0PURlY2ltYWwoJzAuNzUnKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5zYXZlX2JhY2tzb2x2ZSA9IE1hZ2ljTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja3NvbHZlX3NoYXJlX2NsYXNzPSdTZXJpZXMgQScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
