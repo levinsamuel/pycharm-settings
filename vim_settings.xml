@@ -21,11 +21,11 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1560275523645">
-        <mark key="[" line="35" column="71" />
-        <mark key="]" line="38" column="40" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1560291584959">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
         <mark key="^" line="38" column="40" />
-        <mark key="." line="38" column="40" />
+        <mark key="." line="42" column="32" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/post_money_table/test_post_money_table.py" timestamp="1559330429041">
         <mark key="[" line="11" column="29" />
@@ -117,11 +117,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1559580425425">
-        <mark key="[" line="431" column="37" />
-        <mark key="]" line="431" column="97" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1560291618401">
+        <mark key="[" line="115" column="37" />
+        <mark key="]" line="115" column="37" />
         <mark key="^" line="431" column="97" />
-        <mark key="." line="431" column="97" />
+        <mark key="." line="115" column="37" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560273007027">
         <mark key="'" line="103" column="8" />
@@ -436,11 +436,11 @@
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>return_value=mock_automated_valuation)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Captable</text>
