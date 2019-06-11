@@ -161,11 +161,11 @@
         <mark key="^" line="64" column="63" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0075_create_scenaro_selfrelation.py" timestamp="1559694253415">
-        <mark key="[" line="62" column="119" />
-        <mark key="]" line="62" column="125" />
-        <mark key="." line="62" column="125" />
-        <mark key="^" line="62" column="125" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0075_create_scenaro_selfrelation.py" timestamp="1560296811426">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1560222353955">
         <mark key="'" line="64" column="0" />
@@ -436,11 +436,11 @@
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>, transaction</text>
       </register>
       <register name="/" type="4">
         <text>Captable</text>
@@ -452,34 +452,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdAo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBBbGxvY2F0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5mYWN0b3JpZXMudmFsdWF0aW9ucy5mYWN0b3JpZXMgaW1wb3J0ICgK</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIElSQzQwOUFSZXBvcnRGYWN0b3J5LAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElSQzQwOUFGYWlyTWFya2V0VmFsdWVGYWN0b3J5LAo=</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mYWN0b3JpZXMudmFsdWF0aW9ucy5mYWN0b3JpZXMgaW1wb3J0ICgK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIElSQzQwOUFSZXBvcnRGYWN0b3J5LAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIElSQzQwOUFGYWlyTWFya2V0VmFsdWVGYWN0b3J5LAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrX2F1dG9tYXRlZF92YWx1YXRpb24gPSBtb2NrZXIuTWFnaWNNb2NrKCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>mock_automated_valuation.run_all_allocations.assert_called_once()
 
 
 class</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBTY2VuYXJpbwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
