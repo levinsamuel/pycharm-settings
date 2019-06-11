@@ -99,6 +99,12 @@
         <mark key="^" line="18" column="58" />
         <mark key="." line="18" column="58" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" timestamp="1560283197900">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/smb_backsolve_strategy.py" timestamp="1559783349178">
         <mark key="[" line="146" column="94" />
         <mark key="]" line="146" column="104" />
@@ -338,9 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
-      <jump line="1253" column="25" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
-      <jump line="23" column="67" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
       <jump line="70" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" />
       <jump line="217" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
@@ -438,19 +441,22 @@
       <jump line="14" column="4" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_sensitivity_analysis.py" />
       <jump line="326" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="8" column="36" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/implementations/test_smb_backsolve_strategy.py" />
+      <jump line="201" column="0" filename="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return_value=mock_automated_valuation)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="-" type="4">
         <text>return_value=mock_automated_valuation)</text>
       </register>
       <register name="/" type="4">
-        <text>scenario</text>
+        <text>IRC409A</text>
       </register>
       <register name="0" type="4">
         <text>mock_run_all_allocations</text>
@@ -459,43 +465,43 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mYWN0b3JpZXMudmFsdWF0aW9ucy5mYWN0b3JpZXMgaW1wb3J0ICgK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIElSQzQwOUFSZXBvcnRGYWN0b3J5LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIElSQzQwOUFGYWlyTWFya2V0VmFsdWVGYWN0b3J5LAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrX2F1dG9tYXRlZF92YWx1YXRpb24gPSBtb2NrZXIuTWFnaWNNb2NrKCkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>mock_automated_valuation.run_all_allocations.assert_called_once()
 
 
 class</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBTY2VuYXJpbwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtb2NrZWRfYnVpbGRfc2Vuc2l0aXZpdHlfY2VsbAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX3NlbnNpdGl2aXR5X2NlbGwobW9ja2VyKToK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tlZF9idWlsZF9zZW5zaXRpdml0eV9jZWxsID0gbW9ja2VyLnBhdGNoKAogICAgICAgICdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuc2Vuc2l0aXZpdHlfYW5hbHlzaXMuYnVpbGRfc2Vuc2l0aXZpdHlfY2VsbCcsCiAgICAgICAgcmV0dXJuX3ZhbHVlPSdmYWtlX2NlbGwnCiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scenario</last-search>
+      <last-search>IRC409A</last-search>
       <last-offset />
-      <last-pattern>scenario</last-pattern>
+      <last-pattern>IRC409A</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -503,7 +509,6 @@ class</text>
     </search>
     <history>
       <history-search>
-        <entry>scenario_date</entry>
         <entry>volatility</entry>
         <entry>valuation_date</entry>
         <entry>.backsolve</entry>
@@ -523,6 +528,7 @@ class</text>
         <entry>score_sensitivity</entry>
         <entry>create_hybrid</entry>
         <entry>scenario</entry>
+        <entry>IRC409A</entry>
       </history-search>
       <history-cmd>
         <entry>52,62s/_TEMPLATES//</entry>
