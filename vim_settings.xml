@@ -120,11 +120,12 @@
         <mark key="^" line="431" column="97" />
         <mark key="." line="431" column="97" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560212298681">
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="39" column="38" />
-        <mark key="^" line="39" column="38" />
-        <mark key="." line="39" column="38" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560223176537">
+        <mark key="'" line="95" column="8" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -191,7 +192,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1560211771849">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1560222353955">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="99" column="57" />
         <mark key="]" line="96" column="78" />
@@ -249,10 +250,12 @@
         <mark key="." line="31" column="54" />
         <mark key="^" line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1560212168310">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1560222552665">
+        <mark key="'" line="467" column="69" />
+        <mark key="[" line="78" column="75" />
+        <mark key="]" line="79" column="61" />
+        <mark key="." line="79" column="61" />
+        <mark key="^" line="79" column="61" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1559785849836">
         <mark key="[" line="36" column="0" />
@@ -326,7 +329,7 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1560209747495">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1560222905591">
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="59" />
         <mark key="." line="37" column="86" />
@@ -409,14 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
-      <jump line="54" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
-      <jump line="60" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
-      <jump line="47" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
-      <jump line="53" column="63" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
-      <jump line="54" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
       <jump line="61" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
       <jump line="62" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
       <jump line="63" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" />
@@ -509,52 +504,60 @@
       <jump line="241" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" />
       <jump line="260" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" />
       <jump line="1251" column="23" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" />
+      <jump line="17" column="28" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="34" column="26" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="345" column="38" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="363" column="38" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="384" column="38" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
+      <jump line="464" column="69" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
       <register name="&quot;" type="4">
-        <text>backsolve</text>
+        <text>allocation.backsolves import ShareClassBacksolve</text>
       </register>
       <register name="-" type="4">
-        <text>backsolve</text>
+        <text>allocation.backsolves import ShareClassBacksolve</text>
       </register>
       <register name="/" type="4">
         <text>save_backsolve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGJhY2tzb2x2ZV9ub19zYXZlKHNlbGYsIGJhY2tzb2x2ZSk6CiAgICAgICAgYmFja3NvbHZlLnNhdmVfYmFja3NvbHZlID0gTWFnaWNNb2NrKCkKICAgICAgICByZXR1cm4gYmFja3NvbHZlCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYWxsb2NhdGlvbi5iYWNrc29sdmVzIGltcG9ydCBTaGFyZUNsYXNzQmFja3NvbHZlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5zYXZlX2JhY2tzb2x2ZSA9IE1hZ2ljTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICBoeWJyaWRfYmFja3NvbHZlX25vX3NhdmUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlID0gbW9ja2VyLnBhdGNoKAogICAgICAgICAgICAnZXNoYXJlcy52YWx1YXRpb25zLnNlcnZpY2VzLmJhY2tzb2x2ZS5IeWJyaWRCYWNrc29sdmUucnVuX2JhY2tzb2x2ZScsCiAgICAgICAgICAgIHJldHVybl92YWx1ZT0xMDAwMDAwMAogICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuX2dldF9nb2FsX3NlZWtfcHJpY2VfZnJvbV9vcG0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3J1bl9oeWJyaWRfYmFja3NvbHZlID0gbW9ja2VyLnBhdGNoKAogICAgICAgICAgICAnZXNoYXJlcy52YWx1YXRpb25zLnNlcnZpY2VzLmJhY2tzb2x2ZS5IeWJyaWRCYWNrc29sdmUucnVuX2JhY2tzb2x2ZScsCiAgICAgICAgICAgIHJldHVybl92YWx1ZT0xMDAwMDAwMAogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuZ2V0X2xhdGVfZXhpdF9iYWNrc29sdmVfc2Vla19wcmljZScsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPTEwMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy5iYWNrc29sdmUuU2hhcmVDbGFzc0JhY2tzb2x2ZS5ydW5fYmFja3NvbHZlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWFybHlfZXhpdF9mbXZfd2VpZ2h0PURlY2ltYWwoJzAuNzUnKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja3NvbHZlX3NoYXJlX2NsYXNzPSdTZXJpZXMgQScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuX2dldF9nb2FsX3NlZWtfcHJpY2VfZnJvbV9vcG0nKQo=</text>
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5zYXZlX2JhY2tzb2x2ZSA9IE1hZ2ljTW9jaygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
