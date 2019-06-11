@@ -120,11 +120,11 @@
         <mark key="^" line="431" column="97" />
         <mark key="." line="431" column="97" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560211491204">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="94" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="16" column="66" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560212298681">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="38" />
+        <mark key="^" line="39" column="38" />
+        <mark key="." line="39" column="38" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
         <mark key="[" line="5" column="0" />
@@ -191,7 +191,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1560210185669">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1560211771849">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="99" column="57" />
         <mark key="]" line="96" column="78" />
@@ -249,11 +249,10 @@
         <mark key="." line="31" column="54" />
         <mark key="^" line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1560207157476">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-        <mark key="^" line="38" column="60" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1560212168310">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1559785849836">
         <mark key="[" line="36" column="0" />
@@ -515,58 +514,56 @@
       <register name="a" type="4">
         <text>irc409a_valuation_with_captable</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuX2dldF9nb2FsX3NlZWtfcHJpY2VfZnJvbV9vcG0nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>backsolve</text>
       </register>
       <register name="-" type="4">
-        <text>ervices.backsolve.</text>
+        <text>backsolve</text>
       </register>
       <register name="/" type="4">
-        <text>'oip'</text>
+        <text>save_backsolve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuX2dldF9nb2FsX3NlZWtfcHJpY2VfZnJvbV9vcG0nKQo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGJhY2tzb2x2ZV9ub19zYXZlKHNlbGYsIGJhY2tzb2x2ZSk6CiAgICAgICAgYmFja3NvbHZlLnNhdmVfYmFja3NvbHZlID0gTWFnaWNNb2NrKCkKICAgICAgICByZXR1cm4gYmFja3NvbHZlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>Decimal(
-            str(next(filter(lambda sc: sc['name'] == backsolve_share_class, opm.classes))['oip'])
-        )</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5zYXZlX2JhY2tzb2x2ZSA9IE1hZ2ljTW9jaygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goCiAgICAgICAgICAgICdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuYmFja3NvbHZlLlNoYXJlQ2xhc3NCYWNrc29sdmUuX19pbml0X18nLAogICAgICAgICAgICByZXR1cm5fdmFsdWU9Tm9uZQogICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuX2dldF9nb2FsX3NlZWtfcHJpY2VfZnJvbV9vcG0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5nZXRfZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbHRlcm5hdGVfc2NlbmFyaW8gPSBNYWdpY01vY2socmV0dXJuX3ZhbHVlPU5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3ZhbHVlPTEwMDAwMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGJhY2tzb2x2ZShiYWNrc29sdmUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy5iYWNrc29sdmUuU2hhcmVDbGFzc0JhY2tzb2x2ZS5ydW5fYmFja3NvbHZlJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmUuZ2V0X2Vhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWx0ZXJuYXRlX3NjZW5hcmlvID0gTWFnaWNNb2NrKHJldHVybl92YWx1ZT1Ob25lKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5hbGxvY2F0aW9uLmJhY2tzb2x2ZXMuX2dldF9nb2FsX3NlZWtfcHJpY2VfZnJvbV9vcG0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'oip'</last-search>
+      <last-search>save_backsolve</last-search>
       <last-offset />
-      <last-pattern>'oip'</last-pattern>
+      <last-pattern>save_backsolve</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -574,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>capatble</entry>
         <entry>captable</entry>
         <entry>run_backsolve</entry>
         <entry>run_all</entry>
@@ -594,6 +590,7 @@
         <entry>holdings</entry>
         <entry>early_exit</entry>
         <entry>'oip'</entry>
+        <entry>save_backsolve</entry>
       </history-search>
       <history-cmd>
         <entry>52,62s/_TEMPLATES//</entry>
