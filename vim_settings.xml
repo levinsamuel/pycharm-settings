@@ -456,7 +456,7 @@
         <text>return_value=mock_automated_valuation)</text>
       </register>
       <register name="/" type="4">
-        <text>IRC409A</text>
+        <text>Captable</text>
       </register>
       <register name="0" type="4">
         <text>mock_run_all_allocations</text>
@@ -499,9 +499,9 @@ class</text>
       </register>
     </registers>
     <search>
-      <last-search>IRC409A</last-search>
+      <last-search>Captable</last-search>
       <last-offset />
-      <last-pattern>IRC409A</last-pattern>
+      <last-pattern>Captable</last-pattern>
       <last-replace>captable.captable_data</last-replace>
       <last-substitute>captable_data</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +509,6 @@ class</text>
     </search>
     <history>
       <history-search>
-        <entry>volatility</entry>
         <entry>valuation_date</entry>
         <entry>.backsolve</entry>
         <entry>\.backsolve</entry>
@@ -529,6 +528,7 @@ class</text>
         <entry>create_hybrid</entry>
         <entry>scenario</entry>
         <entry>IRC409A</entry>
+        <entry>Captable</entry>
       </history-search>
       <history-cmd>
         <entry>52,62s/_TEMPLATES//</entry>
