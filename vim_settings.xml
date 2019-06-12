@@ -101,12 +101,6 @@
         <mark key="^" line="11" column="72" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" timestamp="1560283197900">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1560276168381">
         <mark key="'" line="243" column="8" />
         <mark key="[" line="0" column="14" />
@@ -262,6 +256,9 @@
         <mark key="." line="38" column="89" />
         <mark key="^" line="38" column="89" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1560357186920">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0079_populate_dates.py" timestamp="1560298991647">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
@@ -384,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
-      <jump line="221" column="73" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="208" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="664" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="671" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -484,19 +479,21 @@
       <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" />
       <jump line="34" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_hybrid_scenario_relations.py" />
       <jump line="4" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_hybrid_scenario_relations.py" />
+      <jump line="0" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>eshares/valuations/migrations/</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>eshares/valuations/migrations/</text>
       </register>
       <register name="/" type="4">
-        <text>Captable</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>mock_run_all_allocations</text>
@@ -532,23 +529,20 @@
         <text encoding="base64">ICAgICAgICBzdWNjZXNzLCBlcnJvcnMgPSAwLCAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/)/'),/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Captable</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>Captable</last-pattern>
-      <last-replace>captable.captable_data</last-replace>
-      <last-substitute>captable_data</last-substitute>
+      <last-pattern>)</last-pattern>
+      <last-replace>'),</last-replace>
+      <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valuation_date</entry>
-        <entry>.backsolve</entry>
-        <entry>\.backsolve</entry>
         <entry>XERO_STATUS</entry>
         <entry>DO_NOTHING</entry>
         <entry>You must specify</entry>
@@ -566,12 +560,11 @@
         <entry>scenario</entry>
         <entry>IRC409A</entry>
         <entry>Captable</entry>
+        <entry>\.py</entry>
+        <entry>\)</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
-        <entry>52,62s/_TEMPLATES//</entry>
-        <entry>13,s/,/ or/</entry>
-        <entry>13,$s/,/ or/</entry>
-        <entry>%s/report_type/context_generator.report_type/</entry>
         <entry>%s/report_type/get_report_type/</entry>
         <entry>%s/is_8/value.is_8/</entry>
         <entry>%s/()//</entry>
@@ -588,6 +581,10 @@
         <entry encoding="base64">JXMvXDxzaGFyZVwoc1w/XClcPi97eyByZXBvcnRfdHlwZS5zaGFyZV9uYW1lIH19XDEv</entry>
         <entry>%s/captable_data/captable.captable_data/g</entry>
         <entry>w</entry>
+        <entry>%s/</entry>
+        <entry>%s/\.py//g</entry>
+        <entry>%s/\)/'),/g</entry>
+        <entry>%s/)/'),/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
