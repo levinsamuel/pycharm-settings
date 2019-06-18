@@ -132,11 +132,11 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1560801356686">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="137" column="89" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1560818093830">
+        <mark key="[" line="97" column="95" />
+        <mark key="]" line="98" column="112" />
+        <mark key="." line="98" column="112" />
+        <mark key="^" line="98" column="112" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" timestamp="1559785582335">
         <mark key="[" line="50" column="0" />
@@ -596,7 +596,7 @@
         <text>enumerate</text>
       </register>
       <register name="/" type="4">
-        <text>HYBRID</text>
+        <text>scenario</text>
       </register>
       <register name="0" type="8">
         <text encoding="base64">SFlCUklEX1NDRU5BUklPX0tFWV9FQVJMWSAKSFlCUklEX1NDRU5BUklPX0tFWV9MQVRFIA==</text>
@@ -636,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>HYBRID</last-search>
+      <last-search>scenario</last-search>
       <last-offset />
-      <last-pattern>HYBRID</last-pattern>
+      <last-pattern>scenario</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -659,13 +659,13 @@
         <entry>run_all</entry>
         <entry>score_sensitivity</entry>
         <entry>create_hybrid</entry>
-        <entry>scenario</entry>
         <entry>IRC409A</entry>
         <entry>Captable</entry>
         <entry>\.py</entry>
         <entry>\)</entry>
         <entry>)</entry>
         <entry>HYBRID</entry>
+        <entry>scenario</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
