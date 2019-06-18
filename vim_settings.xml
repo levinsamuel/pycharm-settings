@@ -92,7 +92,7 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="76" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation.py" timestamp="1560878551820">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation.py" timestamp="1560880087417">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
@@ -138,17 +138,11 @@
         <mark key="." line="98" column="112" />
         <mark key="^" line="98" column="112" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" timestamp="1559785582335">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="18" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" timestamp="1560880256521">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="63" />
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/common/management/commands/fix_migration_sequence.py" timestamp="1560799538628">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1559785849836">
         <mark key="[" line="36" column="0" />
@@ -203,6 +197,12 @@
         <mark key="]" line="119" column="51" />
         <mark key="^" line="106" column="62" />
         <mark key="." line="119" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1560880920120">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/steps/scenario/test_scenario_date.py" timestamp="1560363304649">
         <mark key="[" line="33" column="57" />
@@ -375,10 +375,9 @@
         <mark key="^" line="40" column="54" />
         <mark key="." line="40" column="54" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/common/management/commands/build_static_files.py" timestamp="1560798653628">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="50" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_backsolve.py" timestamp="1560880306105">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="84" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/scenario_self_relation.py" timestamp="1560800633627">
         <mark key="'" line="28" column="50" />
@@ -596,46 +595,46 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>backsolve_dates</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>backsolve_dates</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>scenario</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">SFlCUklEX1NDRU5BUklPX0tFWV9FQVJMWSAKSFlCUklEX1NDRU5BUklPX0tFWV9MQVRFIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzY2VuYXJpb19pZCA9IGdyYXBoZW5lLkludCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlfTEFURSwK</text>
+        <text encoding="base64">ICAgICAgICB0cmVhdF9jYXBwZWRfbm90ZXNfYXNfZXF1aXR5ID0gZ3JhcGhlbmUuQm9vbGVhbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlfRUFSTFksCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NldF92b2xhdGlsaXR5X21hbnVhbF9lbnRyeSA9IGdyYXBoZW5lX3R5cGVzLkRlY2ltYWwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFuZGFyZF9zY2VuYXJpbyA9IHNlbGYudmFsdWF0aW9uLmdldF9zdGFuZGFyZF9zY2VuYXJpbygpCg==</text>
+        <text encoding="base64">ICAgICAgICBlcXVpdHlfdm9sYXRpbGl0eV9tYW51YWxfZW50cnkgPSBncmFwaGVuZV90eXBlcy5EZWNpbWFsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFuZGFyZF9zY2VuYXJpbyA9IHNlbGYudmFsdWF0aW9uLmdldF9zdGFuZGFyZF9zY2VuYXJpbygpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvY2F0aW9uX2RhdGUgPSBncmFwaGVuZS5EYXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkaW5ncyA9IHN0YW5kYXJkX3NjZW5hcmlvLmhvbGRpbmdzLmFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzY2VuYXJpb19kYXRlID0gZ3JhcGhlbmUuRGF0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZCA9IGdyYXBoZW5lLkludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvX3NuYWtlX2Nhc2UsCg==</text>
+        <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlfTEFURSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIEkgY2FuIGdldCB0aGUgc2luZ2xlIFNjZW5hcmlvIHRvIHdoaWNoIEkgbWF5IGJlIGF0dGFjaGVkIHdpdGggaXNfaHlicmlkX2xhdGUgPT0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlfRUFSTFksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
