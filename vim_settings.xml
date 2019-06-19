@@ -51,11 +51,11 @@
         <mark key="." line="109" column="12" />
         <mark key="^" line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1560965220784">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="4" column="65" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1560969709715">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="21" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1559779624355">
         <mark key="[" line="104" column="115" />
@@ -99,7 +99,7 @@
         <mark key="." line="34" column="20" />
         <mark key="^" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1560962065390">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1560972877612">
         <mark key="'" line="205" column="8" />
         <mark key="[" line="144" column="58" />
         <mark key="]" line="145" column="60" />
@@ -356,11 +356,8 @@
         <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1560965045808">
-        <mark key="'" line="381" column="16" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="379" column="26" />
+        <mark key="'" line="380" column="16" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" timestamp="1559282720018">
         <mark key="[" line="131" column="0" />
@@ -420,13 +417,6 @@
         <mark key="^" line="130" column="48" />
         <mark key="." line="130" column="48" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1560968764920">
-        <mark key="'" line="112" column="42" />
-        <mark key="[" line="126" column="83" />
-        <mark key="]" line="126" column="83" />
-        <mark key="^" line="113" column="50" />
-        <mark key="." line="126" column="83" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/engagementletter_insert.html" timestamp="1558456181544">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="16" column="15" />
@@ -473,10 +463,9 @@
         <mark key="." line="40" column="54" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1560966962439">
-        <mark key="[" line="372" column="0" />
-        <mark key="]" line="373" column="26" />
-        <mark key="^" line="373" column="26" />
-        <mark key="." line="373" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_hybrid_scenario_relations.py" timestamp="1560298916318">
         <mark key="'" line="4" column="43" />
@@ -570,11 +559,8 @@
         <mark key="." line="329" column="63" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1560966646716">
-        <mark key="'" line="303" column="17" />
-        <mark key="[" line="540" column="8" />
-        <mark key="]" line="540" column="37" />
-        <mark key="." line="542" column="16" />
-        <mark key="^" line="542" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0077_allocation_allocation_date.py" timestamp="1559259347104">
         <mark key="[" line="5" column="40" />
@@ -615,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" />
       <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/tests/fixtures/conftest.py" />
       <jump line="34" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_hybrid_scenario_relations.py" />
       <jump line="4" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_hybrid_scenario_relations.py" />
@@ -715,52 +700,62 @@
       <jump line="59" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="300" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="303" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>HybridScenarioContextGenerator, \</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>HybridScenarioContextGenerator, \</text>
       </register>
       <register name="/" type="4">
         <text>backsolve_allocation</text>
       </register>
-      <register name="0" type="4">
-        <text>_get_child_scenario_attributes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igc2NlbmFyaW9fZ2VuZXJhdG9yIGluIHNjZW5hcmlvX2dlbmVyYXRvcnM6CiAgICAgICAgICAgIGNvbnRleHQudXBkYXRlKHNjZW5hcmlvX2dlbmVyYXRvci5nZXRfY29udGV4dCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMuZnVuY3Rpb25hbCBpbXBvcnQgY2FjaGVkX3Byb3BlcnR5Cg==</text>
+        <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlTLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dCgpCg==</text>
+      <register name="2" type="4">
+        <text>[
+            HybridScenarioContextGenerator(
+                scenario_obj=scenario,
+                top_level_key=hybrid_key,
+                label=scenario.label,
+            ) for hybrid_key, scenario in (
+                (val, getattr(hybrid_scenarios, key))
+                for key, val in HYBRID_SCENARIO_KEYS.items()
+            )
+        ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjYWNoZWRfcHJvcGVydHkK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2NlbmFyaW9fZ2VuZXJhdG9yIGluc2NlbmFyaW9fZ2VuZXJhdG9yczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEhZQlIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCAoCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMuZnVuY3Rpb25hbCBpbXBvcnQgY2FjaGVkX3Byb3BlcnR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdlYXJseV9leGl0JywK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gc3VwZXIoKS5nZXRfY29udGV4dCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIEBjYWNoZWRfcHJvcGVydHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
