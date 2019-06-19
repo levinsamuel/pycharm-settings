@@ -63,12 +63,12 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1560981436929">
-        <mark key="'" line="1099" column="23" />
-        <mark key="[" line="1086" column="35" />
-        <mark key="]" line="1086" column="88" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1560983136237">
+        <mark key="'" line="1101" column="31" />
+        <mark key="[" line="1078" column="0" />
+        <mark key="]" line="1078" column="0" />
         <mark key="^" line="1086" column="88" />
-        <mark key="." line="1086" column="88" />
+        <mark key="." line="1078" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_populate_dates.py" timestamp="1560300342042">
         <mark key="[" line="12" column="26" />
@@ -571,7 +571,8 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1560978900314">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1560983019450">
+        <mark key="'" line="94" column="0" />
         <mark key="[" line="47" column="4" />
         <mark key="]" line="53" column="46" />
         <mark key="^" line="53" column="46" />
@@ -604,8 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
-      <jump line="470" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="471" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="65" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="67" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -704,19 +703,21 @@
       <jump line="1086" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="1216" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="1099" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
+      <jump line="1101" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgdmFsdWF0aW9uID0gc2VsZi5nZXRfc2VsZWN0ZWRfdmFsdWF0aW9uKCkKICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcignSHlicmlkIHZhbHVhdGlvbnMgd2l0aCBlcXVpdHkgYWRqdXN0bWVudCBhcmUgZGlzYWJsZWQuJykKCg==</text>
       </register>
       <register name="-" type="4">
         <text>return True</text>
       </register>
       <register name="/" type="4">
-        <text>Error</text>
+        <text>health</text>
       </register>
       <register name="0" type="4">
         <text>self.equity_adjustment != Decimal(0):</text>
@@ -725,18 +726,24 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJldHVybiBUcnVlCgo=</text>
+        <text encoding="base64">CiAgICAgICAgdmFsdWF0aW9uID0gc2VsZi5nZXRfc2VsZWN0ZWRfdmFsdWF0aW9uKCkKICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcignSHlicmlkIHZhbHVhdGlvbnMgd2l0aCBlcXVpdHkgYWRqdXN0bWVudCBhcmUgZGlzYWJsZWQuJykKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBzZWxmLmdldF9zZWxlY3RlZF92YWx1YXRpb24oKQogICAgICAgICMgTmV3IGh5YnJpZCBtZXRob2Qgd2l0aCBlcXVpdHkgYWRqdXN0bWVudAogICAgICAgIGlmICgKICAgICAgICAgICAgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19BTExPV19IWUJSSURfRVFVSVRZX0FESlVTVE1FTlQpIGFuZAogICAgICAgICAgICB2YWx1YXRpb24uaXNfaHlicmlkIGFuZAogICAgICAgICAgICB2YWx1YXRpb24uaGFzX2VxdWl0eV9hZGp1c3RtZW50CiAgICAgICAgKToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdIeWJyaWQgdmFsdWF0aW9ucyB3aXRoIGVxdWl0eSBhZGp1c3RtZW50IGFyZSBkaXNhYmxlZC4nKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90IHNlbGYubWFuYWdlcl9hcHByb3ZlZCBhbmQgKAo=</text>
+        <text encoding="base64">ICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJldHVybiBUcnVlCgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90IHNlbGYubWFuYWdlcl9hcHByb3ZlZCBhbmQgKAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlTLAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>[
             HybridScenarioContextGenerator(
                 scenario_obj=scenario,
@@ -748,26 +755,20 @@
             )
         ]</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmb3Igc2NlbmFyaW9fZ2VuZXJhdG9yIGluc2NlbmFyaW9fZ2VuZXJhdG9yczoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEhZQlIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMuZnVuY3Rpb25hbCBpbXBvcnQgY2FjaGVkX3Byb3BlcnR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Error</last-search>
+      <last-search>health</last-search>
       <last-offset />
-      <last-pattern>Error</last-pattern>
+      <last-pattern>health</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -775,7 +776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run_all</entry>
         <entry>score_sensitivity</entry>
         <entry>create_hybrid</entry>
         <entry>IRC409A</entry>
@@ -795,6 +795,7 @@
         <entry>scenarios</entry>
         <entry>equity_adjust</entry>
         <entry>Error</entry>
+        <entry>health</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
