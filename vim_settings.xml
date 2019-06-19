@@ -3,96 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0079_auto_20190604_1331.py" timestamp="1560378545080">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="53" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1560800310528">
-        <mark key="[" line="76" column="18" />
-        <mark key="]" line="79" column="59" />
-        <mark key="^" line="79" column="59" />
-        <mark key="." line="79" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/post_money_table/test_post_money_table.py" timestamp="1559330429041">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context.py" timestamp="1560273652028">
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-        <mark key="^" line="59" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0072_create_captable.py" timestamp="1559157012772">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="79" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/factories/valuations/factories.py" timestamp="1556585041453">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/signals/test_signals.py" timestamp="1560205802558">
-        <mark key="[" line="109" column="12" />
-        <mark key="]" line="109" column="12" />
-        <mark key="." line="109" column="12" />
-        <mark key="^" line="59" column="34" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1560969709715">
         <mark key="[" line="40" column="60" />
         <mark key="]" line="41" column="21" />
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/signals.py" timestamp="1559779624355">
-        <mark key="[" line="104" column="115" />
-        <mark key="]" line="105" column="65" />
-        <mark key="^" line="105" column="65" />
-        <mark key="." line="105" column="65" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/approaches/asset/test_details_helper.py" timestamp="1560280641705">
-        <mark key="[" line="17" column="71" />
-        <mark key="]" line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1560983136237">
-        <mark key="'" line="1101" column="31" />
-        <mark key="[" line="1078" column="0" />
-        <mark key="]" line="1078" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1560984525918">
+        <mark key="'" line="686" column="0" />
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="8" column="74" />
         <mark key="^" line="1086" column="88" />
-        <mark key="." line="1078" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_populate_dates.py" timestamp="1560300342042">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="27" />
+        <mark key="." line="8" column="74" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1560966868692">
         <mark key="[" line="435" column="29" />
         <mark key="]" line="435" column="41" />
         <mark key="^" line="435" column="41" />
         <mark key="." line="435" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation_template.py" timestamp="1556302924068">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="87" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0078_create_scenario_selfrelation.py" timestamp="1560378820539">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="76" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation.py" timestamp="1560880087417">
         <mark key="[" line="34" column="8" />
@@ -102,40 +30,16 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1560979987427">
         <mark key="'" line="106" column="48" />
-        <mark key="[" line="242" column="37" />
-        <mark key="]" line="242" column="37" />
-        <mark key="^" line="242" column="37" />
-        <mark key="." line="242" column="37" />
+        <mark key="[" line="237" column="37" />
+        <mark key="]" line="237" column="37" />
+        <mark key="^" line="237" column="37" />
+        <mark key="." line="237" column="37" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1560897140859">
         <mark key="'" line="471" column="40" />
         <mark key="[" line="568" column="0" />
         <mark key="]" line="568" column="0" />
         <mark key="." line="568" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0074_auto_20190521_1819.py" timestamp="1558495598572">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="65" column="4" />
-        <mark key="^" line="64" column="63" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0075_create_scenaro_selfrelation.py" timestamp="1560298606566">
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="75" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0079_create_hybrid_scenario_relations.py" timestamp="1560378847084">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/common/management/commands/update_snapshots.py" timestamp="1559360593698">
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="65" column="35" />
-        <mark key="." line="65" column="35" />
-        <mark key="^" line="65" column="35" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1560888593230">
         <mark key="'" line="98" column="55" />
@@ -144,99 +48,11 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="124" column="22" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario.py" timestamp="1560880256521">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/invested_capital.py" timestamp="1559356225245">
-        <mark key="'" line="44" column="24" />
-        <mark key="[" line="53" column="76" />
-        <mark key="]" line="53" column="84" />
-        <mark key="." line="53" column="84" />
-        <mark key="^" line="53" column="84" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1560222552665">
-        <mark key="'" line="467" column="69" />
-        <mark key="[" line="78" column="75" />
-        <mark key="]" line="79" column="61" />
-        <mark key="." line="79" column="61" />
-        <mark key="^" line="79" column="61" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/common/management/commands/fix_migration_sequence.py" timestamp="1560799538628">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/captable_data.py" timestamp="1559785849836">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="79" column="37" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_allocation_allocation_date.py" timestamp="1558484276399">
-        <mark key="[" line="29" column="91" />
-        <mark key="]" line="29" column="103" />
-        <mark key="^" line="29" column="103" />
-        <mark key="." line="29" column="103" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0079_scenario_date.py" timestamp="1559286757327">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="29" column="66" />
-        <mark key="^" line="29" column="66" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_merge_20190604_1150.py" timestamp="1560298698178">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="85" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_create_captable_links.py" timestamp="1558750300767">
-        <mark key="'" line="68" column="61" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0077_create_scenaro_selfrelation.py" timestamp="1560300249493">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="76" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/set_up_hybrid_val.py" timestamp="1559783409408">
-        <mark key="[" line="38" column="58" />
-        <mark key="]" line="38" column="89" />
-        <mark key="." line="38" column="89" />
-        <mark key="^" line="38" column="89" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0079_populate_dates.py" timestamp="1560298991647">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="77" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/valuation/set_up_hybrid.py" timestamp="1560360211847">
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="81" />
-        <mark key="." line="15" column="81" />
-        <mark key="^" line="15" column="117" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/serializers/model_serializers.py" timestamp="1560360854260">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="39" column="28" />
-        <mark key="^" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_captable_data.py" timestamp="1559494061730">
-        <mark key="[" line="119" column="51" />
-        <mark key="]" line="119" column="51" />
-        <mark key="^" line="106" column="62" />
-        <mark key="." line="119" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1560888586071">
         <mark key="'" line="49" column="8" />
@@ -245,30 +61,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="47" column="73" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/steps/scenario/test_scenario_date.py" timestamp="1560363304649">
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="33" column="69" />
-        <mark key="." line="33" column="69" />
-        <mark key="^" line="33" column="69" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/__init__.py" timestamp="1559765970317">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_sensitivity_analysis.py" timestamp="1560278150924">
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="8" />
-        <mark key="^" line="8" column="108" />
-        <mark key="." line="97" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/middleware/permission_enforcer_middleware.py" timestamp="1558662150568">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="45" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="0" column="45" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1560978999084">
         <mark key="'" line="402" column="25" />
         <mark key="[" line="369" column="24" />
@@ -276,55 +68,11 @@
         <mark key="." line="369" column="33" />
         <mark key="^" line="369" column="33" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/backsolve/last_preferred.py" timestamp="1560362140909">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0067_auto_20190502_1926.py" timestamp="1558495611828">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1560889534686">
         <mark key="[" line="42" column="24" />
         <mark key="]" line="42" column="36" />
         <mark key="." line="42" column="36" />
         <mark key="^" line="42" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/run_backsolve.py" timestamp="1559856053676">
-        <mark key="[" line="45" column="56" />
-        <mark key="]" line="46" column="55" />
-        <mark key="." line="46" column="55" />
-        <mark key="^" line="46" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0074_auto_20190521_1807.py" timestamp="1558487704802">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="23" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/valuation_calculations.py" timestamp="1558723397719">
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="29" />
-        <mark key="^" line="70" column="29" />
-        <mark key="." line="70" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/allocation_type.py" timestamp="1559270440766">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="31" column="36" />
-        <mark key="^" line="31" column="36" />
-        <mark key="." line="31" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks.py" timestamp="1558975482135">
-        <mark key="'" line="336" column="29" />
-        <mark key="[" line="336" column="43" />
-        <mark key="]" line="336" column="51" />
-        <mark key="." line="336" column="51" />
-        <mark key="^" line="336" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid_scenarios.py" timestamp="1560899437436">
         <mark key="[" line="4" column="63" />
@@ -332,105 +80,15 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/captable.py" timestamp="1559020167210">
-        <mark key="'" line="12" column="29" />
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="51" />
-        <mark key="^" line="12" column="51" />
-        <mark key="." line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/__init__.py" timestamp="1558487180691">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_scenario_selfrelation.py" timestamp="1560799567566">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="46" />
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1560277997934">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1560965045808">
-        <mark key="'" line="380" column="16" />
+        <mark key="'" line="381" column="16" />
         <mark key="^" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/decorators.py" timestamp="1559282720018">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="130" column="19" />
-        <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0078_scenario_captable.py" timestamp="1560299058479">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="72" />
-        <mark key="." line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1560276168381">
-        <mark key="'" line="243" column="8" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1560273007027">
-        <mark key="'" line="103" column="8" />
-        <mark key="[" line="81" column="50" />
-        <mark key="]" line="81" column="75" />
-        <mark key="." line="81" column="75" />
-        <mark key="^" line="81" column="75" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/refresh_cap_table_data.py" timestamp="1559784380924">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="35" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1560277219059">
-        <mark key="'" line="1254" column="13" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="1252" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_add_allocation_date.py" timestamp="1560378867279">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/ordered_scenarios/test_ordered_scenarios.py" timestamp="1559694841424">
-        <mark key="'" line="19" column="48" />
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="51" />
-        <mark key="." line="53" column="51" />
-        <mark key="^" line="53" column="51" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" timestamp="1560372749238">
-        <mark key="[" line="130" column="20" />
-        <mark key="]" line="130" column="48" />
-        <mark key="^" line="130" column="48" />
-        <mark key="." line="130" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/engagementletter_insert.html" timestamp="1558456181544">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="16" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/shared/__init__.py" timestamp="1560362362052">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="1" column="53" />
-        <mark key="^" line="1" column="53" />
-        <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1560963468561">
         <mark key="[" line="8" column="26" />
@@ -438,45 +96,8 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1560882028053">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0073_allocation_as_of_date.py" timestamp="1558483152118">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1560800244147">
-        <mark key="'" line="1169" column="5" />
-        <mark key="[" line="1206" column="33" />
-        <mark key="]" line="1206" column="41" />
-        <mark key="^" line="1206" column="41" />
-        <mark key="." line="1206" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenario_and_backsolve_dates.py" timestamp="1560555049929">
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="54" />
-        <mark key="^" line="40" column="54" />
-        <mark key="." line="40" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1560980029720">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="632" column="27" />
-        <mark key="]" line="633" column="19" />
-        <mark key="^" line="633" column="19" />
-        <mark key="." line="633" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0080_create_hybrid_scenario_relations.py" timestamp="1560298916318">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1560983803772">
+        <mark key="'" line="1170" column="5" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/scenario_self_relation.py" timestamp="1560800633627">
         <mark key="'" line="28" column="50" />
@@ -485,91 +106,12 @@
         <mark key="^" line="12" column="96" />
         <mark key="." line="12" column="96" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/backsolve_type.py" timestamp="1560465231075">
-        <mark key="'" line="75" column="16" />
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="63" />
-        <mark key="^" line="75" column="63" />
-        <mark key="." line="75" column="63" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/scenario/scenario_date.py" timestamp="1560363134357">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="16" column="82" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/misc.py" timestamp="1560882078116">
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="28" />
-        <mark key="." line="89" column="28" />
-        <mark key="^" line="89" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0076_remove_old_captable_keys.py" timestamp="1560373297662">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/__init__.py" timestamp="1560362368785">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/fields.py" timestamp="1560360866620">
-        <mark key="[" line="81" column="51" />
-        <mark key="]" line="81" column="54" />
-        <mark key="." line="81" column="54" />
-        <mark key="^" line="81" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1560222905591">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="86" />
-        <mark key="^" line="37" column="86" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/sensitivity_analysis.py" timestamp="1560278276854">
-        <mark key="'" line="255" column="8" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="254" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1560978961037">
+      <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1560984514232">
         <mark key="'" line="115" column="33" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="40" />
-        <mark key="^" line="116" column="85" />
-        <mark key="." line="116" column="85" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/asset/test_details_helper.py" timestamp="1560204331488">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0079_add_allocation_date.py" timestamp="1560300326441">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="90" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/test_val_cases.py" timestamp="1558723894645">
-        <mark key="'" line="300" column="11" />
-        <mark key="[" line="324" column="56" />
-        <mark key="]" line="329" column="63" />
-        <mark key="^" line="323" column="38" />
-        <mark key="." line="329" column="63" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1560966646716">
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0077_allocation_allocation_date.py" timestamp="1559259347104">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1560983019450">
         <mark key="'" line="94" column="0" />
@@ -578,34 +120,8 @@
         <mark key="^" line="53" column="46" />
         <mark key="." line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/allocation/test_allocation.py" timestamp="1560281988708">
-        <mark key="[" line="53" column="110" />
-        <mark key="]" line="36" column="74" />
-        <mark key="." line="36" column="74" />
-        <mark key="^" line="36" column="74" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/steps/valuation/test_set_up_hybrid.py" timestamp="1560360221427">
-        <mark key="[" line="37" column="69" />
-        <mark key="]" line="37" column="69" />
-        <mark key="." line="37" column="69" />
-        <mark key="^" line="37" column="92" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/shared/last_preferred_date.py" timestamp="1560362805783">
-        <mark key="[" line="9" column="91" />
-        <mark key="]" line="9" column="92" />
-        <mark key="^" line="9" column="92" />
-        <mark key="." line="9" column="92" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/holding.py" timestamp="1559355853335">
-        <mark key="'" line="60" column="45" />
-        <mark key="[" line="60" column="58" />
-        <mark key="]" line="60" column="66" />
-        <mark key="." line="60" column="66" />
-        <mark key="^" line="60" column="66" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="65" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="67" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="60" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -676,7 +192,6 @@
       <jump line="365" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="405" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="402" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
-      <jump line="686" column="7" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="624" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="650" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="20" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -705,61 +220,54 @@
       <jump line="1099" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="94" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
       <jump line="1101" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="426" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
+      <jump line="686" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsdWF0aW9uID0gc2VsZi5nZXRfc2VsZWN0ZWRfdmFsdWF0aW9uKCkKICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcignSHlicmlkIHZhbHVhdGlvbnMgd2l0aCBlcXVpdHkgYWRqdXN0bWVudCBhcmUgZGlzYWJsZWQuJykKCg==</text>
+      <register name="&quot;" type="4">
+        <text>, ValidationError</text>
       </register>
       <register name="-" type="4">
-        <text>return True</text>
+        <text>, ValidationError</text>
       </register>
       <register name="/" type="4">
         <text>health</text>
       </register>
-      <register name="0" type="4">
-        <text>self.equity_adjustment != Decimal(0):</text>
+      <register name="0" type="2">
+        <text encoding="base64">SEVBTFRIX1RJVExFX0FMTE9DQVRJT05fVFRFID0gJ0FsbG9jYXRpb24nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsdWF0aW9uID0gc2VsZi5nZXRfc2VsZWN0ZWRfdmFsdWF0aW9uKCkKICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcignSHlicmlkIHZhbHVhdGlvbnMgd2l0aCBlcXVpdHkgYWRqdXN0bWVudCBhcmUgZGlzYWJsZWQuJykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBzZWxmLmdldF9zZWxlY3RlZF92YWx1YXRpb24oKQogICAgICAgICMgTmV3IGh5YnJpZCBtZXRob2Qgd2l0aCBlcXVpdHkgYWRqdXN0bWVudAogICAgICAgIGlmICgKICAgICAgICAgICAgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19BTExPV19IWUJSSURfRVFVSVRZX0FESlVTVE1FTlQpIGFuZAogICAgICAgICAgICB2YWx1YXRpb24uaXNfaHlicmlkIGFuZAogICAgICAgICAgICB2YWx1YXRpb24uaGFzX2VxdWl0eV9hZGp1c3RtZW50CiAgICAgICAgKToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdIeWJyaWQgdmFsdWF0aW9ucyB3aXRoIGVxdWl0eSBhZGp1c3RtZW50IGFyZSBkaXNhYmxlZC4nKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJldHVybiBUcnVlCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2NlbmFyaW8gaW4gdmFsdWF0aW9uLmdldF9zY2VuYXJpb3MoKToKICAgICAgICAgICAgb3BtID0gY29uc3RhbnRzLk9QVElPTl9QUklDSU5HX01PREVMCiAgICAgICAgICAgIGFsbG9jYXRpb24gPSBzY2VuYXJpby5hbGxvY2F0aW9uCiAgICAgICAgICAgIG1ldGhvZG9sb2d5ID0gYWxsb2NhdGlvbi5hbGxvY2F0aW9uX21ldGhvZG9sb2d5CgogICAgICAgICAgICBpZiBvcG0gPT0gbWV0aG9kb2xvZ3kgYW5kIGFsbG9jYXRpb24ud2VpZ2h0ZWRfdGltZV90b19leGl0IDwgMToKICAgICAgICAgICAgICAgIHlpZWxkIHNlbGYud2FybmluZyhjb25zdGFudHMuSEVBTFRIX1dBUk5JTkdfVFRFKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgeWllbGQgc2VsZi5zdWNjZXNzKGNvbnN0YW50cy5IRUFMVEhfU1VDQ0VTU19UVEUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90IHNlbGYubWFuYWdlcl9hcHByb3ZlZCBhbmQgKAo=</text>
+        <text encoding="base64">CiAgICAgICAgdmFsdWF0aW9uID0gc2VsZi5nZXRfc2VsZWN0ZWRfdmFsdWF0aW9uKCkKICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcignSHlicmlkIHZhbHVhdGlvbnMgd2l0aCBlcXVpdHkgYWRqdXN0bWVudCBhcmUgZGlzYWJsZWQuJykKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEhZQlJJRF9TQ0VOQVJJT19LRVlTLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBzZWxmLmdldF9zZWxlY3RlZF92YWx1YXRpb24oKQogICAgICAgICMgTmV3IGh5YnJpZCBtZXRob2Qgd2l0aCBlcXVpdHkgYWRqdXN0bWVudAogICAgICAgIGlmICgKICAgICAgICAgICAgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19BTExPV19IWUJSSURfRVFVSVRZX0FESlVTVE1FTlQpIGFuZAogICAgICAgICAgICB2YWx1YXRpb24uaXNfaHlicmlkIGFuZAogICAgICAgICAgICB2YWx1YXRpb24uaGFzX2VxdWl0eV9hZGp1c3RtZW50CiAgICAgICAgKToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdIeWJyaWQgdmFsdWF0aW9ucyB3aXRoIGVxdWl0eSBhZGp1c3RtZW50IGFyZSBkaXNhYmxlZC4nKQoK</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-            HybridScenarioContextGenerator(
-                scenario_obj=scenario,
-                top_level_key=hybrid_key,
-                label=scenario.label,
-            ) for hybrid_key, scenario in (
-                (val, getattr(hybrid_scenarios, key))
-                for key, val in HYBRID_SCENARIO_KEYS.items()
-            )
-        ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIE5ldyBoeWJyaWQgbWV0aG9kIHdpdGggZXF1aXR5IGFkanVzdG1lbnQKICAgICAgICBpZiAoCiAgICAgICAgICAgIG5vdCBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfQUxMT1dfSFlCUklEX0VRVUlUWV9BREpVU1RNRU5UKSBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmlzX2h5YnJpZCBhbmQKICAgICAgICAgICAgdmFsdWF0aW9uLmhhc19lcXVpdHlfYWRqdXN0bWVudAogICAgICAgICk6CiAgICAgICAgICAgIHJldHVybiBUcnVlCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2NlbmFyaW9fZ2VuZXJhdG9yIGluc2NlbmFyaW9fZ2VuZXJhdG9yczoK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90IHNlbGYubWFuYWdlcl9hcHByb3ZlZCBhbmQgKAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
