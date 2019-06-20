@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1561051265961">
-        <mark key="[" line="426" column="29" />
-        <mark key="]" line="428" column="26" />
-        <mark key="^" line="428" column="26" />
-        <mark key="." line="428" column="26" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1561058819150">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="96" column="5" />
+        <mark key="]" line="96" column="19" />
+        <mark key="^" line="96" column="19" />
+        <mark key="." line="96" column="19" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid_scenarios.py" timestamp="1560899437436">
         <mark key="[" line="4" column="63" />
@@ -45,11 +46,11 @@
         <mark key="." line="567" column="0" />
         <mark key="^" line="567" column="89" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561056521978">
-        <mark key="[" line="67" column="68" />
-        <mark key="]" line="67" column="68" />
-        <mark key="^" line="70" column="29" />
-        <mark key="." line="67" column="68" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561058605968">
+        <mark key="[" line="57" column="65" />
+        <mark key="]" line="57" column="16" />
+        <mark key="^" line="57" column="16" />
+        <mark key="." line="57" column="16" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1560978999084">
         <mark key="'" line="402" column="25" />
@@ -137,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="114" column="65" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="483" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="64" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="66" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -237,19 +236,21 @@
       <jump line="59" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="300" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="303" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="428" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>property</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>property</text>
       </register>
       <register name="/" type="4">
-        <text>backsolve_allocation</text>
+        <text>uses_mvic</text>
       </register>
       <register name="0" type="4">
         <text>, scenarios</text>
@@ -289,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>backsolve_allocation</last-search>
+      <last-search>uses_mvic</last-search>
       <last-offset />
-      <last-pattern>backsolve_allocation</last-pattern>
+      <last-pattern>uses_mvic</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -299,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_hybrid</entry>
         <entry>IRC409A</entry>
         <entry>Captable</entry>
         <entry>\.py</entry>
@@ -319,6 +319,7 @@
         <entry>health</entry>
         <entry>primary_allocation_totals</entry>
         <entry>backsolve_allocation</entry>
+        <entry>uses_mvic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
