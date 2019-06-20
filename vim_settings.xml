@@ -45,11 +45,11 @@
         <mark key="." line="567" column="0" />
         <mark key="^" line="567" column="89" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561054275728">
-        <mark key="[" line="50" column="46" />
-        <mark key="]" line="51" column="7" />
-        <mark key="^" line="51" column="7" />
-        <mark key="." line="51" column="7" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561056521978">
+        <mark key="[" line="67" column="68" />
+        <mark key="]" line="67" column="68" />
+        <mark key="^" line="70" column="29" />
+        <mark key="." line="67" column="68" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1560978999084">
         <mark key="'" line="402" column="25" />
@@ -80,6 +80,12 @@
         <mark key="]" line="159" column="56" />
         <mark key="." line="159" column="56" />
         <mark key="^" line="159" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/utils.py" timestamp="1561055264888">
+        <mark key="[" line="5" column="92" />
+        <mark key="]" line="5" column="92" />
+        <mark key="." line="5" column="92" />
+        <mark key="^" line="3" column="56" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1560984525918">
         <mark key="'" line="686" column="0" />
@@ -122,6 +128,12 @@
         <mark key="]" line="25" column="36" />
         <mark key="." line="25" column="36" />
         <mark key="^" line="124" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" timestamp="1561055484824">
+        <mark key="[" line="255" column="70" />
+        <mark key="]" line="253" column="92" />
+        <mark key="." line="253" column="92" />
+        <mark key="^" line="253" column="92" />
       </file>
     </filemarks>
     <jumps>
@@ -230,47 +242,47 @@
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3ZhbHVhdGlvbi1yZXBvcnQvNDA5YS9leGhpYml0X2JhY2tzb2x2ZV8zLmh0bWwnLCAnQmFja3NvbHZlIGV4aGliaXQgMycpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>backsolve</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>backsolve_allocation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydiYWNrc29sdmVfYWxsb2NhdGlvbiddID0gbGVfY29udGV4dFsnYmFja3NvbHZlX2FsbG9jYXRpb24nXQo=</text>
+      <register name="0" type="4">
+        <text>, scenarios</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3ZhbHVhdGlvbi1yZXBvcnQvNDA5YS9leGhpYml0X2JhY2tzb2x2ZV8zLmh0bWwnLCAnQmFja3NvbHZlIGV4aGliaXQgMycpLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX3dlaWdodGVkX2FsbG9jYXRpb25fdG90YWwoc2VsZiwgYXR0cmlidXRlKToKICAgICAgICByZXR1cm4gc3VtKAogICAgICAgICAgICBbRGVjaW1hbChzdHIoZ2V0YXR0cihzY2VuYXJpby5hbGxvY2F0aW9uLCBhdHRyaWJ1dGUpKSkgKiBzY2VuYXJpby53ZWlnaHQgZm9yIHNjZW5hcmlvIGluIHNlbGYuX3NjZW5hcmlvc10KICAgICAgICApCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydiYWNrc29sdmVfcGVyY2VudGFnZV9yb3dzJ10gPSBsZV9jb250ZXh0WydiYWNrc29sdmVfcGVyY2VudGFnZV9yb3dzJ10K</text>
+        <text encoding="base64">ICAgICAgICAoJ3ZhbHVhdGlvbi1yZXBvcnQvNDA5YS9leGhpYml0X2JhY2tzb2x2ZV8zLmh0bWwnLCAnQmFja3NvbHZlIGV4aGliaXQgMycpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydiYWNrc29sdmVfYWxsb2NhdGlvbiddID0gbGVfY29udGV4dFsnYmFja3NvbHZlX2FsbG9jYXRpb24nXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0WydiYWNrc29sdmVfcGVyY2VudGFnZV9yb3dzJ10gPSBsZV9jb250ZXh0WydiYWNrc29sdmVfcGVyY2VudGFnZV9yb3dzJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0WydiYWNrc29sdmVfYWxsb2NhdGlvbiddID0gbGVfY29udGV4dFsnYmFja3NvbHZlX2FsbG9jYXRpb24nXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NlbmFyaW9Db250ZXh0R2VuZXJhdG9yKHNjZW5hcmlvX29iaj1zY2VuYXJpbykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3RhbmRhcmRfc2NlbmFyaW9fZ2VuZXJhdG9yKHNlbGYsIHNjZW5hcmlvKSAtPiBTY2VuYXJpb0NvbnRleHRHZW5lcmF0b3I6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NlbmFyaW9Db250ZXh0R2VuZXJhdG9yKHNjZW5hcmlvX29iaj1zY2VuYXJpbykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfc3RhbmRhcmRfc2NlbmFyaW9fZ2VuZXJhdG9yKHNlbGYsIHNjZW5hcmlvKSAtPiBTY2VuYXJpb0NvbnRleHRHZW5lcmF0b3I6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHlicmlkU2NlbmFyaW9zQ29udGV4dEdlbmVyYXRvcihoeWJyaWRfc2NlbmFyaW9zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
