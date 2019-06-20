@@ -42,10 +42,6 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1560965045808">
-        <mark key="'" line="381" column="16" />
-        <mark key="^" line="5" column="26" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1561064981463">
         <mark key="[" line="51" column="13" />
         <mark key="]" line="51" column="39" />
@@ -71,6 +67,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="47" column="73" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" timestamp="1561071655400">
+        <mark key="'" line="300" column="41" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1561058819150">
         <mark key="'" line="85" column="4" />
@@ -170,10 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="243" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="245" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="250" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="251" column="43" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="252" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="253" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -270,6 +265,10 @@
       <jump line="74" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="83" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="88" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="393" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
+      <jump line="301" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
+      <jump line="302" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
+      <jump line="300" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -282,7 +281,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>equity_adjustment</text>
+        <text>DLOM appro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wc19lYXJseV9leGl0J10udXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2VsZi5lYXJseV9leGl0KSkK</text>
@@ -322,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>equity_adjustment</last-search>
+      <last-search>DLOM appro</last-search>
       <last-offset />
-      <last-pattern>equity_adjustment</last-pattern>
+      <last-pattern>DLOM appro</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\)</entry>
         <entry>)</entry>
         <entry>HYBRID</entry>
         <entry>scenario</entry>
@@ -352,6 +350,7 @@
         <entry>value</entry>
         <entry>comp_data</entry>
         <entry>equity_adjustment</entry>
+        <entry>DLOM appro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
