@@ -53,12 +53,12 @@
         <mark key="." line="567" column="0" />
         <mark key="^" line="567" column="89" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561061895459">
-        <mark key="'" line="105" column="8" />
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="53" column="8" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="53" column="8" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561063530649">
+        <mark key="'" line="100" column="15" />
+        <mark key="[" line="57" column="97" />
+        <mark key="]" line="57" column="97" />
+        <mark key="^" line="57" column="95" />
+        <mark key="." line="57" column="97" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1560978999084">
         <mark key="'" line="402" column="25" />
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="151" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="227" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="228" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -248,19 +247,20 @@
       <jump line="59" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="90" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="103" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="101" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydjbGFzc192YWx1ZV9yb3dzJ10gPSBzZWxmLl9jcmVhdGVfdmFsX2RhdGVfY29tcGFyaXNvbl9yb3dzKGNvbnRleHQsICdjbGFzc192YWx1ZScpCiAgICAgICAgY29udGV4dFsnbWFya2V0YWJsZV92YWx1ZV9yb3dzJ10gPSBzZWxmLl9jcmVhdGVfdmFsX2RhdGVfY29tcGFyaXNvbl9yb3dzKGNvbnRleHQsICdtYXJrZXRhYmxlX3ZhbHVlJykK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>comp_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0WydjbGFzc192YWx1ZV9yb3dzJ10gPSBzZWxmLl9jcmVhdGVfdmFsX2RhdGVfY29tcGFyaXNvbl9yb3dzKGNvbnRleHQsICdjbGFzc192YWx1ZScpCiAgICAgICAgY29udGV4dFsnbWFya2V0YWJsZV92YWx1ZV9yb3dzJ10gPSBzZWxmLl9jcmVhdGVfdmFsX2RhdGVfY29tcGFyaXNvbl9yb3dzKGNvbnRleHQsICdtYXJrZXRhYmxlX3ZhbHVlJykK</text>
@@ -269,40 +269,49 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ2Rsb20nOiBzZWxmLnZhbHVhdGlvbi53ZWlnaHRlZF90b3RhbF9kbG9tLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHRba2V5XSA9IGxlX2NvbnRleHRba2V5XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZV9kbG9tX2NvbW1vbl92YWx1ZSc6IHNlbGYudmFsdWF0aW9uLnByZV9kbG9tX2ZhaXJfbWFya2V0X3ZhbHVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYga2V5LnN0YXJ0c3dpdGgoJ2JhY2tzb2x2ZScpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZV9wcm9iYWJpbGl0eSA9IGxlX2NvbnRleHRbJ3Byb2JhYmlsaXR5J10K</text>
+        <text encoding="base64">ICAgICAgICBmb3Iga2V5IGluIGxlX2NvbnRleHQua2V5cygpOgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>return [
+            [
+                False,
+                ee_total['share_class'],
+                ee_total[key],
+                le_total[key],
+                Decimal(ee_total[key])*ee_probability + Decimal(le_total[key])*le_probability,
+            ]
+            for ee_total, le_total in zip(ee_totals, le_totals)
+        ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICBGYWxzZSwKICAgICAgICAgICAgICAgIGVlX3RvdGFsWydzaGFyZV9jbGFzcyddLAogICAgICAgICAgICAgICAgZWVfdG90YWxba2V5XSwKICAgICAgICAgICAgICAgIGxlX3RvdGFsW2tleV0sCiAgICAgICAgICAgICAgICBEZWNpbWFsKGVlX3RvdGFsW2tleV0pKmVlX3Byb2JhYmlsaXR5ICsgRGVjaW1hbChsZV90b3RhbFtrZXldKSpsZV9wcm9iYWJpbGl0eSwKICAgICAgICAgICAgXQogICAgICAgICAgICBmb3IgZWVfdG90YWwsIGxlX3RvdGFsIGluIHppcChlZV90b3RhbHMsIGxlX3RvdGFscykKICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ2Rsb20nOiBzZWxmLnZhbHVhdGlvbi53ZWlnaHRlZF90b3RhbF9kbG9tLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZV9kbG9tX2NvbW1vbl92YWx1ZSc6IHNlbGYudmFsdWF0aW9uLnByZV9kbG9tX2ZhaXJfbWFya2V0X3ZhbHVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmJhY2tzb2x2ZV9lcXVpdHlfdmFsdWVfb3ZlcnJpZGU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmJhY2tzb2x2ZV9lcXVpdHlfdmFsdWVfb3ZlcnJpZGUKICAgICAgICByZXR1cm4gc2VsZi5iYWNrc29sdmVfZXF1aXR5X3ZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICBsZV9wcm9iYWJpbGl0eSA9IGxlX2NvbnRleHRbJ3Byb2JhYmlsaXR5J10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3dlaWdodGVkX2FsbG9jYXRpb25fdG90YWwoc2VsZiwgYXR0cmlidXRlKToKICAgICAgICByZXR1cm4gc3VtKAogICAgICAgICAgICBbRGVjaW1hbChzdHIoZ2V0YXR0cihzY2VuYXJpby5hbGxvY2F0aW9uLCBhdHRyaWJ1dGUpKSkgKiBzY2VuYXJpby53ZWlnaHQgZm9yIHNjZW5hcmlvIGluIHNlbGYuX3NjZW5hcmlvc10KICAgICAgICApCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>comp_data</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>comp_data</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -310,7 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Captable</entry>
         <entry>\.py</entry>
         <entry>\)</entry>
         <entry>)</entry>
@@ -330,6 +338,7 @@
         <entry>backsolve_allocation</entry>
         <entry>uses_mvic</entry>
         <entry>value</entry>
+        <entry>comp_data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
