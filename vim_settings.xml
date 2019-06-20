@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1560969709715">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1560989677343">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="41" column="83" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1560984525918">
         <mark key="'" line="686" column="0" />
@@ -109,7 +109,8 @@
       <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1560984514232">
         <mark key="'" line="115" column="33" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1560966646716">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1560989274147">
+        <mark key="'" line="60" column="13" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
@@ -124,7 +125,6 @@
     <jumps>
       <jump line="65" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="67" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="60" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="113" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="112" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="77" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -222,22 +222,23 @@
       <jump line="1101" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="426" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
       <jump line="686" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
+      <jump line="60" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, ValidationError</text>
+        <text>.scenario_contexts</text>
       </register>
       <register name="-" type="4">
-        <text>, ValidationError</text>
+        <text>.scenario_contexts</text>
       </register>
       <register name="/" type="4">
-        <text>health</text>
+        <text>primary_allocation_totals</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SEVBTFRIX1RJVExFX0FMTE9DQVRJT05fVFRFID0gJ0FsbG9jYXRpb24nCg==</text>
+      <register name="0" type="4">
+        <text>ee_total['share_class']</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -274,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>health</last-search>
+      <last-search>primary_allocation_totals</last-search>
       <last-offset />
-      <last-pattern>health</last-pattern>
+      <last-pattern>primary_allocation_totals</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -284,7 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>score_sensitivity</entry>
         <entry>create_hybrid</entry>
         <entry>IRC409A</entry>
         <entry>Captable</entry>
@@ -304,6 +304,7 @@
         <entry>equity_adjust</entry>
         <entry>Error</entry>
         <entry>health</entry>
+        <entry>primary_allocation_totals</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
