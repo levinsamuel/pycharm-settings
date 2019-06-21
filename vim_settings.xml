@@ -126,7 +126,8 @@
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1561074755987">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1561146924581">
+        <mark key="'" line="37" column="6" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
@@ -163,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="347" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="351" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="359" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -263,6 +263,7 @@
       <jump line="396" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="255" column="67" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
       <jump line="139" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
+      <jump line="37" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -275,7 +276,7 @@
         <text>0080_auto_20190613_1005</text>
       </register>
       <register name="/" type="4">
-        <text>equity_adjustment</text>
+        <text>probability</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wc19lYXJseV9leGl0J10udXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2VsZi5lYXJseV9leGl0KSkK</text>
@@ -315,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>equity_adjustment</last-search>
+      <last-search>probability</last-search>
       <last-offset />
-      <last-pattern>equity_adjustment</last-pattern>
+      <last-pattern>probability</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -325,7 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>probability</entry>
         <entry>risk_free</entry>
         <entry>backsolve</entry>
         <entry>VAL</entry>
@@ -345,6 +345,7 @@
         <entry>primary_percentage</entry>
         <entry>backsolve_percentage</entry>
         <entry>equity_adjustment</entry>
+        <entry>probability</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
