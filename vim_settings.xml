@@ -153,16 +153,16 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="124" column="22" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" timestamp="1561055484824">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" timestamp="1561145711371">
+        <mark key="'" line="139" column="57" />
         <mark key="[" line="255" column="70" />
         <mark key="]" line="253" column="92" />
         <mark key="." line="253" column="92" />
         <mark key="^" line="253" column="92" />
+        <mark key="n" line="255" column="67" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="309" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="312" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="347" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="351" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -261,6 +261,8 @@
       <jump line="377" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="391" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="396" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="255" column="67" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
+      <jump line="139" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -273,7 +275,7 @@
         <text>0080_auto_20190613_1005</text>
       </register>
       <register name="/" type="4">
-        <text>backsolve_percentage</text>
+        <text>equity_adjustment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wc19lYXJseV9leGl0J10udXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2VsZi5lYXJseV9leGl0KSkK</text>
@@ -313,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>backsolve_percentage</last-search>
+      <last-search>equity_adjustment</last-search>
       <last-offset />
-      <last-pattern>backsolve_percentage</last-pattern>
+      <last-pattern>equity_adjustment</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -338,11 +340,11 @@
         <entry>uses_mvic</entry>
         <entry>value</entry>
         <entry>comp_data</entry>
-        <entry>equity_adjustment</entry>
         <entry>DLOM appro</entry>
         <entry>percentage</entry>
         <entry>primary_percentage</entry>
         <entry>backsolve_percentage</entry>
+        <entry>equity_adjustment</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
