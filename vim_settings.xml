@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1561065562255">
-        <mark key="'" line="417" column="8" />
+        <mark key="'" line="421" column="8" />
       </file>
       <file name="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" timestamp="1561159949597">
         <mark key="'" line="40" column="5" />
@@ -22,13 +22,6 @@
         <mark key="]" line="12" column="96" />
         <mark key="^" line="12" column="96" />
         <mark key="." line="12" column="96" />
-      </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561063530649">
-        <mark key="'" line="100" column="15" />
-        <mark key="[" line="57" column="97" />
-        <mark key="]" line="57" column="97" />
-        <mark key="^" line="57" column="95" />
-        <mark key="." line="57" column="97" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561065647100">
         <mark key="'" line="88" column="40" />
@@ -69,19 +62,11 @@
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" timestamp="1561058819150">
-        <mark key="'" line="85" column="4" />
-        <mark key="[" line="96" column="5" />
-        <mark key="]" line="96" column="19" />
-        <mark key="^" line="96" column="19" />
-        <mark key="." line="96" column="19" />
+      <file name="/Dummy.txt" timestamp="1561332877144">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1561066050487">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="50" column="82" />
-        <mark key="." line="34" column="0" />
+        <mark key="'" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" timestamp="1561159943225">
         <mark key="'" line="4" column="4" />
@@ -108,7 +93,7 @@
         <mark key="." line="369" column="33" />
         <mark key="^" line="369" column="33" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1561051901814">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1561332003492">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0085_populate_dates.py" timestamp="1561135979280">
@@ -244,46 +229,46 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>--network-concurrency 1 --mutex network</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>yarn</text>
       </register>
-      <register name="0" type="4">
-        <text>--network-concurrency 1 --mutex network</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVjaW1hbChzdHIoZWFybHlfdG90YWxbdG90YWxfa2V5XSkpICogZWFybHlfc2NlbmFyaW8ud2VpZ2h0LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZm9yIGluZGV4LCB0b3RhbCBpbiBlbnVtZXJhdGUoW2Vhcmx5X3RvdGFsLCBsYXRlX3RvdGFsXSldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICoqc2VsZi5nZXRfc2NlbmFyaW9fY29udGV4dChzZWxmLmxhdGVfZXhpdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NlbmFyaW8uYWxsb2NhdGlvbi50b3RhbHMgaXMgbm90IE5vbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHNjZW5hcmlvIGluIHNlbGYuX3NjZW5hcmlvcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlY2F1c2UgaXQgaXMgYWxsIGRlcGVuZGVudCBvbiBzY2VuYXJpby9iYWNrc29sdmUvYWxsb2NhdGlvbiBldGMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoaXMgaXMgd2hlcmUgdGhlIGh5YnJpZCBzcGVjaWZpYyBjb250ZXh0IGdlbiBoYXBwZW5zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICoqc2VsZi5nZXRfc2NlbmFyaW9fY29udGV4dChzZWxmLmxhdGVfZXhpdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wc19lYXJseV9leGl0J10udXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2VsZi5lYXJseV9leGl0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wc19lYXJseV9leGl0J10udXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGJlY2F1c2UgaXQgaXMgYWxsIGRlcGVuZGVudCBvbiBzY2VuYXJpby9iYWNrc29sdmUvYWxsb2NhdGlvbiBldGMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW9fY29udGV4dCA9IGNvbnRleHRba2V5XQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRoaXMgaXMgd2hlcmUgdGhlIGh5YnJpZCBzcGVjaWZpYyBjb250ZXh0IGdlbiBoYXBwZW5zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCBzY2VuYXJpbyBpbiBzZWxmLnNjZW5hcmlvcy5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0Wydjb21wc19lYXJseV9leGl0J10udXBkYXRlKHNlbGYuZ2V0X3NjZW5hcmlvX2NvbnRleHQoc2VsZi5lYXJseV9leGl0KSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
