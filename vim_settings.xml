@@ -88,7 +88,6 @@
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1561344799866">
         <mark key="'" line="688" column="35" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/invested_capital_type.py" timestamp="1561341187740" />
       <file name="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" timestamp="1561159943225">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="11" column="80" />
@@ -146,13 +145,11 @@
         <mark key="^" line="21" column="59" />
         <mark key="." line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1560983803772">
-        <mark key="'" line="1170" column="5" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1561393656087">
+        <mark key="'" line="483" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="113" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="10" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="105" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
@@ -251,6 +248,8 @@
       <jump line="119" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
       <jump line="234" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
       <jump line="7" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="499" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="483" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -263,7 +262,7 @@
         <text>automated_valuation.</text>
       </register>
       <register name="/" type="4">
-        <text>run_all</text>
+        <text>Discount for lack</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuYXV0b21hdGVkX3ZhbHVhdGlvbiBpbXBvcnQgQXV0b21hdGVkVmFsdWF0aW9uU2VydmljZQo=</text>
@@ -303,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run_all</last-search>
+      <last-search>Discount for lack</last-search>
       <last-offset />
-      <last-pattern>run_all</last-pattern>
+      <last-pattern>Discount for lack</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>equity_adjust</entry>
         <entry>Error</entry>
         <entry>health</entry>
         <entry>primary_allocation_totals</entry>
@@ -333,6 +331,7 @@
         <entry>scenario_company_value</entry>
         <entry>\.scenario_company_v</entry>
         <entry>run_all</entry>
+        <entry>Discount for lack</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
