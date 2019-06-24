@@ -70,7 +70,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="47" column="73" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" timestamp="1561399002800" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" timestamp="1561401810708">
+        <mark key="'" line="95" column="81" />
+        <mark key="[" line="288" column="46" />
+        <mark key="]" line="289" column="56" />
+        <mark key="." line="289" column="56" />
+        <mark key="^" line="289" column="56" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/.circleci/config.yml" timestamp="1561159499904">
         <mark key="'" line="126" column="6" />
         <mark key="[" line="43" column="34" />
@@ -144,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="428" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="85" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="59" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -244,61 +249,62 @@
       <jump line="325" column="55" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="326" column="99" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="335" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="95" column="81" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mock_automated_valuation.run_all_allocations.</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>mock_automated_valuation.run_all_allocations.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>backsolve</text>
+        <text>Approach</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuYXV0b21hdGVkX3ZhbHVhdGlvbiBpbXBvcnQgQXV0b21hdGVkVmFsdWF0aW9uU2VydmljZQo=</text>
+      <register name="0" type="4">
+        <text>valuation.get_scenarios()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2F1dG9tYXRlZF92YWx1YXRpb24gPSBtb2NrZXIuTWFnaWNNb2NrKHJ1bl9hbGxfYWxsb2NhdGlvbnM9bW9ja19ydW5fYWxsX2FsbG9jYXRpb25zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YgoKICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBscnVfY2FjaGUobWF4c2l6ZT1Ob25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBBc3N1bWVzIHRoYXQgdGhlcmUgaXMgb25seSBldmVyIG9uZSBETE9NIHZhbHVlLCBldmVuIHdpdGggbXVsdGlwbGUgc2NlbmFyaW9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZm9yIGluZGV4LCB0b3RhbCBpbiBlbnVtZXJhdGUoW2Vhcmx5X3RvdGFsLCBsYXRlX3RvdGFsXSldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzX2Rsb20gPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NlbmFyaW8uYWxsb2NhdGlvbi50b3RhbHMgaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGxvbSA9IHZhbHVhdGlvbi5nZXRfc2NlbmFyaW9zKClbMF0uZGxvbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHNjZW5hcmlvIGluIHNlbGYuX3NjZW5hcmlvcwo=</text>
+        <text encoding="base64">ICAgICAgICAjIEFzc3VtZXMgdGhhdCB0aGVyZSBpcyBvbmx5IGV2ZXIgb25lIERMT00gdmFsdWUsIGV2ZW4gd2l0aCBtdWx0aXBsZSBzY2VuYXJpb3MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICoqc2VsZi5nZXRfc2NlbmFyaW9fY29udGV4dChzZWxmLmxhdGVfZXhpdCkK</text>
+        <text encoding="base64">ICAgICAgICBkbG9tID0gdmFsdWF0aW9uLmdldF9zY2VuYXJpb3MoKVswXS5kbG9tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2F1dG9tYXRlZF92YWx1YXRpb24gPSBtb2NrZXIuTWFnaWNNb2NrKHJ1bl9hbGxfYWxsb2NhdGlvbnM9bW9ja19ydW5fYWxsX2FsbG9jYXRpb25zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
       </register>
     </registers>
     <search>
-      <last-search>backsolve</last-search>
+      <last-search>Approach</last-search>
       <last-offset />
-      <last-pattern>backsolve</last-pattern>
+      <last-pattern>Approach</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -306,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>health</entry>
         <entry>primary_allocation_totals</entry>
         <entry>backsolve_allocation</entry>
         <entry>uses_mvic</entry>
@@ -326,6 +331,7 @@
         <entry>run_all</entry>
         <entry>Discount for lack</entry>
         <entry>backsolve</entry>
+        <entry>Approach</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
