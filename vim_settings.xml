@@ -7,8 +7,8 @@
         <mark key="[" line="43" column="29" />
         <mark key="]" line="43" column="60" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1561065562255">
-        <mark key="'" line="425" column="8" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1561403308268">
+        <mark key="'" line="264" column="22" />
       </file>
       <file name="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" timestamp="1561159949597">
         <mark key="'" line="40" column="5" />
@@ -150,22 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="85" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="59" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="90" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="101" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="48" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" />
-      <jump line="414" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="417" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
-      <jump line="348" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
-      <jump line="89" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
-      <jump line="318" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
-      <jump line="322" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
-      <jump line="323" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
-      <jump line="339" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="74" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="83" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="88" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
@@ -250,6 +234,22 @@
       <jump line="326" column="99" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="335" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="95" column="81" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="258" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="261" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="262" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="267" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="268" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="269" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="278" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="604" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="127" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="235" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="251" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="252" column="75" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="254" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="264" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,7 +262,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>Approach</text>
+        <text>fair_market_value</text>
       </register>
       <register name="0" type="4">
         <text>valuation.get_scenarios()</text>
@@ -302,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Approach</last-search>
+      <last-search>fair_market_value</last-search>
       <last-offset />
-      <last-pattern>Approach</last-pattern>
+      <last-pattern>fair_market_value</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -312,8 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>primary_allocation_totals</entry>
-        <entry>backsolve_allocation</entry>
         <entry>uses_mvic</entry>
         <entry>value</entry>
         <entry>comp_data</entry>
@@ -332,6 +330,8 @@
         <entry>Discount for lack</entry>
         <entry>backsolve</entry>
         <entry>Approach</entry>
+        <entry>dlom</entry>
+        <entry>fair_market_value</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
