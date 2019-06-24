@@ -87,10 +87,6 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1561344799866">
         <mark key="'" line="688" column="35" />
-        <mark key="[" line="753" column="10" />
-        <mark key="]" line="753" column="13" />
-        <mark key="." line="753" column="13" />
-        <mark key="^" line="753" column="13" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/invested_capital_type.py" timestamp="1561341187740" />
       <file name="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" timestamp="1561159943225">
@@ -99,6 +95,13 @@
         <mark key="]" line="11" column="80" />
         <mark key="^" line="11" column="80" />
         <mark key="." line="11" column="80" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1561349047182">
+        <mark key="'" line="7" column="50" />
+        <mark key="[" line="119" column="46" />
+        <mark key="]" line="119" column="64" />
+        <mark key="." line="119" column="64" />
+        <mark key="^" line="119" column="64" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1560984514232">
         <mark key="'" line="115" column="33" />
@@ -148,14 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1086" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
-      <jump line="1216" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
-      <jump line="1099" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" />
-      <jump line="1101" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
-      <jump line="426" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
-      <jump line="686" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
-      <jump line="60" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="49" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="82" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="113" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
@@ -248,22 +243,30 @@
       <jump line="751" column="42" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
       <jump line="657" column="58" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
       <jump line="688" column="35" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="118" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="233" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="115" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="116" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="119" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="234" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
+      <jump line="7" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>automated_valuation.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>automated_valuation.</text>
       </register>
       <register name="/" type="4">
-        <text>\.scenario_company_v</text>
+        <text>run_all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0R2VuZXJhdG9yKAogICAgICAgICAgICAgICAgc2NlbmFyaW9fb2JqPXNjZW5hcmlvLAogICAgICAgICAgICAgICAgdG9wX2xldmVsX2tleT1oeWJyaWRfa2V5LAogICAgICAgICAgICApIGZvciBoeWJyaWRfa2V5LCBzY2VuYXJpbyBpbiB6aXAoSFlCUklEX1NDRU5BUklPX0tFWVMsIGh5YnJpZF9zY2VuYXJpb3MpCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuYXV0b21hdGVkX3ZhbHVhdGlvbiBpbXBvcnQgQXV0b21hdGVkVmFsdWF0aW9uU2VydmljZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -300,9 +303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.scenario_company_v</last-search>
+      <last-search>run_all</last-search>
       <last-offset />
-      <last-pattern>\.scenario_company_v</last-pattern>
+      <last-pattern>run_all</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -310,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scenarios</entry>
         <entry>equity_adjust</entry>
         <entry>Error</entry>
         <entry>health</entry>
@@ -330,6 +332,7 @@
         <entry>yarn</entry>
         <entry>scenario_company_value</entry>
         <entry>\.scenario_company_v</entry>
+        <entry>run_all</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
