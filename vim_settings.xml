@@ -27,6 +27,13 @@
         <mark key="^" line="12" column="96" />
         <mark key="." line="12" column="96" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/base/test_valuation_strategy_with_steps.py" timestamp="1561396430787">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="63" column="49" />
+        <mark key="." line="63" column="49" />
+        <mark key="^" line="63" column="49" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561063530649">
         <mark key="'" line="100" column="15" />
         <mark key="[" line="57" column="97" />
@@ -103,7 +110,7 @@
         <mark key="^" line="7" column="64" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1561394948583">
-        <mark key="'" line="115" column="33" />
+        <mark key="'" line="116" column="33" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1561073889852">
         <mark key="'" line="471" column="40" />
@@ -113,8 +120,8 @@
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1560978999084">
-        <mark key="'" line="402" column="25" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1561396843420">
+        <mark key="'" line="335" column="4" />
         <mark key="[" line="369" column="24" />
         <mark key="]" line="369" column="33" />
         <mark key="." line="369" column="33" />
@@ -150,12 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="105" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="286" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="300" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="303" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="428" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="85" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -250,19 +251,25 @@
       <jump line="7" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
       <jump line="499" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
       <jump line="483" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
+      <jump line="62" column="25" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/automation/strategies/base/test_valuation_strategy_with_steps.py" />
+      <jump line="28" column="36" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="318" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="325" column="55" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="326" column="99" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
+      <jump line="335" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>automated_valuation.</text>
+        <text>mock_automated_valuation.run_all_allocations.</text>
       </register>
       <register name="-" type="4">
-        <text>automated_valuation.</text>
+        <text>mock_automated_valuation.run_all_allocations.</text>
       </register>
       <register name="/" type="4">
-        <text>Discount for lack</text>
+        <text>backsolve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuYXV0b21hdGVkX3ZhbHVhdGlvbiBpbXBvcnQgQXV0b21hdGVkVmFsdWF0aW9uU2VydmljZQo=</text>
@@ -270,41 +277,41 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX2F1dG9tYXRlZF92YWx1YXRpb24gPSBtb2NrZXIuTWFnaWNNb2NrKHJ1bl9hbGxfYWxsb2NhdGlvbnM9bW9ja19ydW5fYWxsX2FsbG9jYXRpb25zKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">YgoKICAgICAgICA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIEBscnVfY2FjaGUobWF4c2l6ZT1Ob25lKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZm9yIGluZGV4LCB0b3RhbCBpbiBlbnVtZXJhdGUoW2Vhcmx5X3RvdGFsLCBsYXRlX3RvdGFsXSldCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2NlbmFyaW8uYWxsb2NhdGlvbi50b3RhbHMgaXMgbm90IE5vbmUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIHNjZW5hcmlvIGluIHNlbGYuX3NjZW5hcmlvcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICoqc2VsZi5nZXRfc2NlbmFyaW9fY29udGV4dChzZWxmLmxhdGVfZXhpdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICoqc2VsZi5nZXRfc2NlbmFyaW9fY29udGV4dChzZWxmLmxhdGVfZXhpdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlY2F1c2UgaXQgaXMgYWxsIGRlcGVuZGVudCBvbiBzY2VuYXJpby9iYWNrc29sdmUvYWxsb2NhdGlvbiBldGMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/)/'),/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Discount for lack</last-search>
+      <last-search>backsolve</last-search>
       <last-offset />
-      <last-pattern>Discount for lack</last-pattern>
+      <last-pattern>backsolve</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Error</entry>
         <entry>health</entry>
         <entry>primary_allocation_totals</entry>
         <entry>backsolve_allocation</entry>
@@ -332,6 +338,7 @@
         <entry>\.scenario_company_v</entry>
         <entry>run_all</entry>
         <entry>Discount for lack</entry>
+        <entry>backsolve</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
