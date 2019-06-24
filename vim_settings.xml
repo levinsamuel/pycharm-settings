@@ -27,6 +27,13 @@
         <mark key="^" line="12" column="96" />
         <mark key="." line="12" column="96" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561063530649">
+        <mark key="'" line="100" column="15" />
+        <mark key="[" line="57" column="97" />
+        <mark key="]" line="57" column="97" />
+        <mark key="^" line="57" column="95" />
+        <mark key="." line="57" column="97" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561065647100">
         <mark key="'" line="88" column="40" />
       </file>
@@ -78,8 +85,12 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1561066050487">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1561342091050">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1561344799866">
         <mark key="'" line="688" column="35" />
+        <mark key="[" line="753" column="10" />
+        <mark key="]" line="753" column="13" />
+        <mark key="." line="753" column="13" />
+        <mark key="^" line="753" column="13" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/invested_capital_type.py" timestamp="1561341187740" />
       <file name="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" timestamp="1561159943225">
@@ -243,10 +254,10 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>hybrid_key</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>hybrid_key</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>\.scenario_company_v</text>
