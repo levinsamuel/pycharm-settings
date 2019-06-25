@@ -114,6 +114,9 @@
         <mark key="^" line="40" column="33" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1561498752458">
+        <mark key="'" line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1561073889852">
         <mark key="'" line="471" column="40" />
       </file>
@@ -149,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="404" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="411" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="415" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="418" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -249,6 +250,8 @@
       <jump line="113" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="7" column="50" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
+      <jump line="124" column="34" filename="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -261,7 +264,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>gpc_comp</text>
+        <text>VAL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -301,9 +304,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gpc_comp</last-search>
+      <last-search>VAL</last-search>
       <last-offset />
-      <last-pattern>gpc_comp</last-pattern>
+      <last-pattern>VAL</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comp_data</entry>
         <entry>DLOM appro</entry>
         <entry>percentage</entry>
         <entry>primary_percentage</entry>
@@ -331,6 +333,7 @@
         <entry>fair_market_value</entry>
         <entry>backsolve_volatility_ratios</entry>
         <entry>gpc_comp</entry>
+        <entry>VAL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
