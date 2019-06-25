@@ -85,6 +85,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" timestamp="1561505194118">
+        <mark key="'" line="470" column="6" />
+      </file>
       <file name="/Dummy.txt" timestamp="1561496259644">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="415" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="418" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="421" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -253,6 +255,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
       <jump line="124" column="34" filename="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" />
       <jump line="125" column="0" filename="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" />
+      <jump line="470" column="6" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -265,7 +268,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>VAL</text>
+        <text>ModelBase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -305,9 +308,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VAL</last-search>
+      <last-search>ModelBase</last-search>
       <last-offset />
-      <last-pattern>VAL</last-pattern>
+      <last-pattern>ModelBase</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DLOM appro</entry>
         <entry>percentage</entry>
         <entry>primary_percentage</entry>
         <entry>backsolve_percentage</entry>
@@ -335,6 +337,7 @@
         <entry>backsolve_volatility_ratios</entry>
         <entry>gpc_comp</entry>
         <entry>VAL</entry>
+        <entry>ModelBase</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
