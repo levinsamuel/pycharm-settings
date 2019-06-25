@@ -44,8 +44,8 @@
         <mark key="^" line="57" column="95" />
         <mark key="." line="57" column="97" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561065647100">
-        <mark key="'" line="88" column="40" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561484548947">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1561342826973">
         <mark key="[" line="5" column="27" />
@@ -88,8 +88,12 @@
       <file name="/Dummy.txt" timestamp="1561332877144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1561066050487">
-        <mark key="'" line="59" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/hybrid_public_comps_context_generator.py" timestamp="1561484613425">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="50" column="51" />
+        <mark key="^" line="50" column="51" />
+        <mark key="." line="50" column="51" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1561344799866">
         <mark key="'" line="688" column="35" />
@@ -154,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="88" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
       <jump line="393" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
       <jump line="301" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
@@ -254,6 +257,7 @@
       <jump line="257" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="264" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="96" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -266,7 +270,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fair_market_value</text>
+        <text>backsolve_volatility_ratios</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -306,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fair_market_value</last-search>
+      <last-search>backsolve_volatility_ratios</last-search>
       <last-offset />
-      <last-pattern>fair_market_value</last-pattern>
+      <last-pattern>backsolve_volatility_ratios</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uses_mvic</entry>
         <entry>value</entry>
         <entry>comp_data</entry>
         <entry>DLOM appro</entry>
@@ -336,6 +339,7 @@
         <entry>Approach</entry>
         <entry>dlom</entry>
         <entry>fair_market_value</entry>
+        <entry>backsolve_volatility_ratios</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
