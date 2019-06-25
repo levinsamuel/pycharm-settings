@@ -44,8 +44,8 @@
         <mark key="^" line="57" column="95" />
         <mark key="." line="57" column="97" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561484548947">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561485463560">
+        <mark key="'" line="113" column="8" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1561342826973">
         <mark key="[" line="5" column="27" />
@@ -158,10 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
-      <jump line="393" column="47" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
-      <jump line="301" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
-      <jump line="302" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
       <jump line="300" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/health_checks_mixin.py" />
       <jump line="520" column="54" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="401" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -258,6 +254,10 @@
       <jump line="264" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="96" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="103" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="110" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
+      <jump line="113" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -270,7 +270,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>backsolve_volatility_ratios</text>
+        <text>gpc_comp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -310,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>backsolve_volatility_ratios</last-search>
+      <last-search>gpc_comp</last-search>
       <last-offset />
-      <last-pattern>backsolve_volatility_ratios</last-pattern>
+      <last-pattern>gpc_comp</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -320,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
         <entry>comp_data</entry>
         <entry>DLOM appro</entry>
         <entry>percentage</entry>
@@ -340,6 +339,7 @@
         <entry>dlom</entry>
         <entry>fair_market_value</entry>
         <entry>backsolve_volatility_ratios</entry>
+        <entry>gpc_comp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
