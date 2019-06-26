@@ -132,8 +132,8 @@
         <mark key="." line="361" column="47" />
         <mark key="^" line="361" column="47" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1561342946854">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" timestamp="1561564450571">
+        <mark key="'" line="174" column="29" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0083_create_hybrid_scenario_relations.py" timestamp="1561491867022" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1560983019450">
@@ -155,22 +155,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1561393656087">
         <mark key="'" line="483" column="21" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" timestamp="1561564459710">
+        <mark key="'" line="263" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="51" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="425" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="438" column="64" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="442" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="284" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="290" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="292" column="66" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="381" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="377" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="391" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="396" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="255" column="67" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
-      <jump line="139" column="57" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
-      <jump line="37" column="6" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="43" column="34" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
       <jump line="441" column="35" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
       <jump line="606" column="24" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
@@ -257,6 +246,20 @@
       <jump line="55" column="43" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
       <jump line="4" column="33" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
+      <jump line="11" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="67" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="105" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="108" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="109" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="153" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="154" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="155" column="65" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="156" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="174" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
+      <jump line="267" column="76" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
+      <jump line="47" column="29" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
+      <jump line="49" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
+      <jump line="263" column="14" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -269,7 +272,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>ModelBase</text>
+        <text>hybrid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -309,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ModelBase</last-search>
+      <last-search>hybrid</last-search>
       <last-offset />
-      <last-pattern>ModelBase</last-pattern>
+      <last-pattern>hybrid</last-pattern>
       <last-replace>'),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -319,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>percentage</entry>
         <entry>primary_percentage</entry>
         <entry>backsolve_percentage</entry>
         <entry>equity_adjustment</entry>
@@ -339,6 +341,7 @@
         <entry>gpc_comp</entry>
         <entry>VAL</entry>
         <entry>ModelBase</entry>
+        <entry>hybrid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/report_type/get_report_type/</entry>
