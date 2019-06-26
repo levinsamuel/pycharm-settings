@@ -16,7 +16,7 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
-      <file name="/a.dummy" timestamp="1561573913853">
+      <file name="/a.dummy" timestamp="1561582050978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/relationships/scenario_self_relation.py" timestamp="1560800633627">
@@ -33,12 +33,12 @@
         <mark key="." line="63" column="49" />
         <mark key="^" line="63" column="49" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561573933390">
-        <mark key="'" line="100" column="15" />
-        <mark key="[" line="71" column="22" />
-        <mark key="]" line="71" column="36" />
-        <mark key="^" line="71" column="36" />
-        <mark key="." line="71" column="36" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561581134782">
+        <mark key="'" line="111" column="16" />
+        <mark key="[" line="114" column="34" />
+        <mark key="]" line="114" column="42" />
+        <mark key="^" line="114" column="42" />
+        <mark key="." line="114" column="42" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1561506312031">
         <mark key="'" line="0" column="0" />
@@ -121,6 +121,12 @@
         <mark key="^" line="119" column="57" />
         <mark key="." line="119" column="57" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1561581670428">
+        <mark key="[" line="126" column="16" />
+        <mark key="]" line="128" column="48" />
+        <mark key="." line="128" column="48" />
+        <mark key="^" line="128" column="48" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" timestamp="1561574502122">
         <mark key="'" line="417" column="32" />
       </file>
@@ -156,33 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="640" column="24" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="643" column="14" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="240" column="24" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="243" column="14" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="246" column="24" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="250" column="22" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="254" column="14" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="37" column="33" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="242" column="35" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="247" column="19" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="251" column="36" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="253" column="23" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="270" column="16" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="271" column="19" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="327" column="12" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="339" column="12" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="350" column="12" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="405" column="12" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="473" column="20" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="477" column="17" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="619" column="12" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="620" column="20" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="642" column="35" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="126" column="6" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" />
-      <jump line="11" column="15" filename="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" />
       <jump line="3" column="18" filename="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" />
       <jump line="4" column="4" filename="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" />
       <jump line="41" column="27" filename="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" />
@@ -256,19 +235,46 @@
       <jump line="551" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="283" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
       <jump line="417" column="32" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/templates.py" />
+      <jump line="69" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="72" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="73" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="74" column="18" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="91" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="93" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="94" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="100" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="103" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="105" column="66" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="112" column="79" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="49" column="99" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="51" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="52" column="74" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="57" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="67" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="102" column="65" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="99" column="66" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="114" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="111" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHdoeT8=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IHdoeT8=</text>
       </register>
       <register name="/" type="4">
-        <text>valuation_summary</text>
+        <text>le_probability</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -304,29 +310,20 @@
         <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/)/'),/g</text>
+        <text>%s/le_probability/late_exit_probability/</text>
       </register>
     </registers>
     <search>
-      <last-search>valuation_summary</last-search>
+      <last-search>le_probability</last-search>
       <last-offset />
-      <last-pattern>valuation_summary</last-pattern>
-      <last-replace>'),</last-replace>
-      <last-substitute>)</last-substitute>
+      <last-pattern>le_probability</last-pattern>
+      <last-replace>late_exit_probability</last-replace>
+      <last-substitute>le_probability</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>backsolve_percentage</entry>
-        <entry>equity_adjustment</entry>
-        <entry>probability</entry>
-        <entry>node</entry>
-        <entry>python-3.5</entry>
-        <entry>yarn</entry>
-        <entry>scenario_company_value</entry>
-        <entry>\.scenario_company_v</entry>
-        <entry>run_all</entry>
         <entry>Discount for lack</entry>
         <entry>backsolve</entry>
         <entry>Approach</entry>
@@ -338,16 +335,17 @@
         <entry>ModelBase</entry>
         <entry>hybrid</entry>
         <entry>valuation_summary</entry>
+        <entry>le_</entry>
+        <entry>le_context</entry>
+        <entry>le_scenario</entry>
+        <entry>ee_context</entry>
+        <entry>ee_scenario</entry>
+        <entry>ee_totals</entry>
+        <entry>le_totals</entry>
+        <entry>ee_probability</entry>
+        <entry>le_probability</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/report_type/get_report_type/</entry>
-        <entry>%s/is_8/value.is_8/</entry>
-        <entry>%s/()//</entry>
-        <entry>%s/get_sections()/template</entry>
-        <entry>%s/PdfGenerator./constants.REPORT_/</entry>
-        <entry>69,78s/self.//</entry>
-        <entry>69,78s/return /return templates.</entry>
-        <entry>%s/.is_LLC/['is_LLC']/</entry>
         <entry>%s/.is_option_grant/['is_option_grant']</entry>
         <entry>%s/.is_PIU_and_option/['is_PIU_and_option']/</entry>
         <entry>%s/share/{{ report_type.share_name }}/</entry>
@@ -360,6 +358,14 @@
         <entry>%s/\.py//g</entry>
         <entry>%s/\)/'),/g</entry>
         <entry>%s/)/'),/g</entry>
+        <entry>%s/le_context/late_exit_context/</entry>
+        <entry>%s/le_scenario/late_exit_scenario</entry>
+        <entry>%s/ee_context/early_exit_context/</entry>
+        <entry>%s/ee_scenario/early_exit_scenario/</entry>
+        <entry>%s/ee_totals/early_exit_totals/</entry>
+        <entry>%s/le_totals/late_exit_totals/</entry>
+        <entry>%s/ee_probability/early_exit_probability/</entry>
+        <entry>%s/le_probability/late_exit_probability/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
