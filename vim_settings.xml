@@ -137,6 +137,11 @@
         <mark key="." line="361" column="47" />
         <mark key="^" line="361" column="47" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1561582802592">
+        <mark key="'" line="230" column="8" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0083_create_hybrid_scenario_relations.py" timestamp="1561491867022" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1560983019450">
         <mark key="'" line="94" column="0" />
@@ -162,16 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" />
-      <jump line="4" column="4" filename="$USER_HOME$/git/carta-web/config/docker/nonprod-new.dockerfile" />
-      <jump line="41" column="27" filename="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" />
-      <jump line="40" column="5" filename="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" />
-      <jump line="625" column="6" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
-      <jump line="652" column="45" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
-      <jump line="716" column="45" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
-      <jump line="751" column="42" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
-      <jump line="657" column="58" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
-      <jump line="688" column="35" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
       <jump line="118" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
       <jump line="233" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" />
@@ -262,6 +257,16 @@
       <jump line="114" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="101" column="21" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="111" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="42" column="27" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="49" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="59" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="64" column="33" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="66" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="151" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="227" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="228" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="229" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="230" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -274,7 +279,7 @@
         <text encoding="base64">IHdoeT8=</text>
       </register>
       <register name="/" type="4">
-        <text>le_probability</text>
+        <text>backsolve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuZ3JhcGhlbmUubXV0YXRpb25zLnVwZGF0ZV9zY2VuYXJpbyBpbXBvcnQgVXBkYXRlU2NlbmFyaW8K</text>
@@ -314,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>le_probability</last-search>
+      <last-search>backsolve</last-search>
       <last-offset />
-      <last-pattern>le_probability</last-pattern>
+      <last-pattern>backsolve</last-pattern>
       <last-replace>late_exit_probability</last-replace>
       <last-substitute>le_probability</last-substitute>
       <last-dir>1</last-dir>
@@ -325,7 +330,6 @@
     <history>
       <history-search>
         <entry>Discount for lack</entry>
-        <entry>backsolve</entry>
         <entry>Approach</entry>
         <entry>dlom</entry>
         <entry>fair_market_value</entry>
@@ -344,6 +348,7 @@
         <entry>le_totals</entry>
         <entry>ee_probability</entry>
         <entry>le_probability</entry>
+        <entry>backsolve</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.is_option_grant/['is_option_grant']</entry>
