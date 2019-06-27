@@ -33,6 +33,12 @@
         <mark key="." line="63" column="49" />
         <mark key="^" line="63" column="49" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1561669273946">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="4" column="54" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561656216205">
         <mark key="'" line="43" column="22" />
         <mark key="[" line="59" column="56" />
@@ -290,49 +296,49 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
         <text>backsolve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHlicmlkU2NlbmFyaW9Db250ZXh0R2VuZXJhdG9yKAogICAgICAgICAgICAgICAgc2NlbmFyaW9fb2JqPWVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfc2NlbmFyaW8sCiAgICAgICAgICAgICAgICB0b3BfbGV2ZWxfa2V5PUhZQlJJRF9TQ0VOQVJJT19DT05URVhUX0xBQkVMX01BUFtIWUJSSURfU0NFTkFSSU9fTEFCRUxfRUFSTFlfRVhJVF9CQUNLU09MVkVfREFURV0sCiAgICAgICAgICAgICAgICBsYWJlbD1IWUJSSURfU0NFTkFSSU9fTEFCRUxfRUFSTFlfRVhJVF9CQUNLU09MVkVfREFURSwKICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBWYWx1YXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBWYWx1YXRpb24K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMgaW1wb3J0IGdlCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>for hybrid_key, scenario in (
                 (val, getattr(hybrid_scenarios, key))
                 for key, val in HYBRID_SCENARIO_CONTEXT_LABEL_MAP.items()
             )</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2NvbnRleHQgPSAK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC51cGRhdGUoc2VsZi5fZ2V0X2JhY2tzb2x2ZV92b2xhdGlsaXR5X3JlZ3Jlc3Npb25faW5mbyhiYWNrc29sdmVfYWxsb2NhdGlvbikpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0LnVwZGF0ZShzZWxmLl9nZXRfYmFja3NvbHZlX3ZvbGF0aWxpdHlfcmVncmVzc2lvbl9pbmZvKGJhY2tzb2x2ZV9hbGxvY2F0aW9uKSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICdiYWNrc29sdmVfdm9sYXRpbGl0eV9xdWFydGlsZXMnLAogICAgJ2JhY2tzb2x2ZV92b2xhdGlsaXR5X3JhdGlvcycsCiAgICAnYmFja3NvbHZlX3ZvbGF0aWxpdHlfcmVncmVzc2lvbicsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICdlcXVpdHlfYWRqdXN0bWVudF9jb21wX2RhdGEnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/le_probability/late_exit_probability/</text>
