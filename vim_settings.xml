@@ -9,11 +9,12 @@
         <mark key="." line="71" column="81" />
         <mark key="^" line="71" column="81" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1561768799504">
-        <mark key="[" line="272" column="90" />
-        <mark key="]" line="272" column="90" />
-        <mark key="^" line="272" column="91" />
-        <mark key="." line="272" column="90" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1561770036592">
+        <mark key="'" line="282" column="58" />
+        <mark key="[" line="178" column="34" />
+        <mark key="]" line="180" column="92" />
+        <mark key="^" line="180" column="92" />
+        <mark key="." line="180" column="92" />
       </file>
       <file name="$USER_HOME$/git/carta-web/config/docker/base.dockerfile" timestamp="1561159949597">
         <mark key="'" line="40" column="5" />
@@ -23,6 +24,12 @@
         <mark key="." line="41" column="78" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/exhibit_opm_app_3.html" timestamp="1561674152166" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1561769562754">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+      </file>
       <file name="/a.dummy" timestamp="1561582089374">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,10 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="33" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" />
-      <jump line="11" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
-      <jump line="67" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="105" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="108" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
       <jump line="109" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/context.py" />
@@ -290,16 +293,20 @@
       <jump line="47" column="52" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="43" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="299" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
+      <jump line="184" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="216" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="222" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="279" column="58" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>scenarios</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>scenarios</text>
       </register>
       <register name="/" type="4">
         <text>backsolve</text>
