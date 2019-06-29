@@ -24,11 +24,11 @@
         <mark key="." line="41" column="78" />
       </file>
       <file name="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/exhibit_opm_app_3.html" timestamp="1561674152166" />
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1561769562754">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="35" />
-        <mark key="." line="33" column="35" />
-        <mark key="^" line="33" column="35" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" timestamp="1561771553013">
+        <mark key="[" line="66" column="60" />
+        <mark key="]" line="66" column="89" />
+        <mark key="." line="38" column="40" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="/a.dummy" timestamp="1561582089374">
         <mark key="[" line="0" column="0" />
@@ -140,6 +140,12 @@
         <mark key="]" line="119" column="57" />
         <mark key="^" line="119" column="57" />
         <mark key="." line="119" column="57" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/ordered_scenarios/test_ordered_scenarios.py" timestamp="1561771760501">
+        <mark key="[" line="90" column="51" />
+        <mark key="]" line="90" column="57" />
+        <mark key="^" line="90" column="57" />
+        <mark key="." line="90" column="57" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/backsolve.py" timestamp="1561757402243">
         <mark key="[" line="193" column="28" />
@@ -303,48 +309,48 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>scenarios</text>
+        <text>i False</text>
       </register>
       <register name="-" type="4">
-        <text>scenarios</text>
+        <text>i False</text>
       </register>
       <register name="/" type="4">
         <text>backsolve</text>
       </register>
       <register name="0" type="4">
-        <text>get_early_exit_scenario_if_exists</text>
+        <text>get_backsolve_date_alternative</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIAoKICAgICMgY3VycmVudGx5LCBvbmx5IGNyaXRlcmlhIGlzIHRoYXQgaWYgdGhlcmUgaXMgYW4gZWFybHkgZXhpdCBzY2VuYXJpbyBhc3NvY2lhdGVkCiAgICAjIHdpdGggdGhpcyBvbmUsIGFzc3VtZSB0aGlzIGlzIGEgbGF0ZS1leGl0IHNjZW5hcmlvIGFuZCBydW4gYSBoeWJyaWQgYmFja3NvbHZlCiAgICAjIGlmIG5vdCwgcnVuIGEgc3RhbmRhcmQgYmFja3NvbHZlLiBPdGhlciBraW5kcyBvZiBiYWNrc29sdmVzIHdpbGwgaGF2ZSB0byBtb2RpZnkKICAgICMgdGhpcyBsb2dpYwog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJycsICcnLCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2JhY2tzb2x2ZSBpZDogJXMsIHRlbXBsYXRlIHR5cGUgaXMgaHlicmlkLCBwZXJmb3JtaW5nIGh5YnJpZCBiYWNrc29sdmUnLCBiYWNrc29sdmUuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJlZF9oeWJyaWRfc2NlbmFyaW9zLmxhYmVscyA9PQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIAoKICAgICMgY3VycmVudGx5LCBvbmx5IGNyaXRlcmlhIGlzIHRoYXQgaWYgdGhlcmUgaXMgYW4gZWFybHkgZXhpdCBzY2VuYXJpbyBhc3NvY2lhdGVkCiAgICAjIHdpdGggdGhpcyBvbmUsIGFzc3VtZSB0aGlzIGlzIGEgbGF0ZS1leGl0IHNjZW5hcmlvIGFuZCBydW4gYSBoeWJyaWQgYmFja3NvbHZlCiAgICAjIGlmIG5vdCwgcnVuIGEgc3RhbmRhcmQgYmFja3NvbHZlLiBPdGhlciBraW5kcyBvZiBiYWNrc29sdmVzIHdpbGwgaGF2ZSB0byBtb2RpZnkKICAgICMgdGhpcyBsb2dpYwog</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2JhY2tzb2x2ZSBpZDogJXMsIHRlbXBsYXRlIHR5cGUgaXMgaHlicmlkLCBwZXJmb3JtaW5nIGh5YnJpZCBiYWNrc29sdmUnLCBiYWNrc29sdmUuaWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICBkZWYgZ2V0X2Vhcmx5X2V4aXRfc2NlbmFyaW8oc2VsZik6CiAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>= None
         if early_exit_scenario is not None:
             e</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lOgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lOgogICAgICAgIGxvZy5kZWJ1ZygnYmFja3NvbHZlIGlkOiAlcywgZWFybHkgZXhpdCBzY2VuYXJpbyBpcyBOb25lLCBwZXJmb3JtaW5nIHJlZ3VsYXIgYmFja3NvbHZlJywgYmFja3NvbHZlLmlkKQogICAgICAgIGJhY2tzb2x2ZV9leGVjID0gU2hhcmVDbGFzc0JhY2tzb2x2ZShvcG09b3BtLCBiYWNrc29sdmVfc2hhcmVfY2xhc3M9YmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVhcmx5X2V4aXRfc2NlbmFyaW8gPSBiYWNrc29sdmUuZ2V0X2Vhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWx0ZXJuYXRlX3NjZW5hcmlvKCkKICAgIAogICAgZWFybHlfZXhpdF9hbGxvY2F0aW9uID0gTm9uZQogICAgaWYgZWFybHlfZXhpdF9zY2VuYXJpbyBpcyBub3QgTm9uZToKICAgICAgICBlYXJseV9leGl0X2FsbG9jYXRpb24gPSBlYXJseV9leGl0X3NjZW5hcmlvLmFsbG9jYXRpb24K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2lzIGJhY2tzb2x2ZTogJXMsIHRvdGFsczogJXMnLCBpc19iYWNrc29sdmUsIHRvdGFscykK</text>
+        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lOgogICAgICAgIGxvZy5kZWJ1ZygnYmFja3NvbHZlIGlkOiAlcywgZWFybHkgZXhpdCBzY2VuYXJpbyBpcyBOb25lLCBwZXJmb3JtaW5nIHJlZ3VsYXIgYmFja3NvbHZlJywgYmFja3NvbHZlLmlkKQogICAgICAgIGJhY2tzb2x2ZV9leGVjID0gU2hhcmVDbGFzc0JhY2tzb2x2ZShvcG09b3BtLCBiYWNrc29sdmVfc2hhcmVfY2xhc3M9YmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/le_probability/late_exit_probability/</text>
