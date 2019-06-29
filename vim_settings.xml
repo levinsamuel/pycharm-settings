@@ -128,11 +128,11 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenarios.py" timestamp="1561419975007">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenarios.py" timestamp="1561828719859">
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="66" />
+        <mark key="^" line="39" column="66" />
+        <mark key="." line="39" column="66" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/feature_flags/features.py" timestamp="1561504035279">
         <mark key="'" line="125" column="0" />
@@ -200,6 +200,12 @@
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="0" />
         <mark key="." line="302" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1561828695118">
+        <mark key="[" line="102" column="28" />
+        <mark key="]" line="102" column="33" />
+        <mark key="^" line="102" column="33" />
+        <mark key="." line="102" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -309,48 +315,46 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>i False</text>
+        <text>Valuation</text>
       </register>
       <register name="-" type="4">
-        <text>i False</text>
+        <text>Valuation</text>
       </register>
       <register name="/" type="4">
         <text>backsolve</text>
       </register>
-      <register name="0" type="4">
-        <text>get_backsolve_date_alternative</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBWYWx1YXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycsICcnLCkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uIGltcG9ydCBnZXRfdmFsdWF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJlZF9oeWJyaWRfc2NlbmFyaW9zLmxhYmVscyA9PQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5taXNjIGltcG9ydCB1cGRhdGVfaW5zdGFuY2UK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIAoKICAgICMgY3VycmVudGx5LCBvbmx5IGNyaXRlcmlhIGlzIHRoYXQgaWYgdGhlcmUgaXMgYW4gZWFybHkgZXhpdCBzY2VuYXJpbyBhc3NvY2lhdGVkCiAgICAjIHdpdGggdGhpcyBvbmUsIGFzc3VtZSB0aGlzIGlzIGEgbGF0ZS1leGl0IHNjZW5hcmlvIGFuZCBydW4gYSBoeWJyaWQgYmFja3NvbHZlCiAgICAjIGlmIG5vdCwgcnVuIGEgc3RhbmRhcmQgYmFja3NvbHZlLiBPdGhlciBraW5kcyBvZiBiYWNrc29sdmVzIHdpbGwgaGF2ZSB0byBtb2RpZnkKICAgICMgdGhpcyBsb2dpYwog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2JhY2tzb2x2ZSBpZDogJXMsIHRlbXBsYXRlIHR5cGUgaXMgaHlicmlkLCBwZXJmb3JtaW5nIGh5YnJpZCBiYWNrc29sdmUnLCBiYWNrc29sdmUuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBnZXRfdmFsdWF0aW9uKHZhbHVhdGlvbl9waz1pZCkKCiAgICAgICAgdmFsX3NjZW5hcmlvcyA9IHtzdHIocy5pZCk6IHMgZm9yIHMgaW4gdmFsdWF0aW9uLmdldF9zY2VuYXJpb3MoKX0KICAgICAgICBmb3IgdXBkYXRlX3NjIGluIGt3YXJnc1snc2NlbmFyaW9zJ106CiAgICAgICAgICAgIHVwZGF0ZV9pbnN0YW5jZSh2YWxfc2NlbmFyaW9zW3VwZGF0ZV9zY1snaWQnXV0sIHVwZGF0ZV9zYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycsICcnLCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2Vhcmx5X2V4aXRfc2NlbmFyaW8oc2VsZik6CiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJlZF9oeWJyaWRfc2NlbmFyaW9zLmxhYmVscyA9PQo=</text>
       </register>
       <register name="7" type="4">
-        <text>= None
-        if early_exit_scenario is not None:
-            e</text>
+        <text encoding="base64">ICAgIAoKICAgICMgY3VycmVudGx5LCBvbmx5IGNyaXRlcmlhIGlzIHRoYXQgaWYgdGhlcmUgaXMgYW4gZWFybHkgZXhpdCBzY2VuYXJpbyBhc3NvY2lhdGVkCiAgICAjIHdpdGggdGhpcyBvbmUsIGFzc3VtZSB0aGlzIGlzIGEgbGF0ZS1leGl0IHNjZW5hcmlvIGFuZCBydW4gYSBoeWJyaWQgYmFja3NvbHZlCiAgICAjIGlmIG5vdCwgcnVuIGEgc3RhbmRhcmQgYmFja3NvbHZlLiBPdGhlciBraW5kcyBvZiBiYWNrc29sdmVzIHdpbGwgaGF2ZSB0byBtb2RpZnkKICAgICMgdGhpcyBsb2dpYwog</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2JhY2tzb2x2ZSBpZDogJXMsIHRlbXBsYXRlIHR5cGUgaXMgaHlicmlkLCBwZXJmb3JtaW5nIGh5YnJpZCBiYWNrc29sdmUnLCBiYWNrc29sdmUuaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGVhcmx5X2V4aXRfYWxsb2NhdGlvbiBpcyBOb25lOgogICAgICAgIGxvZy5kZWJ1ZygnYmFja3NvbHZlIGlkOiAlcywgZWFybHkgZXhpdCBzY2VuYXJpbyBpcyBOb25lLCBwZXJmb3JtaW5nIHJlZ3VsYXIgYmFja3NvbHZlJywgYmFja3NvbHZlLmlkKQogICAgICAgIGJhY2tzb2x2ZV9leGVjID0gU2hhcmVDbGFzc0JhY2tzb2x2ZShvcG09b3BtLCBiYWNrc29sdmVfc2hhcmVfY2xhc3M9YmFja3NvbHZlX3NoYXJlX2NsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/le_probability/late_exit_probability/</text>
