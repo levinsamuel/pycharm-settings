@@ -62,7 +62,7 @@
         <mark key="]" line="68" column="16" />
         <mark key="." line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1561757265543">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1562087483511">
         <mark key="[" line="275" column="8" />
         <mark key="]" line="275" column="40" />
         <mark key="^" line="5" column="50" />
@@ -79,11 +79,11 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562085638727">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="53" />
-        <mark key="." line="40" column="53" />
-        <mark key="^" line="40" column="53" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562086678223">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1562004319730">
         <mark key="[" line="79" column="57" />
@@ -255,10 +255,10 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>custom_types.ObjectField(lambda: ScenarioType)</text>
+        <text>, ScenarioType</text>
       </register>
       <register name="-" type="4">
-        <text>custom_types.ObjectField(lambda: ScenarioType)</text>
+        <text>, ScenarioType</text>
       </register>
       <register name="/" type="4">
         <text>equity_adjust</text>
