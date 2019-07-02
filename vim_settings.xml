@@ -79,11 +79,11 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562026514885">
-        <mark key="[" line="59" column="46" />
-        <mark key="]" line="60" column="49" />
-        <mark key="." line="60" column="49" />
-        <mark key="^" line="60" column="49" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562085638727">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="53" />
+        <mark key="." line="40" column="53" />
+        <mark key="^" line="40" column="53" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1562004319730">
         <mark key="[" line="79" column="57" />
@@ -255,10 +255,10 @@
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGltcG9ydCBncmFwaGVuZV90eXBlcyBhcyBjdXN0b21fdHlwZXM=</text>
+        <text>custom_types.ObjectField(lambda: ScenarioType)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcG9ydCBncmFwaGVuZV90eXBlcyBhcyBjdXN0b21fdHlwZXM=</text>
+        <text>custom_types.ObjectField(lambda: ScenarioType)</text>
       </register>
       <register name="/" type="4">
         <text>equity_adjust</text>
