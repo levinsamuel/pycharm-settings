@@ -46,6 +46,13 @@
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/gpc_regression/test_gpc_regression.py" timestamp="1562001069548">
         <mark key="^" line="10" column="46" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1561673787508">
+        <mark key="'" line="43" column="22" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="51" column="63" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/public_comps_context_generator.py" timestamp="1561586903652">
         <mark key="[" line="402" column="0" />
         <mark key="]" line="404" column="43" />
@@ -79,11 +86,12 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562086678223">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="59" />
-        <mark key="^" line="6" column="62" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562088815945">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="65" />
+        <mark key="." line="40" column="65" />
+        <mark key="^" line="40" column="65" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1562004319730">
         <mark key="[" line="79" column="57" />
@@ -113,6 +121,13 @@
         <mark key="]" line="70" column="56" />
         <mark key="." line="70" column="56" />
         <mark key="^" line="70" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1562089030477">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1561586923465">
         <mark key="[" line="28" column="19" />
@@ -149,13 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="93" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="94" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="100" column="20" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="103" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
-      <jump line="105" column="66" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="112" column="79" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="49" column="99" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
       <jump line="51" column="35" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
@@ -249,19 +257,26 @@
       <jump line="715" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="718" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="109" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
+      <jump line="40" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" />
+      <jump line="32" column="14" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" />
+      <jump line="70" column="14" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" />
+      <jump line="72" column="26" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" />
+      <jump line="73" column="38" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, ScenarioType</text>
+        <text>ScenarioType</text>
       </register>
       <register name="-" type="4">
-        <text>, ScenarioType</text>
+        <text>ScenarioType</text>
       </register>
       <register name="/" type="4">
-        <text>equity_adjust</text>
+        <text>weight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGdyYXBoZW5lX3R5cGVzIGFzIGN1c3RvbV90eXBlcwo=</text>
@@ -301,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>equity_adjust</last-search>
+      <last-search>weight</last-search>
       <last-offset />
-      <last-pattern>equity_adjust</last-pattern>
+      <last-pattern>weight</last-pattern>
       <last-replace encoding="base64">OiA=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dlom</entry>
         <entry>fair_market_value</entry>
         <entry>backsolve_volatility_ratios</entry>
         <entry>gpc_comp</entry>
@@ -331,6 +345,7 @@
         <entry>backsolve</entry>
         <entry>:</entry>
         <entry>equity_adjust</entry>
+        <entry>weight</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.is_PIU_and_option/['is_PIU_and_option']/</entry>
