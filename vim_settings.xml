@@ -79,11 +79,11 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562021676604">
-        <mark key="[" line="53" column="49" />
-        <mark key="]" line="55" column="78" />
-        <mark key="." line="55" column="78" />
-        <mark key="^" line="55" column="78" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation.py" timestamp="1562026514885">
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
+        <mark key="^" line="60" column="49" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1562004319730">
         <mark key="[" line="79" column="57" />
@@ -254,47 +254,47 @@
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGltcG9ydCBncmFwaGVuZV90eXBlcyBhcyBjdXN0b21fdHlwZXM=</text>
       </register>
       <register name="-" type="4">
-        <text>valuation.get_equity_adjustment_date()</text>
+        <text encoding="base64">IGltcG9ydCBncmFwaGVuZV90eXBlcyBhcyBjdXN0b21fdHlwZXM=</text>
       </register>
       <register name="/" type="4">
         <text>equity_adjust</text>
       </register>
-      <register name="0" type="4">
-        <text>'{&quot;ebitda_growth_rate_ntm&quot;:null,&quot;ebitda_growth_rate_ttm&quot;:null,&quot;ebitda_margin_ntm&quot;:null,&quot;ebitda_margin_ttm&quot;:null,&quot;gross_profit_margin_ttm&quot;:null,&quot;ntm_ebitda&quot;:0.0,&quot;ntm_revenue&quot;:0.0,&quot;revenue_growth_rate_ntm&quot;:null,&quot;revenue_growth_rate_ttm&quot;:null,&quot;ttm_ebitda&quot;:0.0,&quot;ttm_revenue&quot;:0.0}'  # noqa: E501</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGdyYXBoZW5lX3R5cGVzIGFzIGN1c3RvbV90eXBlcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY2VuYXJpb3MgPSBrd2FyZ3MucG9wKCdzY2VuYXJpb3MnLCBOb25lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZWFybHlfZXhpdF9hbGxvY2F0aW9uLnRvdGFsczoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdUaGUgZWFybHktZXhpdCBzY2VuYXJpbyBoYXMgbm90IGJlZW4gYWxsb2NhdGVkLicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBlYXJseV9leGl0X3ZhbF9kYXRlLmdldF92YWx1YXRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZWFybHlfZXhpdF9hbGxvY2F0aW9uLnRvdGFsczoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdUaGUgZWFybHktZXhpdCBzY2VuYXJpbyBoYXMgbm90IGJlZW4gYWxsb2NhdGVkLicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX3NjZW5hcmlvcyA9IFtlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlLCBlYXJseV9leGl0X3ZhbF9kYXRlLCBsYXRlX2V4aXRdCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBlYXJseV9leGl0X3ZhbF9kYXRlLmdldF92YWx1YXRpb24oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2dldGF0dHIodmFsX21vZGVscywgbmFtZSkgZm9yIG5hbWUgaW4gZGlyKHZhbF9tb2RlbHMpXQo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcmVkX3NjZW5hcmlvcyA9IFtlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlLCBlYXJseV9leGl0X3ZhbF9kYXRlLCBsYXRlX2V4aXRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmFtZSBpbiBkaXIodmFsX21vZGVscyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2dldGF0dHIodmFsX21vZGVscywgbmFtZSkgZm9yIG5hbWUgaW4gZGlyKHZhbF9tb2RlbHMpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5hbWVzIGluIG1vZGVsIHBhY2thZ2UK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmFtZSBpbiBkaXIodmFsX21vZGVscyk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgdGhlIHJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG5hbWVzIGluIG1vZGVsIHBhY2thZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfcmVmZXJlbmNlID0gZ2V0YXR0cih2YWxfbW9kZWxzLCBuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgdGhlIHJlZmVyZW5jZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/:/: /g</text>
