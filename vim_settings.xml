@@ -22,12 +22,12 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="71" column="72" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1562170936401">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1562172211913">
         <mark key="'" line="9" column="85" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
+        <mark key="[" line="233" column="19" />
+        <mark key="]" line="233" column="19" />
         <mark key="^" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+        <mark key="." line="233" column="19" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/getters.py" timestamp="1562100405297">
         <mark key="[" line="0" column="70" />
@@ -211,10 +211,10 @@
         <mark key="." line="23" column="73" />
         <mark key="^" line="23" column="73" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1562170965457">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1562172222276">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -323,11 +323,11 @@
       <register name="a" type="4">
         <text encoding="base64">cnVuX2FsbF9hbGxvY2F0aW9ucywg</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, get_valuation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
@@ -342,38 +342,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVzaGFyZXMudmFsdWF0aW9ucy5zZXJ2aWNlcy5zY2VuYXJpbyBhcyBzY2VuYXJpb19zZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkZWNpbWFsIGltcG9ydCBEZWNpbWFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBPYmplY3REb2VzTm90RXhpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuY2FwdGFibGVfZGF0YSBpbXBvcnQgcmVmcmVzaF9jYXB0YWJsZV9kYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFsbG9jYXRpbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>n,
-    ValuationScenarioRelation,
-    ScenarioSelfRelation,
-    Ma,
-    Dcf,
-    Gpc,
-    InvestedCapital,
-    Backsolve,
-    Asset,
-    PostMoney,
-    Valuation,</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuZ2V0dGVycyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IGdldF92YWx1YXRpb24odmFsdWF0aW9uX3BrPXZhbHVhdGlvbl9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
