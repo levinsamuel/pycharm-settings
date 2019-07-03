@@ -91,6 +91,9 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="48" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" timestamp="1562192857376">
+        <mark key="'" line="206" column="8" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/set_up_hybrid_val.py" timestamp="1562171103000">
         <mark key="[" line="6" column="59" />
         <mark key="]" line="7" column="62" />
@@ -206,11 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="287" column="41" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="290" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="291" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="292" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="293" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="300" column="72" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="303" column="49" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -306,6 +304,11 @@
       <jump line="281" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
       <jump line="285" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
       <jump line="35" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" />
+      <jump line="17" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" />
+      <jump line="19" column="66" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" />
+      <jump line="206" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -318,7 +321,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>early_exit_backsolve_date_scenario</text>
+        <text>automated</text>
       </register>
       <register name="0" type="4">
         <text>get_backsolve_date_alternative_if_exists</text>
@@ -361,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search>early_exit_backsolve_date_scenario</last-search>
+      <last-search>automated</last-search>
       <last-offset />
-      <last-pattern>early_exit_backsolve_date_scenario</last-pattern>
+      <last-pattern>automated</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -371,7 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ModelBase</entry>
         <entry>hybrid</entry>
         <entry>valuation_summary</entry>
         <entry>le_</entry>
@@ -391,6 +393,7 @@
         <entry encoding="base64">LCA=</entry>
         <entry>get_scenarios</entry>
         <entry>early_exit_backsolve_date_scenario</entry>
+        <entry>automated</entry>
       </history-search>
       <history-cmd>
         <entry>%s/captable_data/captable.captable_data/g</entry>
