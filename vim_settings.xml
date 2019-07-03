@@ -190,11 +190,11 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1562183611458">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="54" column="81" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" timestamp="1562190448925">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="53" column="81" />
+        <mark key="." line="2" column="50" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0081_create_scenario_selfrelation.py" timestamp="1561135927189">
         <mark key="[" line="21" column="24" />
@@ -215,10 +215,11 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="283" column="99" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1562172222276">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1562190205089">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -328,10 +329,10 @@
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>early_exit_backsolve_date_scenario</text>
@@ -342,37 +343,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSAuYmFja3NvbHZlIGltcG9ydCAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdidXQgbm9uZSB3YXMgZm91bmQuJykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdGb3IgYSBoeWJyaWQgYmFja3NvbHZlLCBhbiBlYXJseS1leGl0IGNvdW50ZXJwYXJ0IHNjZW5hcmlvIGlzIGV4cGVjdGVkLCAnCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgT2JqZWN0RG9lc05vdEV4aXN0Ogo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>(
             hybrid_scenarios.early_exit_backsolve_date_scenario or
             hybrid_scenarios.early_exit_val_date_scenario
         )</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2NlbmFyaW9zLmVhcmx5X2V4aXRfdmFsX2RhdGVfc2NlbmFyaW8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2NlbmFyaW9zLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfc2NlbmFyaW8gb3IK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX3NjZW5hcmlvID0gKAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>None
-        try:
-            early_exit_backsolve_date_scenario</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlX3NjZW5hcmlvID0gc2VsZi5fc2NlbmFyaW9zLmxhdGVfZXhpdF9zY2VuYXJpbwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZV9kYXRlID0gYmFja3NvbHZlLmJhY2tzb2x2ZV9kYXRlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbl9kYXRlID0gdmFsdWF0aW9uLnZhbHVhdGlvbl9kYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2NlbmFyaW9zLmVhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfc2NlbmFyaW8gb3IK</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
