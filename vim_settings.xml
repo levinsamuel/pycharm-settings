@@ -22,12 +22,12 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="71" column="72" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1562350613853">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1562351112696">
         <mark key="'" line="21" column="13" />
-        <mark key="[" line="28" column="81" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="28" column="92" />
+        <mark key="." line="28" column="92" />
+        <mark key="^" line="28" column="92" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/getters.py" timestamp="1562182004434">
         <mark key="[" line="0" column="38" />
@@ -330,11 +330,11 @@
       <register name="a" type="4">
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>late_exit_backsolve_scenario_if_exists</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>late_exit_backsolve_scenario_if_exists</text>
+        <text>get_hybrid_backsolve_scenario()</text>
       </register>
       <register name="/" type="4">
         <text>automated</text>
@@ -346,31 +346,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvID0gdmFsdWF0aW9uLmdldF9oeWJyaWRfZWFybHlfc2NlbmFyaW8oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJkX3JlbGF0aW9uLmZyb21fc2NlbmFyaW8K</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X3NjZW5hcmlvLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiZF9yZWxhdGlvbiBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q3JlYXRlSHlicmlkUmVzdWx0ID0gbmFtZWR0dXBsZSgnQ3JlYXRlSHlicmlkUmVzdWx0JywgWyd2YWx1YXRpb24nLCAnY3JlYXRlZCddKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUT0RPOiBwb3RlbnRpYWxseSBtb3ZlIHRoaXMgYW5kIHNvbWUgb3RoZXIgc2VydmljZXMgdG8gYSBzcGVjaWZpYyBoeWJyaWQgc2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJkX3JlbGF0aW9uLmZyb21fc2NlbmFyaW8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBiZF9yZWxhdGlvbiBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUT0RPOiBwb3RlbnRpYWxseSBtb3ZlIHRoaXMgYW5kIHNvbWUgb3RoZXIgc2VydmljZXMgdG8gYSBzcGVjaWZpYyBoeWJyaWQgc2VydmljZQo=</text>
+        <text encoding="base64">Q3JlYXRlSHlicmlkUmVzdWx0ID0gbmFtZWR0dXBsZSgnQ3JlYXRlSHlicmlkUmVzdWx0JywgWyd2YWx1YXRpb24nLCAnY3JlYXRlZCddKQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
