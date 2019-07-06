@@ -15,11 +15,12 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" timestamp="1562375600794">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="10" column="43" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" timestamp="1562376254188">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="27" column="17" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1562186272696">
         <mark key="'" line="36" column="45" />
@@ -206,13 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="34" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="308" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="309" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="312" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="347" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="351" column="39" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="359" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="362" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="365" column="36" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="368" column="59" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -306,19 +300,35 @@
       <jump line="20" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="126" column="71" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
+      <jump line="27" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
+      <jump line="30" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
+      <jump line="33" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>&quot;&quot;&quot;
+
+
+
+
+
+
+
+
+&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>late_exit</text>
+        <text>sql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpc191c2VkID0gZ3JhcGhlbmUuQm9vbGVhbigpCg==</text>
@@ -326,41 +336,50 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;&quot;
+
+
+
+
+
+
+
+
+&quot;&quot;&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBvcGVyYXRpb25zID0gWwogICAgICAgICMgbWFyayBjb3JwX3BrIG5vdCByZXF1aXJlZCBiZWZvcmUgZHJvcHBpbmcKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2NhcHRhYmxlZGF0YScsCiAgICAgICAgICAgIG5hbWU9J2NvcnBvcmF0aW9uX3BrJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkludGVnZXJGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BbHRlckZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdjYXB0YWJsZScsCiAgICAgICAgICAgIG5hbWU9J2NhcHRhYmxlX2ltYWdlX2RhdGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRGF0ZUZpZWxkKCksCiAgICAgICAgKSwKICAgICAgICAjIHdpbGwgYmUgcmVtb3ZlZCBsYXRlcgogICAgICAgIG1pZ3JhdGlvbnMuU2VwYXJhdGVEYXRhYmFzZUFuZFN0YXRlKHN0YXRlX29wZXJhdGlvbnM9c3RhdGVfb3BlcmF0aW9ucykKICAgIF0K</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdmFsdWF0aW9uc19jYXB0YWJsZSBkcm9wIGNvbHVtbiBfdmFsdWF0aW9uX2lkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0IGZlYXR1cmVzLCBpc19lbmFibGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfbmFtZT0nY2FwdGFibGUnLAogICAgICAgICAgICBuYW1lPSdfYmFja3NvbHZlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIeWJyaWRXaXRoRXF1aXR5QWRqdXN0bWVudEFsbG93ZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfbmFtZT0nY2FwdGFibGUnLAogICAgICAgICAgICBuYW1lPSdfdmFsdWF0aW9uJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uID0gYmFja3NvbHZlLnNjZW5hcmlvLmdldF92YWx1YXRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfbmFtZT0nY2FwdGFibGVkYXRhJywKICAgICAgICAgICAgbmFtZT0nYmFja3NvbHZlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzX2h5YnJpZD1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfbmFtZT0nY2FwdGFibGVkYXRhJywKICAgICAgICAgICAgbmFtZT0nY29ycG9yYXRpb25fcGsnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNfaHlicmlkPWlzX2h5YnJpZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfbmFtZT0nY2FwdGFibGVkYXRhJywKICAgICAgICAgICAgbmFtZT0ndmFsdWF0aW9uJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpc19oeWJyaWQgPSBncmFwaGVuZS5Cb29sZWFuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5taXNjIGltcG9ydCB1cGRhdGVfaW5zdGFuY2UK</text>
+        <text encoding="base64">CiAgICBvcGVyYXRpb25zID0gWwogICAgICAgICMgbWFyayBjb3JwX3BrIG5vdCByZXF1aXJlZCBiZWZvcmUgZHJvcHBpbmcKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2NhcHRhYmxlZGF0YScsCiAgICAgICAgICAgIG5hbWU9J2NvcnBvcmF0aW9uX3BrJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkludGVnZXJGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BbHRlckZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdjYXB0YWJsZScsCiAgICAgICAgICAgIG5hbWU9J2NhcHRhYmxlX2ltYWdlX2RhdGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRGF0ZUZpZWxkKCksCiAgICAgICAgKSwKICAgICAgICAjIHdpbGwgYmUgcmVtb3ZlZCBsYXRlcgogICAgICAgIG1pZ3JhdGlvbnMuU2VwYXJhdGVEYXRhYmFzZUFuZFN0YXRlKHN0YXRlX29wZXJhdGlvbnM9c3RhdGVfb3BlcmF0aW9ucykKICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>late_exit</last-search>
+      <last-search>sql</last-search>
       <last-offset />
-      <last-pattern>late_exit</last-pattern>
+      <last-pattern>sql</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -368,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valuation_summary</entry>
         <entry>le_</entry>
         <entry>le_context</entry>
         <entry>le_scenario</entry>
@@ -388,6 +406,7 @@
         <entry>early_exit_backsolve_date_scenario</entry>
         <entry>automated</entry>
         <entry>late_exit</entry>
+        <entry>sql</entry>
       </history-search>
       <history-cmd>
         <entry>%s/captable_data/captable.captable_data/g</entry>
