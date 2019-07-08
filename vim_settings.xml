@@ -83,6 +83,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="51" column="39" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1562621203987">
+        <mark key="[" line="353" column="11" />
+        <mark key="]" line="353" column="11" />
+        <mark key="^" line="353" column="47" />
+        <mark key="." line="353" column="11" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" timestamp="1562099166576">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="6" column="51" />
@@ -181,11 +187,12 @@
         <mark key="^" line="39" column="66" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/ordered_scenarios/test_ordered_scenarios.py" timestamp="1562619744329">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="30" column="56" />
-        <mark key="^" line="30" column="56" />
-        <mark key="." line="30" column="56" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/ordered_scenarios/test_ordered_scenarios.py" timestamp="1562620760660">
+        <mark key="'" line="90" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks/__init__.py" timestamp="1562100381090">
         <mark key="'" line="22" column="0" />
@@ -244,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/valuation.py" />
       <jump line="184" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="216" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="222" column="50" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -344,52 +350,53 @@
       <jump line="184" column="30" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="88" column="23" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="71" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" />
+      <jump line="89" column="9" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/ordered_scenarios/test_ordered_scenarios.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Scenario</text>
+        <text>Get the scenario that is used as the &quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Scenario</text>
+        <text>Get the scenario that is used as the &quot;</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vY2tlZF9iYWNrc29sdmUgPSBtb2NrZXIucGF0Y2gub2JqZWN0KFNjZW5hcmlvLCAnYmFja3NvbHZlJywgbmV3X2NhbGxhYmxlPVByb3BlcnR5TW9jaykK</text>
+      <register name="0" type="4">
+        <text>ordered_hybrid_scenarios_matching_val_date</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhdGVfZXhpdF9zY2VuYXJpby5iYWNrc29sdmUuYmFja3NvbHZlX2RhdGUgPSBiYWNrc29sdmVfZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKHNjZW5hcmlvcykgPT0gMgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY2VuYXJpb3MgPSBsaXN0KG9yZGVyZWRfaHlicmlkX3NjZW5hcmlvc19tYXRjaGluZ192YWxfZGF0ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG5iYWNrc29sdmUgZGF0ZTonLCBvcmRlcmVkX2h5YnJpZF9zY2VuYXJpb3NfbWF0Y2hpbmdfdmFsX2RhdGUubGF0ZV9leGl0X3NjZW5hcmlvLmJhY2tzb2x2ZS5iYWNrc29sdmVfZGF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG5iYWNrc29sdmUgZGF0ZTonLCBvcmRlcmVkX2h5YnJpZF9zY2VuYXJpb3MubGF0ZV9leGl0X3NjZW5hcmlvLmJhY2tzb2x2ZS5iYWNrc29sdmVfZGF0ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBvcmRlcmVkX2h5YnJpZF9zY2VuYXJpb3MobW9ja2VyKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG5iYWNrc29sdmUgZGF0ZTonLCBvcmRlcmVkX2h5YnJpZF9zY2VuYXJpb3NfbWF0Y2hpbmdfdmFsX2RhdGUubGF0ZV9leGl0X3NjZW5hcmlvLmJhY2tzb2x2ZS5iYWNrc29sdmVfZGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdhcyBvcmlnaW5hbGx5IGdvaW5nIHRvIGV4Y2x1ZGUgYSBzY2VuYXJpbyB3aXRoIHRoaXMgbG9naWMsIG5vdyBub3Qgc28gc3VyZS4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHZhbHVhdGlvbi52YWx1YXRpb25fZGF0ZSAhPSBsYXRlX2V4aXQuYmFja3NvbHZlLmJhY2tzb2x2ZV9kYXRlOgo=</text>
+        <text encoding="base64">ICAgICMgbW9ja2VyLnBhdGNoLm9iamVjdChtb2NrZWRfYmFja3NvbHZlLCAnYmFja3NvbHZlX2RhdGUnLCBuZXdfY2FsbGFibGU9UHJvcGVydHlNb2NrKHJldHVybl92YWx1ZT1iYWNrc29sdmVfZGF0ZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhdGVfZXhpdF9zY2VuYXJpby5iYWNrc29sdmUuYmFja3NvbHZlX2RhdGUgPSBiYWNrc29sdmVfZGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
