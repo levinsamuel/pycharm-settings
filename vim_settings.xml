@@ -65,9 +65,6 @@
         <mark key="^" line="451" column="0" />
         <mark key="." line="451" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1562434737277">
-        <mark key="'" line="184" column="30" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks/excel_opm_task.py" timestamp="1562098590864">
         <mark key="'" line="11" column="31" />
         <mark key="[" line="16" column="36" />
@@ -190,6 +187,12 @@
         <mark key="^" line="4" column="78" />
         <mark key="." line="4" column="78" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/getters.py" timestamp="1562706438220">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1562011956385">
         <mark key="[" line="68" column="15" />
         <mark key="]" line="68" column="16" />
@@ -207,9 +210,6 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" timestamp="1562192857376">
-        <mark key="'" line="206" column="8" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/set_up_hybrid_val.py" timestamp="1562353428222">
         <mark key="[" line="35" column="48" />
         <mark key="]" line="35" column="60" />
@@ -222,11 +222,11 @@
         <mark key="^" line="15" column="66" />
         <mark key="." line="15" column="66" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" timestamp="1562697491545">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/valuation.py" timestamp="1562706667221">
+        <mark key="[" line="100" column="46" />
+        <mark key="]" line="100" column="55" />
+        <mark key="." line="100" column="55" />
+        <mark key="^" line="100" column="55" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1562115105554">
         <mark key="[" line="46" column="48" />
@@ -240,12 +240,12 @@
         <mark key="^" line="58" column="41" />
         <mark key="." line="58" column="41" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks/__init__.py" timestamp="1562100381090">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks/__init__.py" timestamp="1562705837295">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1562612753863">
         <mark key="[" line="361" column="0" />
@@ -391,13 +391,13 @@
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkID0gdmFsdWF0aW9uLmlkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get_hybrid_backsolve_scenario</text>
+        <text encoding="base64">ID0gZ2V0X3ZhbHVhdGlvbih2YWx1YXRpb25fcGs9dmFsdWF0aW9uLmlkKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Date</text>
+        <text>refresh_from_db</text>
       </register>
       <register name="0" type="4">
         <text>update_hybrid_equity_adjustment_date</text>
@@ -406,40 +406,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkID0gdmFsdWF0aW9uLmlkCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fdmFsX2RhdGVfbWF0Y2hlc19iYWNrc29sdmVfZGF0ZV9sYXRlX2V4aXRfc2NlbmFyaW9faXNfdXNlZF9mb3JfaHlicmlkX2JhY2tzb2x2ZShzZWxmLCBtZXRob2RvbG9neV9zY2VuYXJpbzogU2NlbmFyaW8pOgogICAgICAgIHZhbHVhdGlvbl9kYXRlID0gbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbigpLnZhbHVhdGlvbl9kYXRlCiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uYmFja3NvbHZlLmJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uX2RhdGUKICAgICAgICBtb2NrX2xhdGVfZXhpdCA9IE1hZ2ljTW9jaygpCiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X2xhdGVfZXhpdF9zY2VuYXJpbyA9IG1vY2tfbGF0ZV9leGl0CiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X2h5YnJpZF9iYWNrc29sdmVfc2NlbmFyaW8oKQogICAgICAgIG1vY2tfbGF0ZV9leGl0LmFzc2VydF9jYWxsZWRfb25jZSgpCgogICAgZGVmIHRlc3Rfd2hlbl92YWxfZGF0ZV9kb2VzX25vdF9tYXRjaF9iYWNrc29sdmVfZGF0ZV90cmF2ZXJzYWxfaXNfY29ycmVjdF9mb3JfaHlicmlkX2JhY2tzb2x2ZShzZWxmLCBtZXRob2RvbG9neV9zY2VuYXJpbzogU2NlbmFyaW8pOgogICAgICAgIHZhbHVhdGlvbl9kYXRlID0gbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbigpLnZhbHVhdGlvbl9kYXRlCiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uYmFja3NvbHZlLmJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uX2RhdGUgLSB0aW1lZGVsdGEoZGF5cz0xKQogICAgICAgIG1vY2tfbGF0ZV9leGl0ID0gTWFnaWNNb2NrKCkKICAgICAgICBtZXRob2RvbG9neV9zY2VuYXJpby5nZXRfbGF0ZV9leGl0X2JhY2tzb2x2ZV9zY2VuYXJpbyA9IG1vY2tfbGF0ZV9leGl0CiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X2h5YnJpZF9iYWNrc29sdmVfc2NlbmFyaW8oKQogICAgICAgIG1vY2tfbGF0ZV9leGl0LmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBQcm9qZWN0TGVkZ2VyLCBQcm9qZWN0LCBWYWx1YXRpb24sIEFTQzgyMFZhbHVhdGlvbiwgCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fdmFsX2RhdGVfbWF0Y2hlc19iYWNrc29sdmVfZGF0ZV9sYXRlX2V4aXRfc2NlbmFyaW9faXNfdXNlZF9mb3JfaHlicmlkX2JhY2tzb2x2ZShzZWxmLCBtZXRob2RvbG9neV9zY2VuYXJpbzogU2NlbmFyaW8pOgogICAgICAgIHZhbHVhdGlvbl9kYXRlID0gbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbigpLnZhbHVhdGlvbl9kYXRlCiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uYmFja3NvbHZlLmJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uX2RhdGUKICAgICAgICBtb2NrX2xhdGVfZXhpdCA9IE1hZ2ljTW9jaygpCiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X2xhdGVfZXhpdF9zY2VuYXJpbyA9IG1vY2tfbGF0ZV9leGl0CiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X2h5YnJpZF9iYWNrc29sdmVfc2NlbmFyaW8oKQogICAgICAgIG1vY2tfbGF0ZV9leGl0LmFzc2VydF9jYWxsZWRfb25jZSgpCgogICAgZGVmIHRlc3Rfd2hlbl92YWxfZGF0ZV9kb2VzX25vdF9tYXRjaF9iYWNrc29sdmVfZGF0ZV90cmF2ZXJzYWxfaXNfY29ycmVjdF9mb3JfaHlicmlkX2JhY2tzb2x2ZShzZWxmLCBtZXRob2RvbG9neV9zY2VuYXJpbzogU2NlbmFyaW8pOgogICAgICAgIHZhbHVhdGlvbl9kYXRlID0gbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbigpLnZhbHVhdGlvbl9kYXRlCiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uYmFja3NvbHZlLmJhY2tzb2x2ZV9kYXRlID0gdmFsdWF0aW9uX2RhdGUgLSB0aW1lZGVsdGEoZGF5cz0xKQogICAgICAgIG1vY2tfbGF0ZV9leGl0ID0gTWFnaWNNb2NrKCkKICAgICAgICBtZXRob2RvbG9neV9zY2VuYXJpby5nZXRfbGF0ZV9leGl0X2JhY2tzb2x2ZV9zY2VuYXJpbyA9IG1vY2tfbGF0ZV9leGl0CiAgICAgICAgbWV0aG9kb2xvZ3lfc2NlbmFyaW8uZ2V0X2h5YnJpZF9iYWNrc29sdmVfc2NlbmFyaW8oKQogICAgICAgIG1vY2tfbGF0ZV9leGl0LmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3VwZGF0ZV9lYV9kYXRlLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKAogICAgICAgICAgICB2YWx1YXRpb249dmFsdWF0aW9uLAogICAgICAgICAgICBpbnB1dF9kYXRlPWVhX2RhdGUsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBQcm9qZWN0TGVkZ2VyLCBQcm9qZWN0LCBWYWx1YXRpb24sIEFTQzgyMFZhbHVhdGlvbiwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlYV9kYXRlID0gZGF0ZSgyMDE5LCA3LCA3KQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3VwZGF0ZV9lYV9kYXRlLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKAogICAgICAgICAgICB2YWx1YXRpb249dmFsdWF0aW9uLAogICAgICAgICAgICBpbnB1dF9kYXRlPWVhX2RhdGUsCiAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24udGVtcGxhdGVfdHlwZSA9IGNvbnN0YW50cy5WYWx1YXRpb25UZW1wbGF0ZS5IWUJSSUQK</text>
+        <text encoding="base64">ICAgICAgICBlYV9kYXRlID0gZGF0ZSgyMDE5LCA3LCA3KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3VwZGF0ZV9lYV9kYXRlID0gbW9ja2VyLnBhdGNoKCdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uLnVwZGF0ZV9oeWJyaWRfZXF1aXR5X2FkanVzdG1lbnRfZGF0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24udGVtcGxhdGVfdHlwZSA9IGNvbnN0YW50cy5WYWx1YXRpb25UZW1wbGF0ZS5IWUJSSUQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3VwZGF0ZV9lYV9kYXRlID0gbW9ja2VyLnBhdGNoKCdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uLnVwZGF0ZV9oeWJyaWRfZXF1aXR5X2FkanVzdG1lbnRfZGF0ZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Date</last-search>
+      <last-search>refresh_from_db</last-search>
       <last-offset />
-      <last-pattern>Date</last-pattern>
+      <last-pattern>refresh_from_db</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>le_context</entry>
         <entry>le_scenario</entry>
         <entry>ee_context</entry>
         <entry>ee_scenario</entry>
@@ -467,6 +466,7 @@
         <entry>late_exit</entry>
         <entry>sql</entry>
         <entry>Date</entry>
+        <entry>refresh_from_db</entry>
       </history-search>
       <history-cmd>
         <entry>%s/captable_data/captable.captable_data/g</entry>
