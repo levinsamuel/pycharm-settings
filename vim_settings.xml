@@ -177,6 +177,13 @@
         <mark key="^" line="58" column="41" />
         <mark key="." line="58" column="41" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" timestamp="1562692042685">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1264" column="55" />
+        <mark key="]" line="1264" column="69" />
+        <mark key="^" line="1264" column="69" />
+        <mark key="." line="1264" column="69" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenarios.py" timestamp="1561845556552">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="48" />
@@ -253,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="36" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/gpc_regression/test_gpc_regression.py" />
-      <jump line="37" column="36" filename="$USER_HOME$/git/carta-web/eshares/valuations/helpers/ordered_scenarios.py" />
       <jump line="370" column="103" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="375" column="16" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
       <jump line="376" column="42" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" />
@@ -353,52 +358,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" />
       <jump line="215" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/misc/test_misc.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/misc/test_misc.py" />
+      <jump line="235" column="27" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/scenario/test_scenario.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3NhdmUuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgodXBkYXRlX2ZpZWxkcz1bJ3ZhbHVhdGlvbl9kYXRlJ10pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG4=</text>
       </register>
       <register name="-" type="4">
-        <text>when_called_with_id_in_map_it_is_not_passed_to_save</text>
+        <text encoding="base64">IG4=</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fYmFja3NvbHZlX2lzX2h5YnJpZF9hbmRfYmFja3NvbHZlX2RhdGVfY2hhbmdlc19jYWxsc19oeWJyaWRfc2VydmljZSgKICAgICAgICBzZWxmLCBtb2NrZXIsIGh5YnJpZF9iYWNrc29sdmVfbm9fc2F2ZSwKICAgICk6CiAgICAgICAgbW9ja191cGRhdGVfaHlicmlkX2VhX2RhdGUgPSBtb2NrZXIucGF0Y2goCiAgICAgICAgICAgICdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuYmFja3NvbHZlLnVwZGF0ZV9oeWJyaWRfZXF1aXR5X2FkanVzdG1lbnRfZGF0ZScKICAgICAgICApCiAgICAgICAgaW5wdXRfYmFja3NvbHZlX2RhdGUgPSBkYXRlKDIwMTcsIDUsIDEpCiAgICAgICAgdXBkYXRlX2JhY2tzb2x2ZShiYWNrc29sdmU9aHlicmlkX2JhY2tzb2x2ZV9ub19zYXZlLCBiYWNrc29sdmVfZGF0ZT1pbnB1dF9iYWNrc29sdmVfZGF0ZSkKICAgICAgICBtb2NrX3VwZGF0ZV9oeWJyaWRfZWFfZGF0ZS5hc3NlcnRfY2FsbGVkX3dpdGgoCiAgICAgICAgICAgIHZhbHVhdGlvbj1oeWJyaWRfYmFja3NvbHZlX25vX3NhdmUuc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbigpLAogICAgICAgICAgICBpbnB1dF9kYXRlPWlucHV0X2JhY2tzb2x2ZV9kYXRlLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QoCiAgICAgICAgU2NlbmFyaW8sCiAgICAgICAgJ3NlY29uZGFyeV9yYXRpb25hbGUnLAogICAgICAgIHVud3JhcHBlZF9wcm9wZXJ0eShTY2VuYXJpby5zZWNvbmRhcnlfcmF0aW9uYWxlKQogICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3NhdmUuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgodXBkYXRlX2ZpZWxkcz1bJ3ZhbHVhdGlvbl9kYXRlJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2RvbG9neV9zY2VuYXJpby5iYWNrc29sdmUuYmFja3NvbHZlX2RhdGUgPSBuCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bW9ja2VyLnBhdGNoLm9iamVjdCgKICAgICAgICBTY2VuYXJpbywKICAgICAgICAnYmFja3NvbHZlJywKICAgICAgICBuZXdfY2FsbGFibGU9UHJvcGVydHlNb2NrCiAgICApCiAgICBzY2VuYXJpby5iYWNrc29sdmUuYmFja3NvbHZlX2RhdGUgPSB2YWx1YXRpb25fZGF0ZQogICAgc2NlbmFyaW8uYmFja3NvbHZlLm1ldGhvZF9uYW1lID0gJ2JhY2tzb2x2ZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3NhdmUuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgodXBkYXRlX2ZpZWxkcz1bJ3ZhbHVhdGlvbl9kYXRlJ10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbi5zYXZlID0gTWFnaWNNb2NrKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBkZXNlcmlhbGl6ZV9kZWNpbWFscyhbRGVjaW1hbCgnLTAuNTQnKSwgRGVjaW1hbCgnMicpXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfZGF0ZT1pbnB1dF9iYWNrc29sdmVfZGF0ZSwK</text>
+        <text encoding="base64">ICAgIHZhbHVhdGlvbi5zYXZlID0gTWFnaWNNb2NrKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uPWh5YnJpZF9iYWNrc29sdmVfbm9fc2F2ZS5zY2VuYXJpby5nZXRfdmFsdWF0aW9uKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBkZXNlcmlhbGl6ZV9kZWNpbWFscyhbRGVjaW1hbCgnLTAuNTQnKSwgRGVjaW1hbCgnMicpXSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
