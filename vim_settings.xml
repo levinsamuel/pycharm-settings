@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/misc/test_misc.py" timestamp="1562631934603">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/misc/test_misc.py" timestamp="1562690400904">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="253" column="16" />
-        <mark key="]" line="258" column="11" />
-        <mark key="." line="258" column="11" />
-        <mark key="^" line="258" column="11" />
+        <mark key="[" line="280" column="42" />
+        <mark key="]" line="281" column="57" />
+        <mark key="." line="281" column="57" />
+        <mark key="^" line="281" column="57" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1562612735046">
         <mark key="[" line="71" column="0" />
@@ -358,11 +358,11 @@
       <register name="a" type="4">
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX3NhdmUuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgodXBkYXRlX2ZpZWxkcz1bJ3ZhbHVhdGlvbl9kYXRlJ10pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>when_called_with_id_in_map_it_is_not_passed_to_save</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
@@ -374,31 +374,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBkZXNlcmlhbGl6ZV9kZWNpbWFscyhbRGVjaW1hbCgnLTAuNTQnKSwgRGVjaW1hbCgnMicpXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3NhdmUuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgodXBkYXRlX2ZpZWxkcz1bJ3ZhbHVhdGlvbl9kYXRlJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfZGF0ZT1pbnB1dF9iYWNrc29sdmVfZGF0ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uPWh5YnJpZF9iYWNrc29sdmVfbm9fc2F2ZS5zY2VuYXJpby5nZXRfdmFsdWF0aW9uKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2tzb2x2ZS5zCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGJhY2tzb2x2ZV9ub19zYXZlKHNlbGYsIGJhY2tzb2x2ZSk6CiAgICAgICAgYmFja3NvbHZlLnNhdmVfYmFja3NvbHZlID0gTWFnaWNNb2NrKCkKICAgICAgICByZXR1cm4gYmFja3NvbHZlCgo=</text>
+        <text encoding="base64">ICAgIHZhbHVhdGlvbi5zYXZlID0gTWFnaWNNb2NrKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGh5YnJpZF9iYWNrc29sdmVfbm9fc2F2ZShzZWxmLCBoeWJyaWRfYmFja3NvbHZlKToKICAgICAgICBoeWJyaWRfYmFja3NvbHZlLnNhdmVfYmFja3NvbHZlID0gTWFnaWNNb2NrKCkKICAgICAgICByZXR1cm4gaHlicmlkX2JhY2tzb2x2ZQoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nLCBkZXNlcmlhbGl6ZV9kZWNpbWFscyhbRGVjaW1hbCgnLTAuNTQnKSwgRGVjaW1hbCgnMicpXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfZGF0ZT1pbnB1dF9iYWNrc29sdmVfZGF0ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uPWh5YnJpZF9iYWNrc29sdmVfbm9fc2F2ZS5zY2VuYXJpby5nZXRfdmFsdWF0aW9uKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
