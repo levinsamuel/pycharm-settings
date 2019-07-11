@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/misc/test_misc.py" timestamp="1562690400904">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/misc/test_misc.py" timestamp="1562861590830">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="280" column="42" />
-        <mark key="]" line="281" column="57" />
-        <mark key="." line="281" column="57" />
-        <mark key="^" line="281" column="57" />
+        <mark key="[" line="274" column="48" />
+        <mark key="]" line="274" column="80" />
+        <mark key="." line="274" column="48" />
+        <mark key="^" line="274" column="47" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/__init__.py" timestamp="1562714851863">
         <mark key="[" line="82" column="5" />
@@ -145,12 +145,12 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_valuation.py" timestamp="1562715959619">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_valuation.py" timestamp="1562861648111">
         <mark key="'" line="78" column="0" />
-        <mark key="[" line="74" column="39" />
-        <mark key="]" line="75" column="75" />
-        <mark key="^" line="75" column="75" />
-        <mark key="." line="75" column="75" />
+        <mark key="[" line="97" column="66" />
+        <mark key="]" line="97" column="102" />
+        <mark key="^" line="97" column="65" />
+        <mark key="." line="97" column="66" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_valuation_with_override.py" timestamp="1562800213650" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1562776753128">
@@ -379,10 +379,10 @@
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
       <register name="&quot;" type="4">
-        <text>update_fields=update_fields)</text>
+        <text>update_fields=['analyst_commentary']</text>
       </register>
       <register name="-" type="4">
-        <text>update_fields=update_fields)</text>
+        <text>update_fields=['analyst_commentary']</text>
       </register>
       <register name="/" type="4">
         <text>fund-admin</text>
