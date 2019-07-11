@@ -61,11 +61,11 @@
         <mark key="^" line="3" column="88" />
         <mark key="." line="3" column="88" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1562790063984">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1562881560227">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/context/comps_context_generators/standard_public_comps_context_generator.py" timestamp="1561586875192">
         <mark key="[" line="61" column="0" />
@@ -141,6 +141,12 @@
         <mark key="^" line="97" column="65" />
         <mark key="." line="97" column="66" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/scenario.py" timestamp="1562881610925">
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="46" column="55" />
+        <mark key="." line="46" column="55" />
+        <mark key="^" line="46" column="60" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1562004426292">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="78" />
@@ -162,11 +168,8 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" timestamp="1562697593254">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" timestamp="1562881977117">
+        <mark key="'" line="283" column="40" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/umbrella_type.py" timestamp="1562192857376">
         <mark key="'" line="206" column="8" />
@@ -240,15 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="126" column="71" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
-      <jump line="24" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
-      <jump line="27" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
-      <jump line="30" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
-      <jump line="33" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_physical_delete_old_captable_keys.py" />
       <jump line="29" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="389" column="28" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
       <jump line="390" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/umbrella/umbrella.py" />
@@ -340,19 +334,28 @@
       <jump line="39" column="15" filename="$USER_HOME$/git/carta-web/eshares/investor_services/portfolio/api/urls.py" />
       <jump line="4" column="4" filename="$USER_HOME$/git/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" />
       <jump line="68" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/signals/test_signals.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="11" column="19" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="158" column="25" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="221" column="11" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="277" column="10" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="278" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="281" column="46" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="282" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
+      <jump line="283" column="40" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>get_hybrid_backsolve_input_scenario</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzY2VuYXJpbyA9IHZhbHVhdGlvbi5nZXRfc3RhbmRhcmRfc2NlbmFyaW8oKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWwubW9kZWxzIGltcG9ydCBDb3Jwb3JhdGlvblN1bW1hcnkK</text>
       </register>
       <register name="-" type="4">
-        <text>signals.captable_data.refresh_captable_data'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>fund-admin</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3ZhbHVhdGlvbl9kYXRlX2NoYW5nZWRfcmVmcmVzaGVzX2RhdGFfbmV3X2F1ZGl0aW5nKAogICAgICAgIHNlbGYsIG1vY2tlciwgdmFsdWF0aW9uX3dpdGhfdXBkYXRlZF92YWx1YXRpb25fZGF0ZQogICAgKToKICAgICAgICB2YWx1YXRpb24gPSB2YWx1YXRpb25fd2l0aF91cGRhdGVkX3ZhbHVhdGlvbl9kYXRlCiAgICAgICAgbW9ja2VyLnBhdGNoKCdlc2hhcmVzLnZhbHVhdGlvbnMuc2lnbmFscy5jYXB0YWJsZV9kYXRhLnJlZnJlc2hfY2FwdGFibGVfZGF0YScpCiAgICAgICAgcmVmcmVzaF9jYXB0YWJsZV9kYXRhX2NhY2hlKE5vbmUsIHZhbHVhdGlvbiwgRmFsc2UsIE5vbmUpCiAgICAgICAgc2lnbmFscy5jYXB0YWJsZV9kYXRhLnJlZnJlc2hfY2FwdGFibGVfZGF0YS5hc3NlcnRfY2FsbGVkX3dpdGgoCiAgICAgICAgICAgIHZhbHVhdGlvbiwKICAgICAgICAgICAgdmFsdWF0aW9uLmNhcHRhYmxlX2NvcnBvcmF0aW9uX3BrLAogICAgICAgICAgICB2YWx1YXRpb24ub3JnYW5pemF0aW9uX3BrLAogICAgICAgICAgICByZWZyZXNoX2NoaWxkcmVuPVRydWUsCiAgICAgICAgKQogICAgICAgIHNjZW5hcmlvID0gdmFsdWF0aW9uLmdldF9zdGFuZGFyZF9zY2VuYXJpbygpCgo=</text>
@@ -361,40 +364,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY2VuYXJpbyA9IHZhbHVhdGlvbi5nZXRfc3RhbmRhcmRfc2NlbmFyaW8oKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWwubW9kZWxzIGltcG9ydCBDb3Jwb3JhdGlvblN1bW1hcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3ZhbHVhdGlvbl9kYXRlX2NoYW5nZWRfcmVmcmVzaGVzX3NjZW5hcmlvX2NoaWxkX2NhcHRhYmxlKAogICAgICAgIHNlbGYsIG1vY2tlciwgdmFsdWF0aW9uX3dpdGhfdXBkYXRlZF92YWx1YXRpb25fZGF0ZQogICAgKToKICAgICAgICB2YWx1YXRpb24gPSB2YWx1YXRpb25fd2l0aF91cGRhdGVkX3ZhbHVhdGlvbl9kYXRlCiAgICAgICAgbW9ja2VyLnBhdGNoKCdlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuY2FwdGFibGVfZGF0YWtra2snKQogICAgICAgIHJlZnJlc2hfY2FwdGFibGVfZGF0YV9jYWNoZShOb25lLCB2YWx1YXRpb24sIEZhbHNlLCBOb25lKQogICAgICAgIHNpZ25hbHMuY2FwdGFibGVfZGF0YS5yZWZyZXNoX2NhcHRhYmxlX2RhdGEuYXNzZXJ0X2NhbGxlZF93aXRoKAogICAgICAgICAgICB2YWx1YXRpb24sCiAgICAgICAgICAgIHZhbHVhdGlvbi5jYXB0YWJsZV9jb3Jwb3JhdGlvbl9waywKICAgICAgICAgICAgdmFsdWF0aW9uLm9yZ2FuaXphdGlvbl9waywKICAgICAgICAgICAgcmVmcmVzaF9jaGlsZHJlbj1UcnVlLAogICAgICAgICkKICAgICAgICBzY2VuYXJpbyA9IHZhbHVhdGlvbi5nZXRfc3RhbmRhcmRfc2NlbmFyaW8oKQoK</text>
+        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmZvcm1zIGltcG9ydCBtb2RlbF90b19kaWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWxzLmNhcHRhYmxlX2RhdGEucmVmcmVzaF9jYXB0YWJsZV9kYXRhLmFzc2VydF9jYWxsZWRfd2l0aCgKICAgICAgICAgICAgc2NlbmFyaW8sCiAgICAgICAgICAgIHZhbHVhdGlvbi5jYXB0YWJsZV9jb3Jwb3JhdGlvbl9waywKICAgICAgICAgICAgdmFsdWF0aW9uLm9yZ2FuaXphdGlvbl9waywKICAgICAgICAgICAgcmVmcmVzaF9jaGlsZHJlbj1UcnVlLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25zLm1vZGVscyBpbXBvcnQgQVNDODIwRnVsbFNlcnZpY2VVbWJyZWxsYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF92YWx1YXRpb25fZGF0ZV9jaGFuZ2VkX3NjZW5hcmlvX2NhcHRhYmxlX2Fsc29fcmVmcmVzaGVkKAogICAgICAgIHNlbGYsIG1vY2tlciwgdmFsdWF0aW9uX3dpdGhfdXBkYXRlZF92YWx1YXRpb25fZGF0ZQogICAgKToKICAgICAgICB2YWx1YXRpb24gPSB2YWx1YXRpb25fd2l0aF91cGRhdGVkX3ZhbHVhdGlvbl9kYXRlCiAgICAgICAgbW9ja2VyLnBhdGNoKCdlc2hhcmVzLnZhbHVhdGlvbnMuc2lnbmFscy5jYXB0YWJsZV9kYXRhLnJlZnJlc2hfY2FwdGFibGVfZGF0YScpCiAgICAgICAgcmVmcmVzaF9jYXB0YWJsZV9kYXRhX2NhY2hlKE5vbmUsIHZhbHVhdGlvbiwgRmFsc2UsIE5vbmUpCiAgICAgICAgc2lnbmFscy5jYXB0YWJsZV9kYXRhLnJlZnJlc2hfY2FwdGFibGVfZGF0YS5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aCgKICAgICAgICAgICAgdmFsdWF0aW9uLAogICAgICAgICAgICB2YWx1YXRpb24uY2FwdGFibGVfY29ycG9yYXRpb25fcGssCiAgICAgICAgICAgIHZhbHVhdGlvbi5vcmdhbml6YXRpb25fcGssCiAgICAgICAgICAgIHJlZnJlc2hfY2hpbGRyZW49VHJ1ZSwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzaW1wbGVqc29uIGFzIGpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3ZhbHVhdGlvbl9kYXRlX25vdF9jaGFuZ2VkX2RvZXNudF9yZWZyZXNoZXNfZGF0YV9uZXdfYXVkaXRpbmcoCg==</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25zLm1vZGVscyBpbXBvcnQgVmFsdWF0aW9uLCBQcm9qZWN0TGVkZ2VyCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgZGVmIHRlc3RfdmFsdWF0aW9uX2RhdGVfY2hhbmdlZF9yZWZyZXNoZXNfZGF0YV9uZXdfYXVkaXRpbmcoCiAgICAgICAgc2VsZiwgbW9ja2VyLCB2YWx1YXRpb25fd2l0aF91cGRhdGVkX3ZhbHVhdGlvbl9kYXRlCiAgICApOgogICAgICAgIHZhbHVhdGlvbiA9IHZhbHVhdGlvbl93aXRoX3VwZGF0ZWRfdmFsdWF0aW9uX2RhdGUKICAgICAgICBtb2NrZXIucGF0Y2goJ2VzaGFyZXMudmFsdWF0aW9ucy5zaWduYWxzLmNhcHRhYmxlX2RhdGEucmVmcmVzaF9jYXB0YWJsZV9kYXRhJykKICAgICAgICByZWZyZXNoX2NhcHRhYmxlX2RhdGFfY2FjaGUoTm9uZSwgdmFsdWF0aW9uLCBGYWxzZSwgTm9uZSkKICAgICAgICBzaWduYWxzLmNhcHRhYmxlX2RhdGEucmVmcmVzaF9jYXB0YWJsZV9kYXRhLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKAogICAgICAgICAgICB2YWx1YXRpb24sCiAgICAgICAgICAgIHZhbHVhdGlvbi5jYXB0YWJsZV9jb3Jwb3JhdGlvbl9waywKICAgICAgICAgICAgdmFsdWF0aW9uLm9yZ2FuaXphdGlvbl9waywKICAgICAgICAgICAgcmVmcmVzaF9jaGlsZHJlbj1UcnVlLAogICAgICAgICkK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmNvcmUuZXhjZXB0aW9ucyBpbXBvcnQgVmFsaWRhdGlvbkVycm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5taXNjIGltcG9ydCB1cGRhdGVfaW5zdGFuY2UK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBWYWx1YXRpb24ub2JqZWN0cy5nZXQocGs9aWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBBU0M4MjBTZWxmU2VydmljZVVtYnJlbGxhLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQo=</text>
+        <text encoding="base64">ICAgICAgICBBU0M4MjBGdWxsU2VydmljZVVtYnJlbGxhLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>fund-admin</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>fund-admin</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>backsolve</entry>
         <entry>:</entry>
         <entry>equity_adjust</entry>
         <entry>weight</entry>
@@ -422,6 +424,7 @@
         <entry>portfolio\/fund</entry>
         <entry>fund_admin</entry>
         <entry>fund-admin</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>%s/captable_data/captable.captable_data/g</entry>
