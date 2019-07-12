@@ -112,6 +112,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1562953820169">
+        <mark key="'" line="539" column="45" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_scenarios.py" timestamp="1561845556552">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="48" />
@@ -121,10 +124,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/fund_admin/api/urls.py" timestamp="1562777385557">
         <mark key="'" line="194" column="20" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" timestamp="1562883976736">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1562953276647">
+        <mark key="[" line="381" column="30" />
+        <mark key="]" line="381" column="32" />
+        <mark key="^" line="381" column="32" />
+        <mark key="." line="381" column="32" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_scenario.py" timestamp="1562891397121">
         <mark key="[" line="24" column="47" />
@@ -288,13 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
-      <jump line="144" column="15" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
-      <jump line="146" column="21" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
-      <jump line="147" column="23" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
-      <jump line="42" column="15" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
-      <jump line="34" column="15" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
-      <jump line="39" column="15" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
       <jump line="40" column="47" filename="$USER_HOME$/git/carta-web/eshares/api_urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/investor_services/api/urls.py" />
       <jump line="483" column="80" filename="$USER_HOME$/git/carta-web/eshares/investor_services/api/urls.py" />
@@ -388,61 +385,68 @@
       <jump line="394" column="2" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
       <jump line="401" column="20" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
       <jump line="405" column="47" filename="$USER_HOME$/git/carta-web/.circleci/config.yml" />
+      <jump line="147" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
+      <jump line="271" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
+      <jump line="283" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
+      <jump line="287" column="36" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
+      <jump line="298" column="24" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
+      <jump line="487" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
+      <jump line="541" column="45" filename="$USER_HOME$/git/carta-web/eshares/valuations/tasks/tasks.py" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>get_hybrid_backsolve_input_scenario</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self.context</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>self.context</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>bandit</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gUXVpY2tCb29rc0FjY291bnQub2JqZWN0cy5nZXQoY29ycG9yYXRpb249dW1icmVsbGEuY29ycG9yYXRpb24pCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZpbmFuY2lhbHMubW9kZWxzIGltcG9ydCBYZXJvQWNjb3VudCwgUXVpY2tCb29rc0FjY291bnQK</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KHBrPXVzZXJfcGspCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KGlkPXVzZXJfaWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gWGVyb0FjY291bnQub2JqZWN0cy5nZXQoY29ycG9yYXRpb249dW1icmVsbGEuY29ycG9yYXRpb24pCg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KHBrPXVzZXJfaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjZW5hcmlvLmdldF9wcmV2aW91c19sdG1fZmluYW5jaWFscyA9IE1hZ2ljTW9jayhyZXR1cm5fdmFsdWU9dmFsdWF0aW9uKQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZpbmFuY2lhbHMubW9kZWxzIGltcG9ydCBYZXJvQWNjb3VudCwgUXVpY2tCb29rc0FjY291bnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMgaW1wb3J0IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gWGVyb0FjY291bnQub2JqZWN0cy5nZXQoY29ycG9yYXRpb249dW1icmVsbGEuY29ycG9yYXRpb24pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNjZW5hcmlvLmdldF9wcmV2aW91c19sdG1fZmluYW5jaWFscyA9IE1hZ2ljTW9jayhyZXR1cm5fdmFsdWU9dmFsdWF0aW9uKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5taXNjIGltcG9ydCBjcmVhdGVfaW5zdGFuY2VfZmlsZSwgdXBkYXRlX2luc3RhbmNlCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMgaW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMgaW1wb3J0IGdldF91bWJyZWxsYV9ieV9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/, /,\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>bandit</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>bandit</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -450,7 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>early_exit_backsolve_date_scenario</entry>
         <entry>automated</entry>
         <entry>late_exit</entry>
         <entry>sql</entry>
@@ -470,6 +473,7 @@
         <entry>Notify build</entry>
         <entry>tests</entry>
         <entry>bandit</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>%s/captable_data/captable.captable_data/g</entry>
