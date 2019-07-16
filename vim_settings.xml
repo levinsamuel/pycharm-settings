@@ -345,11 +345,11 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/webhooks.py" timestamp="1563301409360">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="23" column="48" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="23" column="48" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/api/views/webhooks.py" timestamp="1563314405254">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="32" />
+        <mark key="^" line="69" column="32" />
+        <mark key="." line="69" column="32" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/schema.py" timestamp="1562885019362">
         <mark key="[" line="8" column="78" />
@@ -530,17 +530,17 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnByb2ZpbGVzLmxlZ2FjeV9tb2RlbHMgaW1wb3J0IEV4dHJhRW1haWxBZGRyZXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>self.get_analyst(event)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>self.get_analyst(event)</text>
       </register>
       <register name="/" type="4">
         <text>to_user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBUaGlzIGltcG9ydCBoYXMgdG8gYmUgZGlyZWN0bHkgZnJvbSAubGVnYWN5X21vZGVscyBiZWNhdXNlIHRoZSAubW9kZWxzIG1vZHVsZSBpbXBvcnRzIGEgaHVnZSBjaHVuayBvZiBjYXJ0YS13ZWIK</text>
+      <register name="0" type="4">
+        <text>self.get_analyst(event)</text>
       </register>
       <register name="q" type="4">
         <text />
