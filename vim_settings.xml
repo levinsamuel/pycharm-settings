@@ -264,7 +264,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/identity/domain/user/service/user/django_implementation_no_dao.py" timestamp="1563306907956" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/analyst_rotation.py" timestamp="1563402720709" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/financials/financial_detail.py" timestamp="1563386818324">
         <mark key="[" line="26" column="0" />
@@ -285,7 +284,11 @@
         <mark key="^" line="3" column="88" />
         <mark key="." line="3" column="88" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1563398410286" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1563406702270">
+        <mark key="[" line="1019" column="0" />
+        <mark key="]" line="1019" column="0" />
+        <mark key="." line="1019" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/valuation/test_valuation.py" timestamp="1562694831295">
         <mark key="[" line="289" column="15" />
         <mark key="]" line="289" column="30" />
@@ -297,6 +300,12 @@
         <mark key="]" line="42" column="63" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/holdings.py" timestamp="1563406894532">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/constants.py" timestamp="1561586923465">
         <mark key="[" line="28" column="19" />
@@ -493,11 +502,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAo=</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>Mock</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
@@ -509,31 +518,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAo=</text>
+        <text encoding="base64">IyBUT0RPOiBtb3ZlIGludG8gc2VydmllCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogbW92ZSBpbnRvIHNlcnZpY2UKICAgIGRlZiByZWZyZXNoX2hvbGRpbmdzKHNlbGYpOgogICAgICAgIGZyb20gZXNoYXJlcy5jb3Jwb3JhdGlvbnMubW9kZWxzIGltcG9ydCBDb3Jwb3JhdGlvbgogICAgICAgIGZyb20gZXNoYXJlcy5vcmdhbml6YXRpb25zLm1vZGVscyBpbXBvcnQgT3JnYW5pemF0aW9uCgogICAgICAgIHNlbGYuZGVsZXRlX2hvbGRpbmdzKCkKCiAgICAgICAgdmFsdWF0aW9uID0gc2VsZi5nZXRfdmFsdWF0aW9uKCkKCiAgICAgICAgaWYgdmFsdWF0aW9uLm9yZ2FuaXphdGlvbl9wazoKICAgICAgICAgICAgb3JnID0gT3JnYW5pemF0aW9uLm9iamVjdHMuZ2V0KHBrPXZhbHVhdGlvbi5vcmdhbml6YXRpb25fcGspCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3JnID0gTm9uZQogICAgICAgIGNvcnAgPSBDb3Jwb3JhdGlvbi5vYmplY3RzLmdldChwaz12YWx1YXRpb24uY2FwdGFibGVfY29ycG9yYXRpb25fcGspCiAgICAgICAgZGF0YV9nZXR0ZXIgPSBPcmdhbml6YXRpb25Ib2xkaW5nc0dldHRlcigKICAgICAgICAgICAgdG9fZGF0ZT1zZWxmLmdldF9zY2VuYXJpb19kYXRlKCksIGNvcnBvcmF0aW9uPWNvcnAsIG9yZ2FuaXphdGlvbj1vcmcKICAgICAgICApCiAgICAgICAgaG9sZGluZ3NfY3JlYXRvciA9IEhvbGRpbmdzQ3JlYXRvcigKICAgICAgICAgICAgc2NlbmFyaW89c2VsZiwgaG9sZGluZ3NfZGF0YV9nZXR0ZXI9ZGF0YV9nZXR0ZXIKICAgICAgICApCiAgICAgICAgaG9sZGluZ3NfY3JlYXRvci5jcmVhdGVfaG9sZGluZ3NfZGF0YSgpCgogICAgZGVmIGNyZWF0ZV9ob2xkaW5nKHNlbGYsICoqa3dhcmdzKToKICAgICAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9ucy5tb2RlbHMgaW1wb3J0IEhvbGRpbmcKCiAgICAgICAgSG9sZGluZy5vYmplY3RzLmNyZWF0ZShzY2VuYXJpbz1zZWxmLCAqKmt3YXJncykKCiAgICBkZWYgZGVsZXRlX2hvbGRpbmdzKHNlbGYpOgogICAgICAgIHNlbGYuaG9sZGluZ3MuYWxsKCkuZGVsZXRlKCkKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgVXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy51c2VyIGltcG9ydCBVc2VyV3JhcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy51c2VyIGltcG9ydCBVc2VyV3JhcHBlcgo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgVXNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmlkZW50aXR5IGltcG9ydCBVc2VyCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy51c2VyIGltcG9ydCBVc2VyV3JhcHBlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmlkZW50aXR5LmRvbWFpbiBpbXBvcnQgVXNlcgo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy51c2VyIGltcG9ydCBVc2VyV3JhcHBlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnByb2ZpbGVzLmxlZ2FjeV9tb2RlbHMgaW1wb3J0IEV4dHJhRW1haWxBZGRyZXNzICAjIG5vcWE6IEY0MDEK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmlkZW50aXR5IGltcG9ydCBVc2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.full_name/.get_full_name()</text>
