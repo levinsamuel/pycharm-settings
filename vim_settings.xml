@@ -115,6 +115,11 @@
         <mark key="^" line="39" column="66" />
         <mark key="." line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation.py" timestamp="1563490644119">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/report/pdf.py" timestamp="1563298506632">
         <mark key="'" line="324" column="12" />
         <mark key="[" line="8" column="0" />
@@ -175,11 +180,11 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1562115105554">
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="47" column="45" />
-        <mark key="." line="47" column="45" />
-        <mark key="^" line="47" column="45" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1563490651641">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/multiples.py" timestamp="1563397886429">
         <mark key="'" line="0" column="0" />
@@ -363,11 +368,11 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1563407908565">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="50" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1563490525402">
+        <mark key="[" line="62" column="38" />
+        <mark key="]" line="62" column="38" />
+        <mark key="." line="62" column="38" />
+        <mark key="^" line="62" column="38" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/allocation.py" timestamp="1563393601865">
         <mark key="[" line="13" column="8" />
@@ -525,46 +530,46 @@
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBQZXJtaXNzaW9uRGVuaWVkCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVhdF9jYXBwZWRfbm90ZXNfYXNfZXF1aXR5ID0gZ3JhcGhlbmUuQm9vbGVhbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>raise PermissionDenied</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>run_allo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldF9jb3Jwb3JhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICB0cmVhdF9jYXBwZWRfbm90ZXNfYXNfZXF1aXR5ID0gZ3JhcGhlbmUuQm9vbGVhbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBQZXJtaXNzaW9uRGVuaWVkCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVhdF9jYXBwZWRfbm90ZXNfYXNfZXF1aXR5ID0gZ3JhcGhlbmUuQm9vbGVhbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuY29ycG9yYXRpb24gaW1wb3J0IGdldF9jb3Jwb3JhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVhdF9jYXBwZWRfbm90ZXNfYXNfZXF1aXR5ID0gZ3JhcGhlbmUuQm9vbGVhbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBQZXJtaXNzaW9uRGVuaWVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfaG9sZGluZ3Moc2VsZiwgbmV3X2hvbGRpbmdzKToKICAgICAgICBzY2VuYXJpb19ob2xkaW5ncyA9IHNlbGYuaG9sZGluZ3MuYWxsKCkKICAgICAgICBmb3IgaG9sZGluZyBpbiBuZXdfaG9sZGluZ3M6CiAgICAgICAgICAgIGhvbGRpbmdfdG9fdXBkYXRlID0gc2NlbmFyaW9faG9sZGluZ3MuZ2V0KHBrPWhvbGRpbmdbJ2lkJ10pCiAgICAgICAgICAgICMgVE9ETzogdGhpcyBpcyBkdW1iCiAgICAgICAgICAgIHVwZGF0ZXMgPSB7J2Rsb21fbWFudWFsX2VudHJ5JzogaG9sZGluZy5nZXQoJ2Rsb20nKX0KICAgICAgICAgICAgdXBkYXRlX2luc3RhbmNlKGhvbGRpbmdfdG9fdXBkYXRlLCB1cGRhdGVzKQoK</text>
+        <text encoding="base64">ZnJvbSAuY29ycG9yYXRpb24gaW1wb3J0IGdldF9jb3Jwb3JhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaG9sZGluZ3MgaW1wb3J0IEhvbGRpbmdzQ3JlYXRvciwgT3JnYW5pemF0aW9uSG9sZGluZ3NHZXR0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfaG9sZGluZ3Moc2VsZiwgbmV3X2hvbGRpbmdzKToKICAgICAgICBzY2VuYXJpb19ob2xkaW5ncyA9IHNlbGYuaG9sZGluZ3MuYWxsKCkKICAgICAgICBmb3IgaG9sZGluZyBpbiBuZXdfaG9sZGluZ3M6CiAgICAgICAgICAgIGhvbGRpbmdfdG9fdXBkYXRlID0gc2NlbmFyaW9faG9sZGluZ3MuZ2V0KHBrPWhvbGRpbmdbJ2lkJ10pCiAgICAgICAgICAgICMgVE9ETzogdGhpcyBpcyBkdW1iCiAgICAgICAgICAgIHVwZGF0ZXMgPSB7J2Rsb21fbWFudWFsX2VudHJ5JzogaG9sZGluZy5nZXQoJ2Rsb20nKX0KICAgICAgICAgICAgdXBkYXRlX2luc3RhbmNlKGhvbGRpbmdfdG9fdXBkYXRlLCB1cGRhdGVzKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaG9sZGluZ3MgaW1wb3J0IEhvbGRpbmdzQ3JlYXRvciwgT3JnYW5pemF0aW9uSG9sZGluZ3NHZXR0ZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.full_name/.get_full_name()</text>
