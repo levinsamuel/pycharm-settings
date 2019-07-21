@@ -227,11 +227,11 @@
         <mark key="." line="133" column="18" />
         <mark key="^" line="133" column="18" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_add_debt_options.py" timestamp="1563681474876">
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="53" />
-        <mark key="." line="65" column="53" />
-        <mark key="^" line="65" column="53" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_add_debt_options.py" timestamp="1563726367146">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="69" column="10" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="61" column="53" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/admin/umbrella.py" timestamp="1563299641068">
         <mark key="'" line="32" column="25" />
@@ -387,8 +387,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsdWUgPiAw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbW92ZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdhbGxvY2F0aW9uJywKICAgICAgICAgICAgbmFtZT0nZXhjbHVkZXNfZGVidCcsCiAgICAgICAgKSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFsdWUgPiAw</text>
@@ -403,32 +403,32 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBFeGNsdWRlRGVidE9wdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbW92ZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdhbGxvY2F0aW9uJywKICAgICAgICAgICAgbmFtZT0nZXhjbHVkZXNfZGVidCcsCiAgICAgICAgKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBFeGNsdWRlRGVidE9wdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZGVidF9vcHRpb24gaXMgRXhjbHVkZURlYnRPcHRpb25zLkVYQ0xVREVfQUxMCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2V4Y2x1ZGVzX2RlYnQoaW5zdGFuY2UsIGluZm8sICoqa3dhcmdzKToK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2UuZGVidF9vcHRpb24gaXMgRXhjbHVkZURlYnRPcHRpb25zLkVYQ0xVREVfQUxMCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX2V4Y2x1ZGVzX2RlYnQoaW5zdGFuY2UsIGluZm8sICoqa3dhcmdzKToK</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4Y2x1ZGVzX2RlYnQgPSBncmFwaGVuZS5Cb29sZWFuKCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)
             formatted_check_sql</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">MgoKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.full_name/.get_full_name()</text>
