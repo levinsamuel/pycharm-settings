@@ -235,11 +235,11 @@
         <mark key="." line="133" column="18" />
         <mark key="^" line="133" column="18" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1563680646716">
-        <mark key="[" line="535" column="29" />
-        <mark key="]" line="535" column="51" />
-        <mark key="^" line="535" column="51" />
-        <mark key="." line="535" column="51" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1563690293881">
+        <mark key="[" line="540" column="20" />
+        <mark key="]" line="540" column="96" />
+        <mark key="^" line="540" column="96" />
+        <mark key="." line="540" column="96" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_add_debt_options.py" timestamp="1563681474876">
         <mark key="[" line="65" column="42" />
@@ -401,11 +401,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBFeGNsdWRlRGVidE9wdGlvbnMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFsdWUgPiAw</text>
       </register>
       <register name="-" type="4">
-        <text>debt_option</text>
+        <text encoding="base64">dmFsdWUgPiAw</text>
       </register>
       <register name="/" type="4">
         <text>excludes_debt</text>
