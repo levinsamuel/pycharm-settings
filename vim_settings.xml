@@ -149,6 +149,12 @@
         <mark key="." line="177" column="61" />
         <mark key="^" line="177" column="61" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0094_remove_excludes_debt.py" timestamp="1563829355524">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="44" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation.py" timestamp="1563681703019">
         <mark key="[" line="32" column="42" />
         <mark key="]" line="33" column="38" />
@@ -195,11 +201,11 @@
         <mark key="]" line="288" column="0" />
         <mark key="." line="288" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0093_add_debt_options.py" timestamp="1563825035162">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="72" column="11" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0093_add_debt_options.py" timestamp="1563829516178">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/holdings.py" timestamp="1563408103642">
         <mark key="[" line="38" column="0" />
@@ -264,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/multiples.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/multiples.py" />
       <jump line="4" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/comparables.py" />
       <jump line="254" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/comparables.py" />
@@ -364,19 +369,20 @@
       <jump line="709" column="33" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_opm.py" />
       <jump line="1431" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/sensitivity_analysis.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0093_add_debt_options.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>run_allocation</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2FsbG9jYXRpb24nLAogICAgICAgICAgICBuYW1lPSdleGNsdWRlc19kZWJ0JywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLk51bGxCb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSksCiAgICAgICAgKSwK</text>
@@ -385,48 +391,47 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlX29wZXJhdGlvbnMsCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBFeGNsdWRlRGVidE9wdGlvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbW92ZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdhbGxvY2F0aW9uJywKICAgICAgICAgICAgbmFtZT0nZXhjbHVkZXNfZGVidCcsCiAgICAgICAgKSwK</text>
+        <text encoding="base64">aW1wb3J0IGVzaGFyZXMudmFsdWF0aW9ucy5tb2RlbHMudXRpbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVzaGFyZXMudmFsdWF0aW9ucy5jb25zdGFudHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fY3NlKHNlbGYpOgogICAgICAgIHZhbHVhdGlvbiA9IHNlbGYuZ2V0X3ZhbHVhdGlvbigpCiAgICAgICAgYWxsb2NhdGlvbl9kYXRlID0gc2VsZi5nZXRfc2NlbmFyaW9fZGF0ZSgpCiAgICAgICAgYWxsb2NhdGlvbl9idWlsZGVyID0gQWxsb2NhdGlvbkJ1aWxkZXIoCiAgICAgICAgICAgIGNvbXBhbnlfdmFsdWU9c2VsZi5zY2VuYXJpb19jb21wYW55X3ZhbHVlLAogICAgICAgICAgICBub25fY29udmVydGlibGVfZGVidD0wLAogICAgICAgICAgICBkZWJ0X29wdGlvbj1FeGNsdWRlRGVidE9wdGlvbnMuRVhDTFVERV9BTEwsCiAgICAgICAgICAgIHRyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHk9RmFsc2UsCiAgICAgICAgICAgIGFzX29mX2RhdGU9YWxsb2NhdGlvbl9kYXRlLAogICAgICAgICAgICBjYXB0YWJsZV9kYXRhPXZhbHVhdGlvbi5nZXRfY2FwdGFibGVfZGF0YSgpLAogICAgICAgICAgICB0aW1lX3RvX25leHRfbGlxdWlkaXR5PXNlbGYuYWxsb2NhdGlvbi5nZXRfdGltZV90b19uZXh0X2xpcXVpZGl0eSgpLAogICAgICAgICAgICByaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGU9c2VsZi5hbGxvY2F0aW9uLnJpc2tfZnJlZV9yYXRlX3dlaWdodGVkX3R0ZSwKICAgICAgICAgICAgdm9sYXRpbGl0eT1zZWxmLmFsbG9jYXRpb24udm9sYXRpbGl0eSwKICAgICAgICApCgogICAgICAgIGJyZWFrcG9pbnRzLCB0b3RhbHMgPSBhbGxvY2F0aW9uX2J1aWxkZXIucnVuX2NzZSgpCgogICAgICAgIHNlbGYuYWxsb2NhdGlvbi5icmVha3BvaW50cyA9IGJyZWFrcG9pbnRzCiAgICAgICAgc2VsZi5hbGxvY2F0aW9uLnRvdGFscyA9IHRvdGFscwogICAgICAgIHNlbGYuYWxsb2NhdGlvbi5hbGxvY2F0aW9uX2RhdGUgPSBhbGxvY2F0aW9uX2RhdGUKICAgICAgICBzZWxmLmFsbG9jYXRpb24uc2F2ZSh1cGRhdGVfZmllbGRzPVsnYnJlYWtwb2ludHMnLCAndG90YWxzJywgJ2FsbG9jYXRpb25fZGF0ZSddKQoK</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdhbGxvY2F0aW9uJywKICAgICAgICAgICAgbmFtZT0nZGVidF9vcHRpb24nLAogICAgICAgICAgICBmaWVsZD1lc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzLnV0aWxzLkVudW1GaWVsZCgKICAgICAgICAgICAgICAgIGRlZmF1bHQ9RXhjbHVkZURlYnRPcHRpb25zLklOQ0xVREVfQUxMLAogICAgICAgICAgICAgICAgZW51bT1lc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzLkV4Y2x1ZGVEZWJ0T3B0aW9ucywKICAgICAgICAgICAgKSwKICAgICAgICApLAogICAgICAgIG1pZ3JhdGlvbnMuUnVuUHl0aG9uKHBvcHVsYXRlX2RlYnRfb3B0aW9uKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uX3ByaWNpbmdfbW9kZWwgPSBzY2VuYXJpby5fZ2V0X3VwZGF0ZWRfb3BtKGFsbG9jYXRpb25fYnVpbGRlcikK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X3VwZGF0ZWRfb3BtKHNlbGYsIGFsbG9jYXRpb25fYnVpbGRlcik6CiAgICAgICAgYWxsb2NhdGlvbiA9IHNlbGYuYWxsb2NhdGlvbgogICAgICAgIGFsbG9jYXRpb24ud2VpZ2h0ZWRfdGltZV90b19leGl0ID0gYWxsb2NhdGlvbl9idWlsZGVyLnRpbWVfdG9fbmV4dF9saXF1aWRpdHkKICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIucmlza19mcmVlX3JhdGVfd2VpZ2h0ZWRfdHRlID0gYWxsb2NhdGlvbi5yaXNrX2ZyZWVfcmF0ZV93ZWlnaHRlZF90dGUKCiAgICAgICAgcmV0dXJuIGFsbG9jYXRpb25fYnVpbGRlci5nZXRfb3BtKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fYWxsb2NhdGlvbihzZWxmKToKICAgICAgICBhbGxvY2F0aW9uX21ldGhvZG9sb2d5ID0gc2VsZi5hbGxvY2F0aW9uLmFsbG9jYXRpb25fbWV0aG9kb2xvZ3kKCiAgICAgICAgaWYgYWxsb2NhdGlvbl9tZXRob2RvbG9neSBpbiAoCiAgICAgICAgICAgIGNvbnN0YW50cy5PUFRJT05fUFJJQ0lOR19NT0RFTCwKICAgICAgICAgICAgY29uc3RhbnRzLldBVEVSRkFMTCwKICAgICAgICApOgogICAgICAgICAgICBzZWxmLnJ1bl9vcG0oKQogICAgICAgIGVsaWYgYWxsb2NhdGlvbl9tZXRob2RvbG9neSA9PSBjb25zdGFudHMuQ09NTU9OX1NUT0NLX0VRVUlWQUxFTlQ6CiAgICAgICAgICAgIHNlbGYucnVuX2NzZSgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcignVW5rbm93biBhbGxvY2F0aW9uIG1ldGhvZG9sb2d5JykKCiAgICBkZWYgcnVuX29wbShzZWxmKToKICAgICAgICBpZiBub3Qgc2VsZi5hbGxvY2F0aW9uLnZvbGF0aWxpdHk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1ZvbGF0aWxpdHkgcmVxdWlyZWQgaW4gb3JkZXIgdG8gcnVuIHRoZSBtYWluIGFsbG9jYXRpb24nKQoKICAgICAgICBhbGxvY2F0aW9uX2J1aWxkZXIgPSBzZWxmLmdldF9hbGxvY2F0aW9uX2J1aWxkZXIoKQoKICAgICAgICBkaXN0cmlidXRpb25zLCBicmVha3BvaW50cywgdG90YWxzID0gYWxsb2NhdGlvbl9idWlsZGVyLnJ1bl9vcG0oKQogICAgICAgIHNlbGYuYWxsb2NhdGlvbi5kaXN0cmlidXRpb25zID0gZGlzdHJpYnV0aW9ucwogICAgICAgIHNlbGYuYWxsb2NhdGlvbi5icmVha3BvaW50cyA9IGJyZWFrcG9pbnRzCiAgICAgICAgc2VsZi5hbGxvY2F0aW9uLnRvdGFscyA9IHRvdGFscwogICAgICAgIHNlbGYuYWxsb2NhdGlvbi5hbGxvY2F0aW9uX2RhdGUgPSBhbGxvY2F0aW9uX2J1aWxkZXIuYXNfb2ZfZGF0ZQogICAgICAgIHNlbGYuYWxsb2NhdGlvbi5zYXZlKHVwZGF0ZV9maWVsZHM9WydkaXN0cmlidXRpb25zJywgJ2JyZWFrcG9pbnRzJywgJ3RvdGFscycsICdhbGxvY2F0aW9uX2RhdGUnXSkKCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogU2hvdWxkIGJlIGEgc2VydmljZQo=</text>
+        <text encoding="base64">ICAgIHN0YXRlX29wZXJhdGlvbnMgPSBbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbW92ZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdhbGxvY2F0aW9uJywKICAgICAgICAgICAgbmFtZT0nZXhjbHVkZXNfZGVidCcsCiAgICAgICAgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\.full_name/.get_full_name()</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>run_allocation</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>run_allocation</last-pattern>
-      <last-replace>.get_full_name()</last-replace>
-      <last-substitute>\.full_name</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>User</entry>
         <entry>user</entry>
         <entry>User()</entry>
         <entry>to_user</entry>
@@ -446,9 +451,9 @@
         <entry>db_type</entry>
         <entry>excludes_debt</entry>
         <entry>run_allocation</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/</entry>
         <entry>%s/\.py//g</entry>
         <entry>%s/\)/'),/g</entry>
         <entry>%s/)/'),/g</entry>
@@ -468,6 +473,7 @@
         <entry>s/, /,\r/g</entry>
         <entry>%s/User()/MagicMock()/</entry>
         <entry>%s/\.full_name/.get_full_name()</entry>
+        <entry>%s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
