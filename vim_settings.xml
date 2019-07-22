@@ -6,6 +6,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/common/components/views.py" timestamp="1563468878168">
         <mark key="'" line="437" column="32" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/data_integrity/val_reports/valuation_calculations.py" timestamp="1563826826570">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/salesforce/integration.py" timestamp="1563403411437">
         <mark key="'" line="19" column="29" />
         <mark key="[" line="0" column="0" />
@@ -51,6 +56,12 @@
         <mark key="]" line="116" column="22" />
         <mark key="." line="116" column="22" />
         <mark key="^" line="116" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1563826858617">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1563817864202">
         <mark key="'" line="1375" column="22" />
@@ -358,11 +369,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlX29wZXJhdGlvbnMsCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Scenario.objects.get</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>run_allocation</text>
