@@ -44,6 +44,12 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="1342" column="0" />
       </file>
+      <file name="$USER_HOME$/git/carta-python-util/carta/util/encoders.py" timestamp="1563842529379">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/tasks/nightly_fmv_check.py" timestamp="1563681186892">
         <mark key="'" line="42" column="29" />
         <mark key="[" line="45" column="12" />
@@ -144,12 +150,17 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/allocation/excludes_debt.py" timestamp="1563727911478">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/allocation/excludes_debt.py" timestamp="1563845194628">
         <mark key="'" line="27" column="13" />
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+        <mark key="[" line="71" column="101" />
+        <mark key="]" line="71" column="106" />
+        <mark key="." line="71" column="106" />
+        <mark key="^" line="71" column="106" />
+      </file>
+      <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/encoder.py" timestamp="1563843125243">
+        <mark key="[" line="256" column="30" />
+        <mark key="]" line="256" column="32" />
+        <mark key="." line="256" column="32" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/umbrella.py" timestamp="1563381980287">
         <mark key="[" line="10" column="0" />
@@ -374,10 +385,10 @@
         <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
