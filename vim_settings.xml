@@ -28,12 +28,12 @@
         <mark key="]" line="149" column="9" />
         <mark key="." line="149" column="9" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" timestamp="1563681108454">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" timestamp="1563910644824">
         <mark key="'" line="35" column="13" />
-        <mark key="[" line="116" column="12" />
-        <mark key="]" line="116" column="22" />
-        <mark key="." line="116" column="22" />
-        <mark key="^" line="116" column="22" />
+        <mark key="[" line="648" column="27" />
+        <mark key="]" line="648" column="26" />
+        <mark key="." line="648" column="26" />
+        <mark key="^" line="648" column="26" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1563826858617">
         <mark key="[" line="19" column="23" />
@@ -129,7 +129,8 @@
         <mark key="." line="133" column="18" />
         <mark key="^" line="133" column="18" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1563841528288">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1563910374869">
+        <mark key="'" line="1257" column="0" />
         <mark key="[" line="547" column="98" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_add_debt_options.py" timestamp="1563726367146">
@@ -287,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/multiples.py" />
       <jump line="4" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/comparables.py" />
       <jump line="254" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/comparables.py" />
       <jump line="49" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/graphene/types/scenario_type.py" />
@@ -387,6 +387,7 @@
       <jump line="1431" column="22" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/sensitivity_analysis.py" />
       <jump line="9" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0093_add_debt_options.py" />
+      <jump line="1257" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -399,7 +400,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>ExcludeD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2FsbG9jYXRpb24nLAogICAgICAgICAgICBuYW1lPSdleGNsdWRlc19kZWJ0JywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLk51bGxCb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSksCiAgICAgICAgKSwK</text>
@@ -439,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>ExcludeD</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>ExcludeD</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>User()</entry>
         <entry>to_user</entry>
         <entry>export</entry>
@@ -469,6 +469,7 @@
         <entry>excludes_debt</entry>
         <entry>run_allocation</entry>
         <entry>&quot;</entry>
+        <entry>ExcludeD</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.py//g</entry>
