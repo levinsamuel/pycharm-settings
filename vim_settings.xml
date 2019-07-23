@@ -28,12 +28,12 @@
         <mark key="]" line="149" column="9" />
         <mark key="." line="149" column="9" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" timestamp="1563910644824">
-        <mark key="'" line="35" column="13" />
-        <mark key="[" line="648" column="27" />
-        <mark key="]" line="648" column="26" />
-        <mark key="." line="648" column="26" />
-        <mark key="^" line="648" column="26" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" timestamp="1563911548745">
+        <mark key="'" line="36" column="13" />
+        <mark key="[" line="1903" column="32" />
+        <mark key="]" line="1903" column="50" />
+        <mark key="." line="1903" column="32" />
+        <mark key="^" line="847" column="30" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1563826858617">
         <mark key="[" line="19" column="23" />
@@ -129,9 +129,12 @@
         <mark key="." line="133" column="18" />
         <mark key="^" line="133" column="18" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1563910374869">
-        <mark key="'" line="1257" column="0" />
-        <mark key="[" line="547" column="98" />
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" timestamp="1563911303008">
+        <mark key="'" line="1261" column="0" />
+        <mark key="[" line="545" column="43" />
+        <mark key="]" line="545" column="50" />
+        <mark key="^" line="545" column="50" />
+        <mark key="." line="545" column="50" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0090_add_debt_options.py" timestamp="1563726367146">
         <mark key="[" line="66" column="0" />
@@ -390,20 +393,20 @@
       <jump line="1257" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/constants.py" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIHVzZXJfc2VydmljZSA9IFVzZXJTZXJ2aWNlLmZhY3RvcnkoKQogICAgdXNlciA9IHVzZXJfc2VydmljZS5nZXQocGs9dXNlcl9pZCkK</text>
+      <register name="a" type="4">
+        <text>.includes_any_debt</text>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>.includes_any_debt</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ExcludeD</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2FsbG9jYXRpb24nLAogICAgICAgICAgICBuYW1lPSdleGNsdWRlc19kZWJ0JywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLk51bGxCb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSksCiAgICAgICAgKSwK</text>
+      <register name="0" type="4">
+        <text>.includes_any_debt</text>
       </register>
       <register name="q" type="4">
         <text />
