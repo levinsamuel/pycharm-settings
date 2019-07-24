@@ -45,11 +45,11 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1563926344067">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1564001330575">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="4" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="135" column="4" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1563826858617">
         <mark key="[" line="19" column="23" />
@@ -96,12 +96,12 @@
         <mark key="." line="97" column="45" />
         <mark key="^" line="97" column="45" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1563997816873">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564001491280">
         <mark key="'" line="114" column="0" />
-        <mark key="[" line="160" column="12" />
-        <mark key="]" line="160" column="22" />
-        <mark key="^" line="160" column="22" />
-        <mark key="." line="160" column="22" />
+        <mark key="[" line="163" column="8" />
+        <mark key="]" line="163" column="36" />
+        <mark key="^" line="163" column="36" />
+        <mark key="." line="163" column="36" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1563905591122">
         <mark key="[" line="235" column="13" />
@@ -268,11 +268,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/__init__.py" timestamp="1563926504626">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/__init__.py" timestamp="1564001413639">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="87" />
+        <mark key="^" line="1" column="87" />
+        <mark key="." line="1" column="87" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/financials.py" timestamp="1563398316158">
         <mark key="'" line="7" column="5" />
@@ -326,12 +326,12 @@
         <mark key="^" line="84" column="51" />
         <mark key="." line="84" column="51" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1563926036007">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="29" column="46" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1564001429815">
+        <mark key="'" line="130" column="4" />
+        <mark key="[" line="35" column="59" />
+        <mark key="]" line="35" column="89" />
+        <mark key="^" line="35" column="89" />
+        <mark key="." line="35" column="89" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/enum.py" timestamp="1563673862809">
         <mark key="[" line="517" column="4" />
@@ -481,16 +481,16 @@
         <text>.includes_any_debt</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>ExcludeD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyAgICBjb21wYW55IHZhbHVlOiAlc1xuJwo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBjb21wbGV4X2Zvcm1hdHRlZF9jYXB0YWJsZV9kYXRhKCk6CiAgICBjYXB0YWJsZV9kYXRhID0gQ2FwdGFibGVGb3JtYXR0ZXIuZ2V0X2NhcHRhYmxlX2FzX2RpY3QoY2FwdGFibGVfZGF0YV9oaWdobHlfY29tcGxleCkKICAgIHJldHVybiBjYXB0YWJsZV9kYXRhCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
