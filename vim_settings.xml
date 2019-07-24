@@ -39,8 +39,8 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1564006084629">
-        <mark key="'" line="385" column="8" />
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1564007863658">
+        <mark key="'" line="140" column="39" />
         <mark key="[" line="45" column="44" />
         <mark key="]" line="45" column="62" />
         <mark key="^" line="45" column="62" />
@@ -344,9 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="56" filename="$USER_HOME$/git/carta-web/eshares/valuations/scripts/migrate_monolith_data.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="97" column="62" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="98" column="17" filename="$USER_HOME$/git/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" />
       <jump line="194" column="37" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" />
@@ -444,6 +441,9 @@
       <jump line="55" column="21" filename="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" />
       <jump line="46" column="61" filename="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" />
       <jump line="385" column="8" filename="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" />
+      <jump line="125" column="41" filename="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" />
+      <jump line="386" column="8" filename="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" />
+      <jump line="140" column="39" filename="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,7 +456,7 @@
         <text>&quot;Actual/365&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>'Simple interest'</text>
+        <text>&quot;False&quot;</text>
       </register>
       <register name="0" type="4">
         <text>interest_compounding</text>
@@ -492,23 +492,20 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnVuY2FwcGVkX25vdGVzID0gY2FwdGFibGUuZ2V0KCd1bmNhcHBlZF9ub3RlcycsIE5vbmUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/'Simple interest'/CompoundingPeriod.SIMPLE/g</text>
+        <text>%s/&quot;False&quot;/False/g</text>
       </register>
     </registers>
     <search>
-      <last-search>'Simple interest'</last-search>
+      <last-search>&quot;False&quot;</last-search>
       <last-offset />
-      <last-pattern>'Simple interest'</last-pattern>
-      <last-replace>CompoundingPeriod.SIMPLE</last-replace>
-      <last-substitute>'Simple interest'</last-substitute>
+      <last-pattern>&quot;False&quot;</last-pattern>
+      <last-replace>False</last-replace>
+      <last-substitute>&quot;False&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.full_name</entry>
-        <entry>import</entry>
-        <entry>valuations</entry>
         <entry>authenticated</entry>
         <entry>run_allo</entry>
         <entry>exlucde</entry>
@@ -526,11 +523,11 @@
         <entry>interest_compounding</entry>
         <entry>&quot;Simple interest&quot;</entry>
         <entry>'Simple interest'</entry>
+        <entry>&quot;Actual\/365&quot;</entry>
+        <entry>'Actual\/365'</entry>
+        <entry>&quot;False&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ee_probability/early_exit_probability/</entry>
-        <entry>%s/le_probability/late_exit_probability/</entry>
-        <entry>%s/:/: /g</entry>
         <entry>s/, /,\n/g</entry>
         <entry>s/, /,\x0a/g</entry>
         <entry>s/, /,\x0A/g</entry>
@@ -548,6 +545,9 @@
         <entry>%s/'Simple interest'/CompoundingPeriod.SIMPLE/g</entry>
         <entry>%s/&quot;Actual/365&quot;/DayCount.ACTUAL_365/g</entry>
         <entry>%s/'Actual/365'/DayCount.ACTUAL_365/g</entry>
+        <entry>%s/&quot;Actual\/365&quot;/DayCount.ACTUAL_365/g</entry>
+        <entry>%s/'Actual\/365'/DayCount.ACTUAL_365/g</entry>
+        <entry>%s/&quot;False&quot;/False/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
