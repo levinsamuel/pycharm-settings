@@ -96,12 +96,12 @@
         <mark key="." line="97" column="45" />
         <mark key="^" line="97" column="45" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564001491280">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564003361484">
         <mark key="'" line="114" column="0" />
-        <mark key="[" line="163" column="8" />
-        <mark key="]" line="163" column="36" />
-        <mark key="^" line="163" column="36" />
-        <mark key="." line="163" column="36" />
+        <mark key="[" line="164" column="82" />
+        <mark key="]" line="164" column="80" />
+        <mark key="^" line="164" column="80" />
+        <mark key="." line="164" column="80" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1563905591122">
         <mark key="[" line="235" column="13" />
@@ -215,9 +215,9 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1563997471750">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="36" column="48" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1564003330182">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="43" />
         <mark key="^" line="36" column="48" />
         <mark key="." line="36" column="48" />
       </file>
@@ -481,7 +481,7 @@
         <text>.includes_any_debt</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>allocation.get_non_convertible_debt_wtte</text>
       </register>
       <register name="-" type="4">
         <text>pass</text>
@@ -489,8 +489,8 @@
       <register name="/" type="4">
         <text>ExcludeD</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBjb21wbGV4X2Zvcm1hdHRlZF9jYXB0YWJsZV9kYXRhKCk6CiAgICBjYXB0YWJsZV9kYXRhID0gQ2FwdGFibGVGb3JtYXR0ZXIuZ2V0X2NhcHRhYmxlX2FzX2RpY3QoY2FwdGFibGVfZGF0YV9oaWdobHlfY29tcGxleCkKICAgIHJldHVybiBjYXB0YWJsZV9kYXRhCgoK</text>
+      <register name="0" type="4">
+        <text>allocation.get_non_convertible_debt_wtte</text>
       </register>
       <register name="q" type="4">
         <text />
