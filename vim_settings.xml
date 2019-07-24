@@ -58,11 +58,7 @@
         <mark key="." line="21" column="11" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" timestamp="1563913205375">
-        <mark key="'" line="1375" column="22" />
-        <mark key="[" line="1097" column="42" />
-        <mark key="]" line="1097" column="43" />
-        <mark key="^" line="1097" column="43" />
-        <mark key="." line="1097" column="43" />
+        <mark key="'" line="1428" column="22" />
       </file>
       <file name="$USER_HOME$/git/carta-python-util/carta/util/encoders.py" timestamp="1563842529379">
         <mark key="[" line="14" column="27" />
@@ -185,10 +181,9 @@
         <mark key="^" line="61" column="53" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" timestamp="1563915965065">
-        <mark key="'" line="33" column="48" />
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="34" />
-        <mark key="^" line="77" column="22" />
+        <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/hybrid.py" timestamp="1563681735574">
@@ -220,6 +215,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" timestamp="1563982230394">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1563681726740">
         <mark key="[" line="36" column="42" />
@@ -297,11 +297,7 @@
         <mark key="^" line="36" column="67" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" timestamp="1563912986337">
-        <mark key="'" line="445" column="16" />
-        <mark key="[" line="106" column="31" />
-        <mark key="]" line="106" column="61" />
-        <mark key="." line="106" column="61" />
-        <mark key="^" line="106" column="61" />
+        <mark key="'" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/gpc.py" timestamp="1563380709461">
         <mark key="'" line="108" column="0" />
@@ -458,8 +454,8 @@
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhhc19jYXBwZWRfbm90ZXMgPSBjYXB0YWJsZS5nZXQoJ2hhc19jYXBwZWRfbm90ZXMnLCBOb25lKQo=</text>
       </register>
       <register name="-" type="4">
         <text>None</text>
@@ -474,31 +470,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhhc19jYXBwZWRfbm90ZXMgPSBjYXB0YWJsZS5nZXQoJ2hhc19jYXBwZWRfbm90ZXMnLCBOb25lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVuY2FwcGVkX25vdGVzID0gY2FwdGFibGUuZ2V0KCd1bmNhcHBlZF9ub3RlcycsIE5vbmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENPTU1PTl9TSEFSRV9DTEFTUywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFBSRUZFUlJFRF9TSEFSRV9DTEFTUywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCAoCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDYXB0YWJsZURhdGEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIENPTU1PTl9TSEFSRV9DTEFTUywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFBSRUZFUlJFRF9TSEFSRV9DTEFTUywK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCAoCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
