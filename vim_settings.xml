@@ -19,6 +19,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1564079774703" />
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_constants.py" timestamp="1563914075777">
         <mark key="[" line="42" column="9" />
         <mark key="]" line="42" column="9" />
@@ -75,12 +76,12 @@
         <mark key="." line="97" column="45" />
         <mark key="^" line="97" column="45" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564078248613">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564080129288">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="166" column="6" />
-        <mark key="]" line="167" column="33" />
-        <mark key="^" line="167" column="33" />
-        <mark key="." line="167" column="33" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="175" column="7" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1563905591122">
         <mark key="[" line="235" column="13" />
@@ -127,6 +128,7 @@
         <mark key="." line="138" column="89" />
         <mark key="^" line="138" column="89" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/ddtrace/internal/logger.py" timestamp="1564080185173" />
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/approaches/gpc.py" timestamp="1563379638936">
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
@@ -171,10 +173,10 @@
         <mark key="^" line="673" column="73" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/logging/__init__.py" timestamp="1564078372795">
-        <mark key="[" line="1511" column="17" />
-        <mark key="]" line="1512" column="35" />
-        <mark key="^" line="1512" column="35" />
-        <mark key="." line="1512" column="35" />
+        <mark key="[" line="1510" column="17" />
+        <mark key="]" line="1510" column="35" />
+        <mark key="^" line="1510" column="35" />
+        <mark key="." line="1510" column="35" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" timestamp="1563915965065">
         <mark key="[" line="4" column="34" />
@@ -191,11 +193,11 @@
       <file name="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" timestamp="1564077414137">
         <mark key="'" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1564005011692">
-        <mark key="[" line="25" column="83" />
-        <mark key="]" line="25" column="83" />
-        <mark key="^" line="25" column="83" />
-        <mark key="." line="25" column="83" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1564079903013">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="28" column="61" />
+        <mark key="^" line="28" column="61" />
+        <mark key="." line="28" column="61" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/encoder.py" timestamp="1563843125243">
         <mark key="[" line="256" column="30" />
@@ -431,11 +433,11 @@
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>critical</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykK</text>
       </register>
       <register name="-" type="4">
-        <text>critical</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>LOGGING</text>
@@ -447,31 +449,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5wcm9wYWdhdGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvZy5oYXNIYW5kbGVycygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvZy5nZXRFZmZlY3RpdmVMZXZlbCgpKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5wcm9wYWdhdGUgPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvZy5wcm9wYWdhdGUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZy5oYXNIYW5kbGVycygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuY3JpdGljYWwoJ3lpZWxkZWQgYmFja3NvbHZlIHZhbHVlOiAlcycsIGJhY2tzb2x2ZV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZy5nZXRFZmZlY3RpdmVMZXZlbCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvZy5pc0VuYWJsZWRGb3IobG9nZ2luZy5DUklUSUNBTCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZy5wcm9wYWdhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvZ2dpbmcuZ2V0TG9nZ2VyQ2xhc3MoKSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuY3JpdGljYWwoJ3lpZWxkZWQgYmFja3NvbHZlIHZhbHVlOiAlcycsIGJhY2tzb2x2ZV92YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvZ2dpbmcucm9vdC5pc0VuYWJsZWRGb3IobG9nZ2luZy5DUklUSUNBTCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZy5pc0VuYWJsZWRGb3IobG9nZ2luZy5DUklUSUNBTCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdiYWNrc29sdmUgdmFsdWU6JywgYmFja3NvbHZlX3ZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZ2dpbmcuZ2V0TG9nZ2VyQ2xhc3MoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;Cumulative&quot;/Dividend.CUMULATIVE/g</text>
