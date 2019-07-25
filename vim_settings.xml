@@ -38,10 +38,6 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/models/captable/captable_data.py" timestamp="1564005658707">
-        <mark key="[" line="292" column="44" />
-        <mark key="]" line="292" column="63" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/excel_option_pricing_model.py" timestamp="1563916055337">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="12" column="34" />
@@ -280,10 +276,6 @@
         <mark key="^" line="41" column="68" />
         <mark key="." line="41" column="49" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/migrations/0093_auto_20190722_1247.py" timestamp="1563824973365">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="18" column="10" />
-      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1563681726740">
         <mark key="[" line="36" column="42" />
         <mark key="]" line="37" column="38" />
@@ -366,8 +358,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="36" column="67" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" timestamp="1563912986337">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" timestamp="1564091809986">
         <mark key="'" line="7" column="16" />
+        <mark key="[" line="371" column="47" />
+        <mark key="]" line="371" column="47" />
+        <mark key="^" line="371" column="47" />
+        <mark key="." line="371" column="47" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/gpc.py" timestamp="1563380709461">
         <mark key="'" line="108" column="0" />
@@ -533,51 +529,47 @@
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYXBwZWQgPSBtYXAobWFwX2Z1bmMsIGNhcHBlZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>nb</text>
       </register>
       <register name="/" type="4">
         <text>LOGGING</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBjYXBwZWQgPSBtYXAobWFwX2Z1bmMsIGNhcHBlZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmIgaW4gbm90ZXM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG5vdGUgaW4gY29udmVydGlibGVfbm90ZXM6CiAgICAgICAgICAgICAgICBpbnRlcmVzdF9hY2NydWVkID0gbm90ZS5jYWxjdWxhdGVfaW50ZXJlc3Qoc2VsZi5maW5hbmNpYWxfZGF0ZV9lbmQpCiAgICAgICAgICAgICAgICBjb252ZXJ0aWJsZV9ub3Rlc192YWx1ZSArPSBub3RlLnByaW5jaXBhbCArIGludGVyZXN0X2FjY3J1ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWtwb2ludCA9IENvbnZlcnRpYmxlTm90ZUJQKAogICAgICAgICAgICAgICAgY2FwdGFibGVfZGF0YT1uYiwKICAgICAgICAgICAgICAgIGxpcXVpZGl0eV9kYXRlPXNlbGYubGlxdWlkaXR5X2RhdGUsCiAgICAgICAgICAgICAgICBmdWxseV9kaWx1dGVkX2NvdW50PXNlbGYuZnVsbHlfZGlsdXRlZF9jb3VudCwKICAgICAgICAgICAgICAgIHNlbmlvcml0eT1zZW5pb3JpdHksCiAgICAgICAgICAgICkK</text>
       </register>
-      <register name="3" type="4">
-        <text>for note in notes[constants.NOTE]:
-                convertible_notes_value += (
-                    note
-                    .calculate_interest_with_principal(self.backsolve_date)
-                )</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xzID0gYnJlYWtwb2ludC5hc19jbGFzc19kaWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0aWJsZV9ub3Rlc192YWx1ZSA9IERlY2ltYWwoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5vdGVzID0gc2VsZi5nZXRfY2FwdGFibGVfZGF0YShzZWN1cml0eV90eXBlPWNvbnN0YW50cy5OT1RFKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FwID0gbmIudmFsdWF0aW9uX2NhcAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnN0YW50cy5OT1RFIGluIG5vdGVzOgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PSBbXQogICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY2FwIGlzIG5vdCBOb25lIGFuZCBzZWxmLnRyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHk6CiAgICAgICAgICAgICAgICBjYXBwZWQuYXBwZW5kKGNscykKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICMgdW5jYXBwZWQgbm90ZXMgYXJlIHRyZWF0ZWQgYXMgZGVidCBvbmx5LiB3ZSBjYW4ndCBtb2RlbCB0aGVtCiAgICAgICAgICAgICAgICAjIGFzIGVxdWl0eS4KICAgICAgICAgICAgICAgIHVuY2FwcGVkLmFwcGVuZChjbHMpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBub3RlcyA9IHNvcnRlZCgKICAgICAgICAgICAgc2VsZi5jYXB0YWJsZV9kYXRhW2NvbnN0YW50cy5OT1RFXSwKICAgICAgICAgICAga2V5PWxhbWJkYSBub3RlOiBub3RlLnZhbHVhdGlvbl9jYXAgb3IgLTEsICAjIC0xIGlmIG5vIHZhbHVhdGlvbiBjYXAKICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFueSB2YWx1ZTonLCByZXR1cm5fYmFja3NvbHZlLmJhY2tzb2x2ZV9lcXVpdHlfdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;Cumulative&quot;/Dividend.CUMULATIVE/g</text>
