@@ -358,12 +358,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="36" column="67" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" timestamp="1564095214689">
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" timestamp="1564098554043">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="332" column="29" />
-        <mark key="]" line="332" column="32" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="0" />
         <mark key="^" line="332" column="32" />
-        <mark key="." line="332" column="32" />
+        <mark key="." line="347" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/gpc.py" timestamp="1563380709461">
         <mark key="'" line="108" column="0" />
@@ -529,8 +529,8 @@
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>backsolve_equity_value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>backsolve_equity_value</text>
@@ -545,31 +545,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZXF1aXR5X3ZhbHVlID0gYmFja3NvbHZlX3ZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZXF1aXR5X3ZhbHVlID0gYmFja3NvbHZlX3ZhbHVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZXF1aXR5X3ZhbHVlID0gYmFja3NvbHZlX3ZhbHVlIC0gZGVidAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ0ID0gYmFja3NvbHZlLmdldF9pbnRlcmVzdF9iZWFyaW5nX2xpYWJpbGl0aWVzKCkK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZXF1aXR5X3ZhbHVlID0gYmFja3NvbHZlX3ZhbHVlIC0gZGVidAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGJhY2tzb2x2ZS5hbGxvY2F0aW9uLnVzZXNfbXZpYzoK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ0ID0gYmFja3NvbHZlLmdldF9pbnRlcmVzdF9iZWFyaW5nX2xpYWJpbGl0aWVzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyAgIHVuY2FwcGVkIG5vdGVzOiAlc1xuJywK</text>
+        <text encoding="base64">ICAgIGlmIGJhY2tzb2x2ZS5hbGxvY2F0aW9uLnVzZXNfbXZpYzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub25fY29udmVydGlibGVfZGVidCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJyAgIHVuY2FwcGVkIG5vdGVzOiAlc1xuJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bmNhcHBlZCA9IGxpc3QobWFwKG1hcF9mdW5jLCB1bmNhcHBlZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBub25fY29udmVydGlibGVfZGVidCA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXBwZWQsIHVuY2FwcGVkID0gc2VsZi5fZmlsdGVyX3NvcnRlZF9jb252ZXJ0aWJsZV9ub3RlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICB1bmNhcHBlZCA9IGxpc3QobWFwKG1hcF9mdW5jLCB1bmNhcHBlZCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;Cumulative&quot;/Dividend.CUMULATIVE/g</text>
