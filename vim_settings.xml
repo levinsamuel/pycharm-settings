@@ -333,6 +333,13 @@
         <mark key="." line="74" column="39" />
         <mark key="^" line="74" column="39" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" timestamp="1564089883832">
+        <mark key="'" line="180" column="4" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/allocation/allocation_builder/test_allocation_builder.py" timestamp="1563997320367">
         <mark key="'" line="9" column="15" />
         <mark key="[" line="29" column="0" />
@@ -421,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="82" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
-      <jump line="70" column="31" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
       <jump line="25" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
       <jump line="1434" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="1148" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
@@ -521,56 +526,58 @@
       <jump line="3" column="29" filename="$USER_HOME$/git/carta-web/eshares/settings/test.py" />
       <jump line="188" column="10" filename="$USER_HOME$/git/carta-web/eshares/settings/test.py" />
       <jump line="1154" column="49" filename="$USER_HOME$/git/carta-web/eshares/settings/base.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" />
+      <jump line="171" column="4" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/backsolves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG5vdGUgaW4gY29udmVydGlibGVfbm90ZXM6CiAgICAgICAgICAgICAgICBpbnRlcmVzdF9hY2NydWVkID0gbm90ZS5jYWxjdWxhdGVfaW50ZXJlc3Qoc2VsZi5maW5hbmNpYWxfZGF0ZV9lbmQpCiAgICAgICAgICAgICAgICBjb252ZXJ0aWJsZV9ub3Rlc192YWx1ZSArPSBub3RlLnByaW5jaXBhbCArIGludGVyZXN0X2FjY3J1ZWQK</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>convertible_notes_value</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>LOGGING</text>
       </register>
-      <register name="0" type="4">
-        <text>security_type</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIG5vdGUgaW4gY29udmVydGlibGVfbm90ZXM6CiAgICAgICAgICAgICAgICBpbnRlcmVzdF9hY2NydWVkID0gbm90ZS5jYWxjdWxhdGVfaW50ZXJlc3Qoc2VsZi5maW5hbmNpYWxfZGF0ZV9lbmQpCiAgICAgICAgICAgICAgICBjb252ZXJ0aWJsZV9ub3Rlc192YWx1ZSArPSBub3RlLnByaW5jaXBhbCArIGludGVyZXN0X2FjY3J1ZWQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>for note in notes[constants.NOTE]:
                 convertible_notes_value += (
                     note
                     .calculate_interest_with_principal(self.backsolve_date)
                 )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjb252ZXJ0aWJsZV9ub3Rlc192YWx1ZSA9IERlY2ltYWwoMCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG5vdGVzID0gc2VsZi5nZXRfY2FwdGFibGVfZGF0YShzZWN1cml0eV90eXBlPWNvbnN0YW50cy5OT1RFKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIGNvbnN0YW50cy5OT1RFIGluIG5vdGVzOgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGVmCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnXG4nKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFueSB2YWx1ZTonLCByZXR1cm5fYmFja3NvbHZlLmJhY2tzb2x2ZV9lcXVpdHlfdmFsdWUpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYmFja3NvbHZlIG12aWMgdmFsdWU6JywgcmV0dXJuX2JhY2tzb2x2ZS5hcHByb2FjaF9tdmljKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFueSB2YWx1ZTonLCByZXR1cm5fYmFja3NvbHZlLmJhY2tzb2x2ZV9lcXVpdHlfdmFsdWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;Cumulative&quot;/Dividend.CUMULATIVE/g</text>
