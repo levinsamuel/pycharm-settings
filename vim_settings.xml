@@ -20,11 +20,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/allocation/captable_formatter/test_allocation_configuration.py" timestamp="1564109173675">
-        <mark key="[" line="9" column="70" />
-        <mark key="]" line="9" column="70" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="9" column="70" />
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/allocation/captable_formatter/test_allocation_configuration.py" timestamp="1564111193093">
+        <mark key="'" line="16" column="37" />
+        <mark key="[" line="60" column="61" />
+        <mark key="]" line="61" column="80" />
+        <mark key="^" line="61" column="80" />
+        <mark key="." line="61" column="80" />
       </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_constants.py" timestamp="1563914075777">
         <mark key="[" line="42" column="9" />
@@ -45,11 +46,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1564008750474">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1564110614683">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="90" column="13" />
+        <mark key="^" line="91" column="7" />
+        <mark key="." line="91" column="7" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/__init__.py" timestamp="1563826858617">
         <mark key="[" line="19" column="23" />
@@ -103,12 +104,12 @@
         <mark key="." line="97" column="45" />
         <mark key="^" line="97" column="45" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564100756531">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564111277994">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="193" column="79" />
-        <mark key="]" line="193" column="79" />
-        <mark key="^" line="193" column="79" />
-        <mark key="." line="193" column="79" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="174" column="43" />
+        <mark key="^" line="174" column="43" />
+        <mark key="." line="174" column="43" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1563905591122">
         <mark key="[" line="235" column="13" />
@@ -238,6 +239,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/eshares/valuations/allocation/option_pricing_model.py" timestamp="1564111115079">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/graphene/mutations/update_allocation_and_scenario.py" timestamp="1563681726740">
         <mark key="[" line="36" column="42" />
@@ -383,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1306" column="12" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/scenario.py" />
       <jump line="31" column="48" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/allocation_builder.py" />
       <jump line="119" column="5" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="120" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
@@ -483,52 +488,55 @@
       <jump line="110" column="13" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" />
       <jump line="18" column="15" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" />
       <jump line="342" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/allocation/captable_formatter.py" />
+      <jump line="15" column="37" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/allocation/captable_formatter/test_allocation_configuration.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.debt_option.includes_any_debt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LOGGING</text>
       </register>
-      <register name="0" type="4">
-        <text>formatted_captable_data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fbm9uX2NvbnZlcnRpYmxlX2RlYnRfZXhjbHVkZWRfdGhlbl9jYXBwZWRfbm90ZXNfYXJlX3ByZXNlbnRfYW5kX3VuY2FwcGVkX2FyZV9ub3QoCiAgICAgICAgc2VsZiwgY2FwdGFibGVfd2l0aF9ub3RlcywgYWxsb2NhdGlvbl9jb25maWc6IEFsbG9jYXRpb25Db25maWd1cmF0aW9uCiAgICApOgogICAgICAgIGFsbG9jYXRpb25fY29uZmlnLmNhcHRhYmxlX2RhdGEgPSBjYXB0YWJsZV93aXRoX25vdGVzCiAgICAgICAgY2FwcGVkLCB1bmNhcHBlZCA9IGFsbG9jYXRpb25fY29uZmlnLl9maWx0ZXJfYW5kX3NvcnRfY29udmVydGlibGVfbm90ZXMoKQogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIGxlbihjYXBwZWQpID4gMCBhbmQKICAgICAgICAgICAgbGVuKHVuY2FwcGVkKSA9PSAwCiAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZXF1aXR5X3ZhbHVlID0gYmFja3NvbHZlX3ZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhbGxvY2F0aW9uX2NvbmZpZy5jYXB0YWJsZV9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RoYXRfY2FwdGFibGVfZGF0YV9maXh0dXJlX2xvYWRzKHNlbGYsIGFsbG9jYXRpb25fY29uZmlnKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrc29sdmVfZXF1aXR5X3ZhbHVlID0gYmFja3NvbHZlX3ZhbHVlIC0gZGVidAo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdERlYnRPcHRpb25zOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ0ID0gYmFja3NvbHZlLmdldF9pbnRlcmVzdF9iZWFyaW5nX2xpYWJpbGl0aWVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGJhY2tzb2x2ZS5hbGxvY2F0aW9uLnVzZXNfbXZpYzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInByaW5jaXBhbF9ieV9kYXRlIjogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJwcmluY2lwYWwiOiAiMTAwMDAwLjAwMDAwMDAwIiwKICAgICAgICAgICAgICAgICAgICAiaXNzdWVfZGF0ZSI6ICIyMDEzLTAxLTE1IiwKICAgICAgICAgICAgICAgICAgICAiaW50ZXJlc3RfcmF0ZSI6ICIwLjA2MDAwMDAwIiwKICAgICAgICAgICAgICAgICAgICAibWF0dXJpdHlfZGF0ZSI6ICIyMDIyLTA0LTEwIiwKICAgICAgICAgICAgICAgICAgICAiaW50ZXJlc3RfYWNjcnVhbCI6IEFjY3J1YWxQZXJpb2QuREFJTFksCiAgICAgICAgICAgICAgICAgICAgImRheV9jb3VudF9jb252ZW50aW9uIjogRGF5Q291bnQuQUNUVUFMXzM2NSwKICAgICAgICAgICAgICAgICAgICAiaW50ZXJlc3RfY29tcG91bmRpbmciOiBDb21wb3VuZGluZ1BlcmlvZC5TSU1QTEUKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgInByaW5jaXBhbCI6ICIyMDAwMDAuMDAwMDAwMDAiLAogICAgICAgICAgICAgICAgICAgICJpc3N1ZV9kYXRlIjogIjIwMTItMDQtMTAiLAogICAgICAgICAgICAgICAgICAgICJpbnRlcmVzdF9yYXRlIjogIjAuMDYwMDAwMDAiLAogICAgICAgICAgICAgICAgICAgICJtYXR1cml0eV9kYXRlIjogIjIwMjItMDQtMTAiLAogICAgICAgICAgICAgICAgICAgICJpbnRlcmVzdF9hY2NydWFsIjogQWNjcnVhbFBlcmlvZC5EQUlMWSwKICAgICAgICAgICAgICAgICAgICAiZGF5X2NvdW50X2NvbnZlbnRpb24iOiBEYXlDb3VudC5BQ1RVQUxfMzY1LAogICAgICAgICAgICAgICAgICAgICJpbnRlcmVzdF9jb21wb3VuZGluZyI6IENvbXBvdW5kaW5nUGVyaW9kLlNJTVBMRQogICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICJwcmluY2lwYWwiOiAiNTAwMDAwLjAwMDAwMDAwIiwKICAgICAgICAgICAgICAgICAgICAiaXNzdWVfZGF0ZSI6ICIyMDE0LTExLTA1IiwKICAgICAgICAgICAgICAgICAgICAiaW50ZXJlc3RfcmF0ZSI6ICIwLjA2MDAwMDAwIiwKICAgICAgICAgICAgICAgICAgICAibWF0dXJpdHlfZGF0ZSI6ICIyMDE5LTExLTA1IiwKICAgICAgICAgICAgICAgICAgICAiaW50ZXJlc3RfYWNjcnVhbCI6IEFjY3J1YWxQZXJpb2QuQU5OVUFMLAogICAgICAgICAgICAgICAgICAgICJkYXlfY291bnRfY29udmVudGlvbiI6IERheUNvdW50LkFDVFVBTF8zNjUsCiAgICAgICAgICAgICAgICAgICAgImludGVyZXN0X2NvbXBvdW5kaW5nIjogQ29tcG91bmRpbmdQZXJpb2QuU0lNUExFfQogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyAgIHVuY2FwcGVkIG5vdGVzOiAlc1xuJywK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fY2FwPURlY2ltYWwoIjgwMDAwMDAuMDAwMDAwMDAiKSwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub25fY29udmVydGlibGVfZGVidCA9Cg==</text>
+      <register name="9" type="4">
+        <text>CaptableData(
+        
+    )</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;Cumulative&quot;/Dividend.CUMULATIVE/g</text>
