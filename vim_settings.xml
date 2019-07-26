@@ -27,6 +27,9 @@
         <mark key="^" line="61" column="80" />
         <mark key="." line="61" column="80" />
       </file>
+      <file name="/a.dummy" timestamp="1563728544204">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/test_constants.py" timestamp="1563914075777">
         <mark key="[" line="42" column="9" />
         <mark key="]" line="42" column="9" />
@@ -104,12 +107,12 @@
         <mark key="." line="97" column="45" />
         <mark key="^" line="97" column="45" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564111277994">
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/services/test_backsolve.py" timestamp="1564160152866">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="174" column="43" />
-        <mark key="^" line="174" column="43" />
-        <mark key="." line="174" column="43" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1563905591122">
         <mark key="[" line="235" column="13" />
@@ -222,6 +225,12 @@
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/settings/local_base.py" timestamp="1564077414137">
         <mark key="'" line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" timestamp="1564160099988">
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="83" />
+        <mark key="." line="14" column="83" />
+        <mark key="^" line="14" column="83" />
       </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/allocation/excludes_debt.py" timestamp="1563845194628">
         <mark key="'" line="27" column="13" />
@@ -337,6 +346,9 @@
         <mark key="^" line="333" column="51" />
         <mark key="." line="342" column="20" />
       </file>
+      <file name="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/allocation/option_pricing_model/test_option_pricing_model.py" timestamp="1564160188638">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/carta-web/eshares/valuations/services/gpc.py" timestamp="1563380709461">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="83" column="36" />
@@ -349,12 +361,12 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1564001429815">
-        <mark key="'" line="130" column="4" />
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="89" />
-        <mark key="^" line="35" column="89" />
-        <mark key="." line="35" column="89" />
+      <file name="$USER_HOME$/git/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1564160056677">
+        <mark key="'" line="212" column="4" />
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="90" column="30" />
+        <mark key="^" line="90" column="30" />
+        <mark key="." line="90" column="30" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/enum.py" timestamp="1563673862809">
         <mark key="[" line="517" column="4" />
@@ -396,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/models/allocation.py" />
       <jump line="74" column="44" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" />
       <jump line="133" column="8" filename="$USER_HOME$/git/carta-web/eshares/valuations/services/backsolve.py" />
       <jump line="31" column="71" filename="$USER_HOME$/git/carta-web/eshares/valuations/automation/steps/allocation/excludes_debt.py" />
@@ -496,16 +507,17 @@
       <jump line="12" column="51" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
       <jump line="6" column="61" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/helpers/calculations/test_calculations.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/carta-web/tests/unit/eshares/valuations/models/backsolve/test_backsolve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>.includes_any_debt</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">QWxsb2NhdGlvbiwg</text>
       </register>
       <register name="/" type="4">
         <text>LOGGING</text>
@@ -516,35 +528,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB0ZXN0cy51bml0LmVzaGFyZXMudmFsdWF0aW9ucy5tb2RlbHMuYmFja3NvbHZlLnRlc3RfYmFja3NvbHZlIGltcG9ydCAoCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhY2tzb2x2ZSwgaHlicmlkX2JhY2tzb2x2ZSwgc2NlbmFyaW8sIGFsbG9jYXRpb24sIGVhcmx5X2V4aXRfc2NlbmFyaW8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBWYWx1YXRpb25UZW1wbGF0ZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFZPTEFUSUxJVFlfU0VMRUNUSU9OX01BTlVBTCwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE9QVElPTl9QUklDSU5HX01PREVMLAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">X2dsb2JhbF9iYWNrc29sdmVfZGF0ZSA9IGRhdGUoMjAxNywgNSwgMTYpCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBhbGxvY2F0aW9uKG1vY2tlcik6CiAgICBhbGxvY2F0aW9uID0gQWxsb2NhdGlvbigpCiAgICBtb2NrZXIucGF0Y2gub2JqZWN0KAogICAgICAgIEFsbG9jYXRpb24sCiAgICAgICAgJ3Jpc2tfZnJlZV9yYXRlX3dlaWdodGVkX3R0ZScsCiAgICAgICAgbmV3X2NhbGxhYmxlPVByb3BlcnR5TW9jayhyZXR1cm5fdmFsdWU9RGVjaW1hbCgnMC4wMTQ1JykpCiAgICApCiAgICBtb2NrZXIucGF0Y2gub2JqZWN0KEFsbG9jYXRpb24sICd1c2VzX212aWMnLCByZXR1cm5fdmFsdWU9VHJ1ZSkKICAgIGFsbG9jYXRpb24udG90YWxzID0gJ3t9JwogICAgYWxsb2NhdGlvbi5nZXRfbm9uX2NvbnZlcnRpYmxlX2RlYnRfd3R0ZSA9IE1hZ2ljTW9jayhyZXR1cm5fdmFsdWU9NTAwMDApCiAgICBhbGxvY2F0aW9uLmFsbG9jYXRpb25fbWV0aG9kb2xvZ3kgPSBPUFRJT05fUFJJQ0lOR19NT0RFTAogICAgYWxsb2NhdGlvbi52b2xhdGlsaXR5X3NlbGVjdGlvbl9tZXRob2QgPSBWT0xBVElMSVRZX1NFTEVDVElPTl9NQU5VQUwKICAgIGFsbG9jYXRpb24uYXNzZXRfdm9sYXRpbGl0eV9tYW51YWxfZW50cnkgPSBEZWNpbWFsKCcwLjQnKQogICAgcmV0dXJuIGFsbG9jYXRpb24KCgpAcHl0ZXN0LmZpeHR1cmUKZGVmIHNjZW5hcmlvKG1vY2tlcik6CiAgICB2YWx1YXRpb24gPSBWYWx1YXRpb24oCiAgICAgICAgdmFsdWF0aW9uX2RhdGU9ZGF0ZSgyMDE4LCA1LCAxNiksCiAgICAgICAgdGVtcGxhdGVfdHlwZT1WYWx1YXRpb25UZW1wbGF0ZS5TVEFOREFSRCwKICAgICkKICAgIHZhbHVhdGlvbi5nZXRfY2FwdGFibGVfZGF0YSA9IE1hZ2ljTW9jaygpCiAgICBtb2NrZXIucGF0Y2gub2JqZWN0KFNjZW5hcmlvLCAnZ2V0X3NjZW5hcmlvX3ZhbHVlJywgcmV0dXJuX3ZhbHVlPTEwMDAwMDAwKQogICAgc2NlbmFyaW8gPSBTY2VuYXJpbygpCiAgICBzY2VuYXJpby5nZXRfdmFsdWF0aW9uID0gTWFnaWNNb2NrKHJldHVybl92YWx1ZT12YWx1YXRpb24pCiAgICBzY2VuYXJpby5nZXRfZWFybHlfZXhpdF9iYWNrc29sdmVfZGF0ZV9hbHRlcm5hdGVfc2NlbmFyaW8gPSBNYWdpY01vY2socmV0dXJuX3ZhbHVlPU5vbmUpCiAgICByZXR1cm4gc2NlbmFyaW8KCgpAcHl0ZXN0LmZpeHR1cmUKZGVmIGVhcmx5X2V4aXRfc2NlbmFyaW8oc2NlbmFyaW8sIGFsbG9jYXRpb24pOgogICAgdmFsdWF0aW9uID0gc2NlbmFyaW8uZ2V0X3ZhbHVhdGlvbigpCiAgICBlYXJseV9leGl0X3NjZW5hcmlvID0gU2NlbmFyaW8oKQogICAgZWFybHlfZXhpdF9zY2VuYXJpby5nZXRfdmFsdWF0aW9uID0gTWFnaWNNb2NrKHJldHVybl92YWx1ZT12YWx1YXRpb24pCiAgICBlYXJseV9leGl0X3NjZW5hcmlvLmFsbG9jYXRpb24gPSBhbGxvY2F0aW9uCiAgICByZXR1cm4gZWFybHlfZXhpdF9zY2VuYXJpbwoKCkBweXRlc3QuZml4dHVyZQpkZWYgYmFja3NvbHZlKG1vY2tlciwgc2NlbmFyaW8sIGFsbG9jYXRpb24pOgogICAgbW9ja2VyLnBhdGNoLm9iamVjdCgKICAgICAgICBCYWNrc29sdmUsCiAgICAgICAgJ2NhcHRhYmxlX2RhdGFfcXVlcnlzZXQnLAogICAgICAgIE1hZ2ljTW9jaygpLAogICAgKQogICAgYmFja3NvbHZlID0gQmFja3NvbHZlKAogICAgICAgIGJhY2tzb2x2ZV9kYXRlPV9nbG9iYWxfYmFja3NvbHZlX2RhdGUsCiAgICAgICAgc2NlbmFyaW89c2NlbmFyaW8sCiAgICAgICAgYWxsb2NhdGlvbj1hbGxvY2F0aW9uLAogICAgKQogICAgYmFja3NvbHZlLmdldF9jYXB0YWJsZV9kYXRhID0gTWFnaWNNb2NrKCkKICAgIGJhY2tzb2x2ZS5hbGxvY2F0aW9uX21ldGhvZG9sb2d5ID0gT1BUSU9OX1BSSUNJTkdfTU9ERUwKICAgIGJhY2tzb2x2ZS53ZWlnaHRlZF90aW1lX3RvX2V4aXQgPSAzCiAgICByZXR1cm4gYmFja3NvbHZlCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBoeWJyaWRfYmFja3NvbHZlKGJhY2tzb2x2ZSwgc2NlbmFyaW8sIGVhcmx5X2V4aXRfc2NlbmFyaW8sIGFsbG9jYXRpb24pOgogICAgIiIiVGhpcyBjb3BpZXMgdGhlIGJhY2tzb2x2ZSBmaXh0dXJlIGFuZCBpdHMgc2NlbmFyaW8gYW5kIGFsbG9jYXRpb24sCiAgICBhbmQgb3RoZXJ3aXNlIGp1c3QgYWRkcyB0aGUgZWFybHkgZXhpdCBzY2VuYXJpby4iIiIKICAgIGFsbG9jYXRpb24uYWxsb2NhdGlvbl9kYXRlID0gX2dsb2JhbF9iYWNrc29sdmVfZGF0ZQogICAgYmFja3NvbHZlLnNjZW5hcmlvLmdldF92YWx1YXRpb24oKS50ZW1wbGF0ZV90eXBlID0gVmFsdWF0aW9uVGVtcGxhdGUuSFlCUklECiAgICBiYWNrc29sdmUuYWxsb2NhdGlvbiA9IGFsbG9jYXRpb24KICAgIGJhY2tzb2x2ZS5zY2VuYXJpbyA9IHNjZW5hcmlvCiAgICBlYXJseV9leGl0X3NjZW5hcmlvLmFsbG9jYXRpb24uYWxsb2NhdGlvbl9kYXRlID0gX2dsb2JhbF9iYWNrc29sdmVfZGF0ZQogICAgZWFybHlfZXhpdF9zY2VuYXJpby5zY2VuYXJpb19kYXRlID0gX2dsb2JhbF9iYWNrc29sdmVfZGF0ZQogICAgc2NlbmFyaW8uZ2V0X2Vhcmx5X2V4aXRfYmFja3NvbHZlX2RhdGVfYWx0ZXJuYXRlX3NjZW5hcmlvID0gTWFnaWNNb2NrKHJldHVybl92YWx1ZT1lYXJseV9leGl0X3NjZW5hcmlvKQogICAgcmV0dXJuIGJhY2tzb2x2ZQoK</text>
+      </register>
+      <register name="9" type="4">
         <text>calculate_convertible_notes_value_with_interest(
                     convertible_notes=formatted_captable_data[NOTE],
                     interest_date=date(2017, 6, 1),
                 )</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhbGxvY2F0aW9uX2NvbmZpZy5jYXB0YWJsZV9kYXRhKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RoYXRfY2FwdGFibGVfZGF0YV9maXh0dXJlX2xvYWRzKHNlbGYsIGFsbG9jYXRpb25fY29uZmlnKToK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdERlYnRPcHRpb25zOgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;Cumulative&quot;/Dividend.CUMULATIVE/g</text>
