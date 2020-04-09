@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>AllocationConfig</entry>
         <entry>run_allo</entry>
         <entry>weighted_time_to_exit</entry>
         <entry>uses_dlom</entry>
@@ -27,6 +26,7 @@
         <entry>True</entry>
         <entry>False</entry>
         <entry>\n</entry>
+        <entry>!!</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2222/\=line('.')/g</entry>
@@ -99,12 +99,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="134" column="78" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586471642432">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586471783158">
         <mark key="'" line="204" column="36" />
-        <mark key="[" line="219" column="23" />
-        <mark key="]" line="219" column="24" />
-        <mark key="." line="219" column="23" />
-        <mark key="^" line="219" column="24" />
+        <mark key="[" line="218" column="24" />
+        <mark key="]" line="219" column="56" />
+        <mark key="." line="219" column="55" />
+        <mark key="^" line="219" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1586463129190">
         <mark key="'" line="0" column="0" />
@@ -298,7 +298,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>\n</text>
+        <text>!!</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWxib3Rfc2VydmljZSA9IFZhbHVhdGlvblBvbGljeVNlcnZpY2VDb250YWluZXIuZ2V0X3NlcnZpY2VfaW5zdGFuY2UoKQo=</text>
@@ -340,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\n</last-search>
+      <last-search>!!</last-search>
       <last-offset />
-      <last-pattern>\n</last-pattern>
+      <last-pattern>!!</last-pattern>
       <last-replace />
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
