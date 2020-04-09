@@ -99,8 +99,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="134" column="78" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586401008383">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586471642432">
         <mark key="'" line="204" column="36" />
+        <mark key="[" line="219" column="23" />
+        <mark key="]" line="219" column="24" />
+        <mark key="." line="219" column="23" />
+        <mark key="^" line="219" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1586463129190">
         <mark key="'" line="0" column="0" />
@@ -110,6 +114,12 @@
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
         <mark key="^" line="28" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" timestamp="1586471614393">
+        <mark key="[" line="151" column="75" />
+        <mark key="]" line="151" column="83" />
+        <mark key="." line="151" column="82" />
+        <mark key="^" line="151" column="83" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1586465139417">
         <mark key="'" line="0" column="42" />
@@ -281,11 +291,11 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyd2YWx1ZXNfY2hhbmdlZCc6IHsicm9vdFs3XVsnbmFtZXMnXVszXSI6IHsnbmV3X3ZhbHVlJzogJ0lzIGF1ZGl0ZWQnLCAnb2xkX3ZhbHVlJzogJ0hhcyBub3QgcmFpc2VkIHNlcmllcyBCKyd9LCAicm9vdFs2XVsnbmFtZSddIjogeyduZXdfdmFsdWUnOiAnSXMgcHJvZml0YWJsZScsICdvbGRfdmFsdWUnOiAnUmFpc2luZyBub3RlcyB3aXRoIHRlcm0gc2hlZXQnfSwgInJvb3RbNV1bJ3ZhbHVlJ10iOiB7J25ld192YWx1ZSc6IGZhbHNlLCAnb2xkX3ZhbHVlJzogdHJ1ZX0sICJyb290WzddWyduYW1lJ10iOiB7J25ld192YWx1ZSc6ICdHUEMvRUEgY29tcGxleGl0eScsICdvbGRfdmFsdWUnOiAnQ2hlY2sgZm9yIGF1dG8tYmFja3NvbHZlJ30sICJyb290WzddWyd2YWx1ZXMnXVszXSI6IHsnbmV3X3ZhbHVlJzogZmFsc2UsICdvbGRfdmFsdWUnOiB0cnVlfSwgInJvb3RbN11bJ3ZhbHVlcyddWzBdIjogeyduZXdfdmFsdWUnOiBmYWxzZSwgJ29sZF92YWx1ZSc6IHRydWV9LCAicm9vdFs3XVsndmFsdWVzJ11bMV0iOiB7J25ld192YWx1ZSc6IGZhbHNlLCAnb2xkX3ZhbHVlJzogdHJ1ZX0sICJyb290WzddWyduYW1lcyddWzJdIjogeyduZXdfdmFsdWUnOiAnUmV2ZW51ZSBvdmVyICQxNSwwMDAsMDAwLjAwJywgJ29sZF92YWx1ZSc6ICdSZXZlbnVlIHVuZGVyICQyLDUwMCwwMDAuMDAnfSwgInJvb3RbN11bJ25hbWVzJ11bMV0iOiB7J25ld192YWx1ZSc6ICdQb3N0IG1vbmV5IHRvdGFsIG92ZXIgJDc1LDAwMCwwMDAuMDAnLCAnb2xkX3ZhbHVlJzogJ1Bvc3QtbW9uZXkgdW5kZXIgJDUwLDAwMCwwMDAuMDAnfSwgInJvb3RbN11bJ25hbWVzJ11bMF0iOiB7J25ld192YWx1ZSc6ICdJbnZlc3RlZCBjYXBpdGFsIG92ZXIgJDMwLDAwMCwwMDAuMDAnLCAnb2xkX3ZhbHVlJzogJ0ludmVzdGVkIGNhcGl0YWwgdW5kZXIgJDQwLDAwMCwwMDAuMDAnfX0sICdkaWN0aW9uYXJ5X2l0ZW1fYWRkZWQnOiBbcm9vdFs2XVsndmFsdWVzJ10sIHJvb3RbNl1bJ25hbWVzJ11dLCAnaXRlcmFibGVfaXRlbV9yZW1vdmVkJzogeyJyb290WzddWyduYW1lcyddWzEwXSI6ICdOb3QgYW4gZXhjbHVkZWQgaW5kdXN0cnknLCAicm9vdFs3XVsnbmFtZXMnXVs4XSI6ICdDb21tb24gc2VuaW9yaXR5IG9mIDInLCAicm9vdFs3XVsndmFsdWVzJ11bNV0iOiB0cnVlLCAicm9vdFs3XVsndmFsdWVzJ11bMTFdIjogdHJ1ZSwgInJvb3RbN11bJ25hbWVzJ11bNV0iOiAnTm8gcGFydGljaXBhdGluZyBwcmVmZXJyZWQnLCAicm9vdFs3XVsnbmFtZXMnXVs5XSI6ICdBbGwgY29udmVyc2lvbiByYXRpb3MgYXJlIG9uZScsICJyb290WzddWyd2YWx1ZXMnXVs2XSI6IHRydWUsICJyb290WzddWyduYW1lcyddWzEyXSI6ICdIYXMgY29tbW9uIHNoYXJlcyBpc3N1ZWQnLCAicm9vdFs3XVsnbmFtZXMnXVs2XSI6ICdObyBjdW11bGF0aXZlIGRpdmlkZW5kcycsICJyb290WzddWyd2YWx1ZXMnXVs4XSI6IHRydWUsICJyb290WzddWyduYW1lcyddWzExXSI6ICdIYXMgbm8gZG93biByb3VuZCcsICdyb290WzhdJzogeyduYW1lJzogJ0JhY2tzb2x2ZSBjb21wbGV4aXR5JywgJ3ZhbHVlcyc6IFtmYWxzZSwgZmFsc2UsIGZhbHNlLCBmYWxzZV0sICduYW1lcyc6IFsnSW52ZXN0ZWQgY2FwaXRhbCBvdmVyICQ0MCwwMDAsMDAwLjAwJywgJ1Bvc3QgbW9uZXkgdG90YWwgb3ZlciAkMTAwLDAwMCwwMDAuMDAnLCAnUmV2ZW51ZSBvdmVyICQyMCwwMDAsMDAwLjAwJywgJ0hhcyByYWlzZWQgc2VyaWVzIEMrJ10sICd2YWx1ZSc6IGZhbHNlfSwgInJvb3RbN11bJ3ZhbHVlcyddWzldIjogdHJ1ZSwgInJvb3RbN11bJ3ZhbHVlcyddWzEyXSI6IHRydWUsICJyb290WzddWyd2YWx1ZXMnXVs3XSI6IHRydWUsICJyb290WzddWyd2YWx1ZXMnXVsxMF0iOiB0cnVlLCAicm9vdFs3XVsndmFsdWVzJ11bNF0iOiB0cnVlLCAicm9vdFs3XVsnbmFtZXMnXVs0XSI6ICdBbGwgbXVsdGlwbGllcnMgYXJlIG9uZScsICJyb290WzddWyduYW1lcyddWzddIjogJ01heGltdW0gc2VuaW9yaXR5IG9mIDInfX0g</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>ServiceRegistry</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
