@@ -16,7 +16,6 @@
         <entry>dlom_methods</entry>
         <entry>pwc_t02_v2</entry>
         <entry>VALUATION</entry>
-        <entry>POLICY</entry>
         <entry>SegmentationMethodologies\.([A-Z_]+)</entry>
         <entry>SegmentationMethodologies\.\([A-Z_]+\)</entry>
         <entry>SegmentationMethodologies\.\([A-Z_]\+\)</entry>
@@ -27,6 +26,7 @@
         <entry>False</entry>
         <entry>\n</entry>
         <entry>!!</entry>
+        <entry>POLICY</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2222/\=line('.')/g</entry>
@@ -88,6 +88,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1586555521759">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" timestamp="1586471614393">
         <mark key="[" line="151" column="75" />
         <mark key="]" line="151" column="83" />
@@ -138,13 +141,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" timestamp="1586541562404" />
       <file name="/" timestamp="1586546048690">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1586465139417">
-        <mark key="'" line="0" column="42" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/decimal_json_field.py" timestamp="1586545076457">
         <mark key="'" line="9" column="0" />
@@ -238,7 +234,6 @@
       <jump line="11" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_default_asset_policy.py" />
       <jump line="96" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="266" column="56" filename="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/test_val_cases.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="325" column="43" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="326" column="42" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="420" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
@@ -255,6 +250,7 @@
       <jump line="32" column="0" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/fields/related_descriptors.py" />
       <jump line="29" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" />
       <jump line="31" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -269,7 +265,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>!!</text>
+        <text>POLICY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CgpkZWYgY29tcGFyZV9wb2xpY3lfaW5zdGFuY2VzKAogICAgbmV3X3BvbGljeV9pbnN0YW5jZTogJ1BvbGljeUluc3RhbmNlJywKICAgIG9sZF9wb2xpY3lfaW5zdGFuY2U6ICdBc3NldFZhbHVhdGlvblBvbGljeUluc3RhbmNlJwopOgogICAgY29tcGFyaXNvbl9hdHRyaWJ1dGVzID0gKAogICAgICAgICd0aW1lX3RvX2V4aXQnLAogICAgICAgICd0aW1lX3RvX25leHRfZmluYW5jaW5nJywKICAgICAgICAnd2VpZ2h0ZWRfdGltZV90b19leGl0JywKICAgICAgICAnY29tcGFyYWJsZXMnLAogICAgICAgICd2b2xhdGlsaXR5JywKICAgICAgICAnZGxvbV92b2xhdGlsaXR5JywKICAgICAgICAnY29tcGFueV9zdGFnZScsCiAgICAgICAgJ2liaXNfaW5kdXN0cnknLAogICAgICAgICdkZWJ0X29wdGlvbicsCiAgICAgICAgJ2Rsb21fZXhoaWJpdHNfdG9fc2hvdycsCiAgICApCiAgICBhZGFwdGVkX25ld19wb2xpY3lfaW5zdGFuY2UgPSBWYWxib3Q0MDlBUG9saWN5SW5zdGFuY2UuZnJvbV92YWx1YXRpb25fcG9saWN5X2luc3RhbmNlKAogICAgICAgIHZhbHVhdGlvbl9wb2xpY3lfaW5zdGFuY2U9bmV3X3BvbGljeV9pbnN0YW5jZQogICAgKQogICAgZGlmZmVyZW50ID0gRmFsc2UKICAgIGZvciBhdHRyaWJ1dGUgaW4gY29tcGFyaXNvbl9hdHRyaWJ1dGVzOgogICAgICAgIG9sZF92YWx1ZSA9IGdldGF0dHIob2xkX3BvbGljeV9pbnN0YW5jZSwgYXR0cmlidXRlKQogICAgICAgIG5ld192YWx1ZSA9IGdldGF0dHIoYWRhcHRlZF9uZXdfcG9saWN5X2luc3RhbmNlLCBhdHRyaWJ1dGUpCiAgICAgICAgaWYgYXR0cmlidXRlID09ICdjb21wYW55X3N0YWdlJzoKICAgICAgICAgICAgb2xkX3ZhbHVlID0gb2xkX3ZhbHVlLnJlc3VsdAogICAgICAgICAgICBuZXdfdmFsdWUgPSBuZXdfdmFsdWUucmVzdWx0CiAgICAgICAgaWYgbmV3X3ZhbHVlICE9IG9sZF92YWx1ZToKICAgICAgICAgICAgZGlmZmVyZW50ID0gVHJ1ZQogICAgICAgICAgICBsb2cuaW5mbygnTWlzbWF0Y2ggKHt9KTpcbk5ldzoge30gdnMuIE9sZDoge30nLmZvcm1hdChhdHRyaWJ1dGUsIG5ld192YWx1ZSwgb2xkX3ZhbHVlKSkKICAgIGlmIG5vdCBkaWZmZXJlbnQ6CiAgICAgICAgbG9nLmluZm8oJ0FsbCB2YWx1ZXMgbWF0Y2ghJykK</text>
@@ -311,9 +307,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>!!</last-search>
+      <last-search>POLICY</last-search>
       <last-offset />
-      <last-pattern>!!</last-pattern>
+      <last-pattern>POLICY</last-pattern>
       <last-replace />
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
