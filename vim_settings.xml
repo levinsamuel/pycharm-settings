@@ -121,18 +121,21 @@
         <mark key="." line="151" column="82" />
         <mark key="^" line="151" column="83" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/fields/related_descriptors.py" timestamp="1586478559315">
+        <mark key="'" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/duplicate.py" timestamp="1586478778213">
+        <mark key="[" line="160" column="69" />
+        <mark key="]" line="160" column="69" />
+        <mark key="^" line="160" column="69" />
+        <mark key="." line="160" column="68" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1586465139417">
         <mark key="'" line="0" column="42" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1586469870334">
-        <mark key="[" line="84" column="66" />
-        <mark key="]" line="84" column="84" />
-        <mark key="^" line="84" column="84" />
-        <mark key="." line="84" column="83" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" timestamp="1586402816325">
         <mark key="[" line="10" column="0" />
@@ -184,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="16" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_rules.py" />
       <jump line="32" column="4" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_rules.py" />
       <jump line="232" column="43" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="85" column="39" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
@@ -284,6 +286,7 @@
       <jump line="20" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" />
       <jump line="20" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" />
+      <jump line="32" column="0" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/fields/related_descriptors.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,16 +295,16 @@
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>!!</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxib3Rfc2VydmljZSA9IFZhbHVhdGlvblBvbGljeVNlcnZpY2VDb250YWluZXIuZ2V0X3NlcnZpY2VfaW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgIGRjZiA9IF9nZXRfYXBwcm9hY2hfaWZfZXhpc3RzKHNjZW5hcmlvLCAnZGNmJykK</text>
       </register>
       <register name="q" type="4">
         <text />
