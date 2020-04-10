@@ -88,16 +88,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0005_auto_20200408_2012.py" timestamp="1586401974854">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_valuation_policy_service.py" timestamp="1586450797170">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="134" column="78" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" timestamp="1586471614393">
+        <mark key="[" line="151" column="75" />
+        <mark key="]" line="151" column="83" />
+        <mark key="." line="151" column="82" />
+        <mark key="^" line="151" column="83" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/decision_tree/test_create_decision_tree.py" timestamp="1586488336263">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="150" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" timestamp="1586402816325">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/dlom/dlom.py" timestamp="1586541531149" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/decision_tree/relation.py" timestamp="1586402506181">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/decision_tree_utils.py" timestamp="1586402717686">
+        <mark key="[" line="96" column="72" />
+        <mark key="]" line="96" column="88" />
+        <mark key="^" line="96" column="88" />
+        <mark key="." line="96" column="88" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586471783158">
         <mark key="'" line="204" column="36" />
@@ -109,27 +135,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1586463129190">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/decision_tree/node.py" timestamp="1586402444292">
-        <mark key="[" line="1" column="55" />
-        <mark key="]" line="1" column="55" />
-        <mark key="." line="1" column="55" />
-        <mark key="^" line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" timestamp="1586471614393">
-        <mark key="[" line="151" column="75" />
-        <mark key="]" line="151" column="83" />
-        <mark key="." line="151" column="82" />
-        <mark key="^" line="151" column="83" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/fields/related_descriptors.py" timestamp="1586478559315">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/decision_tree/test_create_decision_tree.py" timestamp="1586488336263">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="150" column="35" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" timestamp="1586541562404" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1586465139417">
         <mark key="'" line="0" column="42" />
         <mark key="[" line="0" column="0" />
@@ -137,49 +146,13 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" timestamp="1586402816325">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="37" column="57" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/constants.py" timestamp="1586387473017">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/config/company_value.py" timestamp="1586541625126" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/decimal_json_field.py" timestamp="1586405261262">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="44" />
         <mark key="^" line="26" column="94" />
         <mark key="." line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/decision_tree/relation.py" timestamp="1586402506181">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0004_parent_relation_index.py" timestamp="1586401978755">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="26" column="10" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/decision_tree_utils.py" timestamp="1586402717686">
-        <mark key="[" line="96" column="72" />
-        <mark key="]" line="96" column="88" />
-        <mark key="^" line="96" column="88" />
-        <mark key="." line="96" column="88" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/utils/test_decimal_json_field.py" timestamp="1586388067332">
-        <mark key="'" line="6" column="48" />
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="42" column="46" />
-        <mark key="^" line="42" column="46" />
-        <mark key="." line="42" column="46" />
       </file>
     </filemarks>
     <jumps>
