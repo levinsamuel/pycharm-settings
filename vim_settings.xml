@@ -103,9 +103,6 @@
         <mark key="." line="44" column="43" />
         <mark key="^" line="44" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1586561910247">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/volatility.py" timestamp="1586568342146">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -117,6 +114,13 @@
         <mark key="]" line="8" column="63" />
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1586569527708">
+        <mark key="'" line="214" column="13" />
+        <mark key="[" line="206" column="24" />
+        <mark key="]" line="206" column="39" />
+        <mark key="^" line="206" column="39" />
+        <mark key="." line="206" column="38" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/constants.py" timestamp="1586567711232">
         <mark key="[" line="27" column="28" />
@@ -201,9 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
-      <jump line="18" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="447" column="65" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="66" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="353" column="71" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -301,6 +302,9 @@
       <jump line="65" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" />
       <jump line="77" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" />
       <jump line="78" column="46" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" />
+      <jump line="34" column="6" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" />
+      <jump line="195" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" />
+      <jump line="214" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
