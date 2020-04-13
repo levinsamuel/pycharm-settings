@@ -109,13 +109,6 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/requirements.txt" timestamp="1586801724918">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="442" column="24" />
-        <mark key="]" line="442" column="24" />
-        <mark key="^" line="442" column="24" />
-        <mark key="." line="442" column="23" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1586806710743">
         <mark key="[" line="116" column="70" />
         <mark key="]" line="117" column="67" />
@@ -134,6 +127,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1586812540025">
+        <mark key="[" line="123" column="13" />
+        <mark key="]" line="124" column="59" />
+        <mark key="." line="124" column="58" />
+        <mark key="^" line="124" column="59" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/tracking.py" timestamp="1586806228970">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="11" />
@@ -147,8 +146,11 @@
         <mark key="." line="1451" column="40" />
         <mark key="^" line="1451" column="41" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586800216855">
-        <mark key="'" line="3" column="20" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1586812569377">
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="42" column="28" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0005_decimal_field_definition.py" timestamp="1586801871364">
         <mark key="[" line="27" column="18" />
@@ -313,47 +315,55 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>paths_match</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFyZV9wb2xpY3lfaW5zdGFuY2VzX2FuZF90cmFjaygKICAgICAgICAgICAgICAgIHVtYnJlbGxhX2lkPXVtYnJlbGxhLmlkLAogICAgICAgICAgICAgICAgbmV3X3BvbGljeV9pbnN0YW5jZT12YWx1YXRpb25fcG9saWN5LAogICAgICAgICAgICAgICAgb2xkX3BvbGljeV9pbnN0YW5jZT1wb2xpY3ksCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>paths_match</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>carta.django.models.fields\.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX3Jlc3VsdHNfbWF0Y2hfYnV0X3BhdGhzX2RvX25vdF9pc19zdWNjZXNzX3dpdGhfcGF5bG9hZChzZWxmKToKICAgICAgICBvbGRfZGVjaXNpb24gPSBEZWNpc2lvbihyZXN1bHQ9J1NJTVBMRV9CQUNLU09MVkUnLCBwYXRoPVt7J2NoZWNrJzogJ2ZhaWwnfV0pCiAgICAgICAgbmV3X2RlY2lzaW9uID0gRGVjaXNpb24ocmVzdWx0PSdTSU1QTEVfQkFDS1NPTFZFJywgcGF0aD1beydjaGVjayc6ICdwYXNzJ31dKQogICAgICAgIGNvbXBhcmlzb24gPSBfY3JlYXRlX2NvbXBhcmlzb25fZXZlbnQob2xkX2RlY2lzaW9uLCBuZXdfZGVjaXNpb24sIHVtYnJlbGxhX2lkPVVNQlJFTExBX0lEKQogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIGNvbXBhcmlzb24ucmVzdWx0X2NvZGUgPT0gVHJhY2tpbmdSZXN1bHRDb2Rlcy5TVUNDRVNTCiAgICAgICAgICAgIGFuZCBjb21wYXJpc29uLmN1c3RvbV9yZXN1bHRfY29kZSA9PSAnUEFUSF9NSVNNQVRDSCcKICAgICAgICAgICAgYW5kIGNvbXBhcmlzb24ucGF5bG9hZCBpcyBub3QgTm9uZQogICAgICAgICkK</text>
+      <register name="0" type="4">
+        <text>Event(
+                    event_type=TRACKING_EVENT_TYPE_ASSET_POLICY,
+                    result_code=TrackingResultCodes.FAIL,
+                    custom_result_code='NO_NEW_POLICY',
+                )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFyZV9wb2xpY3lfaW5zdGFuY2VzX2FuZF90cmFjaygKICAgICAgICAgICAgICAgIHVtYnJlbGxhX2lkPXVtYnJlbGxhLmlkLAogICAgICAgICAgICAgICAgbmV3X3BvbGljeV9pbnN0YW5jZT12YWx1YXRpb25fcG9saWN5LAogICAgICAgICAgICAgICAgb2xkX3BvbGljeV9pbnN0YW5jZT1wb2xpY3ksCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEudmFsYm90LnV0aWxzIGltcG9ydCBjb21wYXJlX3BvbGljeV9pbnN0YW5jZXNfYW5kX3RyYWNrCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Event(
+                    event_type=TRACKING_EVENT_TYPE_ASSET_POLICY,
+                    result_code=TrackingResultCodes.FAIL,
+                    custom_result_code='NO_NEW_POLICY',
+                )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TU9EVUxFID0gc2hvdWxkX3Nob3dfY29zdF90b19yZWNyZWF0ZV93b3Jrc2hlZXQuX19tb2R1bGVfXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYXJpc29uX2F0dHJpYnV0ZXMgPSAoCiAgICAgICAgICAgICd0aW1lX3RvX2V4aXQnLAogICAgICAgICAgICAndGltZV90b19uZXh0X2ZpbmFuY2luZycsCiAgICAgICAgICAgICd3ZWlnaHRlZF90aW1lX3RvX2V4aXQnLAogICAgICAgICAgICAnY29tcGFyYWJsZXMnLAogICAgICAgICAgICAndm9sYXRpbGl0eScsCiAgICAgICAgICAgICdkbG9tX3ZvbGF0aWxpdHknLAogICAgICAgICAgICAnY29tcGFueV9zdGFnZScsCiAgICAgICAgICAgICdpYmlzX2luZHVzdHJ5JywKICAgICAgICAgICAgJ2RlYnRfb3B0aW9uJywKICAgICAgICAgICAgJ2Rsb21fZXhoaWJpdHNfdG9fc2hvdycsCiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1bWJyZWxsYV9pZDogaW50KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgX1NlZ21lbnRhdGlvblJ1bm5lcjoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuZXdfcG9saWN5X2luc3RhbmNlIGlzIE5vbmU6CiAgICAgICAgICAgIGxvZy5pbmZvKCdDb3VsZCBub3QgY29tcGFyZSBwb2xpY2llcyBmb3IgdW1icmVsbGEgJXMsIG5vIG5ldyBwb2xpY3kgcHJvdmlkZWQnLCB1bWJyZWxsYV9pZCkKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNpc2lvbnNfbWF0Y2ggPSBvbGRfZGVjaXNpb24ucmVzdWx0LnZhbHVlID09IG5ld19kZWNpc2lvbi5yZXN1bHQKICAgICAgICBwYXRoX2RpZmYgPSBEZWVwRGlmZihvbGRfZGVjaXNpb24ucGF0aCwgbmV3X2RlY2lzaW9uLnBhdGgsIGlnbm9yZV9vcmRlcj1UcnVlKQogICAgICAgIHBhdGhzX21hdGNoID0gbm90IGxlbihwYXRoX2RpZmYpCgogICAgICAgICMgQ3JlYXRlIGV2ZW50CiAgICAgICAgcmVzdWx0X2NvZGUgPSBUcmFja2luZ1Jlc3VsdENvZGVzLlNVQ0NFU1MgaWYgZGVjaXNpb25zX21hdGNoIGVsc2UgVHJhY2tpbmdSZXN1bHRDb2Rlcy5GQUlMCiAgICAgICAgaWYgZGVjaXNpb25zX21hdGNoIGFuZCBwYXRoc19tYXRjaDoKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlID0gJ0ZVTExfTUFUQ0gnCiAgICAgICAgZWxpZiBub3QgcGF0aHNfbWF0Y2g6CiAgICAgICAgICAgIGN1c3RvbV9yZXN1bHRfY29kZSA9ICdQQVRIX01JU01BVENIJwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGN1c3RvbV9yZXN1bHRfY29kZSA9ICdGVUxMX01JU01BVENIJwogICAgICAgIGV2ZW50ID0gRXZlbnQoCiAgICAgICAgICAgIGV2ZW50X3R5cGU9VFJBQ0tJTkdfRVZFTlRfVFlQRV9TRUdNRU5UQVRJT05fUE9MSUNZLAogICAgICAgICAgICByZXN1bHRfY29kZT1yZXN1bHRfY29kZSwKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPWN1c3RvbV9yZXN1bHRfY29kZSwKICAgICAgICAgICAgcGF5bG9hZD17CiAgICAgICAgICAgICAgICAnb2xkX2RlY2lzaW9uJzogb2xkX2RlY2lzaW9uLnJlc3VsdC52YWx1ZSwKICAgICAgICAgICAgICAgICduZXdfZGVjaXNpb24nOiBuZXdfZGVjaXNpb24ucmVzdWx0LAogICAgICAgICAgICAgICAgJ29sZF9wYXRoJzogb2xkX2RlY2lzaW9uLnBhdGgsCiAgICAgICAgICAgICAgICAnbmV3X3BhdGgnOiBuZXdfZGVjaXNpb24ucGF0aCwKICAgICAgICAgICAgICAgICdwYXRoX2RpZmYnOiBwYXRoX2RpZmYsCiAgICAgICAgICAgICAgICAndW1icmVsbGFfaWQnOiB1bWJyZWxsYV9pZCwKICAgICAgICAgICAgfSBpZiBjdXN0b21fcmVzdWx0X2NvZGUgIT0gJ0ZVTExfTUFUQ0gnIGVsc2UgTm9uZSAgIyBPbmx5IHJlY29yZCBpZiBub3QgYSBmdWxsIG1hdGNoIHRvIHNhdmUgdGltZS9zcGFjZQogICAgICAgICkKICAgICAgICByZXR1cm4gZXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnQWxsIHBvbGljeSBjb21wYXJpc29uIHZhbHVlcyBtYXRjaCBmb3IgdW1icmVsbGEgJXMhJywgdW1icmVsbGFfaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>29,86s/carta.django.models.fields\.//g</text>
