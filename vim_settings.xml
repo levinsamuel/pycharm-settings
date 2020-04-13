@@ -98,6 +98,13 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1586818528426">
+        <mark key="'" line="214" column="13" />
+        <mark key="[" line="209" column="16" />
+        <mark key="]" line="209" column="18" />
+        <mark key="^" line="209" column="18" />
+        <mark key="." line="209" column="17" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/tracking.py" timestamp="1586805389676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
@@ -152,12 +159,6 @@
         <mark key="]" line="6" column="47" />
         <mark key="." line="6" column="47" />
         <mark key="^" line="84" column="95" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/__init__.py" timestamp="1586805129985">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/interfaces.py" timestamp="1586812969234">
         <mark key="[" line="100" column="53" />
@@ -311,10 +312,10 @@
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>TRACK</text>
