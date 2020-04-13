@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pwc_t02_v2</entry>
-        <entry>VALUATION</entry>
-        <entry>SegmentationMethodologies\.([A-Z_]+)</entry>
-        <entry>SegmentationMethodologies\.\([A-Z_]+\)</entry>
-        <entry>SegmentationMethodologies\.\([A-Z_]\+\)</entry>
         <entry>\(decision.result\)</entry>
         <entry>\(decision\.result\)</entry>
         <entry>\r</entry>
@@ -27,10 +22,13 @@
         <entry>JSON</entry>
         <entry>logging</entry>
         <entry>Decimal</entry>
+        <entry>carta-django</entry>
+        <entry>Enum</entry>
+        <entry>VALBOT</entry>
+        <entry>g</entry>
+        <entry>carta.django.models.fields\.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/2222/\=line('.')/g</entry>
-        <entry>%s/2222/\=line('.')3333/g</entry>
         <entry>let counter=0|10,630g//let counter=counter+1|s/^/\=counter.&quot;\t&quot;</entry>
         <entry>let counter=0|10,630g//let counter=counter+1|s/^/\=counter.&quot;\t&quot;/</entry>
         <entry>36,48s/financials/approach/g</entry>
@@ -49,6 +47,8 @@
         <entry>%s/True/true/g</entry>
         <entry>%s/False/false/g</entry>
         <entry>%s/\n//g</entry>
+        <entry>29,86/carta.django.models.fields\.//g</entry>
+        <entry>29,86s/carta.django.models.fields\.//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -88,17 +88,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/definition.py" timestamp="1586568125682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/definition.py" timestamp="1586801878591">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/volatility.py" timestamp="1586568342146">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="43" column="97" />
-        <mark key="." line="4" column="0" />
+      <file name="/a.dummy" timestamp="1586805469090">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1586800161576">
         <mark key="'" line="214" column="13" />
@@ -107,63 +104,81 @@
         <mark key="^" line="202" column="39" />
         <mark key="." line="202" column="38" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/tracking.py" timestamp="1586805389676">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/requirements.txt" timestamp="1586801724918">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="442" column="24" />
+        <mark key="]" line="442" column="24" />
+        <mark key="^" line="442" column="24" />
+        <mark key="." line="442" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" timestamp="1586804799118">
+        <mark key="'" line="29" column="16" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-django-util/tests/unit/carta/django/models/test_fields.py" timestamp="1586799475105">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/constants.py" timestamp="1586567711232">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/tracking.py" timestamp="1586805563253">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1586629079290">
-        <mark key="[" line="97" column="15" />
-        <mark key="]" line="100" column="70" />
-        <mark key="^" line="100" column="70" />
-        <mark key="." line="100" column="69" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1586804101383">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="1446" column="8" />
+        <mark key="]" line="1446" column="22" />
+        <mark key="." line="1446" column="21" />
+        <mark key="^" line="1446" column="22" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586800216855">
         <mark key="'" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0005_decimal_field_definition.py" timestamp="1586626920205">
-        <mark key="[" line="16" column="85" />
-        <mark key="]" line="16" column="85" />
-        <mark key="." line="16" column="85" />
-        <mark key="^" line="29" column="38" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0005_decimal_field_definition.py" timestamp="1586801871364">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/sample_dlom_volatilities.py" timestamp="1586565987228">
-        <mark key="[" line="64" column="1" />
-        <mark key="]" line="64" column="8" />
-        <mark key="^" line="64" column="8" />
-        <mark key="." line="64" column="7" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/decision_tree/node.py" timestamp="1586801888406">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/procedure.py" timestamp="1586569144768">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/procedure.py" timestamp="1586804688389">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/json/rule_service.py" timestamp="1586627161220">
-        <mark key="[" line="40" column="42" />
-        <mark key="]" line="40" column="58" />
-        <mark key="." line="40" column="57" />
-        <mark key="^" line="40" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1586627282653">
-        <mark key="'" line="11" column="31" />
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="29" column="51" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="29" column="51" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/__init__.py" timestamp="1586805129985">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/git/c/carta-django-util/carta/django/util/constants.py" timestamp="1586798689025">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="9" />
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1586805849709">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="16" column="63" />
+        <mark key="^" line="16" column="63" />
+        <mark key="." line="16" column="62" />
       </file>
       <file name="$USER_HOME$/git/c/carta-django-util/setup.py" timestamp="1586799518064">
         <mark key="[" line="8" column="15" />
@@ -177,54 +192,20 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/decimal_json_field.py" timestamp="1586798007017">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="38" column="7" />
-        <mark key="^" line="38" column="7" />
-        <mark key="." line="38" column="6" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/__init__.py" timestamp="1586805151911">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1586800748912">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" timestamp="1586568879610">
-        <mark key="[" line="67" column="53" />
-        <mark key="]" line="67" column="51" />
-        <mark key="." line="67" column="50" />
-        <mark key="^" line="67" column="51" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1586805230595">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="26" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
-      <jump line="41" column="6" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
-      <jump line="11" column="44" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/config/volatility.py" />
-      <jump line="23" column="6" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="34" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="107" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="142" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="143" column="56" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="163" column="29" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="191" column="64" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="192" column="66" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="193" column="49" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="12" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="13" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="14" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="15" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="31" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/backsolve.py" />
-      <jump line="42" column="33" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/backsolve_helpers.py" />
-      <jump line="507" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
-      <jump line="263" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/dlom/dlom.py" />
-      <jump line="7" column="48" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/dlom/dlom.py" />
-      <jump line="127" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/dlom/dlom.py" />
-      <jump line="212" column="81" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/valuation.py" />
-      <jump line="249" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/valuation.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/procedures/functions/functions.py" />
-      <jump line="395" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" />
       <jump line="151" column="5" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/models/scenario/test_company_value.py" />
       <jump line="152" column="52" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/models/scenario/test_company_value.py" />
       <jump line="156" column="35" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/models/scenario/test_company_value.py" />
@@ -295,6 +276,36 @@
       <jump line="20" column="6" filename="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="3" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/git/c/carta-web/requirements.txt" />
+      <jump line="673" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1207" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1270" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="24" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="215" column="41" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="531" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="554" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="563" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="575" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="581" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="596" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1012" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1127" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1208" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1214" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1236" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1254" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1267" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1288" column="29" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1298" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1322" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1343" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1358" column="33" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1365" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1452" column="18" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1478" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1488" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="1" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
+      <jump line="29" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,59 +314,59 @@
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>Decimal</text>
+        <text>carta.django.models.fields\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J3BvbGljeWRlZmluaXRpb24nLAogICAgICAgICAgICBuYW1lPSdydWxlJywKICAgICAgICAgICAgZmllbGQ9ZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LnV0aWxzLmRlY2ltYWxfanNvbl9maWVsZC5EZWNpbWFsSlNPTkZpZWxkKGVuY29kZXI9ZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LnV0aWxzLmRlY2ltYWxfanNvbl9maWVsZC5EZWNpbWFsRW5jb2RlciksCiAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgIGN1c3RvbV9yZXN1bHRfY29kZSA9IGF0dHIuaWIodHlwZT1zdHIsIGRlZmF1bHQ9Tm9uZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMuZmllbGRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkZWNpbWFsIGltcG9ydCBEZWNpbWFsCg==</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMubW9kZWxzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBfcGFyc2VfZGVjaW1hbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkZWNpbWFsIGltcG9ydCBEZWNpbWFsCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICAjIHdpbGwgcHJvYmFibHkgd2FudCBzb21lIGluZGV4ZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\n//g</text>
+        <text>29,86s/carta.django.models.fields\.//g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Decimal</last-search>
+      <last-search>carta.django.models.fields\.</last-search>
       <last-offset />
-      <last-pattern>Decimal</last-pattern>
+      <last-pattern>carta.django.models.fields\.</last-pattern>
       <last-replace />
-      <last-substitute>\n</last-substitute>
+      <last-substitute>carta.django.models.fields\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
