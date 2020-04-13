@@ -97,6 +97,12 @@
       <file name="/a.dummy" timestamp="1586805469090">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/tracking.py" timestamp="1586806581148">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1586800161576">
         <mark key="'" line="214" column="13" />
         <mark key="[" line="202" column="24" />
@@ -117,23 +123,23 @@
         <mark key="^" line="442" column="24" />
         <mark key="." line="442" column="23" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1586806710743">
+        <mark key="[" line="116" column="70" />
+        <mark key="]" line="117" column="67" />
+        <mark key="^" line="117" column="67" />
+        <mark key="." line="117" column="66" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" timestamp="1586804799118">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-django-util/tests/unit/carta/django/models/test_fields.py" timestamp="1586799475105">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/tracking.py" timestamp="1586805563253">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="12" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/tracking.py" timestamp="1586806228970">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1586804101383">
         <mark key="'" line="1" column="17" />
@@ -168,29 +174,22 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-django-util/carta/django/util/constants.py" timestamp="1586798689025">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="9" />
-        <mark key="^" line="22" column="9" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1586806293413">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1586805849709">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="16" column="63" />
-        <mark key="^" line="16" column="63" />
-        <mark key="." line="16" column="62" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1586806172765">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="18" column="53" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="18" column="52" />
       </file>
       <file name="$USER_HOME$/git/c/carta-django-util/setup.py" timestamp="1586799518064">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" timestamp="1586799441085">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/__init__.py" timestamp="1586805151911">
         <mark key="[" line="17" column="56" />
@@ -313,47 +312,47 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>event_type</text>
       </register>
       <register name="/" type="4">
         <text>carta.django.models.fields\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbV9yZXN1bHRfY29kZSA9IGF0dHIuaWIodHlwZT1zdHIsIGRlZmF1bHQ9Tm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICBldmVudF90eXBlPWV2ZW50LmV2ZW50X3R5cGUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMuZmllbGRzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBwYXNz</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMubW9kZWxzCg==</text>
+        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMuZmllbGRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMubW9kZWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdpbGwgcHJvYmFibHkgd2FudCBzb21lIGluZGV4ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>29,86s/carta.django.models.fields\.//g</text>
