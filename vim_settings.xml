@@ -103,13 +103,6 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1586800161576">
-        <mark key="'" line="214" column="13" />
-        <mark key="[" line="202" column="24" />
-        <mark key="]" line="202" column="39" />
-        <mark key="^" line="202" column="39" />
-        <mark key="." line="202" column="38" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/tracking.py" timestamp="1586805389676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
@@ -129,6 +122,12 @@
         <mark key="^" line="117" column="67" />
         <mark key="." line="117" column="66" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1586810263729">
+        <mark key="[" line="119" column="35" />
+        <mark key="]" line="68" column="51" />
+        <mark key="^" line="68" column="51" />
+        <mark key="." line="68" column="50" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0003_decision_tree.py" timestamp="1586804799118">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="4" column="0" />
@@ -141,12 +140,12 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1586804101383">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1586809222033">
         <mark key="'" line="1" column="17" />
-        <mark key="[" line="1446" column="8" />
-        <mark key="]" line="1446" column="22" />
-        <mark key="." line="1446" column="21" />
-        <mark key="^" line="1446" column="22" />
+        <mark key="[" line="1451" column="36" />
+        <mark key="]" line="1451" column="41" />
+        <mark key="." line="1451" column="40" />
+        <mark key="^" line="1451" column="41" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1586800216855">
         <mark key="'" line="3" column="20" />
@@ -186,16 +185,14 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-django-util/setup.py" timestamp="1586799518064">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/__init__.py" timestamp="1586805151911">
         <mark key="[" line="17" column="56" />
         <mark key="]" line="18" column="34" />
         <mark key="^" line="18" column="34" />
         <mark key="." line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1586809937619">
+        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1586805230595">
         <mark key="[" line="25" column="12" />
@@ -312,47 +309,47 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>ev</text>
       </register>
       <register name="-" type="4">
-        <text>event_type</text>
+        <text>ev</text>
       </register>
       <register name="/" type="4">
         <text>carta.django.models.fields\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF90eXBlPWV2ZW50LmV2ZW50X3R5cGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlID0gJ1BBVEhfTUlTTUFUQ0gnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRXZlbnQoCiAgICAgICAgICAgIGV2ZW50X3R5cGU9VFJBQ0tJTkdfRVZFTlRfVFlQRV9TRUdNRU5UQVRJT05fUE9MSUNZLAogICAgICAgICAgICByZXN1bHRfY29kZT1UcmFja2luZ1Jlc3VsdENvZGVzLkZBSUwsCiAgICAgICAgICAgIGN1c3RvbV9yZXN1bHRfY29kZT0nJywKICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNz</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBsb2cuZXJyb3IoJ0ZhaWxlZCB0byBjb21wYXJlIHJlc3VsdHMgZm9yIHNvbWUgcmVhc29uJywgZXhjX2luZm89ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMuZmllbGRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24K</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNhcnRhLmRqYW5nby5tb2RlbHMubW9kZWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIApkZWYgX2xvZ19yZXN1bHRzKHVtYnJlbGxhX2lkOiBpbnQsIGRlY2lzaW9uc19tYXRjaDogYm9vbCwgcGF0aHNfbWF0Y2g6IGJvb2wpOgogICAgaWYgZGVjaXNpb25zX21hdGNoOgogICAgICAgIGxvZy5pbmZvKCdEZWNpc2lvbiByZXN1bHRzIGFncmVlIGZvciB1bWJyZWxsYSBpZCAlcycsIHVtYnJlbGxhX2lkKQogICAgZWxzZToKICAgICAgICBsb2cud2FybmluZygKICAgICAgICAgICAgJ0RlY2lzaW9uIHJlc3VsdHMgZGlmZmVyIGZvciB1bWJyZWxsYSBpZCAlczogb2xkL25ldzogWyVzLyVzXScsCiAgICAgICAgICAgIHVtYnJlbGxhX2lkLCBvbGRfZGVjaXNpb24ucmVzdWx0LCBuZXdfZGVjaXNpb24ucmVzdWx0LAogICAgICAgICkKICAgIGlmIHBhdGhzX21hdGNoOgogICAgICAgIGxvZy5kZWJ1ZygnRGVjaXNpb24gcGF0aHMgYWdyZWUgZm9yIHVtYnJlbGxhICVzJywgdW1icmVsbGFfaWQpCiAgICBlbHNlOgogICAgICAgIGxvZy53YXJuaW5nKAogICAgICAgICAgICAnU2VnbWVudGF0aW9uIGRlY2lzaW9uIHBhdGhzIGRvIG5vdCBtYXRjaCBmb3IgdW1icmVsbGEgJXMuIERpZmY6ICVzJywKICAgICAgICAgICAgdW1icmVsbGFfaWQsIHBhdGhfZGlmZiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBldmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IF9jcmVhdGVfZXZlbnRfZnJvbV9yZXN1bHRzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kudXRpbHMuZGVjaW1hbF9qc29uX2ZpZWxkIGltcG9ydCBEZWNpbWFsSlNPTkZpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCdEZWNpc2lvbiBwYXRocyBhZ3JlZSBmb3IgdW1icmVsbGEgJXMnLCB1bWJyZWxsYS5pZCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2cud2FybmluZygKICAgICAgICAgICAgICAgICdTZWdtZW50YXRpb24gZGVjaXNpb24gcGF0aHMgZG8gbm90IG1hdGNoIGZvciB1bWJyZWxsYSAlcy4gRGlmZjogJXMnLAogICAgICAgICAgICAgICAgdW1icmVsbGEuaWQsIHBhdGhfZGlmZiwKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvbGRfZGVjaXNpb24ucmVzdWx0LnZhbHVlID09IG5ld19kZWNpc2lvbi5yZXN1bHQ6CiAgICAgICAgICAgIGxvZy5pbmZvKCdEZWNpc2lvbiByZXN1bHRzIGFncmVlIGZvciB1bWJyZWxsYSBpZCAlcycsIHVtYnJlbGxhLmlkKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGxvZy53YXJuaW5nKAogICAgICAgICAgICAgICAgJ0RlY2lzaW9uIHJlc3VsdHMgZGlmZmVyIGZvciB1bWJyZWxsYSBpZCAlczogb2xkL25ldzogWyVzLyVzXScsCiAgICAgICAgICAgICAgICB1bWJyZWxsYS5pZCwgb2xkX2RlY2lzaW9uLnJlc3VsdCwgbmV3X2RlY2lzaW9uLnJlc3VsdCwKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>29,86s/carta.django.models.fields\.//g</text>
