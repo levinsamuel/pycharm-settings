@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>!!</entry>
         <entry>POLICY</entry>
         <entry>frozenset</entry>
         <entry>dlom__volatility_quantiles.ninetieth</entry>
@@ -27,6 +26,7 @@
         <entry>scenario_company_value</entry>
         <entry>date</entry>
         <entry>uses_asset_volatility</entry>
+        <entry>active_value</entry>
       </history-search>
       <history-cmd>
         <entry>let counter=0|10,630g//let counter=counter+1|s/^/\=counter.&quot;\t&quot;/</entry>
@@ -165,6 +165,13 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1586992869325">
+        <mark key="'" line="26" column="60" />
+        <mark key="[" line="380" column="24" />
+        <mark key="]" line="386" column="27" />
+        <mark key="^" line="386" column="27" />
+        <mark key="." line="386" column="26" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/repository/test_repository.py" timestamp="1586976551073">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="37" />
@@ -179,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="48" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/utils/test_decimal_json_field.py" />
       <jump line="204" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_rules.py" />
       <jump line="444" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_rules.py" />
@@ -279,6 +285,7 @@
       <jump line="43" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
       <jump line="51" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
       <jump line="59" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
+      <jump line="26" column="60" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,14 +293,19 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>get_approach_values_from_config(
+            company_value_config,
+            debt_config=equity_config,
+            approaches=approach_structs,
+            active_only=False,
+        )</text>
       </register>
       <register name="-" type="4">
-        <text>next_umbrella</text>
+        <text>ompany_value_config: 'CompanyValueConfig', debt_config: 'DebtConfig'</text>
       </register>
       <register name="/" type="4">
-        <text>uses_asset_volatility</text>
+        <text>active_value</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IENvbXBhcmlzb25FeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGNvbXBhcmlzb25fZmFpbHVyZXMgKz0gMQogICAgICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBjb21wYXJlIHBvbGljaWVzLCBlcnJvcjonLCBlKQo=</text>
@@ -301,32 +313,37 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>get_approach_values_from_config(
+            company_value_config,
+            debt_config=equity_config,
+            approaches=approach_structs,
+            active_only=False,
+        )</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBBc3NldFVtYnJlbGxhQ29tcGFyYXRvci5zdGFydChtaW51dGVzX3RvX2xpdmU9NSkK</text>
+        <text encoding="base64">ICAgICAgICBhcHByb2FjaF9zdHJ1Y3RzID0gc2VsZi5zY2VuYXJpby5nZXRfYXBwcm9hY2hlcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnQ29tcGFyaW5nIHVtYnJlbGxhJywgbmV4dF91bWJyZWxsYSkK</text>
+        <text encoding="base64">ICAgICAgICBlcXVpdHlfY29uZmlnID0gYXR0ci5ldm9sdmUoZGVidF9jb25maWcsIGRlYnRfb3B0aW9uPUV4Y2x1ZGVEZWJ0T3B0aW9ucy5FWENMVURFX0FMTCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ29tcGFyaW5nIHVtYnJlbGxhIHdpdGggaWQ6JywgdW1icmVsbGEuaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHByb2FjaF9zdHJ1Y3RzID0gc2VsZi5zY2VuYXJpby5nZXRfYXBwcm9hY2hlcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueV92YWx1ZV9jb25maWcsIGRlYnQ9ZGVidCwgYXBwcm9hY2hlcz1hcHByb2FjaF9zdHJ1Y3RzLCBhY3RpdmVfb25seT1GYWxzZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlY29uZHNfdG9fbGl2ZSA9IG1pbnV0ZXNfdG9fbGl2ZSAqIDYwCiAgICAgICAgc2VsZi5zdGFydF90aW1lID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
@@ -335,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>uses_asset_volatility</last-search>
+      <last-search>active_value</last-search>
       <last-offset />
-      <last-pattern>uses_asset_volatility</last-pattern>
+      <last-pattern>active_value</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
