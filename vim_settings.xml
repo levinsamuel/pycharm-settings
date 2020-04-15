@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\n</entry>
         <entry>!!</entry>
         <entry>POLICY</entry>
         <entry>frozenset</entry>
@@ -27,6 +26,7 @@
         <entry>company_level_dlom</entry>
         <entry>scenario_company_value</entry>
         <entry>date</entry>
+        <entry>uses_asset_volatility</entry>
       </history-search>
       <history-cmd>
         <entry>let counter=0|10,630g//let counter=counter+1|s/^/\=counter.&quot;\t&quot;/</entry>
@@ -110,12 +110,6 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/services/automater/test_valuation_automater.py" timestamp="1586908063308">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="115" column="102" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1586975434607">
         <mark key="[" line="47" column="34" />
         <mark key="]" line="47" column="38" />
@@ -123,12 +117,6 @@
         <mark key="." line="47" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/dlom/test_dlom.py" timestamp="1586971966598" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/services/test_utils.py" timestamp="1586907443797">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="24" column="19" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" timestamp="1586969679334">
         <mark key="[" line="44" column="57" />
         <mark key="]" line="44" column="61" />
@@ -141,6 +129,7 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/backsolve_helpers.py" timestamp="1586990287742" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/dlom/dlom.py" timestamp="1586971013234">
         <mark key="[" line="118" column="64" />
         <mark key="]" line="118" column="64" />
@@ -164,11 +153,11 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/services/selector/test_valuation_strategy_selector.py" timestamp="1586905550230">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="67" column="27" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1586990712373">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="46" column="26" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/version.py" timestamp="1586969547590">
         <mark key="[" line="0" column="21" />
@@ -181,12 +170,15 @@
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" timestamp="1586990598178">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="161" column="7" />
+        <mark key="]" line="161" column="25" />
+        <mark key="^" line="161" column="25" />
+        <mark key="." line="161" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
-      <jump line="315" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/decimal_json_field.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/utils/test_decimal_json_field.py" />
       <jump line="6" column="48" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/utils/test_decimal_json_field.py" />
       <jump line="204" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_rules.py" />
@@ -283,6 +275,10 @@
       <jump line="0" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_asset_policy.py" />
       <jump line="26" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_asset_policy.py" />
       <jump line="79" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_asset_policy.py" />
+      <jump line="161" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +293,7 @@
         <text>next_umbrella</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>uses_asset_volatility</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IENvbXBhcmlzb25FeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGNvbXBhcmlzb25fZmFpbHVyZXMgKz0gMQogICAgICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBjb21wYXJlIHBvbGljaWVzLCBlcnJvcjonLCBlKQo=</text>
@@ -339,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>date</last-search>
+      <last-search>uses_asset_volatility</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>uses_asset_volatility</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
