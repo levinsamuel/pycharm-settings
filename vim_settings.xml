@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>True</entry>
         <entry>False</entry>
         <entry>\n</entry>
         <entry>!!</entry>
@@ -27,6 +26,7 @@
         <entry>TRACK</entry>
         <entry>\\n</entry>
         <entry>company_level_dlom</entry>
+        <entry>scenario_company_value</entry>
       </history-search>
       <history-cmd>
         <entry>let counter=0|10,630g//let counter=counter+1|s/^/\=counter.&quot;\t&quot;/</entry>
@@ -148,12 +148,6 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="54" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1586888886786">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="60" />
-        <mark key="." line="39" column="59" />
-        <mark key="^" line="39" column="60" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1586899241082">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="51" />
@@ -165,17 +159,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1586888947713" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/utils.py" timestamp="1586898676266">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/services/automater.py" timestamp="1586902726018">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="55" column="75" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1586891967272">
         <mark key="[" line="12" column="77" />
@@ -316,7 +303,7 @@
         <text>mocker.Mock(strategy_name=</text>
       </register>
       <register name="/" type="4">
-        <text>company_level_dlom</text>
+        <text>scenario_company_value</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYXV0b21hdGlvbi5zZXJ2aWNlcy51dGlscyBpbXBvcnQgU3RyYXRlZ3lJbml0aWFsaXphdGlvblV0aWwK</text>
@@ -359,9 +346,9 @@ ValuationStr</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>company_level_dlom</last-search>
+      <last-search>scenario_company_value</last-search>
       <last-offset />
-      <last-pattern>company_level_dlom</last-pattern>
+      <last-pattern>scenario_company_value</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
