@@ -108,9 +108,9 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1587076503233">
         <mark key="[" line="95" column="46" />
-        <mark key="]" line="96" column="35" />
-        <mark key="^" line="96" column="35" />
-        <mark key="." line="96" column="34" />
+        <mark key="]" line="95" column="35" />
+        <mark key="^" line="95" column="35" />
+        <mark key="." line="95" column="34" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1586975434607">
         <mark key="[" line="47" column="34" />
@@ -137,26 +137,16 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1587071565640">
-        <mark key="[" line="145" column="57" />
-        <mark key="]" line="146" column="48" />
-        <mark key="^" line="146" column="48" />
-        <mark key="." line="146" column="47" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" timestamp="1586994136359">
         <mark key="'" line="142" column="53" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1586990712373">
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1587077819133">
         <mark key="[" line="45" column="38" />
-        <mark key="]" line="46" column="26" />
-        <mark key="^" line="46" column="26" />
-        <mark key="." line="46" column="25" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1587055209711">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/repository/test_repository.py" timestamp="1586976551073">
         <mark key="[" line="0" column="36" />
@@ -280,7 +270,7 @@
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>FrozenOrderedDict(d)</text>
@@ -295,36 +285,36 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogbWFrZSB0aGlzIHRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcHJvYWNoQ29tcGFueVZhbHVlKAogICAgICAgICAgICAgICAgICAgIGtleT1uYW1lLCB3ZWlnaHQ9RGVjaW1hbCgwKSwKICAgICAgICAgICAgICAgICAgICBjb21wYW55X3ZhbHVlPWdldGF0dHIoc2NlbmFyaW8sIG5hbWUpLmVxdWl0eV92YWx1ZQogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KG1vZHVsZS5hdHRyLCAnZXZvbHZlJykK</text>
+        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5jb21wYW55X3ZhbHVlLmFwcHJvYWNoZXMgaW1wb3J0ICgKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfYmFzZSwKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfZnJvbV9jb25maWcsCikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcHJvYWNoQ29tcGFueVZhbHVlKAogICAgICAgICAgICAgICAgICAgIGtleT1uYW1lLCB3ZWlnaHQ9RGVjaW1hbCgwKSwKICAgICAgICAgICAgICAgICAgICBjb21wYW55X3ZhbHVlPWdldGF0dHIoc2NlbmFyaW8sIG5hbWUpLmVxdWl0eV92YWx1ZQogICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KG1vZHVsZS5hdHRyLCAnZXZvbHZlJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5jb21wYW55X3ZhbHVlLmFwcHJvYWNoZXMgaW1wb3J0ICgKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfYmFzZSwKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfZnJvbV9jb25maWcsCikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGF0dHIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>get_approach_values_from_config(
             company_value_config,
             debt_config=equity_config,
             approaches=approach_structs,
             active_only=False,
         )</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHByb2FjaF9zdHJ1Y3RzID0gc2VsZi5zY2VuYXJpby5nZXRfYXBwcm9hY2hlcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
