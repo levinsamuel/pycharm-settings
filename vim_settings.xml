@@ -88,7 +88,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1587054745975">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1587059813196">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_asset_policy.py" timestamp="1586985767617">
@@ -105,13 +105,6 @@
         <mark key="]" line="88" column="57" />
         <mark key="^" line="88" column="57" />
         <mark key="." line="88" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1586975651066">
-        <mark key="'" line="74" column="23" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="48" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1586975434607">
         <mark key="[" line="47" column="34" />
@@ -143,6 +136,12 @@
         <mark key="]" line="17" column="68" />
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1587058197036">
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="61" column="66" />
+        <mark key="^" line="61" column="66" />
+        <mark key="." line="61" column="65" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" timestamp="1586994136359">
         <mark key="'" line="142" column="53" />
@@ -281,7 +280,7 @@
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FrozenOrderedDict(d)</text>
@@ -296,21 +295,24 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcHJvYWNoQ29tcGFueVZhbHVlKAogICAgICAgICAgICAgICAgICAgIGtleT1uYW1lLCB3ZWlnaHQ9RGVjaW1hbCgwKSwKICAgICAgICAgICAgICAgICAgICBjb21wYW55X3ZhbHVlPWdldGF0dHIoc2NlbmFyaW8sIG5hbWUpLmVxdWl0eV92YWx1ZQogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KG1vZHVsZS5hdHRyLCAnZXZvbHZlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcHJvYWNoQ29tcGFueVZhbHVlKAogICAgICAgICAgICAgICAgICAgIGtleT1uYW1lLCB3ZWlnaHQ9RGVjaW1hbCgwKSwKICAgICAgICAgICAgICAgICAgICBjb21wYW55X3ZhbHVlPWdldGF0dHIoc2NlbmFyaW8sIG5hbWUpLmVxdWl0eV92YWx1ZQogICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5jb21wYW55X3ZhbHVlLmFwcHJvYWNoZXMgaW1wb3J0ICgKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfYmFzZSwKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfZnJvbV9jb25maWcsCikK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KG1vZHVsZS5hdHRyLCAnZXZvbHZlJykK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5jb21wYW55X3ZhbHVlLmFwcHJvYWNoZXMgaW1wb3J0ICgKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfYmFzZSwKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfZnJvbV9jb25maWcsCikK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGF0dHIK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>get_approach_values_from_config(
             company_value_config,
             debt_config=equity_config,
@@ -318,14 +320,11 @@
             active_only=False,
         )</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHByb2FjaF9zdHJ1Y3RzID0gc2VsZi5zY2VuYXJpby5nZXRfYXBwcm9hY2hlcygpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpdHlfY29uZmlnID0gYXR0ci5ldm9sdmUoZGVidF9jb25maWcsIGRlYnRfb3B0aW9uPUV4Y2x1ZGVEZWJ0T3B0aW9ucy5FWENMVURFX0FMTCkK</text>
+        <text encoding="base64">ICAgICAgICBhcHByb2FjaF9zdHJ1Y3RzID0gc2VsZi5zY2VuYXJpby5nZXRfYXBwcm9hY2hlcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
