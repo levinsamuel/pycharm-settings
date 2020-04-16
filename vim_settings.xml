@@ -91,14 +91,12 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1587060726075">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1587078464661">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_asset_policy.py" timestamp="1586985767617">
         <mark key="'" line="89" column="11" />
         <mark key="[" line="95" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/public_comparables/volatility.py" timestamp="1586971904764">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" timestamp="1586976248290">
         <mark key="[" line="88" column="46" />
@@ -118,19 +116,15 @@
         <mark key="^" line="47" column="38" />
         <mark key="." line="47" column="37" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/dlom/test_dlom.py" timestamp="1586971966598" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/version.py" timestamp="1586970373866">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1587080023394" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/sample_data/comp_data.py" timestamp="1587079906904">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1587079415749" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/backsolve_helpers.py" timestamp="1586990287742" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/dlom/dlom.py" timestamp="1586971013234">
-        <mark key="[" line="118" column="64" />
-        <mark key="]" line="118" column="64" />
-        <mark key="." line="118" column="64" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/valuation_policy.py" timestamp="1586975461471">
         <mark key="[" line="12" column="61" />
         <mark key="]" line="17" column="68" />
@@ -140,10 +134,12 @@
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" timestamp="1586994136359">
         <mark key="'" line="142" column="53" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1587077819133">
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1587080908223">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="116" column="35" />
+        <mark key="]" line="116" column="35" />
+        <mark key="." line="116" column="35" />
+        <mark key="^" line="116" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1587055209711">
         <mark key="^" line="1" column="34" />
@@ -160,11 +156,14 @@
         <mark key="^" line="161" column="25" />
         <mark key="." line="161" column="24" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1587079944229">
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="482" column="20" />
+        <mark key="^" line="482" column="20" />
+        <mark key="." line="482" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_rules.py" />
-      <jump line="20" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" />
       <jump line="20" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" />
       <jump line="32" column="0" filename="$USER_HOME$/.virtualenvs/carta/lib/python3.6/site-packages/django/db/models/fields/related_descriptors.py" />
       <jump line="29" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" />
@@ -262,6 +261,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" />
       <jump line="142" column="53" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
+      <jump line="82" column="33" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -269,52 +271,47 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>FrozenOrderedDict(d)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>POLIC</text>
       </register>
-      <register name="0" type="4">
-        <text>getattr(scenario, name).equity_value</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICByb3VuZF92YWx1ZSh2b2xhdGlsaXR5LCBwcmVjaXNpb249MTIpCiAgICAgICAgICAgID09CiAgICAgICAgICAgIERlY2ltYWwoJzAuNjgwNzQ1MzE0ODE3JykKICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYXNzZXQ6Jywgdm9sYXRpbGl0eSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogbWFrZSB0aGlzIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZXF1aXR5OicsIHZvbGF0aWxpdHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2xhdGlsaXR5ID0gbW9kdWxlLmdldF92b2xhdGlsaXR5X2Jhc2UoCiAgICAgICAgICAgIGNvcnBvcmF0aW9uX3BrPTcsIHZvbGF0aWxpdHlfY29uZmlnPXZvbGF0aWxpdHlfY29uZmlnCiAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycyBpbXBvcnQgY29tcGFyYWJsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcHJvYWNoQ29tcGFueVZhbHVlKAogICAgICAgICAgICAgICAgICAgIGtleT1uYW1lLCB3ZWlnaHQ9RGVjaW1hbCgwKSwKICAgICAgICAgICAgICAgICAgICBjb21wYW55X3ZhbHVlPWdldGF0dHIoc2NlbmFyaW8sIG5hbWUpLmVxdWl0eV92YWx1ZQogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KG1vZHVsZS5hdHRyLCAnZXZvbHZlJykK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogbWFrZSB0aGlzIHRlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5jb21wYW55X3ZhbHVlLmFwcHJvYWNoZXMgaW1wb3J0ICgKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfYmFzZSwKICAgIGdldF9hcHByb2FjaF92YWx1ZXNfZnJvbV9jb25maWcsCikK</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
+        <text encoding="base64">ZnJvbSBmcm96ZW5kaWN0IGltcG9ydCBGcm96ZW5PcmRlcmVkRGljdAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>get_approach_values_from_config(
-            company_value_config,
-            debt_config=equity_config,
-            approaches=approach_structs,
-            active_only=False,
-        )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcHJvYWNoQ29tcGFueVZhbHVlKAogICAgICAgICAgICAgICAgICAgIGtleT1uYW1lLCB3ZWlnaHQ9RGVjaW1hbCgwKSwKICAgICAgICAgICAgICAgICAgICBjb21wYW55X3ZhbHVlPWdldGF0dHIoc2NlbmFyaW8sIG5hbWUpLmVxdWl0eV92YWx1ZQogICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
