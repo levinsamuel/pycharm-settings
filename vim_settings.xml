@@ -110,18 +110,18 @@
         <mark key="^" line="95" column="35" />
         <mark key="." line="95" column="34" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1586975434607">
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="47" column="38" />
-        <mark key="^" line="47" column="38" />
-        <mark key="." line="47" column="37" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1587080023394" />
       <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/sample_data/comp_data.py" timestamp="1587081057646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/interfaces.py" timestamp="1587089489987">
+        <mark key="[" line="100" column="53" />
+        <mark key="]" line="100" column="73" />
+        <mark key="." line="100" column="72" />
+        <mark key="^" line="100" column="73" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1587079415749" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/backsolve_helpers.py" timestamp="1586990287742" />
@@ -131,6 +131,7 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="67" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1587089263974" />
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" timestamp="1586994136359">
         <mark key="'" line="142" column="53" />
       </file>
@@ -157,10 +158,9 @@
         <mark key="." line="161" column="7" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1587079944229">
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="482" column="20" />
-        <mark key="^" line="482" column="20" />
-        <mark key="." line="482" column="19" />
+        <mark key="]" line="54" column="20" />
+        <mark key="^" line="54" column="20" />
+        <mark key="." line="54" column="19" />
       </file>
     </filemarks>
     <jumps>
