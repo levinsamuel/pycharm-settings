@@ -107,7 +107,6 @@
         <mark key="^" line="100" column="73" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/tte.py" timestamp="1587091864046" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/backsolve_helpers.py" timestamp="1586990287742" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" timestamp="1587091942425">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
@@ -148,6 +147,12 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/asset_policy/definition.py" timestamp="1587091146180" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1587080023394" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1587079415749" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/regression/volatility.py" timestamp="1587141669200">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="16" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/service/implementation.py" timestamp="1587091431955" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/volatility.py" timestamp="1587089585321">
         <mark key="[" line="6" column="31" />
@@ -264,11 +269,11 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBFUlJPUlMK</text>
+      <register name="&quot;" type="4">
+        <text>Dict</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Dict</text>
       </register>
       <register name="/" type="4">
         <text>:.*\n</text>
