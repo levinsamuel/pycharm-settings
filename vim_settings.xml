@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/report/context/scenario/scenario_context_generator/test_scenario_context_generator.py" timestamp="1586994136359">
         <mark key="'" line="142" column="53" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1587081015929">
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1587142944586">
         <mark key="'" line="1" column="10" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="118" column="63" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="96" column="63" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1587055209711">
         <mark key="^" line="1" column="34" />
@@ -269,17 +269,17 @@
       <register name="a" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Dict</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUaGUgcmVncmVzc2lvbiBjYWxjdWxhdGlvbiBjYW4gYWN0dWFsbHkgdmFyeSBieSBlbnZpcm9ubWVudAogICAgICAgICAgICAjIGluIGEgd2F5IHRoYXQgc2hvd3MgdXAgYXQgYWJvdXQgdGhlIGVpZ2h0aCBkZWNpbWFsIHBvaW50LgogICAgICAgICAgICAjIHdlJ3JlIG9rIHdpdGggdGhhdCwgdGhlcmVmb3JlIG9ubHkgNSBwb2ludHMgdXNlZC4K</text>
       </register>
       <register name="-" type="4">
-        <text>Dict</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
         <text>:.*\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICByb3VuZF92YWx1ZSh2b2xhdGlsaXR5LCBwcmVjaXNpb249MTIpCiAgICAgICAgICAgID09CiAgICAgICAgICAgIERlY2ltYWwoJzAuNjgwNzQ1MzE0ODE3JykKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUaGUgcmVncmVzc2lvbiBjYWxjdWxhdGlvbiBjYW4gYWN0dWFsbHkgdmFyeSBieSBlbnZpcm9ubWVudAogICAgICAgICAgICAjIGluIGEgd2F5IHRoYXQgc2hvd3MgdXAgYXQgYWJvdXQgdGhlIGVpZ2h0aCBkZWNpbWFsIHBvaW50LgogICAgICAgICAgICAjIHdlJ3JlIG9rIHdpdGggdGhhdCwgdGhlcmVmb3JlIG9ubHkgNSBwb2ludHMgdXNlZC4K</text>
       </register>
       <register name="q" type="4">
         <text />
