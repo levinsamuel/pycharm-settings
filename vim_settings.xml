@@ -88,8 +88,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587078464661">
-        <mark key="[" line="0" column="0" />
+      <file name="/startup.py" timestamp="1587187070576">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1587187223045">
+        <mark key="[" line="621" column="11" />
+        <mark key="]" line="621" column="30" />
+        <mark key="." line="621" column="29" />
+        <mark key="^" line="621" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/regression/volatility.py" timestamp="1587141669200">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/sample_data/comp_data.py" timestamp="1587081057646">
         <mark key="[" line="0" column="0" />
@@ -97,31 +110,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/interfaces.py" timestamp="1587140713828">
-        <mark key="[" line="100" column="53" />
-        <mark key="]" line="100" column="73" />
-        <mark key="." line="100" column="72" />
-        <mark key="^" line="100" column="73" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/groups/time_to_exit.py" timestamp="1587147478519" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/tte.py" timestamp="1587091864046" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" timestamp="1587091942425">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" timestamp="1587081099611">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="161" column="7" />
-        <mark key="]" line="161" column="7" />
-        <mark key="^" line="161" column="25" />
-        <mark key="." line="161" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1587079944229">
-        <mark key="]" line="54" column="20" />
-        <mark key="^" line="54" column="20" />
-        <mark key="." line="54" column="19" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1587147661774">
         <mark key="'" line="214" column="13" />
@@ -130,22 +123,32 @@
         <mark key="^" line="209" column="18" />
         <mark key="." line="209" column="17" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/asset_policy/definition.py" timestamp="1587091146180" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1587080023394" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/interfaces.py" timestamp="1587140713828">
+        <mark key="[" line="100" column="53" />
+        <mark key="]" line="100" column="73" />
+        <mark key="." line="100" column="72" />
+        <mark key="^" line="100" column="73" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1587187074172">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1587187173320" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/version.py" timestamp="1587148121164">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/calculations.py" timestamp="1587079415749" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/regression/volatility.py" timestamp="1587141669200">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" timestamp="1587081099611">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="161" column="7" />
+        <mark key="]" line="161" column="7" />
+        <mark key="^" line="161" column="25" />
+        <mark key="." line="161" column="7" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/service/implementation.py" timestamp="1587091431955" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/volatility.py" timestamp="1587089585321">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="7" column="61" />
@@ -157,6 +160,11 @@
         <mark key="]" line="67" column="51" />
         <mark key="." line="67" column="50" />
         <mark key="^" line="67" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1587079944229">
+        <mark key="]" line="54" column="20" />
+        <mark key="^" line="54" column="20" />
+        <mark key="." line="54" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -268,7 +276,7 @@
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHBhcmFtcz1bCiAgICAoUmVxdWVzdFN1YmplY3QsIGJhY2tzb2x2ZV9jb21wbGV4aXR5X3J1bGVzKSwKICAgIChQb2xpY3lSZXF1ZXN0U3ViamVjdCwgYmFja3NvbHZlX2NvbXBsZXhpdHlfcG9saWN5X3J1bGVzKSwKXSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUaGUgcmVncmVzc2lvbiBjYWxjdWxhdGlvbiBjYW4gYWN0dWFsbHkgdmFyeSBieSBlbnZpcm9ubWVudAogICAgICAgICAgICAjIGluIGEgd2F5IHRoYXQgc2hvd3MgdXAgYXQgYWJvdXQgdGhlIGVpZ2h0aCBkZWNpbWFsIHBvaW50LgogICAgICAgICAgICAjIHdlJ3JlIG9rIHdpdGggdGhhdCwgdGhlcmVmb3JlIG9ubHkgNSBwb2ludHMgdXNlZC4K</text>
+        <text encoding="base64">ICAgIHhwcmVzc2ZlZWRfc2VydmljZSA9IFhwcmVzc2ZlZWRTZXJ2aWNlLmZhY3RvcnkoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>12</text>
@@ -277,37 +285,37 @@
         <text>:.*\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUaGUgcmVncmVzc2lvbiBjYWxjdWxhdGlvbiBjYW4gYWN0dWFsbHkgdmFyeSBieSBlbnZpcm9ubWVudAogICAgICAgICAgICAjIGluIGEgd2F5IHRoYXQgc2hvd3MgdXAgYXQgYWJvdXQgdGhlIGVpZ2h0aCBkZWNpbWFsIHBvaW50LgogICAgICAgICAgICAjIHdlJ3JlIG9rIHdpdGggdGhhdCwgdGhlcmVmb3JlIG9ubHkgNSBwb2ludHMgdXNlZC4K</text>
+        <text encoding="base64">ICAgIHhwcmVzc2ZlZWRfc2VydmljZSA9IFhwcmVzc2ZlZWRTZXJ2aWNlLmZhY3RvcnkoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBFUlJPUlMK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnhwcmVzc2ZlZWQgaW1wb3J0IFhwcmVzc2ZlZWRTZXJ2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAuYXNzZXQ6IDAuNTMyODY3ODc5MDQ4MDUwMjE5MjAzOTU4MDIyMjYyNjY4MjM3MDkwMTEwNzc4ODA4NTkzNzUK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy5maW5hbmNpYWxzLm11bHRpcGxlcyBpbXBvcnQgZ2VuZXJhdGVfbXVsdGlwbGVzX2RhdGEsIGdlbmVyYXRlX211bHRpcGxlc19xdWFydGlsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAwLjY4MDc0NTMxNDgxNzM5MjA4ODcxMzE3NzE0NTEwOTUxMTkxMTg2OTA0OTA3MjI2NTYyNQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBmZXRjaF9jb21wX2RhdGEsIGZldGNoX2RjZl9kYXRhLCBnZXRfdm9sdW1lX2RpY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYXNzZXQ6Jywgdm9sYXRpbGl0eSkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnJlcG9zaXRvcmllcyBpbXBvcnQgVmFsdWF0aW9uc1JlcG9zaXRvcnlGYWN0b3J5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZXF1aXR5OicsIHZvbGF0aWxpdHkpCg==</text>
+        <text encoding="base64">IyBFUlJPUlMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2b2xhdGlsaXR5ID0gbW9kdWxlLmdldF92b2xhdGlsaXR5X2Jhc2UoCiAgICAgICAgICAgIGNvcnBvcmF0aW9uX3BrPTcsIHZvbGF0aWxpdHlfY29uZmlnPXZvbGF0aWxpdHlfY29uZmlnCiAgICAgICAgKQo=</text>
+        <text encoding="base64">IyAuYXNzZXQ6IDAuNTMyODY3ODc5MDQ4MDUwMjE5MjAzOTU4MDIyMjYyNjY4MjM3MDkwMTEwNzc4ODA4NTkzNzUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycyBpbXBvcnQgY29tcGFyYWJsZXMK</text>
+        <text encoding="base64">IyAwLjY4MDc0NTMxNDgxNzM5MjA4ODcxMzE3NzE0NTEwOTUxMTkxMTg2OTA0OTA3MjI2NTYyNQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYXNzZXQ6Jywgdm9sYXRpbGl0eSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogbWFrZSB0aGlzIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZXF1aXR5OicsIHZvbGF0aWxpdHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/:.*\n/,/g</text>
