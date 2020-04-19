@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>g</entry>
-        <entry>carta.django.models.fields\.</entry>
         <entry>TRACK</entry>
         <entry>\\n</entry>
         <entry>company_level_dlom</entry>
@@ -27,9 +25,10 @@
         <entry>VALUAT</entry>
         <entry>XpressfeedService.factory()</entry>
         <entry>tickers</entry>
+        <entry>_get_quartiles</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/JSONRule(rule=//g</entry>
         <entry>s/weighted_time_to_exit/time_to_next_financing/g</entry>
         <entry>%s/SegmentationMethodologies\.([A-Z_]+)/SegmentationMethodologies.\1.value/</entry>
         <entry>%s/SegmentationMethodologies\.\([A-Z_]+\)/SegmentationMethodologies.\1.value/</entry>
@@ -49,6 +48,7 @@
         <entry>%s/\:\\n/,/g</entry>
         <entry>%s/:.*\n/,/g</entry>
         <entry>%s/XpressfeedService.factory()/ServiceRegistry.get_xpressfeed_service()/</entry>
+        <entry>%s/_get_quartiles/get_quartiles_from_dictionary/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -88,11 +88,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/equity_adjustment.py" timestamp="1587326149602">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/equity_adjustment.py" timestamp="1587328899733">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/definition.py" timestamp="1587188859364">
         <mark key="[" line="15" column="32" />
@@ -106,18 +106,19 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/xpressfeed.py" timestamp="1587188085903" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/valuation/valuation.py" timestamp="1587188153379">
-        <mark key="[" line="533" column="0" />
-        <mark key="]" line="533" column="69" />
-        <mark key="." line="533" column="68" />
-        <mark key="^" line="533" column="69" />
+      <file name="/a.dummy" timestamp="1587328704208">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" timestamp="1587326231244">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/xpressfeed.py" timestamp="1587328854921">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" timestamp="1587328954238">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/allocation_helpers.py" timestamp="1587326459574">
         <mark key="[" line="15" column="0" />
@@ -130,11 +131,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/schema.py" timestamp="1587188244661">
-        <mark key="'" line="168" column="54" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" timestamp="1587329227636">
+        <mark key="'" line="503" column="5" />
+        <mark key="[" line="503" column="0" />
+        <mark key="]" line="514" column="0" />
+        <mark key="." line="503" column="0" />
+        <mark key="^" line="257" column="80" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/integrations/test_xpressfeed.py" timestamp="1587256557526">
         <mark key="[" line="18" column="17" />
@@ -148,11 +150,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/quartiles.py" timestamp="1587326365525">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="38" column="36" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/quartiles.py" timestamp="1587329002957">
+        <mark key="'" line="43" column="40" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="43" column="40" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/parameterized_valuation.py" timestamp="1587324294980">
         <mark key="'" line="23" column="26" />
@@ -166,17 +169,17 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/approaches/ma.py" timestamp="1587188103858">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="69" />
-        <mark key="." line="107" column="68" />
-        <mark key="^" line="107" column="69" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/xpressfeed/test_xpressfeed.py" timestamp="1587256642850">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/misc.py" timestamp="1587328817418">
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" timestamp="1587326556176">
         <mark key="'" line="59" column="4" />
@@ -198,13 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="25" filename="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" />
-      <jump line="11" column="64" filename="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" />
-      <jump line="266" column="25" filename="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/git/c/carta-django-util/carta/django/models/fields.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
-      <jump line="3" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="27" column="0" filename="$USER_HOME$/git/c/carta-web/requirements.txt" />
       <jump line="673" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1207" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
@@ -298,6 +294,13 @@
       <jump line="74" column="12" filename="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/parameterized_valuation.py" />
       <jump line="139" column="0" filename="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/parameterized_valuation.py" />
       <jump line="23" column="26" filename="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/parameterized_valuation.py" />
+      <jump line="43" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/quartiles.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
+      <jump line="515" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
+      <jump line="521" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
+      <jump line="531" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
+      <jump line="535" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
+      <jump line="503" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,60 +308,60 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>xpressfeed_service.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZmV0Y2hfdm9sYXRpbGl0eSh0aWNrZXJzLCBlbmRfZGF0ZSwgc3RhcnRfZGF0ZSk6CiAgICAgICAgcmV0dXJuIFhwcmVzc2ZlZWQoCiAgICAgICAgICAgIGFyZ190eXBlPSdQcmljaW5nQXJncycsCiAgICAgICAgICAgIHRpY2tlcnM9dGlja2VycywKICAgICAgICAgICAgZW5kX2RhdGU9ZW5kX2RhdGUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU9c3RhcnRfZGF0ZSwKICAgICAgICAgICAgcG9vbD0nZGlzcGF0Y2hfZ2V0X2NhcnRhX3ZvbGF0aWxpdHlfYmluYXJ5JywKICAgICAgICAgICAgdG9fZGljdD1UcnVlLAogICAgICAgICAgICBjb2x1bW49J3ZvbGF0aWxpdHknLAogICAgICAgICkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>tickers</text>
+        <text>static</text>
       </register>
-      <register name="0" type="4">
-        <text>xpressfeed_service.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogZG9lcyBub3QgbmVlZCB0byBiZSBvbiB4cHJlc3NmZWVkIHNlcnZpY2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBnZXRfdm9sYXRpbGl0eV9kaWN0Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZmV0Y2hfdm9sYXRpbGl0eSh0aWNrZXJzLCBlbmRfZGF0ZSwgc3RhcnRfZGF0ZSk6CiAgICAgICAgcmV0dXJuIFhwcmVzc2ZlZWQoCiAgICAgICAgICAgIGFyZ190eXBlPSdQcmljaW5nQXJncycsCiAgICAgICAgICAgIHRpY2tlcnM9dGlja2VycywKICAgICAgICAgICAgZW5kX2RhdGU9ZW5kX2RhdGUsCiAgICAgICAgICAgIHN0YXJ0X2RhdGU9c3RhcnRfZGF0ZSwKICAgICAgICAgICAgcG9vbD0nZGlzcGF0Y2hfZ2V0X2NhcnRhX3ZvbGF0aWxpdHlfYmluYXJ5JywKICAgICAgICAgICAgdG9fZGljdD1UcnVlLAogICAgICAgICAgICBjb2x1bW49J3ZvbGF0aWxpdHknLAogICAgICAgICkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBmZXRjaF9jb21wX2RhdGEK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZmV0Y2hfdm9sdW1lKGlkZW50aWZpZXJzLCBlbmRfZGF0ZSwgc3RhcnRfZGF0ZSk6CiAgICAgICAgcmV0dXJuIFhwcmVzc2ZlZWQoCiAgICAgICAgICAgIGFyZ190eXBlPSdQcmljaW5nQXJncycsCiAgICAgICAgICAgIHRpY2tlcnM9aWRlbnRpZmllcnMsCiAgICAgICAgICAgIG1uZW1vbmljcz1bJ0lRX1ZPTFVNRSddLAogICAgICAgICAgICBlbmRfZGF0ZT1lbmRfZGF0ZSwKICAgICAgICAgICAgc3RhcnRfZGF0ZT1zdGFydF9kYXRlLAogICAgICAgICkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2ZldGNoX3hwcmVzc2ZlZWQob2JqKToKICAgICAgICByZXR1cm4gb2JqLmV4ZWN1dGUoKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X3N0YXJ0X2RhdGUoZW5kX2RhdGU6IGRhdGV0aW1lLmRhdGUsIHRlcm0pOgogICAgICAgIHRlcm1fZGF5cyA9IHJvdW5kKHRlcm0gKiBEZWNpbWFsKCczNjUuMjUnKSkKICAgICAgICByZXR1cm4gZW5kX2RhdGUgLSByZWxhdGl2ZWRlbHRhKGRheXM9dGVybV9kYXlzKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhbGxvY2F0aW9uOgo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfcHJvY2Vzc192b2xhdGlsaXR5KHZvbGF0aWxpdHkpIC0+IERlY2ltYWw6CiAgICAgICAgaWYgdm9sYXRpbGl0eSBpcyBOb25lIG9yIGlzbmFuKHZvbGF0aWxpdHkpIG9yIGlzaW5mKHZvbGF0aWxpdHkpOgogICAgICAgICAgICByZXR1cm4gRGVjaW1hbCgnMCcpCiAgICAgICAgcmV0dXJuIERlY2ltYWwoc3RyKHZvbGF0aWxpdHkpKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhbGxvY2F0aW9uOgo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZG9lcyBub3QgbmVlZCB0byBiZSBvbiB4cHJlc3NmZWVkIHNlcnZpY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhwcmVzc2ZlZWRfc2VydmljZSA9IFNlcnZpY2VSZWdpc3RyeS5nZXRfeHByZXNzZmVlZF9zZXJ2aWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB4cHJlc3NmZWVkX3NlcnZpY2UuZ2V0X3F1YXJ0aWxlcyhsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfcXVhcnRpbGVzKGw6IERpY3QpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBnZXRfcXVhcnRpbGVzLCBnZXRfdm9sYXRpbGl0eV9kaWN0Cg==</text>
+        <text encoding="base64">ICAgIHhwcmVzc2ZlZWRfc2VydmljZSA9IFNlcnZpY2VSZWdpc3RyeS5nZXRfeHByZXNzZmVlZF9zZXJ2aWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBnZXRfcXVhcnRpbGVzCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZSBpbXBvcnQgU2VydmljZVJlZ2lzdHJ5Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/XpressfeedService.factory()/ServiceRegistry.get_xpressfeed_service()/</text>
+        <text>%s/_get_quartiles/get_quartiles_from_dictionary/</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tickers</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>tickers</last-pattern>
-      <last-replace>ServiceRegistry.get_xpressfeed_service()</last-replace>
-      <last-substitute>XpressfeedService.factory()</last-substitute>
+      <last-pattern>static</last-pattern>
+      <last-replace>get_quartiles_from_dictionary</last-replace>
+      <last-substitute>_get_quartiles</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
