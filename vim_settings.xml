@@ -24,9 +24,9 @@
         <entry>tickers</entry>
         <entry>_get_quartiles</entry>
         <entry>static</entry>
-        <entry>VALUA</entry>
         <entry>Issuable</entry>
         <entry>ISSUA</entry>
+        <entry>VALUA</entry>
       </history-search>
       <history-cmd>
         <entry>s/weighted_time_to_exit/time_to_next_financing/g</entry>
@@ -88,12 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/equity_adjustment.py" timestamp="1587328899733">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="29" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1587402876696">
         <mark key="'" line="295" column="7" />
         <mark key="[" line="332" column="24" />
@@ -115,35 +109,15 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/allocation_helpers.py" timestamp="1587326459574">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="65" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="16" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587402992282">
-        <mark key="[" line="78" column="7" />
-        <mark key="]" line="78" column="7" />
-        <mark key="." line="78" column="6" />
-        <mark key="^" line="78" column="7" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587406891946">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/request/tasks.py" timestamp="1587402402598">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" timestamp="1587329227636">
-        <mark key="'" line="503" column="5" />
-        <mark key="[" line="503" column="0" />
-        <mark key="]" line="514" column="0" />
-        <mark key="." line="503" column="0" />
-        <mark key="^" line="257" column="80" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/test_full_valuation.py" timestamp="1587325960137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/quartiles.py" timestamp="1587329302632">
         <mark key="'" line="86" column="4" />
@@ -152,12 +126,51 @@
         <mark key="^" line="43" column="41" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/parameterized_valuation.py" timestamp="1587324294980">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="105" column="56" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" timestamp="1587406798169">
+        <mark key="'" line="359" column="44" />
+        <mark key="[" line="1197" column="79" />
+        <mark key="]" line="1197" column="84" />
+        <mark key="^" line="1197" column="84" />
+        <mark key="." line="1197" column="83" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/request/test_request_tasks.py" timestamp="1587402399954">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1587407149036">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/yarn-error.log" timestamp="1587405420717">
+        <mark key="'" line="25" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/volatility.py" timestamp="1587326418029">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="65" />
+        <mark key="." line="101" column="31" />
+        <mark key="^" line="101" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/equity_adjustment.py" timestamp="1587328899733">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/allocation_helpers.py" timestamp="1587326459574">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" timestamp="1587329227636">
+        <mark key="'" line="503" column="5" />
+        <mark key="[" line="503" column="0" />
+        <mark key="]" line="514" column="0" />
+        <mark key="." line="503" column="0" />
+        <mark key="^" line="257" column="80" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/xpressfeed/test_xpressfeed.py" timestamp="1587329492956">
         <mark key="[" line="15" column="34" />
@@ -177,20 +190,6 @@
         <mark key="]" line="276" column="30" />
         <mark key="^" line="120" column="44" />
         <mark key="." line="276" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/request/test_request_tasks.py" timestamp="1587402399954">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/yarn-error.log" timestamp="1587405420717">
-        <mark key="'" line="25" column="44" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/volatility.py" timestamp="1587326418029">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="65" />
-        <mark key="." line="101" column="31" />
-        <mark key="^" line="101" column="32" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" timestamp="1587406118614">
         <mark key="[" line="167" column="33" />
@@ -270,7 +269,6 @@
       <jump line="1" column="10" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" />
       <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" />
       <jump line="12" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="220" column="62" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="143" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="217" column="54" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
@@ -279,10 +277,6 @@
       <jump line="1196" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="1610" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="2603" column="51" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
-      <jump line="74" column="59" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
-      <jump line="359" column="44" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="167" column="54" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/schema.py" />
       <jump line="10" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" />
       <jump line="608" column="53" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" />
@@ -305,6 +299,11 @@
       <jump line="468" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="295" column="7" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="25" column="44" filename="$USER_HOME$/git/c/carta-web/yarn-error.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="74" column="59" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="359" column="44" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,47 +311,47 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>'testing.eshares.user.encrypted.uploads'</text>
       </register>
       <register name="/" type="4">
-        <text>ISSUA</text>
+        <text>VALUA</text>
       </register>
-      <register name="0" type="4">
-        <text>VALUATIONS_VALBOT_V2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBydW5fYXV0b21hdGVkX3ZhbHVhdGlvbl9zdHJhdGVneS5zaSh1bWJyZWxsYV9waywgc3RyYXRlZ3kpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogU2VwYXJhdGUgYWNjZXB0YW5jZSBjcml0ZXJpYSBjaGVja3MgYW5kIGV4ZWN1dGlvbiBvZiBzdHJhdGVnaWVzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogU2VwYXJhdGUgYWNjZXB0YW5jZSBjcml0ZXJpYSBjaGVja3MgYW5kIGV4ZWN1dGlvbiBvZiBzdHJhdGVnaWVzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0IGNhbGxfd2hlbl9lbmFibGVkLCBmZWF0dXJlcywgaXNfZW5hYmxlZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0IGZlYXR1cmVzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV9hdXRvbWF0ZWRfdmFsdWF0aW9uX3JlcG9ydF9wZGYucyh1c2VyX3BrKSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYWluKAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5maXh0dXJlcy5jb21tb24uZmVhdHVyZV9mbGFncyBpbXBvcnQgZW5hYmxlX2ZlYXR1cmVfZmxhZwo=</text>
+        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLlZBTFVBVElPTlNfVEVTVElOR19TS0lQX1JFUE9SVDoKICAgICAgICBsb2dnZXIuaW5mbygnVGVzdGluZyBtb2RlIGlzIGVuYWJsZWQsIHNraXBwaW5nIHJlcG9ydCBnZW5lcmF0aW9uJykKICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBlbmFibGVfZmVhdHVyZV9mbGFnKGZlYXR1cmVzLlZBTFVBVElPTlNfU0VORF9LSUNLT0ZGX1JFTUlOREVSX0VNQUlMUykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogU2VwYXJhdGUgYWNjZXB0YW5jZSBjcml0ZXJpYSBjaGVja3MgYW5kIGV4ZWN1dGlvbiBvZiBzdHJhdGVnaWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VkFMVUFUSU9OU19TRU5EX0tJQ0tPRkZfUkVNSU5ERVJfRU1BSUxTID0gJ1ZBTFVBVElPTlNfU0VORF9LSUNLT0ZGX1JFTUlOREVSX0VNQUlMUycK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogU2VwYXJhdGUgYWNjZXB0YW5jZSBjcml0ZXJpYSBjaGVja3MgYW5kIGV4ZWN1dGlvbiBvZiBzdHJhdGVnaWVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNhbGxfd2hlbl9lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfU0VORF9LSUNLT0ZGX1JFTUlOREVSX0VNQUlMUykK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0IGNhbGxfd2hlbl9lbmFibGVkLCBmZWF0dXJlcywgaXNfZW5hYmxlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/_get_quartiles/get_quartiles_from_dictionary/</text>
@@ -361,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ISSUA</last-search>
+      <last-search>VALUA</last-search>
       <last-offset />
-      <last-pattern>ISSUA</last-pattern>
+      <last-pattern>VALUA</last-pattern>
       <last-replace>get_quartiles_from_dictionary</last-replace>
       <last-substitute>_get_quartiles</last-substitute>
       <last-dir>1</last-dir>
