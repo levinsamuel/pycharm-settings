@@ -112,17 +112,15 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1587418330529">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="129" column="67" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1587422847173">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/comparables.py" timestamp="1587421814431">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="10" column="93" />
-        <mark key="." line="10" column="92" />
-        <mark key="^" line="10" column="93" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/comparables.py" timestamp="1587422658360">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1587421541753">
         <mark key="[" line="637" column="32" />
@@ -136,12 +134,10 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="86" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1587418284829">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="53" column="53" />
-        <mark key="]" line="53" column="64" />
-        <mark key="." line="53" column="63" />
-        <mark key="^" line="53" column="64" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1587422765162">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/mappers/comparables.py" timestamp="1587421929951">
         <mark key="[" line="6" column="80" />
@@ -188,11 +184,11 @@
         <mark key="^" line="170" column="74" />
         <mark key="." line="170" column="73" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587420856455">
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="55" />
-        <mark key="^" line="28" column="56" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587423027083">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="7" column="73" />
+        <mark key="." line="7" column="72" />
+        <mark key="^" line="7" column="73" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" timestamp="1587406118614">
         <mark key="[" line="167" column="33" />
@@ -310,8 +306,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -320,45 +316,37 @@
         <text>tracking</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXBfZGljdF90b19jb21wYXJhYmxlKHNlbGYsIGNvbXBfZGljdDogRGljdFtzdHIsIEFueV0pIC0+ICdDb21wYXJhYmxlJzoK</text>
+        <text encoding="base64">ICAgIGRlZiBfbWFwX2NvbXBhcmFibGVzKHNlbGYsIHBvbGljeV9pbnN0YW5jZTogJ1BvbGljeUluc3RhbmNlJywgdmFsdWF0aW9uOiAnVmFsdWF0aW9uJyk6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfbWFwX3R0ZShzZWxmLCBwKTo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG8=</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3lfaW5zdGFuY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuY29tcGFyYWJsZXMgaW1wb3J0IENvbXBhcmFibGVzU2VydmljZUltcGwK</text>
       </register>
-      <register name="4" type="4">
-        <text>[{
-            
-        }]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFNlcnZpY2VSZWdpc3RyeS5fc2V0X2NvbXBhcmFibGVzX3NlcnZpY2UoQ29tcGFyYWJsZXNTZXJ2aWNlSW1wbCgpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>[
-            {
-                'capiq_id': comparable,
-                'ticker': comparable,
-                'is_gpc': True,
-            } for comparable in comparables
-        ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBDb21wYXJhYmxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZSBpbXBvcnQgU2VydmljZVJlZ2lzdHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fbWFwID0gewogICAgICAgICAgICAndGlja2VyJywKICAgICAgICAgICAgJ2NhcGlxX2lkJywKICAgICAgICAgICAgJ2NvbXBhbnlfbmFtZScsCiAgICAgICAgICAgICdlbnRlcnByaXNlX3ZhbHVlJywKICAgICAgICAgICAgJ2J1c2luZXNzX2Rlc2NyaXB0aW9uJywKICAgICAgICAgICAgJ2lwb19kYXRlJywKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgX2NvbXBhcmFibGVzX3NlcnZpY2Uoc2VsZikgLT4gJ0NvbXBhcmFibGVzU2VydmljZSc6CiAgICAgICAgcmV0dXJuIFNlcnZpY2VSZWdpc3RyeS5nZXRfY29tcGFyYWJsZXNfc2VydmljZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGlja2VyPWNvbXBfZGljdFsndGlja2VyJ10sCiAgICAgICAgICAgIGNhcGlxX2lkPWNvbXBfZGljdFsnY2FwaXFfaWQnXSwKICAgICAgICAgICAgY29tcGFueV9uYW1lPWNvbXBfZGljdFsnY29tcGFueV9uYW1lJ10sCiAgICAgICAgICAgIGVudGVycHJpc2VfdmFsdWU9Y29tcF9kaWN0WydlbnRlcnByaXNlX3ZhbHVlJ10sCiAgICAgICAgICAgIGJ1c2luZXNzX2Rlc2NyaXB0aW9uPWNvbXBfZGljdFsnYnVzaW5lc3NfZGVzY3JpcHRpb24nXSwKICAgICAgICAgICAgaXBvX2RhdGU9Y29tcF9kaWN0WydpcG9fZGF0ZSddLAo=</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25zLmNvcmUuaW50ZXJmYWNlcy5zZXJ2aWNlcy5jb21wYXJhYmxlcyBpbXBvcnQgQ29tcGFyYWJsZXNTZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfY29tcGFyYWJsZXNfc2VydmljZShjbHMpIC0+ICdDb21wYXJhYmxlc1NlcnZpY2UnOgogICAgICAgIGlmIGNscy5fX2NvbXBhcmFibGVzX3NlcnZpY2UgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsdWF0aW9uc0luaXRpYWxpemF0aW9uRXhjZXB0aW9uKCdDb21wYXJhYmxlcyBzZXJ2aWNlIG5vdCBpbml0aWFsaXplZC4nKQogICAgICAgIHJldHVybiBjbHMuX19jb21wYXJhYmxlc19zZXJ2aWNlCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX3NldF9jb21wYXJhYmxlc19zZXJ2aWNlKGNscywgY29tcGFyYWJsZXNfc2VydmljZTogJ0NvbXBhcmFibGVzU2VydmljZScpOgogICAgICAgIGlmIGNscy5fX2NvbXBhcmFibGVzX3NlcnZpY2UgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVhdGlvbnNJbml0aWFsaXphdGlvbkV4Y2VwdGlvbignQ29tcGFyYWJsZXMgc2VydmljZSBhbHJlYWR5IGluaXRpYWxpemVkLicpCiAgICAgICAgY2xzLl9fY29tcGFyYWJsZXNfc2VydmljZSA9IGNvbXBhcmFibGVzX3NlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking/comparables/g</text>
