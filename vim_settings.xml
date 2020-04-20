@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>scenario_company_value</entry>
         <entry>date</entry>
         <entry>uses_asset_volatility</entry>
         <entry>active_value</entry>
@@ -27,6 +26,7 @@
         <entry>Issuable</entry>
         <entry>ISSUA</entry>
         <entry>VALUA</entry>
+        <entry>ibis</entry>
       </history-search>
       <history-cmd>
         <entry>s/weighted_time_to_exit/time_to_next_financing/g</entry>
@@ -197,11 +197,7 @@
         <mark key="." line="171" column="12" />
         <mark key="^" line="171" column="13" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/fixtures.py" timestamp="1587325984992">
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="19" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/val/models/industry_summary.py" timestamp="1587411656280" />
     </filemarks>
     <jumps>
       <jump line="215" column="41" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
@@ -318,7 +314,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>VALUA</text>
+        <text>ibis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBydW5fYXV0b21hdGVkX3ZhbHVhdGlvbl9zdHJhdGVneS5zaSh1bWJyZWxsYV9waywgc3RyYXRlZ3kpLAo=</text>
@@ -360,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>VALUA</last-search>
+      <last-search>ibis</last-search>
       <last-offset />
-      <last-pattern>VALUA</last-pattern>
+      <last-pattern>ibis</last-pattern>
       <last-replace>get_quartiles_from_dictionary</last-replace>
       <last-substitute>_get_quartiles</last-substitute>
       <last-dir>1</last-dir>
