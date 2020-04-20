@@ -123,6 +123,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/valuations-lib/setup.py" timestamp="1587426115457">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1587424950737">
         <mark key="[" line="598" column="0" />
         <mark key="]" line="599" column="32" />
@@ -134,12 +140,6 @@
         <mark key="]" line="637" column="33" />
         <mark key="^" line="637" column="33" />
         <mark key="." line="637" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/comparables.py" timestamp="1587420918700">
-        <mark key="[" line="7" column="68" />
-        <mark key="]" line="7" column="87" />
-        <mark key="^" line="7" column="87" />
-        <mark key="." line="7" column="86" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1587422765162">
         <mark key="[" line="41" column="0" />
@@ -183,11 +183,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587425463837">
-        <mark key="[" line="59" column="113" />
-        <mark key="]" line="61" column="89" />
-        <mark key="^" line="61" column="89" />
-        <mark key="." line="61" column="88" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587426222067">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="23" column="68" />
+        <mark key="^" line="23" column="68" />
+        <mark key="." line="23" column="67" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/__init__.py" timestamp="1587425891782">
         <mark key="[" line="10" column="0" />
@@ -311,11 +311,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkZWNpbWFsIGltcG9ydCBEZWNpbWFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>tracking</text>
