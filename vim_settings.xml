@@ -147,23 +147,17 @@
       <file name="$USER_HOME$/git/c/carta-web/yarn-error.log" timestamp="1587405420717">
         <mark key="'" line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/volatility.py" timestamp="1587326418029">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="65" />
-        <mark key="." line="101" column="31" />
-        <mark key="^" line="101" column="32" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/equity_adjustment.py" timestamp="1587328899733">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="11" />
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/allocation_helpers.py" timestamp="1587326459574">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="65" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation.py" timestamp="1587416070326">
+        <mark key="[" line="170" column="57" />
+        <mark key="]" line="170" column="74" />
+        <mark key="^" line="170" column="74" />
+        <mark key="." line="170" column="73" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" timestamp="1587329227636">
         <mark key="'" line="503" column="5" />
@@ -171,6 +165,12 @@
         <mark key="]" line="514" column="0" />
         <mark key="." line="503" column="0" />
         <mark key="^" line="257" column="80" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587416611384">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="47" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/xpressfeed/test_xpressfeed.py" timestamp="1587329492956">
         <mark key="[" line="15" column="34" />
@@ -308,46 +308,46 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Valuation, Scenario</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Valuation, Scenario</text>
       </register>
       <register name="/" type="4">
         <text>ibis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW5fYXV0b21hdGVkX3ZhbHVhdGlvbl9zdHJhdGVneS5zaSh1bWJyZWxsYV9waywgc3RyYXRlZ3kpLAo=</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25zLm1vZGVscyBpbXBvcnQgVmFsdWF0aW9uLCBTY2VuYXJpbwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfbWFwX2NvbXBhcmFibGVzKHNlbGYsICk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV9hdXRvbWF0ZWRfdmFsdWF0aW9uX3JlcG9ydF9wZGYucyh1c2VyX3BrKSwK</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3lfaW5zdGFuY2UuY29tcGFyYWJsZXM=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYWluKAo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uIGltcG9ydCBjcmVhdGVfNDA5YV92YWx1YXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSBjcmVhdGVfNDA5YV92YWx1YXRpb24oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLlZBTFVBVElPTlNfVEVTVElOR19TS0lQX1JFUE9SVDoKICAgICAgICBsb2dnZXIuaW5mbygnVGVzdGluZyBtb2RlIGlzIGVuYWJsZWQsIHNraXBwaW5nIHJlcG9ydCBnZW5lcmF0aW9uJykKICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBTY2VuYXJpbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogU2VwYXJhdGUgYWNjZXB0YW5jZSBjcml0ZXJpYSBjaGVja3MgYW5kIGV4ZWN1dGlvbiBvZiBzdHJhdGVnaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogU2VwYXJhdGUgYWNjZXB0YW5jZSBjcml0ZXJpYSBjaGVja3MgYW5kIGV4ZWN1dGlvbiBvZiBzdHJhdGVnaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV9hdXRvbWF0ZWRfdmFsdWF0aW9uX3JlcG9ydF9wZGYucyh1c2VyX3BrKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0IGNhbGxfd2hlbl9lbmFibGVkLCBmZWF0dXJlcywgaXNfZW5hYmxlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/_get_quartiles/get_quartiles_from_dictionary/</text>
