@@ -115,11 +115,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587445059308">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="7" column="17" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587493403919">
+        <mark key="[" line="40" column="63" />
+        <mark key="]" line="41" column="64" />
+        <mark key="^" line="41" column="64" />
+        <mark key="." line="41" column="63" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/to_mapper.py" timestamp="1587432462352">
         <mark key="[" line="33" column="0" />
@@ -127,6 +127,12 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1587445019704" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1587493252912">
+        <mark key="[" line="1389" column="33" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587432007411">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="20" column="87" />
@@ -167,12 +173,6 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="164" column="72" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/utils.py" timestamp="1587431668022">
-        <mark key="[" line="58" column="88" />
-        <mark key="]" line="58" column="96" />
-        <mark key="^" line="58" column="96" />
-        <mark key="." line="58" column="95" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/service/implementation.py" timestamp="1587432482347">
         <mark key="[" line="316" column="39" />
         <mark key="]" line="316" column="50" />
@@ -184,8 +184,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1587445037143">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1587493218153">
         <mark key="'" line="88" column="30" />
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="42" />
+        <mark key="^" line="68" column="42" />
+        <mark key="." line="68" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -297,46 +301,46 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ValuationPolicyService</text>
+        <text>omated_valuation_service</text>
       </register>
       <register name="-" type="4">
-        <text>ValuationPolicyService</text>
+        <text>omated_valuation_service</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIChBU1NFVF9TVFJBVEVHWSwgJ0Fzc2V0IFN0cmF0ZWd5JyksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjID4+PiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgdGhvdWdoIGl0IG1pZ2h0IGJlIHNldCB0byB0aGlzIGRlZmF1bHQgdGhlbiB1cGRhdGVkIGxhdGVyLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiB0aGlzIHdpbGwgaGF2ZSB0byBiZSBkcml2ZW4gYnkgcG9saWN5IGluIHNvbWUgd2F5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG9tYXRlZF92YWx1YXRpb25fcGsgPSBhdXRvbWF0ZXIucnVuX29uZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF1dG9tYXRlciA9IFZhbHVhdGlvbkF1dG9tYXRlci53aXRoX3N0cmF0ZWd5KHVtYnJlbGxhX3BrKQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERlYnRJbmZvcm1hdGlvbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERlYnRJbmZvcm1hdGlvbiwK</text>
+        <text encoding="base64">aWYgVFlQRV9DSEVDS0lORzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ0SW5mb3JtYXRpb24sCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX2NyZWF0ZV9uZXdfYXV0b21hdGVkX3ZhbHVhdGlvbihzZWxmKToKICAgICAgICAiIiIKICAgICAgICBTZWU6CiAgICAgICAgPj4+IEF1dG9tYXRlZFZhbHVhdGlvblNlcnZpY2UuY3JlYXRlCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLmV4dGVybmFsLnZhbHVhdGlvbnMgaW1wb3J0IERlYnRJbmZvcm1hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAjID4+PiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlZToK</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking/comparables/g</text>
