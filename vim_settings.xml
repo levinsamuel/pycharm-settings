@@ -94,16 +94,16 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/git/c/valuations-lib/src/carta/valuations/core/constants.py" timestamp="1587424942006">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="34" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" timestamp="1587432651026">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587444020916">
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="79" column="7" />
+        <mark key="." line="79" column="6" />
+        <mark key="^" line="79" column="7" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/debt.py" timestamp="1587432531897">
         <mark key="[" line="4" column="0" />
@@ -307,16 +307,16 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Information</text>
+        <text>automated_valuation_strategy</text>
       </register>
       <register name="-" type="4">
-        <text>Information</text>
+        <text>automated_valuation_strategy</text>
       </register>
       <register name="/" type="4">
         <text>tracking</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q2Fub25pY2FsVHlwZSA9IFR5cGVWYXIoJ0Nhbm9uaWNhbFR5cGUnLCBjb3ZhcmlhbnQ9VHJ1ZSkK</text>
+        <text encoding="base64">QGNlbGVyeV9hcHAudGFzayhiaW5kPVRydWUsIHF1ZXVlPUNFTEVSWV9RVUVVRV9VU0VSX1dBSVRJTkcpCmRlZiBydW5fYXV0b21hdGVkX3ZhbHVhdGlvbl9zdHJhdGVneShzZWxmLCB1bWJyZWxsYV9wazogaW50LCBzdHJhdGVneV9uYW1lOiBzdHIpIC0+IE9wdGlvbmFsW2ludF06CiAgICAiIiIKICAgIFRhc2sgZm9yIHJ1bm5pbmcgYSBzaW5nbGUgVmFsdWF0aW9uIHN0cmF0ZWd5LiBUaGlzIHRhc2sgaXMgcXVldWUgb25seSB3aGVuIHRoZSBnaXZlbiBgdW1icmVsbGFfcGtgCiAgICBoYXMgYWxyZWFkeSBwYXNzZWQgYWNjZXB0YW5jZSBjcml0ZXJpYSBmb3IgdGhlIGdpdmVuIGBzdHJhdGVneV9uYW1lYC4KICAgICIiIgogICAgYXV0b21hdGVyID0gVmFsdWF0aW9uQXV0b21hdGVyLndpdGhfc3RyYXRlZ3kodW1icmVsbGFfcGssIHN0cmF0ZWd5X25hbWUpCiAgICBhdXRvbWF0ZWRfdmFsdWF0aW9uX3BrID0gYXV0b21hdGVyLnJ1bl9vbmUoKQogICAgcmV0dXJuIGF1dG9tYXRlZF92YWx1YXRpb25fcGsKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
