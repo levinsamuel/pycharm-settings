@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>uses_asset_volatility</entry>
         <entry>active_value</entry>
         <entry>attr</entry>
         <entry>POLIC</entry>
@@ -27,6 +26,7 @@
         <entry>VALUA</entry>
         <entry>ibis</entry>
         <entry>tracking</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SegmentationMethodologies\.([A-Z_]+)/SegmentationMethodologies.\1.value/</entry>
@@ -99,40 +99,34 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587444020916">
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="79" column="7" />
-        <mark key="." line="79" column="6" />
-        <mark key="^" line="79" column="7" />
+      <file name="/a.dummy" timestamp="1587444634473">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587444379927">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="93" column="57" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/debt.py" timestamp="1587432531897">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587445059308">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/to_mapper.py" timestamp="1587432462352">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/valuations-lib/setup.py" timestamp="1587426115457">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1587424950737">
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="599" column="32" />
-        <mark key="." line="599" column="31" />
-        <mark key="^" line="599" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/c/valuations-lib/src/carta/valuations/core/data/__init__.py" timestamp="1587425816507">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="16" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1587445019704" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/valuation_policy.py" timestamp="1587432007411">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="20" column="87" />
@@ -143,6 +137,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/types.py" timestamp="1587444530739">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="4" column="95" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/procedures/functions/functions.py" timestamp="1587432689076">
         <mark key="[" line="202" column="24" />
@@ -155,12 +155,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/__init__.py" timestamp="1587425891782">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="25" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/base.py" timestamp="1587444521676" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/mappers/from_valuations.py" timestamp="1587432374259">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -189,20 +184,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/root.py" timestamp="1587430608404" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" timestamp="1587425050872">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="59" />
-        <mark key="^" line="92" column="30" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1587445037143">
+        <mark key="'" line="88" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
-      <jump line="554" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
-      <jump line="563" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
-      <jump line="575" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="581" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="596" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1012" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
@@ -299,6 +285,10 @@
       <jump line="76" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="359" column="44" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="43" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" />
+      <jump line="76" column="41" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" />
+      <jump line="82" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" />
+      <jump line="88" column="30" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,46 +297,46 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>automated_valuation_strategy</text>
+        <text>ValuationPolicyService</text>
       </register>
       <register name="-" type="4">
-        <text>automated_valuation_strategy</text>
+        <text>ValuationPolicyService</text>
       </register>
       <register name="/" type="4">
-        <text>tracking</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNlbGVyeV9hcHAudGFzayhiaW5kPVRydWUsIHF1ZXVlPUNFTEVSWV9RVUVVRV9VU0VSX1dBSVRJTkcpCmRlZiBydW5fYXV0b21hdGVkX3ZhbHVhdGlvbl9zdHJhdGVneShzZWxmLCB1bWJyZWxsYV9wazogaW50LCBzdHJhdGVneV9uYW1lOiBzdHIpIC0+IE9wdGlvbmFsW2ludF06CiAgICAiIiIKICAgIFRhc2sgZm9yIHJ1bm5pbmcgYSBzaW5nbGUgVmFsdWF0aW9uIHN0cmF0ZWd5LiBUaGlzIHRhc2sgaXMgcXVldWUgb25seSB3aGVuIHRoZSBnaXZlbiBgdW1icmVsbGFfcGtgCiAgICBoYXMgYWxyZWFkeSBwYXNzZWQgYWNjZXB0YW5jZSBjcml0ZXJpYSBmb3IgdGhlIGdpdmVuIGBzdHJhdGVneV9uYW1lYC4KICAgICIiIgogICAgYXV0b21hdGVyID0gVmFsdWF0aW9uQXV0b21hdGVyLndpdGhfc3RyYXRlZ3kodW1icmVsbGFfcGssIHN0cmF0ZWd5X25hbWUpCiAgICBhdXRvbWF0ZWRfdmFsdWF0aW9uX3BrID0gYXV0b21hdGVyLnJ1bl9vbmUoKQogICAgcmV0dXJuIGF1dG9tYXRlZF92YWx1YXRpb25fcGsKCgo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERlYnRJbmZvcm1hdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAjID4+PiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERlYnRJbmZvcm1hdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ0SW5mb3JtYXRpb24sCg==</text>
+        <text encoding="base64">ICAgIGF1dG9tYXRlZF92YWx1YXRpb25fcGsgPSBhdXRvbWF0ZXIucnVuX29uZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLmV4dGVybmFsLnZhbHVhdGlvbnMgaW1wb3J0IERlYnRJbmZvcm1hdGlvbgo=</text>
+        <text encoding="base64">ICAgIGF1dG9tYXRlciA9IFZhbHVhdGlvbkF1dG9tYXRlci53aXRoX3N0cmF0ZWd5KHVtYnJlbGxhX3BrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERlYnRJbmZvcm1hdGlvbiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjYXJ0YS52YWx1YXRpb25zLmNvcmUuZGF0YSBpbXBvcnQgRGVidFN0cnVjdAo=</text>
+        <text encoding="base64">ICAgIERlYnRJbmZvcm1hdGlvbiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ0SW5mb3JtYXRpb24sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBCYWNrd2FyZHMgY29tcGF0aWJpbGl0eQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLmV4dGVybmFsLnZhbHVhdGlvbnMgaW1wb3J0IERlYnRJbmZvcm1hdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RGVidEluZm9ybWF0aW9uID0gRGVidFN0cnVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking/comparables/g</text>
@@ -355,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tracking</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>tracking</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>comparables</last-replace>
       <last-substitute>tracking</last-substitute>
       <last-dir>1</last-dir>
