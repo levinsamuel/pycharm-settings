@@ -100,6 +100,12 @@
         <mark key="." line="124" column="64" />
         <mark key="^" line="124" column="65" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1587575093400">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="47" />
+        <mark key="." line="74" column="46" />
+        <mark key="^" line="74" column="47" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1587537099633">
         <mark key="[" line="31" column="28" />
         <mark key="]" line="31" column="29" />
@@ -111,12 +117,6 @@
         <mark key="]" line="1445" column="54" />
         <mark key="." line="1445" column="53" />
         <mark key="^" line="1445" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1587509489166">
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="48" />
-        <mark key="^" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/health_checks_mixin.py" timestamp="1587525778658">
         <mark key="[" line="14" column="0" />
@@ -142,18 +142,17 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1587508606372">
-        <mark key="'" line="92" column="30" />
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="75" />
-        <mark key="^" line="84" column="75" />
-        <mark key="." line="84" column="74" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1587574145536">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="41" column="24" />
         <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/valuations-lib/src/carta/valuations/core/constants.py" timestamp="1587576659157">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/financials/__init__.py" timestamp="1587525689419">
         <mark key="[" line="0" column="0" />
@@ -172,11 +171,11 @@
         <mark key="^" line="39" column="57" />
         <mark key="." line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587509576812">
-        <mark key="[" line="71" column="48" />
-        <mark key="]" line="71" column="66" />
-        <mark key="^" line="71" column="66" />
-        <mark key="." line="71" column="65" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587575949447">
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="72" column="62" />
+        <mark key="^" line="72" column="62" />
+        <mark key="." line="72" column="61" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/allocation_type.py" timestamp="1587525450486">
         <mark key="[" line="5" column="31" />
@@ -309,11 +308,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>response=response</text>
       </register>
       <register name="-" type="4">
-        <text>submission_tasks, *automation_tasks</text>
+        <text>response=response</text>
       </register>
       <register name="/" type="4">
         <text>test_calculations.py</text>
