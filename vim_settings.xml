@@ -114,12 +114,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587664321908">
-        <mark key="[" line="108" column="47" />
-        <mark key="]" line="109" column="8" />
-        <mark key="." line="109" column="7" />
-        <mark key="^" line="109" column="8" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1587665667908">
         <mark key="[" line="87" column="5" />
         <mark key="]" line="88" column="85" />
@@ -157,7 +151,12 @@
         <mark key="^" line="13" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1587678116673" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1587682903315">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="40" column="51" />
+        <mark key="^" line="40" column="52" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1587665778547">
         <mark key="[" line="48" column="20" />
         <mark key="]" line="49" column="57" />
@@ -165,10 +164,9 @@
         <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/valbot_data.py" timestamp="1587665048500">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="33" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/repository/automated_valuation.py" timestamp="1587665327124">
         <mark key="[" line="14" column="11" />
@@ -182,24 +180,18 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1587667749043">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1587682311978">
         <mark key="'" line="7" column="13" />
-        <mark key="[" line="287" column="41" />
-        <mark key="]" line="287" column="42" />
-        <mark key="^" line="287" column="42" />
-        <mark key="." line="287" column="41" />
+        <mark key="[" line="227" column="41" />
+        <mark key="]" line="227" column="41" />
+        <mark key="^" line="249" column="39" />
+        <mark key="." line="227" column="41" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/__init__.py" timestamp="1587663787440">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="19" column="32" />
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1587663872131">
-        <mark key="[" line="87" column="47" />
-        <mark key="]" line="88" column="54" />
-        <mark key="^" line="88" column="54" />
-        <mark key="." line="88" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -311,10 +303,11 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>bot_data</text>
+        <text>:
+            if</text>
       </register>
       <register name="-" type="4">
-        <text>bot_data</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>financials</text>
@@ -325,39 +318,38 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="1" type="4">
+        <text>:
+            if</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9pZGVudGlmeV9vbGRfdmFsYm90X3ZhbHVhdGlvbl9mcm9tX3N0cmF0ZWd5KG9sZF92YWxib3RfaWRzLCBzdHJhdGVneSk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuZXdfcG9saWN5Lmluc3RhbmNlOgogICAgICAgICAgICBpZiBfc2hvdWxkX3JldHVybl9uZXdfcG9saWN5KAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfcmVnaXN0ZXJfbmV3X3ZhbGJvdF9ldmVudCgKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPSdNSVNTSU5HX1BPTElDWV9SRUNPUkQnLAogICAgICAgICAgICBwYXlsb2FkPXsndW1icmVsbGFfcGsnOiB1bWJyZWxsYV9waywgJ25ld192YWx1YXRpb25faWQnOiBuZXdfdmFsdWF0aW9uLmlkfQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBVc2UgbmV3IHBvbGljeSBpZiBpdHMgYSBtYXRjaCB3aXRoIGV4cGVjdGVkCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>valuation_ids
-    # Not sure if argument order is deterministic, check just in case
-    if isinstance(new_valbot_id, list):
-        old_valbot_ids, new_valbot_id = new_valbot_id, old_valbot_ids</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>valuation_ids
-    # Not sure if argument order is deterministic, check just in case
-    if isinstance(new_valbot_id, list):
-        old_valbot_ids, new_valbot_id = new_valbot_id, old_valbot_ids
-    new_valuation = get_valuation(new_valbot_id)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuc2NyaXB0cy5jb21wYXJlX25ld19vbGRfYXNzZXRfcG9saWN5IGltcG9ydCBDb21wYXJpc29uRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvbGljeV9yZWNvcmQgPSBuZXdfdmFsdWF0aW9uLnZhbGJvdF9kYXRhLnBvbGljeV9yZWNvcmQKICAgIHNlbGVjdGlvbl9jb2RlID0gcG9saWN5X3JlY29yZC5zZWxlY3Rpb25fY29kZQogICAgc3RyYXRlZ3kgPSBfU0VMRUNUSU9OX0NPREVfVE9fU1RSQVRFR1lfTUFQLmdldChzZWxlY3Rpb25fY29kZSkK</text>
+      <register name="6" type="4">
+        <text># TODO: not sure if order of IDs is deterministic
+        #  if its not, it's not a huge deal, values will just be mislabeled.
+        old_valuation_pk, new_valuation_pk = valuation_ids
+        if not old_valuation_pk or not new_valuation_pk:
+            register_no_comparison(umbrella_pk=umbrella_pk)
+            return</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIF9pZGVudGlmeV9vbGRfdmFsYm90X3ZhbHVhdGlvbl9mcm9tX3N0cmF0ZWd5KG9sZF92YWxib3RfaWRzLCBzdHJhdGVneSk6CiAgICBwYXNzCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfdmFsdWF0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBfcmVnaXN0ZXJfbmV3X3ZhbGJvdF9ldmVudCgKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPSdNSVNTSU5HX1BPTElDWV9SRUNPUkQnLAogICAgICAgICAgICBwYXlsb2FkPXsndW1icmVsbGFfcGsnOiB1bWJyZWxsYV9waywgJ25ld192YWx1YXRpb25faWQnOiBuZXdfdmFsdWF0aW9uLmlkfQogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
