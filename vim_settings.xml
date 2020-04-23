@@ -187,11 +187,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1587666692257">
-        <mark key="[" line="254" column="5" />
-        <mark key="]" line="254" column="14" />
-        <mark key="^" line="254" column="14" />
-        <mark key="." line="254" column="13" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1587667749043">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="287" column="41" />
+        <mark key="]" line="287" column="42" />
+        <mark key="^" line="287" column="42" />
+        <mark key="." line="287" column="41" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/__init__.py" timestamp="1587663787440">
         <mark key="[" line="18" column="34" />
@@ -212,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1236" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
-      <jump line="1254" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1267" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1288" column="29" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1298" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
@@ -312,6 +311,8 @@
       <jump line="11" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/repository/automated_valuation.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/repository/automated_valuation.py" />
       <jump line="8" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/repository/automated_valuation.py" />
+      <jump line="260" column="70" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" />
+      <jump line="7" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,46 +321,53 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ASSET</text>
+        <text>bot_data</text>
       </register>
       <register name="-" type="4">
-        <text>ASSET</text>
+        <text>bot_data</text>
       </register>
       <register name="/" type="4">
         <text>financials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdBU1NFVCc6IEFTU0VUX1NUUkFURUdZLAo=</text>
+        <text encoding="base64">ICAgIG9sZF92YWxib3RfaWRzLCBuZXdfdmFsYm90X2lkID0gdmFsdWF0aW9uX2lkcwogICAgIyBOb3Qgc3VyZSBpZiBhcmd1bWVudCBvcmRlciBpcyBkZXRlcm1pbmlzdGljLCBjaGVjayBqdXN0IGluIGNhc2UKICAgIGlmIGlzaW5zdGFuY2UobmV3X3ZhbGJvdF9pZCwgbGlzdCk6CiAgICAgICAgb2xkX3ZhbGJvdF9pZHMsIG5ld192YWxib3RfaWQgPSBuZXdfdmFsYm90X2lkLCBvbGRfdmFsYm90X2lkcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlcl9ub19jb21wYXJpc29uKHVtKQ==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9pZGVudGlmeV9vbGRfdmFsYm90X3ZhbHVhdGlvbl9mcm9tX3N0cmF0ZWd5KG9sZF92YWxib3RfaWRzLCBzdHJhdGVneSk6CiAgICBwYXNzCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3lfcmVjb3JkID0gUG9saWN5UmVjb3JkLm9iamVjdHMuY3JlYXRlKAogICAgICAgICAgICAKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBfcmVnaXN0ZXJfbmV3X3ZhbGJvdF9ldmVudCgKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPSdNSVNTSU5HX1BPTElDWV9SRUNPUkQnLAogICAgICAgICAgICBwYXlsb2FkPXsndW1icmVsbGFfcGsnOiB1bWJyZWxsYV9waywgJ25ld192YWx1YXRpb25faWQnOiBuZXdfdmFsdWF0aW9uLmlkfQogICAgICAgICkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>valuation_ids
+    # Not sure if argument order is deterministic, check just in case
+    if isinstance(new_valbot_id, list):
+        old_valbot_ids, new_valbot_id = new_valbot_id, old_valbot_ids</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNz</text>
+      <register name="5" type="4">
+        <text>valuation_ids
+    # Not sure if argument order is deterministic, check just in case
+    if isinstance(new_valbot_id, list):
+        old_valbot_ids, new_valbot_id = new_valbot_id, old_valbot_ids
+    new_valuation = get_valuation(new_valbot_id)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuZ2V0dGVycyBpbXBvcnQgZ2V0X3ZhbHVhdGlvbgo=</text>
+        <text encoding="base64">ICAgIHBvbGljeV9yZWNvcmQgPSBuZXdfdmFsdWF0aW9uLnZhbGJvdF9kYXRhLnBvbGljeV9yZWNvcmQKICAgIHNlbGVjdGlvbl9jb2RlID0gcG9saWN5X3JlY29yZC5zZWxlY3Rpb25fY29kZQogICAgc3RyYXRlZ3kgPSBfU0VMRUNUSU9OX0NPREVfVE9fU1RSQVRFR1lfTUFQLmdldChzZWxlY3Rpb25fY29kZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnJlcG9zaXRvcnkgaW1wb3J0IEFic3RyYWN0RmluYW5jaWFsc1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmZpbmFuY2lhbHMgaW1wb3J0IFZhbHVhdGlvbkZpbmFuY2lhbHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhIGltcG9ydCBGaW5hbmNpYWxzCg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfdmFsdWF0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
