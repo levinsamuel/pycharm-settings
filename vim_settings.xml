@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587750583017">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="12" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587752966499">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1587686688596">
         <mark key="[" line="85" column="0" />
@@ -156,6 +156,7 @@
         <mark key="]" line="73" column="16" />
         <mark key="." line="73" column="16" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587752458356" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/services/api.py" timestamp="1587686274664">
         <mark key="[" line="78" column="40" />
         <mark key="]" line="78" column="40" />
@@ -172,12 +173,6 @@
         <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/policy/record.py" timestamp="1587665552449">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="14" column="61" />
-        <mark key="^" line="14" column="61" />
-        <mark key="." line="14" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -289,10 +284,10 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SFDC</text>
