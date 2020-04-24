@@ -108,6 +108,12 @@
         <mark key="." line="125" column="75" />
         <mark key="^" line="125" column="76" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1587686688596">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="95" column="60" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1587665667908">
         <mark key="[" line="87" column="5" />
         <mark key="]" line="88" column="85" />
@@ -131,6 +137,11 @@
         <mark key="]" line="22" column="64" />
         <mark key="^" line="22" column="64" />
         <mark key="." line="22" column="63" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/services/api.py" timestamp="1587686274664">
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="78" column="40" />
+        <mark key="." line="78" column="40" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1587664784087">
         <mark key="[" line="93" column="43" />
@@ -179,12 +190,6 @@
         <mark key="]" line="287" column="33" />
         <mark key="^" line="285" column="25" />
         <mark key="." line="287" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/__init__.py" timestamp="1587663787440">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -295,38 +300,41 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>FAIL</text>
       </register>
       <register name="/" type="4">
         <text>financials</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9sZF92YWxib3RfaWRzLCBuZXdfdmFsYm90X2lkID0gdmFsdWF0aW9uX2lkcwogICAgIyBOb3Qgc3VyZSBpZiBhcmd1bWVudCBvcmRlciBpcyBkZXRlcm1pbmlzdGljLCBjaGVjayBqdXN0IGluIGNhc2UKICAgIGlmIGlzaW5zdGFuY2UobmV3X3ZhbGJvdF9pZCwgbGlzdCk6CiAgICAgICAgb2xkX3ZhbGJvdF9pZHMsIG5ld192YWxib3RfaWQgPSBuZXdfdmFsYm90X2lkLCBvbGRfdmFsYm90X2lkcwo=</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX3BvbGljaWVzX2RvX25vdF9tYXRjaF90aGVyZV9pc19wYXlsb2FkKHNlbGYsIG9sZF9wb2xpY3ksIG5ld19wb2xpY3kpOgogICAgICAgIG9sZF9wb2xpY3kudm9sYXRpbGl0eSA9IERlY2ltYWwoJzAuNTMzNCcpCiAgICAgICAgY29tcGFyYXRvciA9IFBvbGljeUNvbXBhcmF0b3IoCiAgICAgICAgICAgIHVtYnJlbGxhX2lkPTQzMCwKICAgICAgICAgICAgbmV3X3BvbGljeV9jcmVhdGlvbj1uZXdfcG9saWN5LAogICAgICAgICAgICBvbGRfcG9saWN5X2luc3RhbmNlPW9sZF9wb2xpY3ksCiAgICAgICAgICAgIGFjY2VwdF9taXNtYXRjaGVzPUZhbHNlLAogICAgICAgICkKICAgICAgICBldmVudCA9IGNvbXBhcmF0b3IuX2NyZWF0ZV9jb21wYXJpc29uX2V2ZW50KCkKICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICBldmVudC5yZXN1bHRfY29kZSA9PSBUcmFja2luZ1Jlc3VsdENvZGVzLkZBSUwKICAgICAgICAgICAgYW5kIGV2ZW50LmN1c3RvbV9yZXN1bHRfY29kZSA9PSAnTUlTTUFUQ0gnCiAgICAgICAgICAgIGFuZCBldmVudC5wYXlsb2FkIGlzIG5vdCBOb25lCiAgICAgICAgKQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>:
             if</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZiBuZXdfcG9saWN5Lmluc3RhbmNlOgogICAgICAgICAgICBpZiBfc2hvdWxkX3JldHVybl9uZXdfcG9saWN5KAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBVc2UgbmV3IHBvbGljeSBpZiBpdHMgYSBtYXRjaCB3aXRoIGV4cGVjdGVkCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuc2NyaXB0cy5jb21wYXJlX25ld19vbGRfYXNzZXRfcG9saWN5IGltcG9ydCBDb21wYXJpc29uRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text># TODO: not sure if order of IDs is deterministic
         #  if its not, it's not a huge deal, values will just be mislabeled.
         old_valuation_pk, new_valuation_pk = valuation_ids
@@ -334,14 +342,11 @@
             register_no_comparison(umbrella_pk=umbrella_pk)
             return</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9pZGVudGlmeV9vbGRfdmFsYm90X3ZhbHVhdGlvbl9mcm9tX3N0cmF0ZWd5KG9sZF92YWxib3RfaWRzLCBzdHJhdGVneSk6CiAgICBwYXNzCgoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfcmVnaXN0ZXJfbmV3X3ZhbGJvdF9ldmVudCgKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPSdNSVNTSU5HX1BPTElDWV9SRUNPUkQnLAogICAgICAgICAgICBwYXlsb2FkPXsndW1icmVsbGFfcGsnOiB1bWJyZWxsYV9waywgJ25ld192YWx1YXRpb25faWQnOiBuZXdfdmFsdWF0aW9uLmlkfQogICAgICAgICkK</text>
+        <text encoding="base64">ZGVmIF9pZGVudGlmeV9vbGRfdmFsYm90X3ZhbHVhdGlvbl9mcm9tX3N0cmF0ZWd5KG9sZF92YWxib3RfaWRzLCBzdHJhdGVneSk6CiAgICBwYXNzCgoK</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
