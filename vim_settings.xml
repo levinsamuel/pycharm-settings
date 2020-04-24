@@ -121,12 +121,13 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587752966499">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="81" column="36" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587755260617">
+        <mark key="[" line="153" column="1" />
+        <mark key="]" line="155" column="40" />
+        <mark key="." line="155" column="39" />
+        <mark key="^" line="155" column="40" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1587753709508" />
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1587686688596">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -138,6 +139,10 @@
         <mark key="]" line="88" column="85" />
         <mark key="^" line="88" column="85" />
         <mark key="." line="88" column="84" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1587753030246">
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="305" column="1" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1587682999995">
         <mark key="]" line="74" column="47" />
@@ -283,54 +288,47 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>SFDC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0cmF0ZWd5ID0gX1NFTEVDVElPTl9DT0RFX1RPX1NUUkFURUdZX01BUC5nZXQoc2VsZWN0aW9uX2NvZGUpCiAgICBpZiBzdHJhdGVneSBpcyBOb25lOgogICAgICAgIGxvZy53YXJuaW5nKCdDb3VsZCBub3QgaWRlbnRpZnkgc3RyYXRlZ3kgZnJvbSBwb2xpY3kgc2VsZWN0aW9uIGNvZGU6ICVzJywgc2VsZWN0aW9uX2NvZGUpCiAgICAgICAgcmFpc2UgQ29tcGFyaXNvbkV4Y2VwdGlvbigKICAgICAgICAgICAgJ0NvdWxkIG5vdCBpZGVudGlmeSBzdHJhdGVneSBmcm9tIHNlbGVjdGlvbiBjb2RlOiB7fSwgdmFsdWF0aW9uIGlkOiB7fScKICAgICAgICAgICAgLmZvcm1hdChzZWxlY3Rpb25fY29kZSwgbmV3X3ZhbHVhdGlvbi5pZCkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBDb21wYXJpc29uRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgY29tcGFyaXNvbl9mYWlsdXJlcyArPSAxCiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBjb21wYXJlIHBvbGljaWVzLCBlcnJvcjonLCBlKQogICAgICAgICAgICAgICAgZXhjZXB0IFZhbGJvdENyZWF0aW9uRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgY3JlYXRpb25fZmFpbHVyZXMgKz0gMQogICAgICAgICAgICAgICAgICAgIHByaW50KCdGYWlsZWQgdG8gY3JlYXRlIHBvbGljaWVzLCBlcnJvcjonLCBlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>_SELECTION_CODE_TO_STRATEGY_MAP.get(selection_code)
-    if strategy is None:
-        log.warning('Could not identify strategy from policy selection code: %s', selection_code)
-        raise ComparisonException(
-            'Could not identify strategy from selection code: {}, valuation id: {}'
-            .format(selection_code, new_valuation.id)
-        )</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIF92YWxpZGF0ZV9wb2xpY3lfcmVjb3JkX2V4aXN0cyhuZXdfdmFsdWF0aW9uOiAnVmFsdWF0aW9uJyk6CiAgICBpZiBub3QgbmV3X3ZhbHVhdGlvbi52YWxib3RfZGF0YSBvciBub3QgbmV3X3ZhbHVhdGlvbi52YWxib3RfZGF0YS5wb2xpY3lfcmVjb3JkOgogICAgICAgIGxvZy53YXJuaW5nKCdOZXcgdmFsdWF0aW9uIChpZDogJXMpIGRpZCBub3QgaGF2ZSBwb2xpY3kgcmVjb3JkIGRhdGEuIHRoaXMgaXMgdW5leHBlY3RlZC4nLCBuZXdfdmFsdWF0aW9uLmlkKQogICAgICAgIHJhaXNlIENvbXBhcmlzb25FeGNlcHRpb24oCiAgICAgICAgICAgICdDb3VsZCBub3QgZ2V0IHBvbGljeSByZWNvcmQgdG8gY29tcGFyZSB3aXRoLiBWYWx1YXRpb24gaWQ6IHt9JwogICAgICAgICAgICAuZm9ybWF0KG5ld192YWx1YXRpb24uaWQpCiAgICAgICAgKQoKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIF92YWxpZGF0ZV9wb2xpY3lfcmVjb3JkX2V4aXN0cyhuZXdfdmFsdWF0aW9uPW5ld192YWx1YXRpb24pCg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>:
-            if</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNyZWF0aW9uX2ZhaWx1cmVzICs9IDEK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb21wYXJpc29uX2ZhaWx1cmVzICs9IDEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igam9iIGluIGpvYnM6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wYXJhdG9yX2hlbHBlciA9IFZhbHVhdGlvbkNvbXBhcmF0b3JIZWxwZXIodW1icmVsbGFfcGs9bmV4dF91bWJyZWxsYVsnaWQnXSkKICAgICAgICAgICAgICAgICAgICBjb21wYXJhdG9yX2hlbHBlci5jb21wYXJlX3ZhbGJvdHMoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqb2JzID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuZXdfcG9saWN5Lmluc3RhbmNlOgogICAgICAgICAgICBpZiBfc2hvdWxkX3JldHVybl9uZXdfcG9saWN5KAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0X3VtYnJlbGxhID0gbmV4dChhc3NldF91bWJyZWxsYXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBVc2UgbmV3IHBvbGljeSBpZiBpdHMgYSBtYXRjaCB3aXRoIGV4cGVjdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0X3VtYnJlbGxhID0gbmV4dChhc3NldF91bWJyZWxsYXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkcz10aHIK</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
