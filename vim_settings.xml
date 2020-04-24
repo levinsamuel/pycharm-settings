@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>:\n</entry>
         <entry>:\\n</entry>
         <entry>\:\n</entry>
         <entry>\:\\n</entry>
@@ -27,6 +26,7 @@
         <entry>test_calculations.py</entry>
         <entry>valbot</entry>
         <entry>financials</entry>
+        <entry>SFDC</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SegmentationMethodologies\.\([A-Z_]+\)/SegmentationMethodologies.\1.value/</entry>
@@ -88,11 +88,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1587665909968">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/repository/__init__.py" timestamp="1587665636405">
         <mark key="[" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/definition.py" timestamp="1587678683684" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1587705194396" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1587751065282">
+        <mark key="'" line="357" column="27" />
+        <mark key="[" line="463" column="1" />
+        <mark key="]" line="463" column="1" />
+        <mark key="." line="463" column="1" />
+        <mark key="^" line="464" column="91" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1587697738279">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="36" column="89" />
+        <mark key="." line="36" column="88" />
+        <mark key="^" line="36" column="89" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0154_policy_record.py" timestamp="1587691214592">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="28" />
@@ -104,12 +121,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/repository/container.py" timestamp="1587665393704">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="125" column="40" />
-        <mark key="]" line="125" column="76" />
-        <mark key="." line="125" column="75" />
-        <mark key="^" line="125" column="76" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587750583017">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="11" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1587686688596">
         <mark key="[" line="85" column="0" />
@@ -135,6 +151,11 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="22" column="63" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587688088657">
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="16" />
+        <mark key="." line="73" column="16" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/services/api.py" timestamp="1587686274664">
         <mark key="[" line="78" column="40" />
         <mark key="]" line="78" column="40" />
@@ -146,38 +167,20 @@
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/policy/record.py" timestamp="1587665552449">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="14" column="61" />
-        <mark key="^" line="14" column="61" />
-        <mark key="." line="14" column="60" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1587665909968">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1587697738279">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="36" column="89" />
-        <mark key="." line="36" column="88" />
-        <mark key="^" line="36" column="89" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587688088657">
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="16" />
-        <mark key="." line="73" column="16" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0153_auto_20200420_1649.py" timestamp="1587689157763">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="40" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/policy/record.py" timestamp="1587665552449">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="14" column="61" />
+        <mark key="^" line="14" column="61" />
+        <mark key="." line="14" column="60" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1267" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1288" column="29" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1298" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1322" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
@@ -277,6 +280,7 @@
       <jump line="8" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/repository/automated_valuation.py" />
       <jump line="260" column="70" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" />
       <jump line="7" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" />
+      <jump line="357" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,13 +289,13 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>financials</text>
+        <text>SFDC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0cmF0ZWd5ID0gX1NFTEVDVElPTl9DT0RFX1RPX1NUUkFURUdZX01BUC5nZXQoc2VsZWN0aW9uX2NvZGUpCiAgICBpZiBzdHJhdGVneSBpcyBOb25lOgogICAgICAgIGxvZy53YXJuaW5nKCdDb3VsZCBub3QgaWRlbnRpZnkgc3RyYXRlZ3kgZnJvbSBwb2xpY3kgc2VsZWN0aW9uIGNvZGU6ICVzJywgc2VsZWN0aW9uX2NvZGUpCiAgICAgICAgcmFpc2UgQ29tcGFyaXNvbkV4Y2VwdGlvbigKICAgICAgICAgICAgJ0NvdWxkIG5vdCBpZGVudGlmeSBzdHJhdGVneSBmcm9tIHNlbGVjdGlvbiBjb2RlOiB7fSwgdmFsdWF0aW9uIGlkOiB7fScKICAgICAgICAgICAgLmZvcm1hdChzZWxlY3Rpb25fY29kZSwgbmV3X3ZhbHVhdGlvbi5pZCkKICAgICAgICApCg==</text>
@@ -340,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>financials</last-search>
+      <last-search>SFDC</last-search>
       <last-offset />
-      <last-pattern>financials</last-pattern>
+      <last-pattern>SFDC</last-pattern>
       <last-replace>auto_val</last-replace>
       <last-substitute>financials</last-substitute>
       <last-dir>1</last-dir>
