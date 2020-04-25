@@ -125,11 +125,10 @@
         <mark key="^" line="18" column="40" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587781058436">
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="52" column="86" />
-        <mark key="^" line="52" column="86" />
-        <mark key="." line="52" column="85" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587791981013">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/services/api.py" timestamp="1587686274664">
         <mark key="[" line="78" column="40" />
@@ -144,6 +143,12 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" timestamp="1587781031423" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1587780235159" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1587792080695">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="13" column="112" />
+        <mark key="^" line="13" column="112" />
+        <mark key="." line="13" column="111" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587760579153">
         <mark key="[" line="153" column="1" />
         <mark key="]" line="155" column="40" />
@@ -170,6 +175,11 @@
         <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" timestamp="1587791954793">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="8" />
+        <mark key="." line="89" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -280,8 +290,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>assert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjb3B5X2Zyb21fdmFsdWF0aW9uX2lkOgogICAgICAgICAgICB2YWx1YXRpb24gPSBjb3B5X3ZhbHVhdGlvbihnZXRfdmFsdWF0aW9uKGNvcHlfZnJvbV92YWx1YXRpb25faWQpKQogICAgICAgICAgICB2YWx1YXRpb24udmFsYm90X2RhdGEgPSB2YWxib3RfZGF0YQogICAgICAgICAgICB2YWx1YXRpb24uc2F2ZSh1cGRhdGVfZmllbGRzPVsndmFsYm90X2RhdGEnXSkKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
         <text>assert</text>
@@ -296,35 +306,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb3B5X2Zyb21fdmFsdWF0aW9uX2lkOgogICAgICAgICAgICB2YWx1YXRpb24gPSBjb3B5X3ZhbHVhdGlvbihnZXRfdmFsdWF0aW9uKGNvcHlfZnJvbV92YWx1YXRpb25faWQpKQogICAgICAgICAgICB2YWx1YXRpb24udmFsYm90X2RhdGEgPSB2YWxib3RfZGF0YQogICAgICAgICAgICB2YWx1YXRpb24uc2F2ZSh1cGRhdGVfZmllbGRzPVsndmFsYm90X2RhdGEnXSkKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
+        <text encoding="base64">ICAgICAgICBjb3B5X2Zyb21fdmFsdWF0aW9uX2lkOiBpbnQgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weV9mcm9tX3ZhbHVhdGlvbl9pZD1yZXF1ZXN0X3ZhbHVhdGlvbi5pZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHZhbHVhdGlvbi52YWxib3RfZGF0YSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBkb24ndCBkbyB0aGlzLiBqdXN0IG1ha2Ugc3VyZSB5b3UgY2FuIGNvcHkgYWxsIHRoZSB0aGluZ3MgeW91IG5lZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfdmFsYm90X2RhdGEgPSBjb3B5KHZhbHVhdGlvbi52YWxib3RfZGF0YSkKICAgICAgICBuZXdfdmFsYm90X2RhdGEuaWQgPSBOb25lCiAgICAgICAgbmV3X3ZhbGJvdF9kYXRhLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjYXJ0YS52YWx1YXRpb25zLmNvcmUuY29uc3RhbnRzIGltcG9ydCBEZWJ0T3B0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>debt_option = attr.ib(
-        type=DebtOptions,
-        default=None,
-        converter=lambda s: DebtOptions(s) if s else None
-    )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIHZhbHVhdGlvbi52YWxib3RfZGF0YSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfdmFsYm90X2RhdGEgPSBjb3B5KHZhbHVhdGlvbi52YWxib3RfZGF0YSkKICAgICAgICBuZXdfdmFsYm90X2RhdGEuaWQgPSBOb25lCiAgICAgICAgbmV3X3ZhbGJvdF9kYXRhLnNhdmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
