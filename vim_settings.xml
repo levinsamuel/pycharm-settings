@@ -157,10 +157,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587688088657">
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="16" />
-        <mark key="." line="73" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587779416171">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="37" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0153_auto_20200420_1649.py" timestamp="1587689157763">
         <mark key="[" line="17" column="24" />
@@ -277,11 +278,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
+      <register name="&quot;" type="4">
+        <text>assert</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>assert</text>
       </register>
       <register name="/" type="4">
         <text>SFDC</text>
@@ -293,35 +294,35 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHZhbHVhdGlvbi52YWxib3RfZGF0YSBpcyBub3QgTm9uZToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfdmFsYm90X2RhdGEgPSBjb3B5KHZhbHVhdGlvbi52YWxib3RfZGF0YSkKICAgICAgICBuZXdfdmFsYm90X2RhdGEuaWQgPSBOb25lCiAgICAgICAgbmV3X3ZhbGJvdF9kYXRhLnNhdmUoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIHZhbHVhdGlvbi52YWxib3RfZGF0YSBpcyBub3QgTm9uZToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfdmFsYm90X2RhdGEgPSBjb3B5KHZhbHVhdGlvbi52YWxib3RfZGF0YSkKICAgICAgICBuZXdfdmFsYm90X2RhdGEuaWQgPSBOb25lCiAgICAgICAgbmV3X3ZhbGJvdF9kYXRhLnNhdmUoKQo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBjYXJ0YS52YWx1YXRpb25zLmNvcmUuY29uc3RhbnRzIGltcG9ydCBEZWJ0T3B0aW9ucwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>debt_option = attr.ib(
         type=DebtOptions,
         default=None,
         converter=lambda s: DebtOptions(s) if s else None
     )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uX2ZhaWx1cmVzICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
