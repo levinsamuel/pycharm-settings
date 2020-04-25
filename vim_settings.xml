@@ -125,10 +125,11 @@
         <mark key="^" line="109" column="50" />
         <mark key="." line="151" column="72" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587791981013">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation_policy_helper.py" timestamp="1587838768085">
+        <mark key="[" line="78" column="30" />
+        <mark key="]" line="78" column="35" />
+        <mark key="." line="78" column="34" />
+        <mark key="^" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0153_add_tracker.py" timestamp="1587689172458">
         <mark key="[" line="15" column="24" />
@@ -291,11 +292,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3ZhbHVhdGlvbiA9IHNlbGYudW1icmVsbGEuZ2V0X3NlbGVjdGVkX3ZhbHVhdGlvbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>valuation</text>
       </register>
       <register name="/" type="4">
         <text>SFDC</text>
@@ -307,31 +308,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2Ugc3VyZSBhbGwgdGhlIG1ldGhvZHMgYmVsb3cgYXJlIGFjdHVhbGx5IGNhbGxlZCEK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3ZhbHVhdGlvbiA9IHNlbGYudW1icmVsbGEuZ2V0X3NlbGVjdGVkX3ZhbHVhdGlvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19kZWxldGVfZXhpc3RpbmdfYXNzZXQoc2VsZiwgc2NlbmFyaW86ICdTY2VuYXJpbycpOgogICAgICAgIGlmIGhhc2F0dHIoc2NlbmFyaW8sICdhc3NldCcpOgogICAgICAgICAgICBzY2VuYXJpby5hc3NldC5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2Ugc3VyZSBhbGwgdGhlIG1ldGhvZHMgYmVsb3cgYXJlIGFjdHVhbGx5IGNhbGxlZCEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgX190cmFuc2xhdGVfaWJpc19pbmR1c3RyeShzZWxmLCBpYmlzX2luZHVzdHJ5KSAtPiBPcHRpb25hbFsnSW5kdXN0cnlTdW1tYXJ5J106CiAgICAgICAgcmV0dXJuIGdldF9pYmlzX2luZHVzdHJ5X3N1bW1hcnlfZnJvbV9pYmlzX2luZHVzdHJ5X25hbWUoaWJpc19pbmR1c3RyeV9uYW1lPWliaXNfaW5kdXN0cnkpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19kZWxldGVfZXhpc3RpbmdfYXNzZXQoc2VsZiwgc2NlbmFyaW86ICdTY2VuYXJpbycpOgogICAgICAgIGlmIGhhc2F0dHIoc2NlbmFyaW8sICdhc3NldCcpOgogICAgICAgICAgICBzY2VuYXJpby5hc3NldC5kZWxldGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfYXNzZXQgPSBjb3B5KGFzc2V0KQogICAgICAgIG5ld19hc3NldC5pZCA9IE5vbmUKICAgICAgICBuZXdfYXNzZXQuc2NlbmFyaW9faWQgPSBuZXdfc2NlbmFyaW8uaWQKICAgICAgICBuZXdfYXNzZXQuc2F2ZSgpCiAgICAgICAgZm9yIGZpeGVkIGluIGxpc3QoYXNzZXQuZml4ZWRfZGV0YWlscy5hbGwoKSk6CiAgICAgICAgICAgIG5ld19maXhlZCA9IGNvcHkoZml4ZWQpCiAgICAgICAgICAgIG5ld19maXhlZC5pZCA9IE5vbmUKICAgICAgICAgICAgbmV3X2ZpeGVkLmFzc2V0X2lkID0gbmV3X2Fzc2V0LmlkCiAgICAgICAgICAgIG5ld19maXhlZC5zYXZlKCkKICAgICAgICBmb3IgcGVyc29ubmVsIGluIGxpc3QoYXNzZXQucGVyc29ubmVsX2RldGFpbHMuYWxsKCkpOgogICAgICAgICAgICBuZXdfcGVyc29ubmVsID0gY29weShwZXJzb25uZWwpCiAgICAgICAgICAgIG5ld19wZXJzb25uZWwuaWQgPSBOb25lCiAgICAgICAgICAgIG5ld19wZXJzb25uZWwuYXNzZXRfaWQgPSBuZXdfYXNzZXQuaWQKICAgICAgICAgICAgbmV3X3BlcnNvbm5lbC5zYXZlKCkK</text>
+        <text encoding="base64">CiAgICBkZWYgX190cmFuc2xhdGVfaWJpc19pbmR1c3RyeShzZWxmLCBpYmlzX2luZHVzdHJ5KSAtPiBPcHRpb25hbFsnSW5kdXN0cnlTdW1tYXJ5J106CiAgICAgICAgcmV0dXJuIGdldF9pYmlzX2luZHVzdHJ5X3N1bW1hcnlfZnJvbV9pYmlzX2luZHVzdHJ5X25hbWUoaWJpc19pbmR1c3RyeV9uYW1lPWliaXNfaW5kdXN0cnkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfYXNzZXQgPSBjb3B5KGFzc2V0KQogICAgICAgIG5ld19hc3NldC5pZCA9IE5vbmUKICAgICAgICBuZXdfYXNzZXQuc2NlbmFyaW9faWQgPSBuZXdfc2NlbmFyaW8uaWQKICAgICAgICBuZXdfYXNzZXQuc2F2ZSgpCiAgICAgICAgZm9yIGZpeGVkIGluIGxpc3QoYXNzZXQuZml4ZWRfZGV0YWlscy5hbGwoKSk6CiAgICAgICAgICAgIG5ld19maXhlZCA9IGNvcHkoZml4ZWQpCiAgICAgICAgICAgIG5ld19maXhlZC5pZCA9IE5vbmUKICAgICAgICAgICAgbmV3X2ZpeGVkLmFzc2V0X2lkID0gbmV3X2Fzc2V0LmlkCiAgICAgICAgICAgIG5ld19maXhlZC5zYXZlKCkKICAgICAgICBmb3IgcGVyc29ubmVsIGluIGxpc3QoYXNzZXQucGVyc29ubmVsX2RldGFpbHMuYWxsKCkpOgogICAgICAgICAgICBuZXdfcGVyc29ubmVsID0gY29weShwZXJzb25uZWwpCiAgICAgICAgICAgIG5ld19wZXJzb25uZWwuaWQgPSBOb25lCiAgICAgICAgICAgIG5ld19wZXJzb25uZWwuYXNzZXRfaWQgPSBuZXdfYXNzZXQuaWQKICAgICAgICAgICAgbmV3X3BlcnNvbm5lbC5zYXZlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2RlbGV0ZV9leGlzdGluZ19hc3NldChzZWxmLCBzY2VuYXJpbyk6CiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NldCA9IHNjZW5hcmlvLmFzc2V0ICAjIHR5cGU6IEFzc2V0Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgX2RlbGV0ZV9leGlzdGluZ19hc3NldChzZWxmLCBzY2VuYXJpbyk6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
+        <text encoding="base64">ICAgICAgICBhc3NldCA9IHNjZW5hcmlvLmFzc2V0ICAjIHR5cGU6IEFzc2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IGF0dHIuaWIodHlwZT1WYWx1YXRpb24pCiAgICBzY2VuYXJpbyA9IGF0dHIuaWIodHlwZT1TY2VuYXJpbykKICAgIGFsbG9jYXRpb24gPSBhdHRyLmliKHR5cGU9QWxsb2NhdGlvbikKICAgIGNvbXBhbnlfaW5mb3JtYXRpb24gPSBhdHRyLmliKHR5cGU9Q29tcGFueUluZm9ybWF0aW9uKQogICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
