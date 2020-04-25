@@ -119,11 +119,11 @@
         <mark key="^" line="95" column="60" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/duplicate.py" timestamp="1587776435881">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/duplicate.py" timestamp="1587777384928">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1587682999995">
         <mark key="]" line="74" column="47" />
@@ -142,12 +142,6 @@
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1587665909968">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_valbot.py" timestamp="1587760579153">
         <mark key="[" line="153" column="1" />
         <mark key="]" line="155" column="40" />
@@ -157,6 +151,11 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1587753030246">
         <mark key="[" line="299" column="0" />
         <mark key="]" line="305" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/financials/debt.py" timestamp="1587777586884">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587688088657">
         <mark key="[" line="73" column="15" />
@@ -279,7 +278,7 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -294,35 +293,35 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLmRlYnQgaW1wb3J0IERlYnRTdHJ1Y3QK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIHZhbHVhdGlvbi52YWxib3RfZGF0YSBpcyBub3QgTm9uZToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfdmFsYm90X2RhdGEgPSBjb3B5KHZhbHVhdGlvbi52YWxib3RfZGF0YSkKICAgICAgICBuZXdfdmFsYm90X2RhdGEuaWQgPSBOb25lCiAgICAgICAgbmV3X3ZhbGJvdF9kYXRhLnNhdmUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBjYXJ0YS52YWx1YXRpb25zLmNvcmUuY29uc3RhbnRzIGltcG9ydCBEZWJ0T3B0aW9ucwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>debt_option = attr.ib(
         type=DebtOptions,
         default=None,
         converter=lambda s: DebtOptions(s) if s else None
     )</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uX2ZhaWx1cmVzICs9IDEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYXJpc29uX2ZhaWx1cmVzICs9IDEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igam9iIGluIGpvYnM6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wYXJhdG9yX2hlbHBlciA9IFZhbHVhdGlvbkNvbXBhcmF0b3JIZWxwZXIodW1icmVsbGFfcGs9bmV4dF91bWJyZWxsYVsnaWQnXSkKICAgICAgICAgICAgICAgICAgICBjb21wYXJhdG9yX2hlbHBlci5jb21wYXJlX3ZhbGJvdHMoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqb2JzID0gCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0aW9uX2ZhaWx1cmVzICs9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>116,130s/financials/auto_val/g</text>
