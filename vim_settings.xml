@@ -106,11 +106,11 @@
         <mark key="^" line="8" column="75" />
         <mark key="." line="8" column="74" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/duplicate.py" timestamp="1587848733661">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="277" column="29" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/duplicate.py" timestamp="1587929536876">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1587926909743">
         <mark key="[" line="130" column="68" />
@@ -131,10 +131,10 @@
         <mark key="^" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/services/api.py" timestamp="1587927703763">
-        <mark key="[" line="93" column="18" />
-        <mark key="]" line="93" column="52" />
-        <mark key="." line="93" column="51" />
-        <mark key="^" line="93" column="52" />
+        <mark key="[" line="95" column="18" />
+        <mark key="]" line="95" column="52" />
+        <mark key="." line="95" column="51" />
+        <mark key="^" line="95" column="52" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation.py" timestamp="1587927617787">
         <mark key="[" line="14" column="48" />
@@ -180,10 +180,10 @@
         <mark key="." line="89" column="29" />
         <mark key="^" line="89" column="30" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587779708410">
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="70" column="8" />
-        <mark key="." line="70" column="7" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/copy/test_copy.py" timestamp="1587929558670">
+        <mark key="[" line="94" column="15" />
+        <mark key="]" line="94" column="16" />
+        <mark key="." line="94" column="16" />
         <mark key="^" line="70" column="8" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1587872619760">
@@ -307,10 +307,10 @@
         <text encoding="base64">ICAgICAgICB4cHJlc3NmZWVkX3NlcnZpY2UgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3hwcmVzc2ZlZWRfc2VydmljZSgpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIG5ld192YWx1YXRpb24udmFsYm90X2RhdGFfaWQgPSBuZXdfdmFsYm90X2RhdGEuaWQK</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>valuation.valbot_data</text>
       </register>
       <register name="/" type="4">
         <text>tracking_service</text>
@@ -322,31 +322,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIG5ld192YWx1YXRpb24udmFsYm90X2RhdGFfaWQgPSBuZXdfdmFsYm90X2RhdGEuaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYXV0b21hdGlvbi5zZXJ2aWNlcy5hcGkgaW1wb3J0IGdldF9wcmVkaWN0ZWRfZm12X3JhbmdlCg==</text>
+        <text encoding="base64">ICAgIG9yaWdpbmFsX3ZhbGJvdF9kYXRhID0gdmFsdWF0aW9uLnZhbGJvdF9kYXRhICAjIHR5cGU6IFZhbGJvdERhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYXV0b21hdGlvbi5zZXJ2aWNlcy5hcGkgaW1wb3J0IGdldF9wcmVkaWN0ZWRfZm12X3JhbmdlLCBnZXRfYXV0b21hdGVkX3ZhbHVhdGlvbnNfZm9yX2Rpc3BsYXkK</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF92YWxib3RfZGF0YSA9IHZhbHVhdGlvbi52YWxib3RfZGF0YSAgIyB0eXBlOiBWYWxib3REYXRhCiAgICAgICAgbmV3X3ZhbGJvdF9kYXRhID0gY29weShvcmlnaW5hbF92YWxib3RfZGF0YSkKICAgICAgICBuZXdfdmFsYm90X2RhdGEuaWQgPSBOb25lCiAgICAgICAgaWYgb3JpZ2luYWxfdmFsYm90X2RhdGEucG9saWN5X3JlY29yZDoKICAgICAgICAgICAgb3JpZ2luYWxfcG9saWN5X3JlY29yZCA9IG9yaWdpbmFsX3ZhbGJvdF9kYXRhLnBvbGljeV9yZWNvcmQgICMgdHlwZTogUG9saWN5UmVjb3JkCiAgICAgICAgICAgIG5ld19wb2xpY3lfcmVjb3JkID0gY29weShvcmlnaW5hbF9wb2xpY3lfcmVjb3JkKQogICAgICAgICAgICBuZXdfcG9saWN5X3JlY29yZC5pZCA9IE5vbmUKICAgICAgICAgICAgbmV3X3BvbGljeV9yZWNvcmQuc2F2ZSgpCiAgICAgICAgICAgIG5ld192YWxib3RfZGF0YS5wb2xpY3lfcmVjb3JkX2lkID0gbmV3X3BvbGljeV9yZWNvcmQuaWQKICAgICAgICBuZXdfdmFsYm90X2RhdGEuc2F2ZSgpCiAgICAgICAgbmV3X3ZhbHVhdGlvbi52YWxib3RfZGF0YV9pZCA9IG5ld192YWxib3RfZGF0YS5pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogdGhpcyBhc3N1bWVzIHRoYXQgcHJlZGljdGVkIGZtdiB3aWxsIGJlIGZyb20gYW4gYXNzZXQgdmFsLiBUaGlzIGlzIGEgbGltaXRpbmcgYXNzdW1wdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcmlnaW5hbF92YWxib3RfZGF0YS5wb2xpY3lfcmVjb3JkOgogICAgICAgICAgICBvcmlnaW5hbF9wb2xpY3lfcmVjb3JkID0gb3JpZ2luYWxfdmFsYm90X2RhdGEucG9saWN5X3JlY29yZCAgIyB0eXBlOiBQb2xpY3lSZWNvcmQKICAgICAgICAgICAgbmV3X3BvbGljeV9yZWNvcmQgPSBjb3B5KG9yaWdpbmFsX3BvbGljeV9yZWNvcmQpCiAgICAgICAgICAgIG5ld19wb2xpY3lfcmVjb3JkLmlkID0gTm9uZQogICAgICAgICAgICBuZXdfcG9saWN5X3JlY29yZC5zYXZlKCkKICAgICAgICAgICAgbmV3X3ZhbGJvdF9kYXRhLnBvbGljeV9yZWNvcmRfaWQgPSBuZXdfcG9saWN5X3JlY29yZC5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYXV0b21hdGVkX3ZhbHVhdGlvbnNfZm9yX2Rpc3BsYXkoc2VsZiwgdW1icmVsbGFfcGs6IGludCkgLT4gTGlzdFsnVmFsdWF0aW9uJ106CiAgICAgICAgdmFsdWF0aW9ucyA9IGdldF9hdXRvbWF0ZWRfdmFsdWF0aW9ucyh1bWJyZWxsYV9waz11bWJyZWxsYV9waykKICAgICAgICByZXR1cm4gc2VsZi5fZmlsdGVyX3NlcmlhbGl6YWJsZV9zdHJhdGVnaWVzKHZhbHVhdGlvbnMpCgo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYXV0b21hdGlvbi5zZXJ2aWNlcy5hcGkgaW1wb3J0IGdldF9wcmVkaWN0ZWRfZm12X3JhbmdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuYXV0b21hdGlvbi5zZXJ2aWNlcy5hcGkgaW1wb3J0IGdldF9wcmVkaWN0ZWRfZm12X3JhbmdlLCBnZXRfYXV0b21hdGVkX3ZhbHVhdGlvbnNfZm9yX2Rpc3BsYXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogdGhpcyBhc3N1bWVzIHRoYXQgcHJlZGljdGVkIGZtdiB3aWxsIGJlIGZyb20gYW4gYXNzZXQgdmFsLiBUaGlzIGlzIGEgbGltaXRpbmcgYXNzdW1wdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYXV0b21hdGVkX3ZhbHVhdGlvbnNfZm9yX2Rpc3BsYXkoc2VsZik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking_service/valbot_api</text>
