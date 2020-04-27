@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>:.*\n</entry>
         <entry>OFFLINE</entry>
         <entry>VALUAT</entry>
         <entry>XpressfeedService.factory()</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRfYXNzZXRfYXBwcm9hY2hfZnJvbV92YWx1YXRpb25cPg==</entry>
         <entry>tracking_service</entry>
         <entry>VAL_</entry>
+        <entry>valua</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SegmentationMethodologies\.\([A-Z_]\+\)/SegmentationMethodologies.\1.value/</entry>
@@ -91,12 +91,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1588018672925">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/strategy_getter.py" timestamp="1587925736100">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="41" column="64" />
-        <mark key="^" line="41" column="64" />
-        <mark key="." line="41" column="63" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/valbot.py" timestamp="1587927631626">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="8" column="75" />
@@ -108,6 +102,9 @@
         <mark key="]" line="5" column="50" />
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/requirements.txt" timestamp="1588024412547">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/utils.py" timestamp="1587927812412">
         <mark key="[" line="22" column="28" />
@@ -127,18 +124,12 @@
         <mark key="." line="279" column="54" />
         <mark key="^" line="279" column="55" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1588025385800" />
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/test_automated_valuation_service.py" timestamp="1587934276791">
         <mark key="[" line="111" column="35" />
         <mark key="]" line="111" column="35" />
         <mark key="^" line="111" column="35" />
         <mark key="." line="111" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1587926599558">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="36" />
-        <mark key="^" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/emails.py" timestamp="1587927071754">
         <mark key="[" line="89" column="20" />
@@ -157,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1343" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1358" column="33" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1365" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
       <jump line="1452" column="18" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/constants.py" />
@@ -257,6 +247,7 @@
       <jump line="51" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" />
       <jump line="54" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/requirements.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -271,7 +262,7 @@
         <text>module</text>
       </register>
       <register name="/" type="4">
-        <text>VAL_</text>
+        <text>valua</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdW1icmVsbGFfcGs9dW1icmVsbGFfcGssCg==</text>
@@ -313,9 +304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>VAL_</last-search>
+      <last-search>valua</last-search>
       <last-offset />
-      <last-pattern>VAL_</last-pattern>
+      <last-pattern>valua</last-pattern>
       <last-replace>valbot_api</last-replace>
       <last-substitute>tracking_service</last-substitute>
       <last-dir>1</last-dir>
