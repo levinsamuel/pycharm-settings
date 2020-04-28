@@ -129,7 +129,7 @@
         <mark key="^" line="609" column="24" />
         <mark key="." line="609" column="23" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/conftest.py" timestamp="1588037077898">
+      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/conftest.py" timestamp="1588037122131">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="78" />
         <mark key="." line="21" column="77" />
@@ -141,11 +141,12 @@
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588037054290">
-        <mark key="[" line="71" column="13" />
-        <mark key="]" line="71" column="28" />
-        <mark key="^" line="71" column="28" />
-        <mark key="." line="71" column="27" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588037130976">
+        <mark key="'" line="62" column="3" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="40" />
+        <mark key="^" line="71" column="40" />
+        <mark key="." line="71" column="39" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1588031517247">
         <mark key="[" line="20" column="26" />
@@ -179,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="58" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="437" column="71" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="439" column="30" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="520" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -279,6 +279,7 @@
       <jump line="22" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
       <jump line="5" column="48" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
       <jump line="16" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
+      <jump line="62" column="3" filename="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
