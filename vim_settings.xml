@@ -100,17 +100,12 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" timestamp="1588038683706">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
-        <mark key="." line="135" column="36" />
-        <mark key="^" line="135" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1588031782838">
         <mark key="[" line="159" column="53" />
         <mark key="]" line="160" column="71" />
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/requirements.txt" timestamp="1588024412547">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/test_comparables.py" timestamp="1588032592110">
         <mark key="'" line="368" column="32" />
@@ -134,11 +129,11 @@
         <mark key="^" line="609" column="24" />
         <mark key="." line="609" column="23" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/conftest.py" timestamp="1588037122131">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="78" />
-        <mark key="." line="21" column="77" />
-        <mark key="^" line="21" column="78" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/integrations/test_xpressfeed.py" timestamp="1588091302341">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="19" column="103" />
+        <mark key="^" line="19" column="103" />
+        <mark key="." line="19" column="102" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1588028060549">
         <mark key="[" line="38" column="16" />
@@ -158,11 +153,7 @@
         <mark key="]" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_comparables.py" timestamp="1588033009811">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/integrations/conftest.py" timestamp="1588090895757" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" timestamp="1588030864593">
         <mark key="'" line="593" column="5" />
         <mark key="[" line="1198" column="0" />
@@ -292,11 +283,11 @@
       <register name="a" type="4">
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHRoaXNfbW9kdWxlPg==</text>
+        <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
       <register name="/" type="4">
         <text>TEST_RUN</text>
