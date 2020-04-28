@@ -129,17 +129,23 @@
         <mark key="^" line="609" column="24" />
         <mark key="." line="609" column="23" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/conftest.py" timestamp="1588037077898">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="78" />
+        <mark key="." line="21" column="77" />
+        <mark key="^" line="21" column="78" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1588028060549">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="34" />
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588035322507">
+      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588037054290">
         <mark key="[" line="71" column="13" />
-        <mark key="]" line="71" column="20" />
-        <mark key="^" line="71" column="20" />
-        <mark key="." line="71" column="19" />
+        <mark key="]" line="71" column="28" />
+        <mark key="^" line="71" column="28" />
+        <mark key="." line="71" column="27" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1588031517247">
         <mark key="[" line="20" column="26" />
@@ -280,47 +286,47 @@
       <register name="a" type="4">
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRlc3QgYXMgYSBjb21tYW5kIHJhdGhlciB0aGFuIGEgdGVzdA==</text>
       </register>
       <register name="-" type="4">
-        <text>skip</text>
+        <text encoding="base64">IHRlc3QgYXMgYSBjb21tYW5kIHJhdGhlciB0aGFuIGEgdGVzdA==</text>
       </register>
       <register name="/" type="4">
         <text>quartiles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZVJlZ2lzdHJ5LmdldF94cHJlc3NmZWVkX3NlcnZpY2UoKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgY29uZmlnLm9wdGlvbi5sb25ncnVuOgogICAgICAgICAgICBzZXRhdHRyKGNvbmZpZy5vcHRpb24sICdtYXJrZXhwcicsICdub3QgbG9uZ3J1bicpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgcHl0ZXN0X2NvbmZpZ3VyZShjb25maWcpOgogICAgICAgIGlmIG5vdCBjb25maWcub3B0aW9uLmxvbmdydW46CiAgICAgICAgICAgIHNldGF0dHIoY29uZmlnLm9wdGlvbiwgJ21hcmtleHByJywgJ25vdCBsb25ncnVuJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNFVFRJTkdTX1NXSVRDSEVSPXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW52ID0K</text>
+        <text encoding="base64">ICAgIFNFVFRJTkdTX1NXSVRDSEVSPXRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkb3B0cyA9IC0tZGlzYWJsZS13YXJuaW5ncwo=</text>
+        <text encoding="base64">ZW52ID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHl0aG9uX3BhdGhzID0gLi4vLi4vbGliCg==</text>
+        <text encoding="base64">YWRkb3B0cyA9IC0tZGlzYWJsZS13YXJuaW5ncwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REpBTkdPX1NFVFRJTkdTX01PRFVMRSA9IGVzaGFyZXMuc2V0dGluZ3Nfc3dpdGNoZXIK</text>
+        <text encoding="base64">cHl0aG9uX3BhdGhzID0gLi4vLi4vbGliCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9ja191c2Vfc3RhbmRhbG9uZV9tb2R1bGUgPSB0cnVlCg==</text>
+        <text encoding="base64">REpBTkdPX1NFVFRJTkdTX01PRFVMRSA9IGVzaGFyZXMuc2V0dGluZ3Nfc3dpdGNoZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycyBpbXBvcnQgY29tcGFyYWJsZXMgYXMgbW9kdWxlCg==</text>
+        <text encoding="base64">bW9ja191c2Vfc3RhbmRhbG9uZV9tb2R1bGUgPSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy52b2xhdGlsaXR5IGltcG9ydCBkbG9tIGFzIGRsb21faGVscGVycwo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycyBpbXBvcnQgY29tcGFyYWJsZXMgYXMgbW9kdWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking_service/valbot_api</text>
