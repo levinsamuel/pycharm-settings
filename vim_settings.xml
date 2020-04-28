@@ -129,17 +129,11 @@
         <mark key="^" line="609" column="24" />
         <mark key="." line="609" column="23" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/integrations/test_xpressfeed.py" timestamp="1588091302341">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="19" column="103" />
-        <mark key="^" line="19" column="103" />
-        <mark key="." line="19" column="102" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/comparables.py" timestamp="1588028060549">
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/integrations/test_xpressfeed.py" timestamp="1588091320071">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="18" column="103" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588038322951">
         <mark key="'" line="62" column="3" />
@@ -160,11 +154,6 @@
         <mark key="]" line="1198" column="38" />
         <mark key="." line="1198" column="37" />
         <mark key="^" line="1198" column="38" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/base.py" timestamp="1588027203213">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_volatility.py" timestamp="1588032943720">
         <mark key="[" line="6" column="0" />
@@ -283,8 +272,8 @@
       <register name="a" type="4">
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ServiceRegistry.get_xpressfeed_service()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZSBpbXBvcnQgU2VydmljZVJlZ2lzdHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ServiceRegistry.get_xpressfeed_service()</text>
@@ -299,31 +288,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgcHl0ZXN0X2NvbmZpZ3VyZShjb25maWcpOgogICAgICAgIGlmIG5vdCBjb25maWcub3B0aW9uLmxvbmdydW46CiAgICAgICAgICAgIHNldGF0dHIoY29uZmlnLm9wdGlvbiwgJ21hcmtleHByJywgJ25vdCBsb25ncnVuJykK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZSBpbXBvcnQgU2VydmljZVJlZ2lzdHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgcHl0ZXN0X2NvbmZpZ3VyZShjb25maWcpOgogICAgICAgIGlmIG5vdCBjb25maWcub3B0aW9uLmxvbmdydW46CiAgICAgICAgICAgIHNldGF0dHIoY29uZmlnLm9wdGlvbiwgJ21hcmtleHByJywgJ25vdCBsb25ncnVuJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNFVFRJTkdTX1NXSVRDSEVSPXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW52ID0K</text>
+        <text encoding="base64">ICAgIFNFVFRJTkdTX1NXSVRDSEVSPXRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkb3B0cyA9IC0tZGlzYWJsZS13YXJuaW5ncwo=</text>
+        <text encoding="base64">ZW52ID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHl0aG9uX3BhdGhzID0gLi4vLi4vbGliCg==</text>
+        <text encoding="base64">YWRkb3B0cyA9IC0tZGlzYWJsZS13YXJuaW5ncwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REpBTkdPX1NFVFRJTkdTX01PRFVMRSA9IGVzaGFyZXMuc2V0dGluZ3Nfc3dpdGNoZXIK</text>
+        <text encoding="base64">cHl0aG9uX3BhdGhzID0gLi4vLi4vbGliCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9ja191c2Vfc3RhbmRhbG9uZV9tb2R1bGUgPSB0cnVlCg==</text>
+        <text encoding="base64">REpBTkdPX1NFVFRJTkdTX01PRFVMRSA9IGVzaGFyZXMuc2V0dGluZ3Nfc3dpdGNoZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycyBpbXBvcnQgY29tcGFyYWJsZXMgYXMgbW9kdWxlCg==</text>
+        <text encoding="base64">bW9ja191c2Vfc3RhbmRhbG9uZV9tb2R1bGUgPSB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking_service/valbot_api</text>
