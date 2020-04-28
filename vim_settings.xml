@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>VALUA</entry>
         <entry>ibis</entry>
         <entry>tracking</entry>
         <entry>create</entry>
@@ -27,6 +26,7 @@
         <entry>xpressfeed</entry>
         <entry>get_quartiles</entry>
         <entry>quartiles</entry>
+        <entry>TEST_RUN</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SegmentationMethodologies\.\([A-Z_]\+\)/SegmentationMethodologies.\1.value/</entry>
@@ -88,9 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1588018672925">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" timestamp="1588032690536">
         <mark key="'" line="16" column="24" />
       </file>
@@ -101,9 +98,9 @@
         <mark key="^" line="2" column="52" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1588023459661" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" timestamp="1588030903123">
-        <mark key="[" line="135" column="38" />
-        <mark key="]" line="135" column="37" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" timestamp="1588038683706">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="37" />
       </file>
@@ -121,6 +118,9 @@
         <mark key="[" line="184" column="0" />
         <mark key="]" line="185" column="90" />
         <mark key="^" line="184" column="76" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/corporations/models/legacy_models.py" timestamp="1588038140322">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" timestamp="1588031435676">
         <mark key="'" line="542" column="34" />
@@ -141,12 +141,12 @@
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588037130976">
+      <file name="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" timestamp="1588038322951">
         <mark key="'" line="62" column="3" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="40" />
-        <mark key="^" line="71" column="40" />
-        <mark key="." line="71" column="39" />
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="11" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="50" column="10" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/volatility/test_base.py" timestamp="1588031517247">
         <mark key="[" line="20" column="26" />
@@ -180,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="71" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="439" column="30" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="520" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="526" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
@@ -280,6 +279,7 @@
       <jump line="5" column="48" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
       <jump line="16" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/dlom.py" />
       <jump line="62" column="3" filename="$USER_HOME$/git/c/carta-web/tests/data_integrity/val_reports/update_reference_files.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/corporations/models/legacy_models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,17 +287,17 @@
       <register name="a" type="4">
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRlc3QgYXMgYSBjb21tYW5kIHJhdGhlciB0aGFuIGEgdGVzdA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRlc3QgYXMgYSBjb21tYW5kIHJhdGhlciB0aGFuIGEgdGVzdA==</text>
+        <text encoding="base64">PHRoaXNfbW9kdWxlPg==</text>
       </register>
       <register name="/" type="4">
-        <text>quartiles</text>
+        <text>TEST_RUN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgY29uZmlnLm9wdGlvbi5sb25ncnVuOgogICAgICAgICAgICBzZXRhdHRyKGNvbmZpZy5vcHRpb24sICdtYXJrZXhwcicsICdub3QgbG9uZ3J1bicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -336,9 +336,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>quartiles</last-search>
+      <last-search>TEST_RUN</last-search>
       <last-offset />
-      <last-pattern>quartiles</last-pattern>
+      <last-pattern>TEST_RUN</last-pattern>
       <last-replace>valbot_api</last-replace>
       <last-substitute>tracking_service</last-substitute>
       <last-dir>1</last-dir>
