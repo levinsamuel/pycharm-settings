@@ -182,6 +182,11 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/steps/backsolve/test_last_preferred.py" timestamp="1588196877164">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="88" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" />
@@ -292,7 +297,7 @@
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -307,31 +312,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2NyZWF0ZV9iYWNrc29sdmVfc2hhcmVfY2xhc3NfZGVmaW5pdGlvbihzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fY2FsbGVkX3NldHNfYmFja3NvbHZlX2RhdGVfdG9fbGFzdF9wcmVmZXJyZWRfbGF0ZXN0X2lzc3VlX2RhdGVfaW5fdXBkYXRlcygKICAgICAgICBzZWxmLCB2YWx1YXRpb24sIHN0ZXAKICAgICk6CiAgICAgICAgbW9ja2VkX2xhdGVzdF9pc3N1ZV9kYXRlID0gZGF0ZSgyMDE5LCAxLCAxKQogICAgICAgIHZhbHVhdGlvbi5sYXN0X3ByZWZlcnJlZF9sYXRlc3RfaXNzdWVfZGF0ZSA9IG1vY2tlZF9sYXRlc3RfaXNzdWVfZGF0ZQoKICAgICAgICBhc3NlcnQgc3RlcC5wZXJmb3JtX3N0ZXAoKS51cGRhdGVzWydiYWNrc29sdmVfZGF0ZSddID09IG1vY2tlZF9sYXRlc3RfaXNzdWVfZGF0ZQoKICAgIGRlZiB0ZXN0X3doZW5fY2FsbGVkX3NldHNfYmFja3NvbHZlX2RhdGVfdG9fbGFzdF9wcmVmZXJyZWRfbGF0ZXN0X2lzc3VlX2RhdGVfaW5fbW9kZWxlZF92YWx1ZXMoCiAgICAgICAgc2VsZiwgdmFsdWF0aW9uLCBzdGVwCiAgICApOgogICAgICAgIG1vY2tlZF9sYXRlc3RfaXNzdWVfZGF0ZSA9IGRhdGUoMjAxOSwgMSwgMSkKICAgICAgICB2YWx1YXRpb24ubGFzdF9wcmVmZXJyZWRfbGF0ZXN0X2lzc3VlX2RhdGUgPSBtb2NrZWRfbGF0ZXN0X2lzc3VlX2RhdGUKCiAgICAgICAgYXNzZXJ0IHN0ZXAucGVyZm9ybV9zdGVwKCkubW9kZWxlZF92YWx1ZXNbQUZpZWxkLkJBQ0tTT0xWRV9EQVRFLm5hbWVdWyd2YWx1ZSddID09IG1vY2tlZF9sYXRlc3RfaXNzdWVfZGF0ZQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgX21hcF9iYWNrc29sdmVfcmVzdWx0cyhzZWxmLCBwb2xpY3lfaW5zdGFuY2UsIGJhY2tzb2x2ZSwgYmFja3NvbHZlX2FsbG9jYXRpb24pOgogICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBnZXRfdmFsaWRhdGVkX3RpY2tlcnNfZnJvbV9pbmR1c3RyeQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBkZWYgX2NyZWF0ZV9iYWNrc29sdmVfc2hhcmVfY2xhc3NfZGVmaW5pdGlvbihzZWxmKToKICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBkZWYgX21hcF9iYWNrc29sdmVfcmVzdWx0cyhzZWxmLCBwb2xpY3lfaW5zdGFuY2UsIGJhY2tzb2x2ZSwgYmFja3NvbHZlX2FsbG9jYXRpb24pOgogICAgICAgIHBhc3MK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuaGVscGVycy54cHJlc3NmZWVkIGltcG9ydCBnZXRfdmFsaWRhdGVkX3RpY2tlcnNfZnJvbV9pbmR1c3RyeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS5mYWN0b3J5KHVtYnJlbGxhLCB2YWx1YXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking_service/valbot_api</text>
