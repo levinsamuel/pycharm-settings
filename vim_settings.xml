@@ -88,11 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/repository/financials.py" timestamp="1588131294631">
-        <mark key="[" line="6" column="75" />
-        <mark key="]" line="6" column="75" />
-        <mark key="." line="6" column="75" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/methodologies/backsolve.py" timestamp="1588194891869">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="44" />
@@ -104,6 +99,12 @@
         <mark key="]" line="104" column="19" />
         <mark key="." line="104" column="18" />
         <mark key="^" line="104" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1588274227152">
+        <mark key="[" line="126" column="87" />
+        <mark key="]" line="126" column="90" />
+        <mark key="." line="126" column="89" />
+        <mark key="^" line="126" column="90" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/celery/canvas.py" timestamp="1588270558351" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1588193306481">
@@ -117,11 +118,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1588271079493">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="36" />
-        <mark key="^" line="30" column="37" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1588274505266">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="67" />
+        <mark key="^" line="34" column="67" />
+        <mark key="." line="34" column="66" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1588190704273">
         <mark key="[" line="116" column="9" />
@@ -164,11 +165,11 @@
         <mark key="^" line="10" column="79" />
         <mark key="." line="10" column="78" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1588271397744">
-        <mark key="[" line="37" column="76" />
-        <mark key="]" line="38" column="44" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1588272975214">
+        <mark key="[" line="12" column="76" />
+        <mark key="]" line="12" column="76" />
         <mark key="^" line="38" column="44" />
-        <mark key="." line="38" column="43" />
+        <mark key="." line="12" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -280,10 +281,10 @@
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXV0b21hdGVkX3Rhc2tfZ3JvdXAsIA==</text>
+        <text>first_group | comparison_task</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0b21hdGVkX3Rhc2tfZ3JvdXAsIA==</text>
+        <text>first_group | comparison_task</text>
       </register>
       <register name="/" type="4">
         <text>comparator</text>
@@ -295,31 +296,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSB8IGNvbXBhcmVfb2xkX2FuZF9uZXdfdmFsYm90LnModW1icmVsbGFfcGs9dW1icmVsbGFfcGspCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gZ3JvdXAoCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gYXV0b21hdGVkX3Rhc2tfZ3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSB8IGNvbXBhcmVfb2xkX2FuZF9uZXdfdmFsYm90LnModW1icmVsbGFfcGs9dW1icmVsbGFfcGspCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gZ3JvdXAoCg==</text>
       </register>
       <register name="7" type="2">
-        <text>def get_new_valbot_</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gYXV0b21hdGVkX3Rhc2tfZ3JvdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYXR1cmUgPSB0YXNrX2xpc3QK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpZ25hdHVyZSA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking_service/valbot_api</text>
