@@ -118,11 +118,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1588274505266">
-        <mark key="[" line="34" column="26" />
-        <mark key="]" line="34" column="67" />
-        <mark key="^" line="34" column="67" />
-        <mark key="." line="34" column="66" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1588276490866">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1588190704273">
         <mark key="[" line="116" column="9" />
@@ -281,46 +281,46 @@
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>first_group | comparison_task</text>
+        <text>tasks</text>
       </register>
       <register name="-" type="4">
-        <text>first_group | comparison_task</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text>comparator</text>
       </register>
-      <register name="0" type="4">
-        <text>task_list</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxfY2hhaW4gPSAoZW1haWxfdGFzayB8IGZpbmlzaF90YXNrKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfVkFMQk9UX1YyKToKICAgICAgICAgICAgY29tcGFyaXNvbl90YXNrID0gdGFza3MuY29tcGFyZV9vbGRfYW5kX25ld192YWxib3Qucyh1bWJyZWxsYV9waz11bWJyZWxsYV9waykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RfdGFza3MgPSBncm91cCgqZmlyc3RfZ3JvdXBfdGFza3MsIGNvbXBhcmlzb25fdGFzaykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSB8IGNvbXBhcmVfb2xkX2FuZF9uZXdfdmFsYm90LnModW1icmVsbGFfcGs9dW1icmVsbGFfcGspCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gZ3JvdXAoCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gYXV0b21hdGVkX3Rhc2tfZ3JvdXAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RfdGFza3MgPSBncm91cCgqZmlyc3RfZ3JvdXBfdGFza3MpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc19lbmFibGVkKGZlYXR1cmVzLlZBTFVBVElPTlNfVkFMQk9UX1YyKToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFyaXNvbl90YXNrID0gdGFza3MuY29tcGFyZV9vbGRfYW5kX25ld192YWxib3Qucyh1bWJyZWxsYV9waz11bWJyZWxsYV9waykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>44,56s/tracking_service/valbot_api</text>
