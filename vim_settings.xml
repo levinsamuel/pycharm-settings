@@ -88,9 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1588289064662">
-        <mark key="'" line="334" column="70" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1588195021897">
         <mark key="[" line="104" column="8" />
         <mark key="]" line="104" column="19" />
@@ -104,6 +101,7 @@
         <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/celery/canvas.py" timestamp="1588270558351" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1588352472627" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1588283111185">
         <mark key="'" line="0" column="528" />
         <mark key="[" line="0" column="0" />
@@ -141,18 +139,13 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="92" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/groups/methodologies/backsolve.py" timestamp="1588194966409">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="10" column="79" />
-        <mark key="^" line="10" column="79" />
-        <mark key="." line="10" column="78" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1588272975214">
         <mark key="[" line="12" column="76" />
         <mark key="]" line="12" column="76" />
         <mark key="^" line="38" column="44" />
         <mark key="." line="12" column="76" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1588352732513" />
     </filemarks>
     <jumps>
       <jump line="60" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" />
