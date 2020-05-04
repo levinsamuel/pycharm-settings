@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>test_calculations.py</entry>
         <entry>valbot</entry>
         <entry>financials</entry>
         <entry>SFDC</entry>
@@ -27,6 +26,7 @@
         <entry>comparator</entry>
         <entry>\\n</entry>
         <entry>VALUA</entry>
+        <entry>api-tests</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(decision.result\)/SegmentationMethodologies(\1)/</entry>
@@ -88,6 +88,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1588195757241">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/captable_data.py" timestamp="1588195303153">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="57" />
+        <mark key="^" line="92" column="57" />
+        <mark key="." line="92" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/exceptions.py" timestamp="1588289285623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/policy.py" timestamp="1588195021897">
         <mark key="[" line="104" column="8" />
         <mark key="]" line="104" column="19" />
@@ -100,8 +117,12 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/celery/canvas.py" timestamp="1588270558351" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1588352472627" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/standard.py" timestamp="1588195674492">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="92" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1588283111185">
         <mark key="'" line="0" column="528" />
         <mark key="[" line="0" column="0" />
@@ -115,41 +136,17 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1588195757241">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/captable_data.py" timestamp="1588195303153">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="92" column="57" />
-        <mark key="^" line="92" column="57" />
-        <mark key="." line="92" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/umbrella/umbrella.py" timestamp="1588266231229" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/exceptions.py" timestamp="1588289285623">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/standard.py" timestamp="1588195674492">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="92" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1588559453256" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/helpers.py" timestamp="1588272975214">
         <mark key="[" line="12" column="76" />
         <mark key="]" line="12" column="76" />
         <mark key="^" line="38" column="44" />
         <mark key="." line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1588352732513" />
+      <file name="$USER_HOME$/git/c/carta-web/.circleci/config.yml" timestamp="1588617136708">
+        <mark key="'" line="297" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" />
       <jump line="67" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" />
       <jump line="74" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" />
       <jump line="0" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/compare_new_old_asset_policy.py" />
@@ -249,6 +246,7 @@
       <jump line="251" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" />
       <jump line="0" column="528" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" />
       <jump line="334" column="70" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
+      <jump line="297" column="16" filename="$USER_HOME$/git/c/carta-web/.circleci/config.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -263,7 +261,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>VALUA</text>
+        <text>api-tests</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignRmFpbGVkIHRvIHJlZ2lzdGVyIGVycm9yLicpCg==</text>
@@ -305,9 +303,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>VALUA</last-search>
+      <last-search>api-tests</last-search>
       <last-offset />
-      <last-pattern>VALUA</last-pattern>
+      <last-pattern>api-tests</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
