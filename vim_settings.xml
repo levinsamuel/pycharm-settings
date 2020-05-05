@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>get_fetched</entry>
         <entry>fetch_comp</entry>
         <entry>xpressfeed</entry>
         <entry>get_quartiles</entry>
@@ -27,6 +26,7 @@
         <entry>Volatility value</entry>
         <entry>hare class volatilities</entry>
         <entry>allocation</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(decision\.result\)/SegmentationMethodologies(\1)/</entry>
@@ -152,8 +152,8 @@
         <mark key="." line="274" column="71" />
         <mark key="^" line="274" column="72" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" timestamp="1588701484314">
-        <mark key="'" line="66" column="26" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" timestamp="1588702095299">
+        <mark key="'" line="510" column="37" />
         <mark key="[" line="396" column="8" />
         <mark key="]" line="398" column="48" />
         <mark key="^" line="398" column="48" />
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="588" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="589" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
@@ -304,6 +302,8 @@
       <jump line="156" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="185" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="29" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/methodologies/backsolve.py" />
+      <jump line="485" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="510" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,7 +318,7 @@
         <text>super()._create_backsolve_early_exit_share_class_weight()</text>
       </register>
       <register name="/" type="4">
-        <text>allocation</text>
+        <text>default</text>
       </register>
       <register name="0" type="4">
         <text>__early_exit_share_class_weight</text>
@@ -372,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>allocation</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>allocation</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>valuations_constants</last-replace>
       <last-substitute>constants</last-substitute>
       <last-dir>1</last-dir>
