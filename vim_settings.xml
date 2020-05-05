@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>VAL_</entry>
-        <entry>valua</entry>
-        <entry>XPRESS</entry>
-        <entry>VALU</entry>
         <entry>Valu</entry>
         <entry>get_fetched</entry>
         <entry>fetch_comp</entry>
@@ -27,6 +23,10 @@
         <entry>uses_asset</entry>
         <entry>debt_info</entry>
         <entry>tte</entry>
+        <entry>Volatility</entry>
+        <entry>Unrounded</entry>
+        <entry>Volatility value</entry>
+        <entry>hare class volatilities</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(decision\.result\)/SegmentationMethodologies(\1)/</entry>
@@ -108,11 +108,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1588640616299">
-        <mark key="[" line="346" column="67" />
-        <mark key="]" line="346" column="76" />
-        <mark key="^" line="346" column="76" />
-        <mark key="." line="346" column="75" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1588699437246">
+        <mark key="'" line="308" column="28" />
+        <mark key="[" line="86" column="42" />
+        <mark key="]" line="86" column="42" />
+        <mark key="^" line="87" column="19" />
+        <mark key="." line="86" column="42" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/debt.py" timestamp="1588650375357">
         <mark key="[" line="15" column="61" />
@@ -143,6 +144,13 @@
         <mark key="]" line="228" column="64" />
         <mark key="." line="228" column="63" />
         <mark key="^" line="228" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" timestamp="1588699508009">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="153" column="60" />
+        <mark key="]" line="155" column="89" />
+        <mark key="^" line="155" column="89" />
+        <mark key="." line="155" column="88" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/valuation.py" timestamp="1588638071832">
         <mark key="'" line="19" column="0" />
@@ -186,17 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="521" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
-      <jump line="531" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
-      <jump line="535" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
-      <jump line="503" column="5" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/xpressfeed.py" />
-      <jump line="86" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/volatility/quartiles.py" />
-      <jump line="315" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
-      <jump line="468" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
-      <jump line="295" column="7" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
-      <jump line="25" column="44" filename="$USER_HOME$/git/c/carta-web/yarn-error.log" />
-      <jump line="74" column="59" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="76" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="359" column="44" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="65" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/automated_valuation.py" />
@@ -264,7 +261,6 @@
       <jump line="472" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="255" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="168" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="175" column="48" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="97" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="285" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="394" column="67" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
@@ -286,6 +282,18 @@
       <jump line="454" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="455" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
       <jump line="456" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="317" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="175" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="246" column="18" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="275" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="71" column="18" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="181" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="173" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="257" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
+      <jump line="66" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
+      <jump line="308" column="28" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,47 +301,59 @@
       <register name="a" type="4">
         <text>ServiceRegistry.get_xpressfeed_service()</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2RlYnRfaW5mb19wcm9jZWR1cmUoc2VsZikgLT4gJ1Byb2NlZHVyZVRlbXBsYXRlJzoKICAgICAgICByZXR1cm4gUHJvY2VkdXJlVGVtcGxhdGUoCiAgICAgICAgICAgICdEZWJ0IGluZm9ybWF0aW9uJywKICAgICAgICAgICAgZnVuY3Rpb249cHJvY2VkdXJlX25hbWVzLkNBTENVTEFURV9ERUJUX0lORk9STUFUSU9OLAogICAgICAgICAgICBkZXBlbmRlbmNpZXM9ewogICAgICAgICAgICAgICAgJ19fbWV0aG9kJywKICAgICAgICAgICAgICAgICdfX3RyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHknLAogICAgICAgICAgICAgICAgJ19fZGVidF9vcHRpb24nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGFyZ3VtZW50cz1GdW5jdGlvbkFyZ3MoCiAgICAgICAgICAgICAgICBrd2FyZ3M9ewogICAgICAgICAgICAgICAgICAgICdjYXBfdGFibGVfYnlfc2hhcmVfY2xhc3MnOiAnY2FwX3RhYmxlX2J5X3NoYXJlX2NsYXNzJywKICAgICAgICAgICAgICAgICAgICAnZmluYW5jaWFscyc6ICdmaW5hbmNpYWxfZGV0YWlscycsCiAgICAgICAgICAgICAgICAgICAgJ2FzX29mX2RhdGUnOiAndmFsdWF0aW9uX2RhdGUnLAogICAgICAgICAgICAgICAgICAgICdkZWJ0X29wdGlvbic6ICdfX2RlYnRfb3B0aW9uJywKICAgICAgICAgICAgICAgICAgICAndHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSc6ICdfX3RyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHknLAogICAgICAgICAgICAgICAgICAgICdhbGxvY2F0aW9uX21ldGhvZG9sb2d5JzogJ19fbWV0aG9kJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICApCiAgICAgICAgKQoK</text>
+      <register name="&quot;" type="4">
+        <text>super()._create_share_class_volatilities_procedure()</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>super()._create_share_class_volatilities_procedure()</text>
       </register>
       <register name="/" type="4">
-        <text>tte</text>
+        <text>hare class volatilities</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX3VzZXNfYXNzZXRfdm9sYXRpbGl0eV9kZWZpbml0aW9uKHNlbGYpIC0+ICdQb2xpY3lEZWZpbml0aW9uVGVtcGxhdGUnOgogICAgICAgIHJldHVybiBQb2xpY3lEZWZpbml0aW9uVGVtcGxhdGUoCiAgICAgICAgICAgICdVc2VzIGFzc2V0IHZvbGF0aWxpdHknLAogICAgICAgICAgICBydWxlPUpTT05SdWxlKHJ1bGU9eyd2YXInOiAnaHlicmlkX2xhdGVfZXhpdF9fYWxsb2NhdGlvbl9jb25maWdfX2RlYnRfaW5mby51c2VzX212aWMnfSksCiAgICAgICAgICAgIGRlcGVuZGVuY2llcz17CiAgICAgICAgICAgICAgICAnaHlicmlkX2xhdGVfZXhpdF9fYWxsb2NhdGlvbl9jb25maWdfX2RlYnRfaW5mbycKICAgICAgICAgICAgfSwKICAgICAgICApCgo=</text>
+      <register name="0" type="4">
+        <text>hybrid_early_exit__</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2RlYnRfaW5mb19wcm9jZWR1cmUoc2VsZikgLT4gJ1Byb2NlZHVyZVRlbXBsYXRlJzoKICAgICAgICByZXR1cm4gUHJvY2VkdXJlVGVtcGxhdGUoCiAgICAgICAgICAgICdEZWJ0IGluZm9ybWF0aW9uJywKICAgICAgICAgICAgZnVuY3Rpb249cHJvY2VkdXJlX25hbWVzLkNBTENVTEFURV9ERUJUX0lORk9STUFUSU9OLAogICAgICAgICAgICBkZXBlbmRlbmNpZXM9ewogICAgICAgICAgICAgICAgJ19fbWV0aG9kJywKICAgICAgICAgICAgICAgICdfX3RyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHknLAogICAgICAgICAgICAgICAgJ19fZGVidF9vcHRpb24nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGFyZ3VtZW50cz1GdW5jdGlvbkFyZ3MoCiAgICAgICAgICAgICAgICBrd2FyZ3M9ewogICAgICAgICAgICAgICAgICAgICdjYXBfdGFibGVfYnlfc2hhcmVfY2xhc3MnOiAnY2FwX3RhYmxlX2J5X3NoYXJlX2NsYXNzJywKICAgICAgICAgICAgICAgICAgICAnZmluYW5jaWFscyc6ICdmaW5hbmNpYWxfZGV0YWlscycsCiAgICAgICAgICAgICAgICAgICAgJ2FzX29mX2RhdGUnOiAndmFsdWF0aW9uX2RhdGUnLAogICAgICAgICAgICAgICAgICAgICdkZWJ0X29wdGlvbic6ICdfX2RlYnRfb3B0aW9uJywKICAgICAgICAgICAgICAgICAgICAndHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSc6ICdfX3RyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHknLAogICAgICAgICAgICAgICAgICAgICdhbGxvY2F0aW9uX21ldGhvZG9sb2d5JzogJ19fbWV0aG9kJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICApCiAgICAgICAgKQoK</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;&quot;
+        Volatility rounding
+        :return:
+        &quot;&quot;&quot;
+        return ProcedureTemplate(
+            'Volatility value',
+            function=procedure_names.ROUND_AND_CAP,
+            dependencies={'__unrounded_volatility'},
+            arguments=FunctionArgs(args=['__unrounded_volatility']),
+            options={
+                'base': DefaultValuationPolicyValues.VOLATILITY_PRECISION_ROUNDING
+            }
+        )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdoeWJyaWRfbGF0ZV9leGl0X19hbGxvY2F0aW9uX2NvbmZpZ19fZGVidF9vcHRpb24nLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX3ZvbGF0aWxpdHlfcHJvY2VkdXJlKHNlbGYpIC0+ICdQcm9jZWR1cmVUZW1wbGF0ZSc6CiAgICAgICAgIiIiCiAgICAgICAgVm9sYXRpbGl0eSByb3VuZGluZwogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIFByb2NlZHVyZVRlbXBsYXRlKAogICAgICAgICAgICAnVm9sYXRpbGl0eSB2YWx1ZScsCiAgICAgICAgICAgIGZ1bmN0aW9uPXByb2NlZHVyZV9uYW1lcy5ST1VORF9BTkRfQ0FQLAogICAgICAgICAgICBkZXBlbmRlbmNpZXM9eydfX3Vucm91bmRlZF92b2xhdGlsaXR5J30sCiAgICAgICAgICAgIGFyZ3VtZW50cz1GdW5jdGlvbkFyZ3MoYXJncz1bJ19fdW5yb3VuZGVkX3ZvbGF0aWxpdHknXSksCiAgICAgICAgICAgIG9wdGlvbnM9ewogICAgICAgICAgICAgICAgJ2Jhc2UnOiBEZWZhdWx0VmFsdWF0aW9uUG9saWN5VmFsdWVzLlZPTEFUSUxJVFlfUFJFQ0lTSU9OX1JPVU5ESU5HCiAgICAgICAgICAgIH0KICAgICAgICApCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX3J1bGUgPSBKU09OUnVsZSgKICAgICAgICAgICAgcnVsZT17CiAgICAgICAgICAgICAgICAnYW5kJzogWwogICAgICAgICAgICAgICAgICAgIHsnPic6IFsKICAgICAgICAgICAgICAgICAgICAgICAgeyd2YXInOiAnaHlicmlkX2xhdGVfZXhpdF9fYWxsb2NhdGlvbl9jb25maWdfX2RlYnRfaW5mby50b3RhbF9pbmNsdWRlZF9kZWJ0J30sCiAgICAgICAgICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgICAgICAgICBdfSwKICAgICAgICAgICAgICAgICAgICB7JyE9JzogWwogICAgICAgICAgICAgICAgICAgICAgICB7J3Zhcic6ICdoeWJyaWRfbGF0ZV9leGl0X19hbGxvY2F0aW9uX2NvbmZpZ19fZGVidF9vcHRpb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgJ0VYQ0xVREVfQUxMJyAgIyBUT0RPOiBjb25zdGFudHMsIHZhbHVlcywgcnVsZV9kYXRhLCBhbnl0aGluZyBvdGhlciB0aGFuIHRoaXMKICAgICAgICAgICAgICAgICAgICBdfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2RlYnRfaW5mb19wcm9jZWR1cmUoc2VsZikgLT4gJ1Byb2NlZHVyZVRlbXBsYXRlJzoKICAgICAgICByZXR1cm4gUHJvY2VkdXJlVGVtcGxhdGUoCiAgICAgICAgICAgICdEZWJ0IGluZm9ybWF0aW9uJywKICAgICAgICAgICAgZnVuY3Rpb249cHJvY2VkdXJlX25hbWVzLkNBTENVTEFURV9ERUJUX0lORk9STUFUSU9OLAogICAgICAgICAgICBkZXBlbmRlbmNpZXM9ewogICAgICAgICAgICAgICAgJ19fbWV0aG9kJywKICAgICAgICAgICAgICAgICdfX3RyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHknLAogICAgICAgICAgICAgICAgJ19fZGVidF9vcHRpb24nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGFyZ3VtZW50cz1GdW5jdGlvbkFyZ3MoCiAgICAgICAgICAgICAgICBrd2FyZ3M9ewogICAgICAgICAgICAgICAgICAgICdjYXBfdGFibGVfYnlfc2hhcmVfY2xhc3MnOiAnY2FwX3RhYmxlX2J5X3NoYXJlX2NsYXNzJywKICAgICAgICAgICAgICAgICAgICAnZmluYW5jaWFscyc6ICdmaW5hbmNpYWxfZGV0YWlscycsCiAgICAgICAgICAgICAgICAgICAgJ2FzX29mX2RhdGUnOiAndmFsdWF0aW9uX2RhdGUnLAogICAgICAgICAgICAgICAgICAgICdkZWJ0X29wdGlvbic6ICdfX2RlYnRfb3B0aW9uJywKICAgICAgICAgICAgICAgICAgICAndHJlYXRfY2FwcGVkX25vdGVzX2FzX2VxdWl0eSc6ICdfX3RyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHknLAogICAgICAgICAgICAgICAgICAgICdhbGxvY2F0aW9uX21ldGhvZG9sb2d5JzogJ19fbWV0aG9kJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICApCiAgICAgICAgKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2JhY2tzb2x2ZV9wcm9jZWR1cmUoc2VsZik6CiAgICAgICAgc3VwZXIoKS5fY3JlYXRlX2JhY2tzb2x2ZV9wcm9jZWR1cmUoKQoKICAgIGRlZiBfY3JlYXRlX2JhY2tzb2x2ZV9kYXRlX2RlZmluaXRpb24oc2VsZik6CiAgICAgICAgc3VwZXIoKS5fY3JlYXRlX2JhY2tzb2x2ZV9kYXRlX2RlZmluaXRpb24oKQoKICAgIGRlZiBfY3JlYXRlX2JhY2tzb2x2ZV9zaGFyZV9jbGFzc19kZWZpbml0aW9uKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX2NyZWF0ZV9iYWNrc29sdmVfc2hhcmVfY2xhc3NfZGVmaW5pdGlvbigpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdoeWJyaWRfbGF0ZV9leGl0X19hbGxvY2F0aW9uX2NvbmZpZ19fZGVidF9vcHRpb24nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2ludmVzdGVkX2NhcGl0YWxfZXF1aXR5X3ZhbHVlX3Byb2NlZHVyZShzZWxmKToKICAgICAgICAjIFRPRE86IHRoaXMgd2lsbCBiZSBhIHByb2NlZHVyZSBvbmNlIHByb3Blcmx5IGltcGxlbWVudGVkCiAgICAgICAgcmV0dXJuIFBvbGljeURlZmluaXRpb25UZW1wbGF0ZSgKICAgICAgICAgICAgbmFtZT0nQmEgQ2FwaXRhbCBlcXVpdHkgdmFsdWUnLAogICAgICAgICAgICBydWxlPUpTT05SdWxlKHJ1bGU9RGVjaW1hbCgwKSksCiAgICAgICAgKQoK</text>
+        <text encoding="base64">ICAgICAgICBqc29uX3J1bGUgPSBKU09OUnVsZSgKICAgICAgICAgICAgcnVsZT17CiAgICAgICAgICAgICAgICAnYW5kJzogWwogICAgICAgICAgICAgICAgICAgIHsnPic6IFsKICAgICAgICAgICAgICAgICAgICAgICAgeyd2YXInOiAnaHlicmlkX2xhdGVfZXhpdF9fYWxsb2NhdGlvbl9jb25maWdfX2RlYnRfaW5mby50b3RhbF9pbmNsdWRlZF9kZWJ0J30sCiAgICAgICAgICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgICAgICAgICBdfSwKICAgICAgICAgICAgICAgICAgICB7JyE9JzogWwogICAgICAgICAgICAgICAgICAgICAgICB7J3Zhcic6ICdoeWJyaWRfbGF0ZV9leGl0X19hbGxvY2F0aW9uX2NvbmZpZ19fZGVidF9vcHRpb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgJ0VYQ0xVREVfQUxMJyAgIyBUT0RPOiBjb25zdGFudHMsIHZhbHVlcywgcnVsZV9kYXRhLCBhbnl0aGluZyBvdGhlciB0aGFuIHRoaXMKICAgICAgICAgICAgICAgICAgICBdfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2JhY2tzb2x2ZV9wcm9jZWR1cmUoc2VsZik6CiAgICAgICAgc3VwZXIoKS5fY3JlYXRlX2JhY2tzb2x2ZV9wcm9jZWR1cmUoKQoKICAgIGRlZiBfY3JlYXRlX2JhY2tzb2x2ZV9kYXRlX2RlZmluaXRpb24oc2VsZik6CiAgICAgICAgc3VwZXIoKS5fY3JlYXRlX2JhY2tzb2x2ZV9kYXRlX2RlZmluaXRpb24oKQoKICAgIGRlZiBfY3JlYXRlX2JhY2tzb2x2ZV9zaGFyZV9jbGFzc19kZWZpbml0aW9uKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX2NyZWF0ZV9iYWNrc29sdmVfc2hhcmVfY2xhc3NfZGVmaW5pdGlvbigpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2ludmVzdGVkX2NhcGl0YWxfZXF1aXR5X3ZhbHVlX3Byb2NlZHVyZShzZWxmKToKICAgICAgICAjIFRPRE86IHRoaXMgd2lsbCBiZSBhIHByb2NlZHVyZSBvbmNlIHByb3Blcmx5IGltcGxlbWVudGVkCiAgICAgICAgcmV0dXJuIFBvbGljeURlZmluaXRpb25UZW1wbGF0ZSgKICAgICAgICAgICAgbmFtZT0nQmEgQ2FwaXRhbCBlcXVpdHkgdmFsdWUnLAogICAgICAgICAgICBydWxlPUpTT05SdWxlKHJ1bGU9RGVjaW1hbCgwKSksCiAgICAgICAgKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogb25jZSBpbXBsZW1lbnRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwZW5kZW5jaWVzPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24,74s/constants/valuations_constants/g</text>
@@ -342,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tte</last-search>
+      <last-search>hare class volatilities</last-search>
       <last-offset />
-      <last-pattern>tte</last-pattern>
+      <last-pattern>hare class volatilities</last-pattern>
       <last-replace>valuations_constants</last-replace>
       <last-substitute>constants</last-substitute>
       <last-dir>1</last-dir>
