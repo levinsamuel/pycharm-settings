@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>constants</entry>
-        <entry>tickers</entry>
         <entry>uses_asset</entry>
         <entry>debt_info</entry>
         <entry>tte</entry>
@@ -27,6 +25,8 @@
         <entry>risk_free_rates</entry>
         <entry>dlom</entry>
         <entry>invert</entry>
+        <entry>TESTING</entry>
+        <entry>TEST</entry>
       </history-search>
       <history-cmd>
         <entry>%s/True/true/g</entry>
@@ -94,14 +94,17 @@
         <mark key="." line="366" column="65" />
         <mark key="^" line="366" column="66" />
       </file>
+      <file name="/Python Console" timestamp="1588873462288">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1588818324178">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/tracking.py" timestamp="1588872457562">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/tracking.py" timestamp="1588873658716">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="31" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="28" column="30" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/utils.py" timestamp="1588818202103">
         <mark key="[" line="50" column="0" />
@@ -109,12 +112,14 @@
         <mark key="^" line="60" column="57" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1588724876907">
-        <mark key="'" line="40" column="42" />
-        <mark key="[" line="346" column="42" />
-        <mark key="]" line="346" column="42" />
-        <mark key="^" line="336" column="14" />
-        <mark key="." line="346" column="42" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" timestamp="1588873576556">
+        <mark key="'" line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1588873665559">
+        <mark key="[" line="167" column="46" />
+        <mark key="]" line="167" column="74" />
+        <mark key="^" line="167" column="74" />
+        <mark key="." line="167" column="73" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1588818330892">
         <mark key="[" line="15" column="52" />
@@ -127,12 +132,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="38" column="28" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" timestamp="1588787464266">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1588811087910">
         <mark key="[" line="0" column="51" />
@@ -166,11 +165,8 @@
         <mark key="." line="67" column="77" />
         <mark key="^" line="67" column="78" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/service/implementation.py" timestamp="1588724434196">
-        <mark key="[" line="226" column="58" />
-        <mark key="]" line="226" column="58" />
-        <mark key="." line="226" column="58" />
-        <mark key="^" line="227" column="29" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" timestamp="1588873581648">
+        <mark key="'" line="115" column="31" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" timestamp="1588794735614">
         <mark key="[" line="75" column="49" />
@@ -180,34 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="455" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="456" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="317" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="175" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="246" column="18" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="275" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="29" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="71" column="18" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="181" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="131" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="173" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="257" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="66" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="308" column="28" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="269" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="276" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="284" column="38" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="312" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="314" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="320" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="356" column="43" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="357" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="90" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="92" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="96" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="97" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="106" column="41" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="156" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="185" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="29" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/methodologies/backsolve.py" />
@@ -280,6 +248,34 @@
       <jump line="40" column="42" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="204" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
       <jump line="27" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="116" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="1194" column="49" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="2017" column="33" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="46" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="47" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="54" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="55" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="56" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="64" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="65" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="66" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="75" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="76" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="84" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="85" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="86" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="95" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="103" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="104" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="113" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="121" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="135" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
+      <jump line="109" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="115" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,16 +284,16 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>TestEventtrac</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>TestEventtrac</text>
       </register>
       <register name="/" type="4">
-        <text>invert</text>
+        <text>TEST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fbm9fbmV3X3BvbGljeV9yZXR1cm5zX2FuZF9mbGFnX2lzX29mZl9yZXR1cm5zX29sZF9wb2xpY3lfb25seSgKICAgICAgICBzZWxmLCBtb2NrZXIsIHJ1bm5lcjogU2VnbWVudGF0aW9uUnVubmVyCiAgICApOgogICAgICAgIG1vY2tlci5wYXRjaC5vYmplY3QocnVubmVyLCAnX2dldF9uZXdfcG9saWN5X3J1bGVzJywgcmV0dXJuX3ZhbHVlPU5vbmUpCiAgICAgICAgcnVsZXNfdG9fcnVuID0gcnVubmVyLl9nZXRfcnVsZXNfdG9fcnVuX3ByaW9yaXR5X3F1ZXVlKCkKICAgICAgICBhc3NlcnQgbGVuKHJ1bGVzX3RvX3J1bikgPT0gMSBhbmQgcnVsZXNfdG9fcnVuWzBdWzBdID09IE9sZFBvbGljeVN1YmplY3QK</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlUmVnaXN0cnkuX3NldF90cmFja2luZ19zZXJ2aWNlKEV2ZW50VHJhY2tlclNlcnZpY2VJbXBsKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -336,9 +332,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>invert</last-search>
+      <last-search>TEST</last-search>
       <last-offset />
-      <last-pattern>invert</last-pattern>
+      <last-pattern>TEST</last-pattern>
       <last-replace>hybrid_late_exit</last-replace>
       <last-substitute>hybrid_early_exit</last-substitute>
       <last-dir>1</last-dir>
