@@ -127,11 +127,11 @@
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588873821564">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588876883679">
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="61" />
+        <mark key="^" line="49" column="61" />
+        <mark key="." line="49" column="60" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1588811087910">
         <mark key="[" line="0" column="51" />
@@ -153,11 +153,6 @@
         <mark key="^" line="143" column="67" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/factories.py" timestamp="1588800121168" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/valuation.py" timestamp="1588788008030">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" timestamp="1588875131046">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="103" column="39" />
@@ -167,6 +162,12 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" timestamp="1588873581648">
         <mark key="'" line="115" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1588876953247">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="29" />
+        <mark key="." line="76" column="28" />
+        <mark key="^" line="76" column="29" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" timestamp="1588794735614">
         <mark key="[" line="75" column="49" />
@@ -284,46 +285,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>len(rules_to_run) == 1 and rules_to_run[0][0] == OldPolicySubject</text>
+        <text>Umbrella</text>
       </register>
       <register name="-" type="4">
-        <text>len(rules_to_run) == 1 and rules_to_run[0][0] == OldPolicySubject</text>
+        <text>Umbrella</text>
       </register>
       <register name="/" type="4">
         <text>TEST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFNpbXBsZVN1YmplY3QsIHJ1bGVzKSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlzX2xsYyA9IGlzX2xsYwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU2ltcGxlU3ViamVjdDoKICAgIGFsdGVybmF0aW5nX2ZsYWcgPSBUcnVlCiAgICBkZWYgX19pbml0X18oc2VsZiwgZmxhZzogYm9vbCk6CiAgICAgICAgc2VsZi5mbGFnID0gZmxhZwogICAgCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBmYWN0b3J5KGNscywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBjbHMuYWx0ZXJuYXRpbmdfZmxhZyA9IG5vdCBjbHMuYWx0ZXJuYXRpbmdfZmxhZwogICAgICAgIHJldHVybiBjbHMoZmxhZz1jbHMuYWx0ZXJuYXRpbmdfZmxhZykKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGF0dHIK</text>
+        <text encoding="base64">CiAgICBkZWYgX3JlZ2lzdGVyX2Vycm9yKHNlbGYsIGVycm9yX21lc3NhZ2U6IHN0cik6CiAgICAgICAgZXJyb3JfZXZlbnQgPSBFdmVudCgKICAgICAgICAgICAgZXZlbnRfdHlwZT1UUkFDS0lOR19FVkVOVF9UWVBFX1NFR01FTlRBVElPTl9QT0xJQ1ksCiAgICAgICAgICAgIHJlc3VsdF9jb2RlPVRyYWNraW5nUmVzdWx0Q29kZXMuRkFJTCwKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlPSdFUlJPUicsCiAgICAgICAgICAgIHBheWxvYWQ9ewogICAgICAgICAgICAgICAgJ3VtYnJlbGxhX2lkJzogc2VsZi51bWJyZWxsYS5pZCwKICAgICAgICAgICAgICAgICdlcnJvcic6IGVycm9yX21lc3NhZ2UsCiAgICAgICAgICAgIH0KICAgICAgICApCiAgICAgICAgc2VsZi5fcmVnaXN0ZXJfZXZlbnQoZXZlbnQ9ZXJyb3JfZXZlbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9jcmVhdGVfY29tcGFyaXNvbl9ldmVudCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">Y2xhc3MgU2ltcGxlU3ViamVjdDoKICAgIGFsdGVybmF0aW5nX2ZsYWcgPSBUcnVlCiAgICBkZWYgX19pbml0X18oc2VsZiwgZmxhZzogYm9vbCk6CiAgICAgICAgc2VsZi5mbGFnID0gZmxhZwogICAgCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBmYWN0b3J5KGNscywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBjbHMuYWx0ZXJuYXRpbmdfZmxhZyA9IG5vdCBjbHMuYWx0ZXJuYXRpbmdfZmxhZwogICAgICAgIHJldHVybiBjbHMoZmxhZz1jbHMuYWx0ZXJuYXRpbmdfZmxhZykKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
+        <text encoding="base64">QGF0dHIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbC5tb2RlbHMgaW1wb3J0IElSQzQwOUFSZXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGF0dHIucyhzbG90cz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJ1bm5lcjogU2VnbWVudGF0aW9uUnVubmVyKToK</text>
+        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbC5tb2RlbHMgaW1wb3J0IElSQzQwOUFSZXBvcnQK</text>
       </register>
       <register name=":" type="4">
         <text>281,403s/hybrid_early_exit/hybrid_late_exit/g</text>
