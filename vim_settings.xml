@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>uses_asset</entry>
-        <entry>debt_info</entry>
-        <entry>tte</entry>
         <entry>Volatility</entry>
         <entry>Unrounded</entry>
         <entry>Volatility value</entry>
@@ -27,6 +24,9 @@
         <entry>invert</entry>
         <entry>TESTING</entry>
         <entry>TEST</entry>
+        <entry>features</entry>
+        <entry>features\/ledger</entry>
+        <entry>aluation</entry>
       </history-search>
       <history-cmd>
         <entry>%s/True/true/g</entry>
@@ -115,6 +115,10 @@
         <mark key="^" line="96" column="83" />
         <mark key="." line="96" column="82" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" timestamp="1588885375025">
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="130" column="87" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1588811087910">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="51" />
@@ -149,13 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="185" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/methodologies/backsolve.py" />
-      <jump line="485" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="510" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" />
-      <jump line="86" column="37" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" />
-      <jump line="220" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" />
       <jump line="210" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" />
       <jump line="175" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="176" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
@@ -249,6 +246,13 @@
       <jump line="145" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="109" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
       <jump line="115" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
+      <jump line="71" column="36" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
+      <jump line="13" column="33" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
+      <jump line="14" column="36" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
+      <jump line="15" column="36" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
+      <jump line="22" column="10" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
+      <jump line="12" column="35" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -263,7 +267,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TEST</text>
+        <text>aluation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBjb21wYXJlX2FuZF9yZWdpc3Rlcl9yZXN1bHRzKHNlbGYsIGRlY2lzaW9uczogTGlzdFsnRGVjaXNpb24nXSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBvbGRfZGVjaXNpb24sIG5ld19kZWNpc2lvbiA9IGRlY2lzaW9uc1swOjJdCiAgICAgICAgICAgIGV2ZW50ID0gc2VsZi5fY3JlYXRlX2NvbXBhcmlzb25fZXZlbnQob2xkX2RlY2lzaW9uPW9sZF9kZWNpc2lvbiwgbmV3X2RlY2lzaW9uPW5ld19kZWNpc2lvbikKICAgICAgICAgICAgc2VsZi5fcmVnaXN0ZXJfZXZlbnQoZXZlbnQpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBzZWxmLnJlZ2lzdGVyX2Vycm9yKGVycm9yX21lc3NhZ2U9c3RyKGUpKQogICAgICAgICAgICBsb2cuZXJyb3IoJ0ZhaWxlZCB0byBjb21wYXJlIHJlc3VsdHMgZm9yIHNvbWUgcmVhc29uJywgZXhjX2luZm89ZSkKCiAgICBkZWYgcmVnaXN0ZXJfZXJyb3Ioc2VsZiwgZXJyb3JfbWVzc2FnZTogc3RyKToK</text>
@@ -305,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>TEST</last-search>
+      <last-search>aluation</last-search>
       <last-offset />
-      <last-pattern>TEST</last-pattern>
+      <last-pattern>aluation</last-pattern>
       <last-replace>hybrid_late_exit</last-replace>
       <last-substitute>hybrid_early_exit</last-substitute>
       <last-dir>1</last-dir>
