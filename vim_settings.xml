@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>api-tests</entry>
         <entry>constants</entry>
         <entry>tickers</entry>
         <entry>uses_asset</entry>
@@ -27,6 +26,7 @@
         <entry>asset_values</entry>
         <entry>risk_free_rates</entry>
         <entry>dlom</entry>
+        <entry>invert</entry>
       </history-search>
       <history-cmd>
         <entry>%s/True/true/g</entry>
@@ -88,6 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1588809261785">
+        <mark key="[" line="143" column="67" />
+        <mark key="]" line="143" column="67" />
+        <mark key="." line="143" column="66" />
+        <mark key="^" line="143" column="67" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" timestamp="1588720686967">
         <mark key="'" line="222" column="22" />
         <mark key="[" line="222" column="17" />
@@ -97,15 +103,9 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/factories.py" timestamp="1588800121168" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/valuation.py" timestamp="1588788008030">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="19" column="39" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/groups/time_to_exit.py" timestamp="1588720529846">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="67" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/valuation.py" timestamp="1588721525365">
         <mark key="[" line="37" column="0" />
@@ -174,12 +174,12 @@
         <mark key="^" line="77" column="32" />
         <mark key="." line="75" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1588795037856">
-        <mark key="'" line="204" column="36" />
-        <mark key="[" line="2862" column="26" />
-        <mark key="]" line="2862" column="36" />
-        <mark key="^" line="2862" column="36" />
-        <mark key="." line="2862" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1588809565690">
+        <mark key="'" line="206" column="36" />
+        <mark key="[" line="2869" column="4" />
+        <mark key="]" line="2870" column="8" />
+        <mark key="^" line="2870" column="8" />
+        <mark key="." line="2870" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -290,14 +290,14 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW52ZXJ0PVRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>dlom</text>
+        <text>invert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBhbnlfZGV0YWlsc19wb2xpY3kgPSBhdHRyLmliKHR5cGU9Q29tcGFueURldGFpbHNQb2xpY3ksIGRlZmF1bHQ9Tm9uZSkKICAgIGNvbXBhcmFibGVzX3BvbGljeSA9IGF0dHIuaWIodHlwZT1Db21wYXJhYmxlc1BvbGljeSwgZGVmYXVsdD1Ob25lKQogICAgZGxvbV9wb2xpY3kgPSBhdHRyLmliKHR5cGU9VmFsdWF0aW9uTGV2ZWxETE9NUG9saWN5LCBkZWZhdWx0PU5vbmUpCg==</text>
@@ -306,31 +306,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52ZXJ0PVRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VfdHlwZT1zZWxmLl9nZXRfcG9saWN5X2luc3RhbmNlX2Zvcl90eXBlKHBvbGljeV9kYl9vYmoucG9saWN5X3R5cGUpLAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VfdHlwZT1zZWxmLl9nZXRfcG9saWN5X2luc3RhbmNlX2Zvcl90eXBlKHBvbGljeV9kYl9vYmoucG9saWN5X3R5cGUpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnB1YmxpY19jb21wYXJhYmxlcy52b2xhdGlsaXR5IGltcG9ydCBnZXRfZGxvbV9jaGFmZmUsIGdldF9kbG9tX2Zpbm5lcnR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY2FsY3VsYXRlX2NoYWZmZV9kbG9tKHNlbGYsIGNoYWZmZV9hcmdzOiAnQ2hhZmZlQXJncycpIC0+ICdEZWNpbWFsJzoKICAgICAgICByZXR1cm4gZ2V0X2Rsb21fY2hhZmZlKAogICAgICAgICAgICB2b2xhdGlsaXR5PWNoYWZmZV9hcmdzLmRsb21fdm9sYXRpbGl0eSwgICMgVE9ETzogb2xkIGNvZGUgaGFzIGEgZmxvYXQgY2FzdAogICAgICAgICAgICBpbmRleD1jaGFmZmVfYXJncy5kbG9tX3RpbWVfdG9fZXhpdCwKICAgICAgICAgICAgdXNfdHJlYXN1cnk9Y2hhZmZlX2FyZ3Mucmlza19mcmVlX3JhdGUsCiAgICAgICAgKQoK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnB1YmxpY19jb21wYXJhYmxlcy52b2xhdGlsaXR5IGltcG9ydCBnZXRfZGxvbV9jaGFmZmUsIGdldF9kbG9tX2Zpbm5lcnR5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfY2FsY3VsYXRlX2NoYWZmZV9kbG9tKHNlbGYsIGNoYWZmZV9hcmdzOiAnQ2hhZmZlQXJncycpIC0+ICdEZWNpbWFsJzoKICAgICAgICByZXR1cm4gZ2V0X2Rsb21fY2hhZmZlKAogICAgICAgICAgICB2b2xhdGlsaXR5PWNoYWZmZV9hcmdzLmRsb21fdm9sYXRpbGl0eSwgICMgVE9ETzogb2xkIGNvZGUgaGFzIGEgZmxvYXQgY2FzdAogICAgICAgICAgICBpbmRleD1jaGFmZmVfYXJncy5kbG9tX3RpbWVfdG9fZXhpdCwKICAgICAgICAgICAgdXNfdHJlYXN1cnk9Y2hhZmZlX2FyZ3Mucmlza19mcmVlX3JhdGUsCiAgICAgICAgKQoK</text>
       </register>
       <register name=":" type="4">
         <text>281,403s/hybrid_early_exit/hybrid_late_exit/g</text>
@@ -339,9 +339,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dlom</last-search>
+      <last-search>invert</last-search>
       <last-offset />
-      <last-pattern>dlom</last-pattern>
+      <last-pattern>invert</last-pattern>
       <last-replace>hybrid_late_exit</last-replace>
       <last-substitute>hybrid_early_exit</last-substitute>
       <last-dir>1</last-dir>
