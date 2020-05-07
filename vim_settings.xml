@@ -158,12 +158,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" timestamp="1588874401680">
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" timestamp="1588875131046">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="35" />
-        <mark key="." line="100" column="34" />
-        <mark key="^" line="100" column="35" />
+        <mark key="[" line="103" column="39" />
+        <mark key="]" line="104" column="46" />
+        <mark key="." line="104" column="45" />
+        <mark key="^" line="104" column="46" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" timestamp="1588873581648">
         <mark key="'" line="115" column="31" />
@@ -284,10 +284,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>len(rules_to_run) == 1 and rules_to_run[0][0] == OldPolicySubject</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>len(rules_to_run) == 1 and rules_to_run[0][0] == OldPolicySubject</text>
       </register>
       <register name="/" type="4">
         <text>TEST</text>
