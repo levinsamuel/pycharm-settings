@@ -116,11 +116,11 @@
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588820084787">
-        <mark key="[" line="60" column="11" />
-        <mark key="]" line="60" column="105" />
-        <mark key="." line="60" column="104" />
-        <mark key="^" line="60" column="105" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588820632270">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="77" />
+        <mark key="." line="56" column="76" />
+        <mark key="^" line="56" column="77" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" timestamp="1588724015831">
         <mark key="'" line="208" column="64" />
@@ -160,14 +160,17 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" timestamp="1588820737861">
+        <mark key="[" line="24" column="99" />
+        <mark key="]" line="23" column="89" />
+        <mark key="." line="23" column="88" />
+        <mark key="^" line="23" column="89" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/service/implementation.py" timestamp="1588724434196">
         <mark key="[" line="226" column="58" />
         <mark key="]" line="226" column="58" />
         <mark key="." line="226" column="58" />
         <mark key="^" line="227" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/root.py" timestamp="1588722046794">
-        <mark key="'" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" timestamp="1588794735614">
         <mark key="[" line="75" column="49" />
@@ -284,47 +287,47 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DUAL_READ_SEGMENTATION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DUAL_READ_SEGMENTATION</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>invert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxjdWxhdGUgdGhlIHNlZ21lbnQgYXNzaWduZWQgdG8gdGhpcyByZXF1ZXN0LgogICAgICAgIDpyZXR1cm46IERlY2lzaW9uIG9iamVjdCBjb250YWluaW5nIHRoZSBzZWdtZW50YXRpb24gY29kZSBpbiBgcmVzdWx0YCBhbmQgYSBsaXN0IGluIGBwYXRoYCByZXByZXNlbnRpbmcKICAgICAgICB0aGUgcGF0aCB0YWtlbiB0aHJvdWdoIHRoZSBkZWNpc2lvbiB0cmVlIHRvIGFycml2ZSBhdCB0aGF0IHZhbHVlLgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QocnVubmVyLCAnX2dldF9uZXdfcG9saWN5X3J1bGVzJywgcmV0dXJuX3ZhbHVlPUJvb2xlYW5SdWxlKG5hbWU9InRlc3QiKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjYWxsX3doZW5fZW5hYmxlZChmZWF0dXJlX25hbWU9ZmVhdHVyZXMuVkFMX1BPTElDWV9EVUFMX1JFQURfU0VHTUVOVEFUSU9OKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaC5vYmplY3QocnVubmVyLCAnX2dldF9uZXdfcG9saWN5X3J1bGVzJywgcmV0dXJuX3ZhbHVlPUJvb2xlYW5SdWxlKG5hbWU9InRlc3QiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS50eXBlcyBpbXBvcnQgU2VnbWVudGF0aW9uRmluYW5jaW5nUm91bmRzU3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50YXRpb25fcG9saWN5X3J1bGVzID0gc2VsZi5fZ2V0X25ld19wb2xpY3lfcnVsZXMoKQogICAgICAgIHJ1bGVzX3RvX3J1bl9wcmlvcml0eV9xdWV1ZSA9IFtdCiAgICAgICAgaWYgc2VnbWVudGF0aW9uX3BvbGljeV9ydWxlcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgcnVsZXNfdG9fcnVuX3ByaW9yaXR5X3F1ZXVlLmFwcGVuZCgoUG9saWN5UmVxdWVzdFN1YmplY3QsIHNlZ21lbnRhdGlvbl9wb2xpY3lfcnVsZXMpKQogICAgICAgIGlmIGxlbihydWxlc190b19ydW5fcHJpb3JpdHlfcXVldWUpID09IDAgb3IgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxfUE9MSUNZX1NFR01FTlRBVElPTl9DVVRPVkVSKToKICAgICAgICAgICAgc2VsZi5fYWRkX29sZF9wb2xpY3lfcnVsZXNfdG9fZXhlY3V0aW9uX3dpdGhfcHJpb3JpdHkocnVsZXNfdG9fcnVuX3ByaW9yaXR5X3F1ZXVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGF0dHIucyhzbG90cz1UcnVlLCBmcm96ZW49VHJ1ZSkKY2xhc3MgU2VnbWVudGF0aW9uSW5wdXRzOgogICAgdW1icmVsbGEgPSBhdHRyLmliKCkKICAgIGZpbmFuY2luZ19yb3VuZHMgPSBhdHRyLmliKHR5cGU9U2VnbWVudGF0aW9uRmluYW5jaW5nUm91bmRzU3RhdHVzKQogICAgcHJldmlvdXNfcmVwb3J0cyA9IGF0dHIuaWIodHlwZT1MaXN0KQogICAgaXNfbGxjID0gYXR0ci5pYih0eXBlPWJvb2wpCgoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdW1icmVsbGE6IEZpbGxlZC1vdXQgdW1icmVsbGEgb2JqZWN0IGZyb20gYSBzdWJtaXR0ZWQgcmVxdWVzdC4K</text>
+        <text encoding="base64">CiAgICBkZWYgX2FkZF9vbGRfcG9saWN5X3J1bGVzX3RvX2V4ZWN1dGlvbihzZWxmLCBydWxlc190b19ydW5fcHJpb3JpdHlfcXVldWUpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdW1icmVsbGE6IEZpbGxlZC1vdXQgdW1icmVsbGEgb2JqZWN0IGZyb20gYSBzdWJtaXR0ZWQgcmVxdWVzdC4K</text>
+        <text encoding="base64">ICAgIEBjYWxsX3doZW5fZW5hYmxlZChmZWF0dXJlX25hbWU9ZmVhdHVyZXMuVkFMX1BPTElDWV9EVUFMX1JFQURfU0VHTUVOVEFUSU9OKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
       </register>
       <register name=":" type="4">
         <text>281,403s/hybrid_early_exit/hybrid_late_exit/g</text>
