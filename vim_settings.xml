@@ -112,11 +112,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" timestamp="1588902292703">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="61" column="43" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" timestamp="1588903786488">
+        <mark key="[" line="91" column="23" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="36" />
+        <mark key="^" line="91" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" timestamp="1588888112289">
         <mark key="[" line="132" column="38" />
@@ -276,10 +276,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>V</text>
+        <text>datetime.now()</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>datetime.now()</text>
       </register>
       <register name="/" type="4">
         <text>val-engineers</text>
