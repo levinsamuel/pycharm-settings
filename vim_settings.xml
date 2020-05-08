@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hare class volatilities</entry>
         <entry>default</entry>
         <entry>risk_free_rate</entry>
         <entry>dlom_vola</entry>
@@ -27,9 +26,9 @@
         <entry>scenario-mo</entry>
         <entry>val-eng</entry>
         <entry>val-engineers</entry>
+        <entry>'BACKSOLVE_SIMPLE'</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/True/true/g</entry>
         <entry>%s/False/false/g</entry>
         <entry>%s/\n//g</entry>
         <entry>29,86/carta.django.models.fields\.//g</entry>
@@ -49,6 +48,7 @@
         <entry>24,74s/constants/valuations_constants/g</entry>
         <entry>%s/hyrbid/hybrid/g</entry>
         <entry>281,403s/hybrid_early_exit/hybrid_late_exit/g</entry>
+        <entry>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -93,11 +93,11 @@
         <mark key="]" line="370" column="0" />
         <mark key="." line="370" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/tracking.py" timestamp="1588961072978">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="35" column="44" />
-        <mark key="." line="35" column="43" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/tracking.py" timestamp="1588961967944">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="76" />
+        <mark key="^" line="36" column="76" />
+        <mark key="." line="36" column="75" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1588898719826">
         <mark key="[" line="0" column="31" />
@@ -105,7 +105,7 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588960753969">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588961476562">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -120,12 +120,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" timestamp="1588888112289">
-        <mark key="[" line="132" column="38" />
-        <mark key="]" line="132" column="51" />
-        <mark key="^" line="132" column="51" />
-        <mark key="." line="132" column="50" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/__init__.py" timestamp="1588901652483">
         <mark key="[" line="2" column="39" />
@@ -150,9 +144,17 @@
         <mark key="^" line="28" column="53" />
         <mark key="." line="28" column="52" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1588961751053">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1588962264139">
+        <mark key="'" line="61" column="8" />
+        <mark key="^" line="6" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="321" column="39" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="322" column="54" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="340" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
@@ -252,6 +254,7 @@
       <jump line="137" column="30" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
       <jump line="138" column="36" filename="$USER_HOME$/git/c/carta-web/.github/CODEOWNERS" />
       <jump line="103" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -260,13 +263,13 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>event_string</text>
+        <text>attr</text>
       </register>
       <register name="-" type="4">
-        <text>event_string</text>
+        <text>attr</text>
       </register>
       <register name="/" type="4">
-        <text>val-engineers</text>
+        <text>'BACKSOLVE_SIMPLE'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrZXIucGF0Y2gub2JqZWN0KAogICAgICAgICAgICBQb2xpY3lSZXF1ZXN0U3ViamVjdCwgJ2ZhY3RvcnknLCByZXR1cm5fdmFsdWU9TWFnaWNNb2NrKGlzX2xsYz1UcnVlKQogICAgICAgICkK</text>
@@ -274,45 +277,46 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="1" type="4">
+        <text>t
+        event_string</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgRW5hYmxpbmcgdGhlIGZsYWcgbWVhbnMgbmV3IHBvbGljeSBzaG91bGQgcnVuCg==</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXI9bGFtYmRhIGQ6IGRpY3QoZCkgaWYgZCBlbHNlIE5vbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyb20gdHlwaW5nIGltcG9ydCBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VkFMX1BPTElDWV9EVUFMX1JFQURfU0VHTUVOVEFUSU9OID0gJ1ZBTF9QT0xJQ1lfRFVBTF9SRUFEX1NFR01FTlRBVElPTicK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgRW5hYmxpbmcgdGhlIGZsYWcgbWVhbnMgbmV3IHBvbGljeSBzaG91bGQgcnVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ld19wb2xpY3kgPSBfY3JlYXRlX25ld19wb2xpY3kocG9saWN5X2FyZ3M9cG9saWN5X2FyZ3MpCiAgICBjb21wYXJhdG9yID0gSHlicmlkUG9saWN5Q29tcGFyYXRvcigKICAgICAgICB1bWJyZWxsYV9pZD1wb2xpY3lfYXJncy51bWJyZWxsYV9pZCwKICAgICAgICBvbGRfcG9saWN5X2luc3RhbmNlPW9sZF9wb2xpY3ksCiAgICAgICAgYWNjZXB0X21pc21hdGNoZXM9RmFsc2UsCiAgICAgICAgbmV3X3BvbGljeV9jcmVhdGlvbj1uZXdfcG9saWN5LAogICAgICAgIGV2ZW50X3R5cGU9VFJBQ0tJTkdfRVZFTlRfVFlQRV9IWUJSSURfQkFDS1NPTFZFX1BPTElDWQogICAgKQogICAgZXZlbnQgPSBjb21wYXJhdG9yLmNvbXBhcmVfcG9saWN5X2luc3RhbmNlc19hbmRfdHJhY2soKQogICAgcG9saWN5ID0gb2xkX3BvbGljeQogICAgaWYgbmV3X3BvbGljeS5pbnN0YW5jZSBhbmQgX3Nob3VsZF9yZXR1cm5fbmV3X3BvbGljeSgKICAgICAgICBwb2xpY3lfY3JlYXRpb25fZXZlbnQ9ZXZlbnQsCiAgICAgICAgcmV0dXJuX25ld19wb2xpY3lfb25fbWlzbWF0Y2g9cmV0dXJuX25ld19wb2xpY3lfb25fbWlzbWF0Y2gKICAgICk6CiAgICAgICAgcG9saWN5ID0gbmV3X3BvbGljeS5pbnN0YW5jZQogICAgcmV0dXJuIHBvbGljeQo=</text>
+        <text encoding="base64">ICAgIGZyb20gdHlwaW5nIGltcG9ydCBMaXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IFZhbGJvdDQwOUFQb2xpY3lJbnN0YW5jZS5mcm9tX3ZhbHVhdGlvbl9wb2xpY3lfaW5zdGFuY2UoCiAgICAgICAgICAgIHZhbHVhdGlvbl9wb2xpY3lfaW5zdGFuY2U9dmFsYm90X3BvbGljeS5wb2xpY3lfaW5zdGFuY2UsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">VkFMX1BPTElDWV9EVUFMX1JFQURfU0VHTUVOVEFUSU9OID0gJ1ZBTF9QT0xJQ1lfRFVBTF9SRUFEX1NFR01FTlRBVElPTicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIHVtYnJlbGxhX2lkOiBpbnQsCiAgICAgICAgbmV3X3BvbGljeV9jcmVhdGlvbjogUG9saWN5Q3JlYXRpb25bVmFsYm90SHlicmlkUG9saWN5SW5zdGFuY2VdLAogICAgICAgIG9sZF9wb2xpY3lfaW5zdGFuY2U6ICdWYWxib3RIeWJyaWRQb2xpY3lJbnN0YW5jZScsCiAgICAgICAgZXZlbnRfdHlwZTogc3RyLAogICAgICAgIGFjY2VwdF9taXNtYXRjaGVzOiBib29sLAogICAgKToKICAgICAgICAjIG1vc3Qgb2YgdGhlc2UgdmFsdWVzIHdpbGwgYmUgb3ZlcnJpZGRlbi4gVE9ETzogcmVtb3ZlIGR1cGxpY2F0ZSBhc3NpZ25tZW50cwogICAgICAgIHN1cGVyKCkuX19pbml0X18oCiAgICAgICAgICAgIHVtYnJlbGxhX2lkPXVtYnJlbGxhX2lkLAogICAgICAgICAgICBuZXdfcG9saWN5X2NyZWF0aW9uPW5ld19wb2xpY3lfY3JlYXRpb24uaW5zdGFuY2UsCiAgICAgICAgICAgIG9sZF9wb2xpY3lfaW5zdGFuY2U9b2xkX3BvbGljeV9pbnN0YW5jZSwKICAgICAgICAgICAgYWNjZXB0X21pc21hdGNoZXM9YWNjZXB0X21pc21hdGNoZXMsCiAgICAgICAgICAgIGV2ZW50X3R5cGU9ZXZlbnRfdHlwZSwKICAgICAgICApCgogICAgICAgIHNlbGYub2xkX2Vhcmx5X2V4aXRfc2NlbmFyaW8gPSBvbGRfcG9saWN5X2luc3RhbmNlLmVhcmx5X2V4aXQKICAgICAgICBzZWxmLm9sZF9sYXRlX2V4aXRfc2NlbmFyaW8gPSBvbGRfcG9saWN5X2luc3RhbmNlLmxhdGVfZXhpdAogICAgICAgIHNlbGYub2xkX3BvbGljeSA9IG9sZF9wb2xpY3lfaW5zdGFuY2UuZGVmYXVsdAogICAgICAgIHNlbGYubmV3X3BvbGljeV9jcmVhdGlvbiA9IG5ld19wb2xpY3lfY3JlYXRpb24uaW5zdGFuY2UKICAgICAgICBzZWxmLmFkb3B0ZWRfbmV3X3BvbGljeSA9IFZhbGJvdEh5YnJpZFBvbGljeUluc3RhbmNlLmZyb21fdmFsdWF0aW9uX3BvbGljeV9pbnN0YWNlKHNlbGYubmV3X3BvbGljeV9jcmVhdGlvbikKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIG5ld19wb2xpY3kgPSBfY3JlYXRlX25ld19wb2xpY3kocG9saWN5X2FyZ3M9cG9saWN5X2FyZ3MpCiAgICBjb21wYXJhdG9yID0gSHlicmlkUG9saWN5Q29tcGFyYXRvcigKICAgICAgICB1bWJyZWxsYV9pZD1wb2xpY3lfYXJncy51bWJyZWxsYV9pZCwKICAgICAgICBvbGRfcG9saWN5X2luc3RhbmNlPW9sZF9wb2xpY3ksCiAgICAgICAgYWNjZXB0X21pc21hdGNoZXM9RmFsc2UsCiAgICAgICAgbmV3X3BvbGljeV9jcmVhdGlvbj1uZXdfcG9saWN5LAogICAgICAgIGV2ZW50X3R5cGU9VFJBQ0tJTkdfRVZFTlRfVFlQRV9IWUJSSURfQkFDS1NPTFZFX1BPTElDWQogICAgKQogICAgZXZlbnQgPSBjb21wYXJhdG9yLmNvbXBhcmVfcG9saWN5X2luc3RhbmNlc19hbmRfdHJhY2soKQogICAgcG9saWN5ID0gb2xkX3BvbGljeQogICAgaWYgbmV3X3BvbGljeS5pbnN0YW5jZSBhbmQgX3Nob3VsZF9yZXR1cm5fbmV3X3BvbGljeSgKICAgICAgICBwb2xpY3lfY3JlYXRpb25fZXZlbnQ9ZXZlbnQsCiAgICAgICAgcmV0dXJuX25ld19wb2xpY3lfb25fbWlzbWF0Y2g9cmV0dXJuX25ld19wb2xpY3lfb25fbWlzbWF0Y2gKICAgICk6CiAgICAgICAgcG9saWN5ID0gbmV3X3BvbGljeS5pbnN0YW5jZQogICAgcmV0dXJuIHBvbGljeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>281,403s/hybrid_early_exit/hybrid_late_exit/g</text>
+        <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>val-engineers</last-search>
+      <last-search>'BACKSOLVE_SIMPLE'</last-search>
       <last-offset />
-      <last-pattern>val-engineers</last-pattern>
-      <last-replace>hybrid_late_exit</last-replace>
-      <last-substitute>hybrid_early_exit</last-substitute>
+      <last-pattern>'BACKSOLVE_SIMPLE'</last-pattern>
+      <last-replace>SegmentationMethodologies.BACKSOLVE_SIMPLE</last-replace>
+      <last-substitute>'BACKSOLVE_SIMPLE'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
