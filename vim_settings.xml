@@ -105,10 +105,11 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588961476562">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588966105388">
+        <mark key="[" line="183" column="32" />
+        <mark key="]" line="183" column="49" />
+        <mark key="." line="183" column="48" />
+        <mark key="^" line="183" column="49" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/__init__.py" timestamp="1588901279470">
         <mark key="[" line="2" column="1" />
@@ -263,10 +264,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>attr</text>
+        <text>new_decision.result.value</text>
       </register>
       <register name="-" type="4">
-        <text>attr</text>
+        <text>new_decision.result.value</text>
       </register>
       <register name="/" type="4">
         <text>'BACKSOLVE_SIMPLE'</text>
@@ -277,33 +278,33 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZWNpc2lvbnNfbWF0Y2ggPSBvbGRfZGVjaXNpb24ucmVzdWx0LnZhbHVlID09IG5ld19kZWNpc2lvbi5yZXN1bHQudmFsdWUKICAgICAgICBwYXRoX2RpZmYgPSBEZWVwRGlmZihvbGRfZGVjaXNpb24ucGF0aCwgbmV3X2RlY2lzaW9uLnBhdGgsIGlnbm9yZV9vcmRlcj1UcnVlKQogICAgICAgIHBhdGhzX21hdGNoID0gbm90IGxlbihwYXRoX2RpZmYpCgogICAgICAgICMgQ3JlYXRlIGV2ZW50CiAgICAgICAgcmVzdWx0X2NvZGUgPSBUcmFja2luZ1Jlc3VsdENvZGVzLlNVQ0NFU1MgaWYgZGVjaXNpb25zX21hdGNoIGVsc2UgVHJhY2tpbmdSZXN1bHRDb2Rlcy5GQUlMCiAgICAgICAgaWYgZGVjaXNpb25zX21hdGNoIGFuZCBwYXRoc19tYXRjaDoKICAgICAgICAgICAgY3VzdG9tX3Jlc3VsdF9jb2RlID0gJ0ZVTExfTUFUQ0gnCiAgICAgICAgZWxpZiBub3QgZGVjaXNpb25zX21hdGNoOgogICAgICAgICAgICBjdXN0b21fcmVzdWx0X2NvZGUgPSAnRlVMTF9NSVNNQVRDSCcKICAgICAgICBlbHNlOgogICAgICAgICAgICBjdXN0b21fcmVzdWx0X2NvZGUgPSAnUEFUSF9NSVNNQVRDSCcKICAgICAgICBldmVudCA9IEV2ZW50KAogICAgICAgICAgICBldmVudF90eXBlPVRSQUNLSU5HX0VWRU5UX1RZUEVfU0VHTUVOVEFUSU9OX1BPTElDWSwKICAgICAgICAgICAgcmVzdWx0X2NvZGU9cmVzdWx0X2NvZGUsCiAgICAgICAgICAgIGN1c3RvbV9yZXN1bHRfY29kZT1jdXN0b21fcmVzdWx0X2NvZGUsCiAgICAgICAgICAgIHBheWxvYWQ9ewogICAgICAgICAgICAgICAgJ29sZF9kZWNpc2lvbic6IG9sZF9kZWNpc2lvbi5yZXN1bHQudmFsdWUsCiAgICAgICAgICAgICAgICAnbmV3X2RlY2lzaW9uJzogbmV3X2RlY2lzaW9uLnJlc3VsdC52YWx1ZSwKICAgICAgICAgICAgICAgICdvbGRfcGF0aCc6IG9sZF9kZWNpc2lvbi5wYXRoLAogICAgICAgICAgICAgICAgJ25ld19wYXRoJzogbmV3X2RlY2lzaW9uLnBhdGgsCiAgICAgICAgICAgICAgICAncGF0aF9kaWZmJzogcGF0aF9kaWZmLAogICAgICAgICAgICAgICAgJ3VtYnJlbGxhX2lkJzogc2VsZi51bWJyZWxsYV9pZCwKICAgICAgICAgICAgfSBpZiBjdXN0b21fcmVzdWx0X2NvZGUgIT0gJ0ZVTExfTUFUQ0gnIGVsc2UgTm9uZSAgIyBPbmx5IHJlY29yZCBpZiBub3QgYSBmdWxsIG1hdGNoIHRvIHNhdmUgdGltZS9zcGFjZQogICAgICAgICkKICAgICAgICByZXR1cm4gZXZlbnQKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3JlZ2lzdGVyX2V2ZW50KGV2ZW50OiBFdmVudCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0cmFja2luZ19zZXJ2aWNlID0gU2VydmljZVJlZ2lzdHJ5LmdldF90cmFja2luZ19zZXJ2aWNlKCkKICAgICAgICAgICAgdHJhY2tpbmdfc2VydmljZS5yZWdpc3Rlcl9ldmVudChldmVudCkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGxvZy5leGNlcHRpb24oJ0ZhaWxlZCB0byByZWdpc3RlciBldmVudC4nKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>t
         event_string</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXI9bGFtYmRhIGQ6IGRpY3QoZCkgaWYgZCBlbHNlIE5vbmUK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXI9bGFtYmRhIGQ6IGRpY3QoZCkgaWYgZCBlbHNlIE5vbmUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgRW5hYmxpbmcgdGhlIGZsYWcgbWVhbnMgbmV3IHBvbGljeSBzaG91bGQgcnVuCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb20gdHlwaW5nIGltcG9ydCBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICMgRW5hYmxpbmcgdGhlIGZsYWcgbWVhbnMgbmV3IHBvbGljeSBzaG91bGQgcnVuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VkFMX1BPTElDWV9EVUFMX1JFQURfU0VHTUVOVEFUSU9OID0gJ1ZBTF9QT0xJQ1lfRFVBTF9SRUFEX1NFR01FTlRBVElPTicK</text>
+        <text encoding="base64">ICAgIGZyb20gdHlwaW5nIGltcG9ydCBMaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VkFMX1BPTElDWV9EVUFMX1JFQURfU0VHTUVOVEFUSU9OID0gJ1ZBTF9QT0xJQ1lfRFVBTF9SRUFEX1NFR01FTlRBVElPTicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ld19wb2xpY3kgPSBfY3JlYXRlX25ld19wb2xpY3kocG9saWN5X2FyZ3M9cG9saWN5X2FyZ3MpCiAgICBjb21wYXJhdG9yID0gSHlicmlkUG9saWN5Q29tcGFyYXRvcigKICAgICAgICB1bWJyZWxsYV9pZD1wb2xpY3lfYXJncy51bWJyZWxsYV9pZCwKICAgICAgICBvbGRfcG9saWN5X2luc3RhbmNlPW9sZF9wb2xpY3ksCiAgICAgICAgYWNjZXB0X21pc21hdGNoZXM9RmFsc2UsCiAgICAgICAgbmV3X3BvbGljeV9jcmVhdGlvbj1uZXdfcG9saWN5LAogICAgICAgIGV2ZW50X3R5cGU9VFJBQ0tJTkdfRVZFTlRfVFlQRV9IWUJSSURfQkFDS1NPTFZFX1BPTElDWQogICAgKQogICAgZXZlbnQgPSBjb21wYXJhdG9yLmNvbXBhcmVfcG9saWN5X2luc3RhbmNlc19hbmRfdHJhY2soKQogICAgcG9saWN5ID0gb2xkX3BvbGljeQogICAgaWYgbmV3X3BvbGljeS5pbnN0YW5jZSBhbmQgX3Nob3VsZF9yZXR1cm5fbmV3X3BvbGljeSgKICAgICAgICBwb2xpY3lfY3JlYXRpb25fZXZlbnQ9ZXZlbnQsCiAgICAgICAgcmV0dXJuX25ld19wb2xpY3lfb25fbWlzbWF0Y2g9cmV0dXJuX25ld19wb2xpY3lfb25fbWlzbWF0Y2gKICAgICk6CiAgICAgICAgcG9saWN5ID0gbmV3X3BvbGljeS5pbnN0YW5jZQogICAgcmV0dXJuIHBvbGljeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
