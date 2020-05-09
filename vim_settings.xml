@@ -111,11 +111,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/json/rule_service.py" timestamp="1588985932807">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="29" column="30" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/json/rule_service.py" timestamp="1588987465881">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="36" column="103" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1588961751053">
         <mark key="[" line="16" column="0" />
@@ -140,11 +140,16 @@
         <mark key="." line="108" column="48" />
         <mark key="^" line="108" column="49" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" timestamp="1588984585254">
-        <mark key="[" line="346" column="16" />
-        <mark key="]" line="346" column="16" />
-        <mark key="." line="346" column="15" />
-        <mark key="^" line="346" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1588987042483">
+        <mark key="[" line="324" column="44" />
+        <mark key="]" line="324" column="45" />
+        <mark key="." line="324" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" timestamp="1588987083863">
+        <mark key="[" line="334" column="52" />
+        <mark key="]" line="334" column="51" />
+        <mark key="." line="334" column="50" />
+        <mark key="^" line="334" column="51" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" timestamp="1588986810907">
         <mark key="[" line="257" column="12" />
@@ -289,11 +294,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PolicyNodeException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PolicyNodeException</text>
+        <text encoding="base64">Kippbml0aWFsX2NvbnRleHQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>'BACKSOLVE_SIMPLE'</text>
@@ -305,31 +310,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X2pzb25fcnVsZV90ZXh0KGpzb25fcnVsZTogJ0pTT05SdWxlJywgcG9saWN5X2RlZmluaXRpb246ICdQb2xpY3lEZWZpbml0aW9uJykgLT4gT3B0aW9uYWxbRGljdF06CiAgICAgICAgcnVsZSA9IE5vbmUKICAgICAgICBpZiBqc29uX3J1bGU6CiAgICAgICAgICAgIHJ1bGUgPSBqc29uX3J1bGUucnVsZQoKICAgICAgICBpZiBwb2xpY3lfZGVmaW5pdGlvbiBhbmQgcG9saWN5X2RlZmluaXRpb24ucnVsZSBhbmQgbm90IHJ1bGU6CiAgICAgICAgICAgIHJ1bGUgPSBwb2xpY3lfZGVmaW5pdGlvbi5ydWxlLnJ1bGUKCiAgICAgICAgcmV0dXJuIHJ1bGUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpYyA9IGNscy5fZ2V0X2pzb25fcnVsZV90ZXh0KGpzb25fcnVsZT1qc29uX3J1bGUsIHBvbGljeV9kZWZpbml0aW9uPXBvbGljeV9kZWZpbml0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsX2NvbnRleHQudXBkYXRlKGNscy5fZ2V0X2xvY2FsX2tleXMoY29udGV4dCwgbmFtZXNwYWNlPXBvbGljeV9kZWZpbml0aW9uLm5hbWVzcGFjZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpYyA9IGpzb25fcnVsZS5ydWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsX2NvbnRleHQgPSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X2pzb25fcnVsZV90ZXh0KGpzb25fcnVsZTogJ0pTT05SdWxlJywgcG9saWN5X2RlZmluaXRpb246ICdQb2xpY3lEZWZpbml0aW9uJykgLT4gT3B0aW9uYWxbRGljdF06CiAgICAgICAgcnVsZSA9IE5vbmUKICAgICAgICBpZiBqc29uX3J1bGU6CiAgICAgICAgICAgIHJ1bGUgPSBqc29uX3J1bGUucnVsZQoKICAgICAgICBpZiBwb2xpY3lfZGVmaW5pdGlvbiBhbmQgcG9saWN5X2RlZmluaXRpb24ucnVsZSBhbmQgbm90IHJ1bGU6CiAgICAgICAgICAgIHJ1bGUgPSBwb2xpY3lfZGVmaW5pdGlvbi5ydWxlLnJ1bGUKCiAgICAgICAgcmV0dXJuIHJ1bGUKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QganNvbl9ydWxlLnJ1bGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpYyA9IGNscy5fZ2V0X2pzb25fcnVsZV90ZXh0KGpzb25fcnVsZT1qc29uX3J1bGUsIHBvbGljeV9kZWZpbml0aW9uPXBvbGljeV9kZWZpbml0aW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnJ1bGVzIGltcG9ydCBKU09OUnVsZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dpYyA9IGpzb25fcnVsZS5ydWxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QganNvbl9ydWxlLnJ1bGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnaWYnOiBbCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnJ1bGVzIGltcG9ydCBKU09OUnVsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
