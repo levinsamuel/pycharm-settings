@@ -88,10 +88,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-json-logic/setup.py" timestamp="1588988913891">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/procedure.py" timestamp="1589054962786">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="8" />
+        <mark key="^" line="62" column="91" />
+        <mark key="." line="60" column="8" />
+      </file>
+      <file name="/a.dummy" timestamp="1589054231118">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/utils/args.py" timestamp="1589054880343">
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="70" column="30" />
       </file>
       <file name="$USER_HOME$/git/c/carta-json-logic/tests.py" timestamp="1589043047708">
         <mark key="'" line="640" column="23" />
@@ -100,10 +110,10 @@
         <mark key="." line="644" column="15" />
         <mark key="^" line="644" column="16" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-json-logic/setup.cfg" timestamp="1589042947549">
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/policy/node.py" timestamp="1589053599066">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1589051942156">
         <mark key="[" line="102" column="0" />
@@ -111,16 +121,10 @@
         <mark key="^" line="100" column="55" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1588966105388">
-        <mark key="[" line="108" column="32" />
-        <mark key="]" line="108" column="49" />
-        <mark key="." line="108" column="48" />
-        <mark key="^" line="108" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1588987042483">
-        <mark key="[" line="324" column="44" />
-        <mark key="]" line="324" column="45" />
-        <mark key="." line="324" column="45" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/base.py" timestamp="1589054216999">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" timestamp="1589050661162">
         <mark key="'" line="151" column="4" />
@@ -135,18 +139,28 @@
         <mark key="." line="239" column="0" />
         <mark key="^" line="238" column="58" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" timestamp="1589042836471">
-        <mark key="'" line="462" column="0" />
-        <mark key="[" line="66" column="7" />
-        <mark key="]" line="68" column="80" />
-        <mark key="^" line="68" column="80" />
-        <mark key="." line="68" column="79" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/exceptions.py" timestamp="1589054007478">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" timestamp="1589053001896">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="73" column="83" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" timestamp="1589054600588">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="72" column="54" />
+        <mark key="]" line="72" column="97" />
+        <mark key="^" line="72" column="97" />
+        <mark key="." line="72" column="96" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/rule_evaluation.py" timestamp="1589054367917">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/exceptions.py" timestamp="1589054215475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1589052127490">
         <mark key="[" line="408" column="27" />
@@ -154,33 +168,24 @@
         <mark key="." line="408" column="31" />
         <mark key="^" line="408" column="32" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/rules/json.py" timestamp="1588985756937">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="16" column="36" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/procedures/functions/functions.py" timestamp="1589050950689">
         <mark key="[" line="121" column="55" />
         <mark key="]" line="121" column="64" />
         <mark key="." line="121" column="63" />
         <mark key="^" line="121" column="64" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/json/rule_service.py" timestamp="1588987465881">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="36" column="103" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/carta-json-logic/lib/python3.6/site-packages/six.py" timestamp="1589042019799">
-        <mark key="'" line="528" column="8" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/valuation.py" timestamp="1589049170306" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions.py" timestamp="1588986371374">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="51" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions.py" timestamp="1589054174148">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="70" column="9" />
+        <mark key="^" line="70" column="9" />
+        <mark key="." line="70" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/repository.py" timestamp="1589054302807">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" timestamp="1589052405070">
         <mark key="[" line="344" column="0" />
@@ -188,19 +193,15 @@
         <mark key="^" line="337" column="71" />
         <mark key="." line="344" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1588962264139">
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/definition.py" timestamp="1588985035212">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="39" column="38" />
-        <mark key="^" line="39" column="33" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/__init__.py" timestamp="1589054462847">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="397" column="46" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="486" column="46" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="231" column="35" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="211" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
@@ -299,6 +300,8 @@
       <jump line="639" column="23" filename="$USER_HOME$/git/c/carta-json-logic/tests.py" />
       <jump line="20" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
       <jump line="150" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" />
+      <jump line="7" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,47 +309,47 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuLi5jb3JlLmV4Y2VwdGlvbnMgaW1wb3J0IENhbm5vdEV2YWx1YXRlUG9saWN5Tm9kZSwgQ2Fubm90RXZhbHVhdGVQb2xpY3kK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>advance_i</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueV9kZXRhaWxzX3BvbGljeT1fbWFwX3RvX2dyb3VwX3RlbXBsYXRlX2Zyb21fZ3JvdXAoY29tcGFueV9kZXRhaWxzLCBDb21wYW55RGV0YWlsc1BvbGljeSksCg==</text>
+        <text encoding="base64">ICAgIFJ1bGVFdmFsdWF0aW9uRXhjZXB0aW9uLAogICAgSW52YWxpZFJ1bGVPdXRwdXRFeGNlcHRpb24sCiAgICBJbnZhbGlkUGFyYW1ldGVyRXhjZXB0aW9uLAogICAgQ2Fubm90RXZhbHVhdGVQb2xpY3ksCiAgICBDYW5ub3RFdmFsdWF0ZVBvbGljeU5vZGUsCiAgICBDYW5ub3RFeGVjdXRlUHJvY2VkdXJlLAogICAgUHJvY2VkdXJlRnVuY3Rpb25FcnJvciwKICAgIENhbm5vdFJ1bkZ1bmN0aW9uLAogICAgSW52YWxpZEZ1bmN0aW9uLAogICAgSW52YWxpZEZ1bmN0aW9uQXJndW1lbnRzLAogICAgUnVsZVNlcnZpY2VFeGNlcHRpb24sCiAgICBKU09OTG9naWNFeGNlcHRpb24sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuLi5jb3JlLmV4Y2VwdGlvbnMgaW1wb3J0IENhbm5vdEV2YWx1YXRlUG9saWN5Tm9kZSwgQ2Fubm90RXZhbHVhdGVQb2xpY3kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEV2YWx1YXRpb25SZXN1bHQoCiAgICAgICAgICAgICAgICBuYW1lc3BhY2U9c2VsZi5uYW1lc3BhY2UsCiAgICAgICAgICAgICAgICBmaWVsZD1zZWxmLm91dHB1dCwKICAgICAgICAgICAgICAgIHZhbHVlPXJlc3VsdAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuZXhjZXB0aW9ucyBpbXBvcnQgSW52YWxpZFJ1bGVPdXRwdXRFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENvcGllZCBmcm9tIGFzc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZV9kYXRhPUh5YnJpZEJhY2tzb2x2ZVZhbHVhdGlvblBvbGljeVZhbHVlcy5WT0xBVElMSVRZX0xJTUlUUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZV9kYXRhPUh5YnJpZEJhY2tzb2x2ZVZhbHVhdGlvblBvbGljeVZhbHVlcy5WT0xBVElMSVRZX0xJTUlUUwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGxvZy5kZWJ1ZygncnVubmluZyBwcm9jZWR1cmUgJXMgZm9yIGZpZWxkICVzLicsIHNlbGYuZnVuY3Rpb24sIHNlbGYub3V0cHV0KQogICAgICAgICAgICByZXN1bHQgPSBfZnVuY3Rpb24oCiAgICAgICAgICAgICAgICBjb250ZXh0LAogICAgICAgICAgICAgICAgKipmdW5jdGlvbl9rd2FyZ3MsCiAgICAgICAgICAgICkKICAgICAgICAgICAgbG9nLmRlYnVnKCdnb3QgcmVzdWx0ICVzJywgcmVzdWx0KQogICAgICAgICAgICByZXR1cm4gRXZhbHVhdGlvblJlc3VsdCgKICAgICAgICAgICAgICAgIG5hbWVzcGFjZT1zZWxmLm5hbWVzcGFjZSwKICAgICAgICAgICAgICAgIGZpZWxkPXNlbGYub3V0cHV0LAogICAgICAgICAgICAgICAgdmFsdWU9cmVzdWx0CiAgICAgICAgICAgICkKICAgICAgICBleGNlcHQgQ2Fubm90RXhlY3V0ZVByb2NlZHVyZSBhcyBlOgogICAgICAgICAgICByYWlzZSBDYW5ub3RFdmFsdWF0ZVBvbGljeU5vZGUoCiAgICAgICAgICAgICAgICAnRmFpbGVkIHRvIGV2YWx1YXRlIHByb2NlZHVyZSB7fSB3aXRoIGZ1bmN0aW9uIHt9LicuZm9ybWF0KHNlbGYubmFtZSwgc2VsZi5mdW5jdGlvbikKICAgICAgICAgICAgKSBmcm9tIGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENvcGllZCBmcm9tIGFzc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAnaWYnOiBbCiAgICAgICAgICAgICAgICAgICAgeyc8JzogWwogICAgICAgICAgICAgICAgICAgICAgICB7J3Zhcic6ICdfX3ZvbGF0aWxpdHlfcXVhbnRpbGVzLm5pbmV0aWV0aCd9LAogICAgICAgICAgICAgICAgICAgICAgICB7J3Zhcic6ICd2b2xhdGlsaXR5X21pbmltdW0nfSwKICAgICAgICAgICAgICAgICAgICBdfSwKICAgICAgICAgICAgICAgICAgICB7J3Zhcic6ICdfX3ZvbGF0aWxpdHlfcXVhbnRpbGVzLm1heCd9LAogICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGZ1bmN0aW9uX2t3YXJncyA9IHBhcnNlX2NvbnRleHRfaW50b19rd2FyZ3MoCiAgICAgICAgICAgICAgICBjb250ZXh0PWNvbnRleHQsIGFyZ3VtZW50cz1zZWxmLmFyZ3VtZW50cywgbmFtZXNwYWNlPXNlbGYubmFtZXNwYWNlLCBmdW5jdGlvbj1fZnVuY3Rpb24KICAgICAgICAgICAgKQogICAgICAgICAgICBsb2cuZGVidWcoJ2dldCBmdW5jdGlvbiBrd2FyZ3M6ICVzJywgZnVuY3Rpb25fa3dhcmdzKQogICAgICAgIGV4Y2VwdCAoSW52YWxpZEZ1bmN0aW9uQXJndW1lbnRzLCBJbnZhbGlkRnVuY3Rpb24pIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIENhbm5vdEV2YWx1YXRlUG9saWN5Tm9kZSgnRmFpbGVkIHRvIHBhcnNlIGFyZ3VtZW50cyBmb3IgZnVuY3Rpb24ge30uJy5mb3JtYXQoX2Z1bmN0aW9uKSkgZnJvbSBlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlX2tleXMgPSBlYXJseV9rZXlzICsgWydkbG9tX3ZvbGF0aWxpdHknXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
