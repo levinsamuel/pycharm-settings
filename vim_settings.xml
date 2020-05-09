@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>risk_free_rate</entry>
         <entry>dlom_vola</entry>
         <entry>allocation</entry>
         <entry>DATA_VA</entry>
@@ -27,6 +26,7 @@
         <entry>val-engineers</entry>
         <entry>'BACKSOLVE_SIMPLE'</entry>
         <entry>var</entry>
+        <entry>advance_i</entry>
       </history-search>
       <history-cmd>
         <entry>%s/False/false/g</entry>
@@ -88,12 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1588899081617">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="273" column="1" />
-        <mark key="." line="143" column="66" />
-        <mark key="^" line="143" column="67" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1588914406923">
         <mark key="[" line="370" column="0" />
         <mark key="]" line="370" column="0" />
@@ -122,12 +116,20 @@
         <mark key="^" line="36" column="103" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-json-logic/tests.py" timestamp="1589004275004">
-        <mark key="'" line="657" column="31" />
-        <mark key="[" line="657" column="0" />
-        <mark key="]" line="657" column="0" />
-        <mark key="^" line="656" column="29" />
-        <mark key="." line="657" column="0" />
+      <file name="$USER_HOME$/git/c/carta-json-logic/tests.py" timestamp="1589043047708">
+        <mark key="'" line="640" column="23" />
+        <mark key="[" line="643" column="40" />
+        <mark key="]" line="644" column="16" />
+        <mark key="." line="644" column="15" />
+        <mark key="^" line="644" column="16" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/carta-json-logic/lib/python3.6/site-packages/six.py" timestamp="1589042019799">
+        <mark key="'" line="528" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-json-logic/setup.cfg" timestamp="1589042947549">
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1588961751053">
         <mark key="[" line="16" column="0" />
@@ -162,18 +164,12 @@
         <mark key="]" line="243" column="33" />
         <mark key="." line="243" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" timestamp="1589004365192">
-        <mark key="'" line="240" column="30" />
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/__init__.py" timestamp="1588901279470">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="36" />
+      <file name="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" timestamp="1589042836471">
+        <mark key="'" line="462" column="0" />
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="68" column="80" />
+        <mark key="^" line="68" column="80" />
+        <mark key="." line="68" column="79" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1588962264139">
         <mark key="^" line="6" column="29" />
@@ -200,12 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="371" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="17" column="65" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
-      <jump line="134" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
-      <jump line="307" column="26" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="283" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="292" column="46" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="327" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="380" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
@@ -300,6 +290,12 @@
       <jump line="98" column="16" filename="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" />
       <jump line="75" column="0" filename="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" />
       <jump line="240" column="30" filename="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/.virtualenvs/carta-json-logic/lib/python3.6/site-packages/six.py" />
+      <jump line="530" column="7" filename="$USER_HOME$/.virtualenvs/carta-json-logic/lib/python3.6/site-packages/six.py" />
+      <jump line="526" column="4" filename="$USER_HOME$/.virtualenvs/carta-json-logic/lib/python3.6/site-packages/six.py" />
+      <jump line="528" column="8" filename="$USER_HOME$/.virtualenvs/carta-json-logic/lib/python3.6/site-packages/six.py" />
+      <jump line="462" column="0" filename="$USER_HOME$/git/c/carta-json-logic/carta_json_logic/__init__.py" />
+      <jump line="639" column="23" filename="$USER_HOME$/git/c/carta-json-logic/tests.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,13 +304,13 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMSA9IHsnbGV2ZWwyJzogNiwgJ2xldmVsXzJfMSc6IDd9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gTGV2ZWxzKGxldmVsMT17J2xldmVsMic6IDYsICdsZXZlbDJfMSc6IDd9KQogICAgICAgIGFzc2VydCBqc29uTG9naWMoeycrJzogWwogICAgICAgICAgICB7J3Zhcic6ICdsZXZlbDEubGV2ZWwyJ30sIHsndmFyJzogJ2xldmVsMS5sZXZlbDJfMSd9CiAgICAgICAgXX0sIGRhdGEpID09IDEzCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>advance_i</text>
       </register>
       <register name="0" type="4">
         <text>{'level2': 6, 'level_2_1': 7}</text>
@@ -323,31 +319,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMSA9IHsnbGV2ZWwyJzogNiwgJ2xldmVsXzJfMSc6IDd9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gTGV2ZWxzKGxldmVsMT17J2xldmVsMic6IDYsICdsZXZlbDJfMSc6IDd9KQogICAgICAgIGFzc2VydCBqc29uTG9naWMoeycrJzogWwogICAgICAgICAgICB7J3Zhcic6ICdsZXZlbDEubGV2ZWwyJ30sIHsndmFyJzogJ2xldmVsMS5sZXZlbDJfMSd9CiAgICAgICAgXX0sIGRhdGEpID09IDEzCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gW10K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMSA9IHsnbGV2ZWwyJzogNiwgJ2xldmVsXzJfMSc6IDd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMS5sZXZlbDJfMSA9IDUK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMS5sZXZlbDIgPSA0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMSA9IHt9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMS5sZXZlbDJfMSA9IDUK</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMS5sZXZlbDIgPSA0Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMSA9IHt9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMS5sZXZlbDJfMSA9IDUK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmxldmVsMS5sZXZlbDIgPSA0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
@@ -356,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>var</last-search>
+      <last-search>advance_i</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>advance_i</last-pattern>
       <last-replace>SegmentationMethodologies.BACKSOLVE_SIMPLE</last-replace>
       <last-substitute>'BACKSOLVE_SIMPLE'</last-substitute>
       <last-dir>1</last-dir>
