@@ -114,12 +114,12 @@
         <mark key="]" line="12" column="8" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" timestamp="1589077615405">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" timestamp="1589077745947">
         <mark key="'" line="141" column="4" />
-        <mark key="[" line="39" column="70" />
-        <mark key="]" line="39" column="70" />
-        <mark key="^" line="56" column="10" />
-        <mark key="." line="39" column="70" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="8" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="70" column="8" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" timestamp="1589056987825">
         <mark key="'" line="90" column="12" />
@@ -308,7 +308,12 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.values()</text>
+        <text>[
+        relation.group for relation in
+        models.ValuationPolicyGroupRelation.objects
+        .filter(valuation_policy=policy)
+        .select_related('group')
+    ]</text>
       </register>
       <register name="-" type="4">
         <text>.values()</text>
@@ -316,42 +321,52 @@
       <register name="/" type="4">
         <text>advance_i</text>
       </register>
-      <register name="0" type="4">
-        <text>_map_to_scenario_template_from_groups(group_map.values()),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdyb3VwcyA9IFsKICAgICAgICByZWxhdGlvbi5ncm91cCBmb3IgcmVsYXRpb24gaW4KICAgICAgICBtb2RlbHMuVmFsdWF0aW9uUG9saWN5R3JvdXBSZWxhdGlvbi5vYmplY3RzCiAgICAgICAgLmZpbHRlcih2YWx1YXRpb25fcG9saWN5PXBvbGljeSkKICAgICAgICAuc2VsZWN0X3JlbGF0ZWQoJ2dyb3VwJykKICAgIF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbXBhcmFibGVzUG9saWN5LCBWYWx1YXRpb25MZXZlbERMT01Qb2xpY3ksCg==</text>
+      <register name="1" type="4">
+        <text>[
+        relation.group for relation in
+        models.ValuationPolicyGroupRelation.objects
+        .filter(valuation_policy=policy)
+        .select_related('group')
+    ]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRleHQnOiBzYW1wbGVfbmVzdGVkX2NvbnRleHQsCg==</text>
+      <register name="2" type="4">
+        <text>[
+        relation.group for relation in
+        models.ValuationPolicyGroupRelation.objects
+        .filter(valuation_policy=policy)
+        .select_related('group')
+    ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb250ZXh0Jzogc2FtcGxlX2NvbnRleHRfd2l0aF9uYW1lc3BhY2VkX2tleXMsCg==</text>
+        <text encoding="base64">ICAgIENvbXBhcmFibGVzUG9saWN5LCBWYWx1YXRpb25MZXZlbERMT01Qb2xpY3ksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2dyb3VwID0gZ3JvdXBfbWFwWydoeWJyaWRfZWFybHlfZXhpdCddCiAgICAgICAgbGF0ZV9leGl0X2dyb3VwID0gZ3JvdXBfbWFwWydoeWJyaWRfbGF0ZV9leGl0J10KICAgICAgICBtYXBwZWRfcG9saWN5ID0gSHlicmlkVmFsdWF0aW9uUG9saWN5VGVtcGxhdGUoCiAgICAgICAgICAgIGVhcmx5X2V4aXRfcG9saWN5PV9tYXBfdG9fc2NlbmFyaW9fdGVtcGxhdGVfZnJvbV9ncm91cHMoZWFybHlfZXhpdF9ncm91cC5jaGlsZHJlbi5hbGwoKSksCiAgICAgICAgICAgIGxhdGVfZXhpdF9wb2xpY3k9X21hcF90b19zY2VuYXJpb190ZW1wbGF0ZV9mcm9tX2dyb3VwcyhsYXRlX2V4aXRfZ3JvdXAuY2hpbGRyZW4uYWxsKCkpLAogICAgICAgICAgICBjb21wYW55X2RldGFpbHNfcG9saWN5PV9tYXBfdG9fZ3JvdXBfdGVtcGxhdGVfZnJvbV9ncm91cCgKICAgICAgICAgICAgICAgIGdyb3VwX21hcFsnY29tcGFueV9kZXRhaWxzJ10sIENvbXBhbnlEZXRhaWxzUG9saWN5CiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvbXBhcmFibGVzX3BvbGljeT1fbWFwX3RvX2dyb3VwX3RlbXBsYXRlX2Zyb21fZ3JvdXAoCiAgICAgICAgICAgICAgICBncm91cF9tYXBbJ2NvbXBhcmFibGVzJ10sIENvbXBhcmFibGVzUG9saWN5LAogICAgICAgICAgICApLAogICAgICAgICAgICBkbG9tX3BvbGljeT1fbWFwX3RvX2dyb3VwX3RlbXBsYXRlX2Zyb21fZ3JvdXAoCiAgICAgICAgICAgICAgICBncm91cF9tYXBbJ2Rsb20nXSwgVmFsdWF0aW9uTGV2ZWxETE9NUG9saWN5LAogICAgICAgICAgICApLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRleHQnOiBzYW1wbGVfbmVzdGVkX2NvbnRleHQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb250ZXh0Jzogc2FtcGxlX2NvbnRleHRfd2l0aF9uYW1lc3BhY2VkX2tleXMsCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2dyb3VwID0gZ3JvdXBfbWFwWydoeWJyaWRfZWFybHlfZXhpdCddCiAgICAgICAgbGF0ZV9leGl0X2dyb3VwID0gZ3JvdXBfbWFwWydoeWJyaWRfbGF0ZV9leGl0J10KICAgICAgICBtYXBwZWRfcG9saWN5ID0gSHlicmlkVmFsdWF0aW9uUG9saWN5VGVtcGxhdGUoCiAgICAgICAgICAgIGVhcmx5X2V4aXRfcG9saWN5PV9tYXBfdG9fc2NlbmFyaW9fdGVtcGxhdGVfZnJvbV9ncm91cHMoZWFybHlfZXhpdF9ncm91cC5jaGlsZHJlbi5hbGwoKSksCiAgICAgICAgICAgIGxhdGVfZXhpdF9wb2xpY3k9X21hcF90b19zY2VuYXJpb190ZW1wbGF0ZV9mcm9tX2dyb3VwcyhsYXRlX2V4aXRfZ3JvdXAuY2hpbGRyZW4uYWxsKCkpLAogICAgICAgICAgICBjb21wYW55X2RldGFpbHNfcG9saWN5PV9tYXBfdG9fZ3JvdXBfdGVtcGxhdGVfZnJvbV9ncm91cCgKICAgICAgICAgICAgICAgIGdyb3VwX21hcFsnY29tcGFueV9kZXRhaWxzJ10sIENvbXBhbnlEZXRhaWxzUG9saWN5CiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvbXBhcmFibGVzX3BvbGljeT1fbWFwX3RvX2dyb3VwX3RlbXBsYXRlX2Zyb21fZ3JvdXAoCiAgICAgICAgICAgICAgICBncm91cF9tYXBbJ2NvbXBhcmFibGVzJ10sIENvbXBhcmFibGVzUG9saWN5LAogICAgICAgICAgICApLAogICAgICAgICAgICBkbG9tX3BvbGljeT1fbWFwX3RvX2dyb3VwX3RlbXBsYXRlX2Zyb21fZ3JvdXAoCiAgICAgICAgICAgICAgICBncm91cF9tYXBbJ2Rsb20nXSwgVmFsdWF0aW9uTGV2ZWxETE9NUG9saWN5LAogICAgICAgICAgICApLAogICAgICAgICkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBfbGlzdD1ncm91cF9tYXAudmFsdWVzKCksIGdyb3VwX3R5cGU9U3RhbmRhcmRWYWx1YXRpb25Qb2xpY3lUZW1wbGF0ZQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>StandardValuationPolicyTemplate(
             standard_policy=_map_to_scenario_template_from_groups(group_map.values()),
             company_details_policy=_map_to_group_template_from_group(company_details, CompanyDetailsPolicy),
             comparables_policy=_map_to_group_template_from_group(comparables, ComparablesPolicy),
         )</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYXJhYmxlcyA9IGdyb3VwX21hcC5wb3AoJ2NvbXBhcmFibGVzJykK</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
