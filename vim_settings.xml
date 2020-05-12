@@ -117,12 +117,6 @@
         <mark key="^" line="136" column="76" />
         <mark key="." line="136" column="75" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/utils/args.py" timestamp="1589054880343">
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="70" column="31" />
-        <mark key="^" line="70" column="31" />
-        <mark key="." line="70" column="30" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" timestamp="1589075361173">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -141,6 +135,12 @@
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="8" />
         <mark key="^" line="43" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1589307943870">
+        <mark key="[" line="134" column="30" />
+        <mark key="]" line="136" column="32" />
+        <mark key="^" line="136" column="32" />
+        <mark key="." line="136" column="31" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/helpers.py" timestamp="1589074233545">
         <mark key="[" line="7" column="27" />
@@ -295,45 +295,40 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self.new_policy_generation_error</text>
+        <text>hey dude whoa there</text>
       </register>
       <register name="-" type="4">
-        <text>self.new_policy_generation_error</text>
+        <text>hey dude whoa there</text>
       </register>
       <register name="/" type="4">
         <text>advance_i</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdyb3VwcyA9IFsKICAgICAgICByZWxhdGlvbi5ncm91cCBmb3IgcmVsYXRpb24gaW4KICAgICAgICBtb2RlbHMuVmFsdWF0aW9uUG9saWN5R3JvdXBSZWxhdGlvbi5vYmplY3RzCiAgICAgICAgLmZpbHRlcih2YWx1YXRpb25fcG9saWN5PXBvbGljeSkKICAgICAgICAuc2VsZWN0X3JlbGF0ZWQoJ2dyb3VwJykKICAgIF0K</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX25vX25ld19wb2xpY3lfeWllbGRzX2ZhaWx1cmVfZXZlbnQoc2VsZiwgbW9ja2VyLCBvbGRfcG9saWN5KToKICAgICAgICBjb21wYXJhdG9yID0gUG9saWN5Q29tcGFyYXRvcigKICAgICAgICAgICAgdW1icmVsbGFfaWQ9NDMwLAogICAgICAgICAgICBuZXdfcG9saWN5X2NyZWF0aW9uPVBvbGljeUNyZWF0aW9uKGVycm9yPUV4Y2VwdGlvbignaGV5IGR1ZGUgd2hvYSB0aGVyZScpKSwKICAgICAgICAgICAgb2xkX3BvbGljeV9pbnN0YW5jZT1vbGRfcG9saWN5LAogICAgICAgICAgICBhY2NlcHRfbWlzbWF0Y2hlcz1GYWxzZSwKICAgICAgICAgICAgZXZlbnRfdHlwZT1UUkFDS0lOR19FVkVOVF9UWVBFX0FTU0VUX1BPTElDWSwKICAgICAgICApCiAgICAgICAgbW9ja2VkX3JlZ2lzdGVyID0gbW9ja2VyLnBhdGNoLm9iamVjdChjb21wYXJhdG9yLCAnX3JlZ2lzdGVyX2V2ZW50JykKICAgICAgICBjb21wYXJhdG9yLmNvbXBhcmVfcG9saWN5X2luc3RhbmNlc19hbmRfdHJhY2soKQogICAgICAgIG1vY2tlZF9yZWdpc3Rlci5hc3NlcnRfY2FsbGVkX29uY2UoKQogICAgICAgIGV2ZW50X2FyZyA9IG1vY2tlZF9yZWdpc3Rlci5jYWxsX2FyZ3NfbGlzdFswXVswXVswXQogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIGV2ZW50X2FyZy5yZXN1bHRfY29kZSA9PSBUcmFja2luZ1Jlc3VsdENvZGVzLkZBSUwKICAgICAgICAgICAgYW5kIGV2ZW50X2FyZy5jdXN0b21fcmVzdWx0X2NvZGUgPT0gJ05PX05FV19QT0xJQ1knCiAgICAgICAgICAgIGFuZCBldmVudF9hcmcucGF5bG9hZCA9PSB7CiAgICAgICAgICAgICAgICAnZXJyb3InOiAnaGV5IGR1ZGUgd2hvYSB0aGVyZScsCiAgICAgICAgICAgICAgICAncm9vdF9lcnJvcic6ICdoZXkgZHVkZSB3aG9hIHRoZXJlJywKICAgICAgICAgICAgICAgICd1bWJyZWxsYV9pZCc6IDQzMCwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHRpb24gPSBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBleGNlcHRpb246IAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEdldCB0aGUgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpc19tdmljOiBXaGV0aGVyIHRoZSBhcHByb2FjaCB3ZSdyZSBjYWxjdWxhdGluZyB0aGlzIGZvciBpcyBhbmQKICAgIE1WSUMtYmFzZWQgYXBwcm9hY2ggb3IgYW4gZXF1aXR5LWJhc2VkIGFwcHJvYWNoLgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-        relation.group for relation in
-        models.ValuationPolicyGroupRelation.objects
-        .filter(valuation_policy=policy)
-        .select_related('group')
-    ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBleGNlcHRpb246IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEdldCB0aGUgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBpc19tdmljOiBXaGV0aGVyIHRoZSBhcHByb2FjaCB3ZSdyZSBjYWxjdWxhdGluZyB0aGlzIGZvciBpcyBhbmQKICAgIE1WSUMtYmFzZWQgYXBwcm9hY2ggb3IgYW4gZXF1aXR5LWJhc2VkIGFwcHJvYWNoLgo=</text>
       </register>
       <register name="8" type="4">
         <text>[
@@ -343,8 +338,13 @@
         .select_related('group')
     ]</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbXBhcmFibGVzUG9saWN5LCBWYWx1YXRpb25MZXZlbERMT01Qb2xpY3ksCg==</text>
+      <register name="9" type="4">
+        <text>[
+        relation.group for relation in
+        models.ValuationPolicyGroupRelation.objects
+        .filter(valuation_policy=policy)
+        .select_related('group')
+    ]</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
