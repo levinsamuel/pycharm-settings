@@ -103,16 +103,17 @@
         <mark key="^" line="32" column="53" />
         <mark key="." line="70" column="8" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/impl/corporation.py" timestamp="1589339714957">
+        <mark key="'" line="7" column="69" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="86" />
+        <mark key="^" line="7" column="86" />
+        <mark key="." line="7" column="85" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" timestamp="1589075404654">
         <mark key="[" line="232" column="23" />
         <mark key="]" line="232" column="23" />
         <mark key="." line="232" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/json/test_json_rule_service.py" timestamp="1589074411656">
-        <mark key="[" line="136" column="68" />
-        <mark key="]" line="136" column="76" />
-        <mark key="^" line="136" column="76" />
-        <mark key="." line="136" column="75" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/policy.py" timestamp="1589075361173">
         <mark key="[" line="22" column="23" />
@@ -151,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="46" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="231" column="35" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="211" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="212" column="53" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="220" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
@@ -251,6 +250,8 @@
       <jump line="150" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
       <jump line="77" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" />
       <jump line="7" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/exceptions/__init__.py" />
+      <jump line="73" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/impl/corporation.py" />
+      <jump line="7" column="69" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/impl/corporation.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,7 +266,7 @@
         <text>hey dude whoa there</text>
       </register>
       <register name="/" type="4">
-        <text>advance_i</text>
+        <text>is_setup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX25vX25ld19wb2xpY3lfeWllbGRzX2ZhaWx1cmVfZXZlbnQoc2VsZiwgbW9ja2VyLCBvbGRfcG9saWN5KToKICAgICAgICBjb21wYXJhdG9yID0gUG9saWN5Q29tcGFyYXRvcigKICAgICAgICAgICAgdW1icmVsbGFfaWQ9NDMwLAogICAgICAgICAgICBuZXdfcG9saWN5X2NyZWF0aW9uPVBvbGljeUNyZWF0aW9uKGVycm9yPUV4Y2VwdGlvbignaGV5IGR1ZGUgd2hvYSB0aGVyZScpKSwKICAgICAgICAgICAgb2xkX3BvbGljeV9pbnN0YW5jZT1vbGRfcG9saWN5LAogICAgICAgICAgICBhY2NlcHRfbWlzbWF0Y2hlcz1GYWxzZSwKICAgICAgICAgICAgZXZlbnRfdHlwZT1UUkFDS0lOR19FVkVOVF9UWVBFX0FTU0VUX1BPTElDWSwKICAgICAgICApCiAgICAgICAgbW9ja2VkX3JlZ2lzdGVyID0gbW9ja2VyLnBhdGNoLm9iamVjdChjb21wYXJhdG9yLCAnX3JlZ2lzdGVyX2V2ZW50JykKICAgICAgICBjb21wYXJhdG9yLmNvbXBhcmVfcG9saWN5X2luc3RhbmNlc19hbmRfdHJhY2soKQogICAgICAgIG1vY2tlZF9yZWdpc3Rlci5hc3NlcnRfY2FsbGVkX29uY2UoKQogICAgICAgIGV2ZW50X2FyZyA9IG1vY2tlZF9yZWdpc3Rlci5jYWxsX2FyZ3NfbGlzdFswXVswXVswXQogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIGV2ZW50X2FyZy5yZXN1bHRfY29kZSA9PSBUcmFja2luZ1Jlc3VsdENvZGVzLkZBSUwKICAgICAgICAgICAgYW5kIGV2ZW50X2FyZy5jdXN0b21fcmVzdWx0X2NvZGUgPT0gJ05PX05FV19QT0xJQ1knCiAgICAgICAgICAgIGFuZCBldmVudF9hcmcucGF5bG9hZCA9PSB7CiAgICAgICAgICAgICAgICAnZXJyb3InOiAnaGV5IGR1ZGUgd2hvYSB0aGVyZScsCiAgICAgICAgICAgICAgICAncm9vdF9lcnJvcic6ICdoZXkgZHVkZSB3aG9hIHRoZXJlJywKICAgICAgICAgICAgICAgICd1bWJyZWxsYV9pZCc6IDQzMCwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
@@ -307,9 +308,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>advance_i</last-search>
+      <last-search>is_setup</last-search>
       <last-offset />
-      <last-pattern>advance_i</last-pattern>
+      <last-pattern>is_setup</last-pattern>
       <last-replace>SegmentationMethodologies.BACKSOLVE_SIMPLE</last-replace>
       <last-substitute>'BACKSOLVE_SIMPLE'</last-substitute>
       <last-dir>1</last-dir>
