@@ -107,12 +107,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1589308790840" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" timestamp="1589077745947">
-        <mark key="'" line="141" column="4" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="8" />
-        <mark key="^" line="32" column="53" />
-        <mark key="." line="70" column="8" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1589429765220">
+        <mark key="[" line="92" column="28" />
+        <mark key="]" line="93" column="34" />
+        <mark key="." line="93" column="33" />
+        <mark key="^" line="93" column="34" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation.py" timestamp="1589426148987" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/asset_policy/definition.py" timestamp="1589397175914" />
@@ -243,11 +242,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="&quot;" type="4">
+        <text>super().apply_dlom_policy(dlom)</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>super().apply_dlom_policy(dlom)</text>
       </register>
       <register name="/" type="4">
         <text>is_setup</text>
@@ -258,32 +257,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="1" type="4">
+        <text>definition_instance, time_to_exit, time_to_next_financing, weighted_time_to_exit, comparables,
+                         volatility, dlom_volatility, company_stage, ibis_industry, debt_option, dlom_exhibits_to_show</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzCg==</text>
+      <register name="2" type="4">
+        <text>definition_instance: AbstractPolicyDefinition, time_to_exit, time_to_next_financing,
+                 weighted_time_to_exit, comparables, volatility, dlom_volatility, company_stage, ibis_industry,
+                 debt_option: 'ExcludeDebtOptions', dlom_exhibits_to_show: List[str]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzX2VuYWJsZWQsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0ICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBiZWluZyBjYXV0aW91cyBiZWNhdXNlIHRoaXMgZmVhdHVyZSBmbGFnIGNoZWNrIGNvdWxkIGJlIG91dC1vZi1zeW5jIHdpdGggc2VsZi5wb2xpY3kK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc19lbmFibGVkKGZlYXR1cmVzLlZBTF9QT0xJQ1lfQVNTRVQpOgo=</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfYXV0b21hdGVkX3ZhbHVhdGlvbnNfb2JqZWN0ID0gY2hlY2tfaGFzX2F1dG9tYXRlZF92YWx1YXRpb25zKGluc3RhbmNlLmlkKQo=</text>
+        <text encoding="base64">ICAgIGlzX2VuYWJsZWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmZlYXR1cmVfZmxhZ3MgaW1wb3J0ICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYXNfYXV0b21hdGVkX3ZhbHVhdGlvbnNfZm9yX2Rpc3BsYXkoc2VsZiwgdW1icmVsbGFfcGs6IGludCkgLT4gTGlzdFsnVmFsdWF0aW9uJ106Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBiZWluZyBjYXV0aW91cyBiZWNhdXNlIHRoaXMgZmVhdHVyZSBmbGFnIGNoZWNrIGNvdWxkIGJlIG91dC1vZi1zeW5jIHdpdGggc2VsZi5wb2xpY3kK</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
