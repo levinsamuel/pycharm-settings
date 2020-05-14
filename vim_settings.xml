@@ -117,12 +117,12 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="93" column="34" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" timestamp="1589495544740">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" timestamp="1589495585357">
         <mark key="'" line="141" column="4" />
-        <mark key="[" line="82" column="14" />
-        <mark key="]" line="82" column="15" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
         <mark key="^" line="82" column="15" />
-        <mark key="." line="82" column="14" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/investor_services/asset_calibration/views.py" timestamp="1589493130496">
         <mark key="[" line="11" column="0" />
@@ -268,10 +268,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>: Union[Type['AttrsPolicyGroupTemplate'], Type['ValuationPolicyTemplate']]</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>: Union[Type['AttrsPolicyGroupTemplate'], Type['ValuationPolicyTemplate']]</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>is_setup</text>
