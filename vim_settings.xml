@@ -107,10 +107,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1589308790840" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1589429765220">
-        <mark key="[" line="92" column="28" />
-        <mark key="]" line="93" column="34" />
-        <mark key="." line="93" column="33" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1589429823999">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
         <mark key="^" line="93" column="34" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation.py" timestamp="1589426148987" />
@@ -243,10 +243,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>super().apply_dlom_policy(dlom)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>super().apply_dlom_policy(dlom)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>is_setup</text>
