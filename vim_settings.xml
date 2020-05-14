@@ -103,6 +103,11 @@
         <mark key="^" line="32" column="53" />
         <mark key="." line="70" column="8" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/valuation.py" timestamp="1589420811523">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/asset_policy/definition.py" timestamp="1589397175914" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/impl/corporation.py" timestamp="1589388424855">
         <mark key="[" line="7" column="67" />
@@ -120,12 +125,6 @@
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
         <mark key="^" line="20" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/valuation.py" timestamp="1589075320633">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="8" />
-        <mark key="." line="39" column="8" />
-        <mark key="^" line="43" column="42" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/policy.py" timestamp="1589075391860">
         <mark key="[" line="244" column="23" />
@@ -248,46 +247,53 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZS5fX2NhdXNlX18pCg==</text>
+        <text encoding="base64">ZGVmIGhhc19zZXJpYWxpemFibGVfYXV0b21hdGVkX3ZhbHVhdGlvbnModW1icmVsbGFfaWQ6IGludCkgLT4gYm9vbDoKICAgIGF1dG9tYXRlZF92YWx1YXRpb25faWRzID0gX2dldF9hdXRvbWF0ZWRfdmFsdWF0aW9uX2lkcyh1bWJyZWxsYV9pZCkKICAgIHNlcmlhbGl6YWJsZQogICAgcmV0dXJuICgKICAgICAgICBWYWxib3REYXRhLm9iamVjdHMuCiAgICAgICAgZmlsdGVyKHZhbHVhdGlvbl9pZF9faW49YXV0b21hdGVkX3ZhbHVhdGlvbl9pZHMpCiAgICApCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>hey dude whoa there</text>
+        <text>Valuation.valbot_data</text>
       </register>
       <register name="/" type="4">
         <text>is_setup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF93aGVuX25vX25ld19wb2xpY3lfeWllbGRzX2ZhaWx1cmVfZXZlbnQoc2VsZiwgbW9ja2VyLCBvbGRfcG9saWN5KToKICAgICAgICBjb21wYXJhdG9yID0gUG9saWN5Q29tcGFyYXRvcigKICAgICAgICAgICAgdW1icmVsbGFfaWQ9NDMwLAogICAgICAgICAgICBuZXdfcG9saWN5X2NyZWF0aW9uPVBvbGljeUNyZWF0aW9uKGVycm9yPUV4Y2VwdGlvbignaGV5IGR1ZGUgd2hvYSB0aGVyZScpKSwKICAgICAgICAgICAgb2xkX3BvbGljeV9pbnN0YW5jZT1vbGRfcG9saWN5LAogICAgICAgICAgICBhY2NlcHRfbWlzbWF0Y2hlcz1GYWxzZSwKICAgICAgICAgICAgZXZlbnRfdHlwZT1UUkFDS0lOR19FVkVOVF9UWVBFX0FTU0VUX1BPTElDWSwKICAgICAgICApCiAgICAgICAgbW9ja2VkX3JlZ2lzdGVyID0gbW9ja2VyLnBhdGNoLm9iamVjdChjb21wYXJhdG9yLCAnX3JlZ2lzdGVyX2V2ZW50JykKICAgICAgICBjb21wYXJhdG9yLmNvbXBhcmVfcG9saWN5X2luc3RhbmNlc19hbmRfdHJhY2soKQogICAgICAgIG1vY2tlZF9yZWdpc3Rlci5hc3NlcnRfY2FsbGVkX29uY2UoKQogICAgICAgIGV2ZW50X2FyZyA9IG1vY2tlZF9yZWdpc3Rlci5jYWxsX2FyZ3NfbGlzdFswXVswXVswXQogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIGV2ZW50X2FyZy5yZXN1bHRfY29kZSA9PSBUcmFja2luZ1Jlc3VsdENvZGVzLkZBSUwKICAgICAgICAgICAgYW5kIGV2ZW50X2FyZy5jdXN0b21fcmVzdWx0X2NvZGUgPT0gJ05PX05FV19QT0xJQ1knCiAgICAgICAgICAgIGFuZCBldmVudF9hcmcucGF5bG9hZCA9PSB7CiAgICAgICAgICAgICAgICAnZXJyb3InOiAnaGV5IGR1ZGUgd2hvYSB0aGVyZScsCiAgICAgICAgICAgICAgICAncm9vdF9lcnJvcic6ICdoZXkgZHVkZSB3aG9hIHRoZXJlJywKICAgICAgICAgICAgICAgICd1bWJyZWxsYV9pZCc6IDQzMCwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
+        <text encoding="base64">ZGVmIGhhc19hdXRvbWF0ZWRfdmFsdWF0aW9ucyh1bWJyZWxsYV9pZDogaW50KSAtPiBib29sOgogICAgYXV0b21hdGVkX3ZhbHVhdGlvbl9pZHMgPSBfZ2V0X2F1dG9tYXRlZF92YWx1YXRpb25faWRzKHVtYnJlbGxhX2lkKQogICAgcmV0dXJuIGJvb2woYXV0b21hdGVkX3ZhbHVhdGlvbl9pZHMpCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZS5fX2NhdXNlX18pCg==</text>
+        <text encoding="base64">ZGVmIGhhc19zZXJpYWxpemFibGVfYXV0b21hdGVkX3ZhbHVhdGlvbnModW1icmVsbGFfaWQ6IGludCkgLT4gYm9vbDoKICAgIGF1dG9tYXRlZF92YWx1YXRpb25faWRzID0gX2dldF9hdXRvbWF0ZWRfdmFsdWF0aW9uX2lkcyh1bWJyZWxsYV9pZCkKICAgIHNlcmlhbGl6YWJsZQogICAgcmV0dXJuICgKICAgICAgICBWYWxib3REYXRhLm9iamVjdHMuCiAgICAgICAgZmlsdGVyKHZhbHVhdGlvbl9pZF9faW49YXV0b21hdGVkX3ZhbHVhdGlvbl9pZHMpCiAgICApCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBib29sKGF1dG9tYXRlZF92YWx1YXRpb25faWRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgIHNlcmlhbGl6YWJsZV9pZHMgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHRpb24gPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGF1dG9tYXRlZF92YWx1YXRpb25zID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGF1dG9tYXRlZF92YWx1YXRpb25faWRzID0gbGlzdCgKICAgICAgICBQcm9qZWN0TGVkZ2VyCiAgICAgICAgLm9iamVjdHMKICAgICAgICAuYWxsKCkKICAgICAgICAuZmlsdGVyX2J5X3VtYnJlbGxhX2lkKHVtYnJlbGxhX3BrKQogICAgICAgIC5maWx0ZXJfdmFsYm90X3ZhbHVhdGlvbnMoKQogICAgICAgIC52YWx1ZXNfbGlzdCgndmFsdWF0aW9uX2lkJywgZmxhdD1UcnVlKQogICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBleGNlcHRpb246IAo=</text>
+      <register name="7" type="4">
+        <text>return (
+        ProjectLedger
+        .objects
+        .all()
+        .filter_by_umbrella_id(umbrella_id)
+        .filter_valbot_valuations()
+        .exists()
+    )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdldCB0aGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZS5fX2NhdXNlX18pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
