@@ -88,6 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_valuation_policy_service.py" timestamp="1589521469129">
+        <mark key="[" line="151" column="8" />
+        <mark key="]" line="151" column="12" />
+        <mark key="." line="151" column="11" />
+        <mark key="^" line="151" column="12" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" timestamp="1589433166727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -263,10 +269,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>get_carta_owner_id()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>get_carta_owner_id()</text>
       </register>
       <register name="/" type="4">
         <text>is_setup</text>
@@ -278,32 +284,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi50aGlyZF9wYXJ0eS5sb2dfcm9ja2V0IGltcG9ydCBMb2dSb2NrZXRNaXhpbgo=</text>
+        <text encoding="base64">ICAgICAgICBjYXJ0YV9vd25lcl9pZCA9IGdldF9jYXJ0YV9vd25lcl9pZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
+        <text encoding="base64">ICAgICAgICBvd25lcl9pZCA9IG93bmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogaW1wbGVtZW50IHRoaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PDw8IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBIeWJyaWRWYWx1YXRpb25Qb2xpY3lUZW1wbGF0ZShlYXJseV9leGl0X3BvbGljeT1lYXJseSwgbGF0ZV9leGl0X3BvbGljeT1sYXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi50aGlyZF9wYXJ0eS5sb2dfcm9ja2V0IGltcG9ydCBMb2dSb2NrZXRNaXhpbgo=</text>
+        <text encoding="base64">ICAgIGxhdGUgPSBTY2VuYXJpb1BvbGljeVRlbXBsYXRlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
+        <text encoding="base64">ICAgIGVhcmx5ID0gU2NlbmFyaW9Qb2xpY3lUZW1wbGF0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PT09Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi50aGlyZF9wYXJ0eS5sb2dfcm9ja2V0IGltcG9ydCBMb2dSb2NrZXRNaXhpbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PDw8IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMQo=</text>
+        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>definition_instance, time_to_exit, time_to_next_financing, weighted_time_to_exit, comparables,
-                         volatility, dlom_volatility, company_stage, ibis_industry, debt_option, dlom_exhibits_to_show</text>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
