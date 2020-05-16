@@ -146,18 +146,18 @@
         <mark key="." line="634" column="64" />
         <mark key="^" line="632" column="81" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/samples.py" timestamp="1589664384771">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="47" column="23" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/samples.py" timestamp="1589665461633">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="48" />
+        <mark key="^" line="48" column="48" />
+        <mark key="." line="48" column="47" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/common/market_yield/models.py" timestamp="1589663703152" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_asset_policy.py" timestamp="1589663002170">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="70" column="83" />
-        <mark key="^" line="39" column="36" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_asset_policy.py" timestamp="1589664561258">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="50" column="45" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/valuation_type.py" timestamp="1589594483297">
         <mark key="[" line="48" column="68" />
@@ -285,46 +285,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_relation</text>
+        <text>_prepare_financial_details</text>
       </register>
       <register name="-" type="4">
-        <text>_relation</text>
+        <text>cls.captable_without_preferred().id</text>
       </register>
       <register name="/" type="4">
         <text>Decimal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fX2NvcnBvcmF0aW9uX3BrPWZhY3RvcnkuU2VsZkF0dHJpYnV0ZSgnLi51bWJyZWxsYS5jb3Jwb3JhdGlvbl9pZCcpCg==</text>
+      <register name="0" type="4">
+        <text>_prepare_financial_details</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fX2NvcnBvcmF0aW9uX3BrPWZhY3RvcnkuU2VsZkF0dHJpYnV0ZSgnLi51bWJyZWxsYS5jb3Jwb3JhdGlvbl9pZCcpCg==</text>
+        <text encoding="base64">CiMgY2xhc3MgSVJDNDA5QVVtYnJlbGxhV2l0aFZhbHVhdGlvbkZhY3RvcnkoSVJDNDA5QVVtYnJlbGxhRmFjdG9yeSk6CiMgICAgIHZhbHVhdGlvbiA9IGZhY3RvcnkuU3ViRmFjdG9yeSgKIyAgICAgICAgIElSQzQwOUFWYWx1YXRpb25GYWN0b3J5LAojICAgICAgICAgY29ycG9yYXRpb25fcGs9ZmFjdG9yeS5TZWxmQXR0cmlidXRlKCcuLmNvcnBvcmF0aW9uLmlkJyksCiMgICAgICkKIyAgICAgdmFsdWF0aW9uX3JlbGF0aW9uID0gZmFjdG9yeS5SZWxhdGVkRmFjdG9yeSgKIyAgICAgICAgIElSQzQwOUFQcm9qZWN0TGVkZ2VyRmFjdG9yeSwgJ3VtYnJlbGxhJywKIyAgICAgICAgIHZhbHVhdGlvbj1mYWN0b3J5LlNlbGZBdHRyaWJ1dGUoJy4udW1icmVsbGEudmFsdWF0aW9uJykKIyAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb249ZmFjdG9yeS5TdWJGYWN0b3J5KEFzc2V0QXBwcm9hY2hWYWx1YXRpb24pLAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbHVhdGlvbiA9IAo=</text>
+        <text encoding="base64">ICAgIENhcHRhYmxlRmFjdG9yeSwK</text>
       </register>
       <register name="4" type="2">
-        <text>]</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mYWN0b3JpZXMudmFsdWF0aW9ucy5mYWN0b3JpZXMgaW1wb3J0ICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmllbGRzID0gWwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICB2YWx1YXRpb25fcmVsYXRpb24gPSBmYWN0b3J5LlJlbGF0ZWRGYWN0b3J5KAogICAgICAgIElSQzQwOUFQcm9qZWN0TGVkZ2VyRmFjdG9yeSwgJ3VtYnJlbGxhJywKICAgICAgICB2YWx1YXRpb249ZmFjdG9yeS5TZWxmQXR0cmlidXRlKCcuLnZhbHVhdGlvbicpCiAgICApCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FwdGFibGVGYWN0b3J5LmNyZWF0ZShjb3Jwb3JhdGlvbl9waz1URVNUX0NPUlBPUkFUSU9OX0lEKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBjYXB0YWJsZV93aXRob3V0X3ByZWZlcnJlZChjbHMpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYXNoX3J1bndheT1DQVNIX1JVTldBWV9TSVhfVE9fVFdFTFZFX01PTlRIUywK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYXJhYmxlX2luZHVzdHJ5PUZJTlRFQ0gsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
