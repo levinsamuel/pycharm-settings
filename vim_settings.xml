@@ -88,11 +88,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_valuation_policy_service.py" timestamp="1589647891681">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="124" column="24" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_valuation_policy_service.py" timestamp="1589648303553">
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="114" column="53" />
+        <mark key="." line="114" column="52" />
+        <mark key="^" line="114" column="53" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" timestamp="1589433166727">
         <mark key="[" line="0" column="0" />
@@ -280,11 +280,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1bWJyZWxsYSA9IHNlbGYudW1icmVsbGEK</text>
+      <register name="&quot;" type="4">
+        <text>get_policy_response_from_captable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get_policy_response_from_captable</text>
       </register>
       <register name="/" type="4">
         <text>VALUAT</text>
@@ -296,31 +296,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1bWJyZWxsYSA9IHNlbGYudW1icmVsbGEK</text>
+        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bWJyZWxsYSA9IHNlbGYudW1icmVsbGEK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5jb25zdGFudHMgaW1wb3J0IFZBTEJPVF9QT0xJQ1lfTkFNRSwgU0VMRUNUSU9OX0NPREVfREVGQVVMVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfcG9saWN5X3Jlc3BvbnNlX2Zyb21fdW1icmVsbGFfYW5kX2NhcHRhYmxlKHVtYnJlbGxhLCBjYXB0YWJsZSkgLT4gVmFsYm90UG9saWN5UmVzcG9uc2U6CiAgICB2YWx1YXRpb24gPSB1bWJyZWxsYS5nZXRfc2VsZWN0ZWRfdmFsdWF0aW9uKCkKICAgIHZhbGJvdF9zZXJ2aWNlID0gVmFsdWF0aW9uUG9saWN5U2VydmljZUNvbnRhaW5lci5nZXRfc2VydmljZV9pbnN0YW5jZSgpCiAgICByZXNwb25zZSA9IHZhbGJvdF9zZXJ2aWNlLmdldF92YWxib3RfcG9saWN5X2luc3RhbmNlKAogICAgICAgIGNvcnBvcmF0aW9uX2lkPVRFU1RfQ09SUE9SQVRJT05fSUQsCiAgICAgICAgdW1icmVsbGFfaWQ9dW1icmVsbGEuaWQsCiAgICAgICAgdmFsdWF0aW9uX2lkPXZhbHVhdGlvbi5pZCwKICAgICAgICBjYXB0YWJsZV9pZD1jYXB0YWJsZS5pZAogICAgKQogICAgcmV0dXJuIHJlc3BvbnNlCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNhcHRhYmxlX3dpdGhvdXRfcHJlZmVycmVkKGNvcnBvcmF0aW9uKToKICAgIHJldHVybiBDYXB0YWJsZUZhY3RvcnkuY3JlYXRlKGNvcnBvcmF0aW9uX3BrPWNvcnBvcmF0aW9uLmlkKQoKCmRlZiBjYXB0YWJsZV93aXRoX3ByZWZlcnJlZCgpOgogICAgY2FwdGFibGVfZGF0YSA9IENhcHRhYmxlRGF0YUZhY3RvcnkuY3JlYXRlKAogICAgICAgIHNlY3VyaXR5X3R5cGU9UFJFRkVSUkVEX1NIQVJFX0NMQVNTLCBjYXB0YWJsZV9fY29ycG9yYXRpb25fcGs9VEVTVF9DT1JQT1JBVElPTl9JRAogICAgKQogICAgcmV0dXJuIGNhcHRhYmxlX2RhdGEuY2FwdGFibGUKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLmNhcHRhYmxlID0gY2FwdGFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdjbGFzcycpCg==</text>
+        <text encoding="base64">ICAgIGhhc19wcmVmZXJyZWQgPSBhdHRyLmliKHR5cGU9Ym9vbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdjbGFzcycpCg==</text>
+        <text encoding="base64">Y2xhc3MgUG9saWN5VGVzdFBhcmFtczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvbGljaWVzID0ge1NFTEVDVElPTl9DT0RFX0RFRkFVTFQ6IHRlbXBsYXRlfQo=</text>
+        <text encoding="base64">QGF0dHIucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBQb2xpY3lPd25lcgo=</text>
+        <text encoding="base64">ICAgICAgICB1bWJyZWxsYSA9IHNlbGYudW1icmVsbGEK</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
