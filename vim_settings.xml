@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hyrbid</entry>
         <entry>hybrid_early_exit</entry>
         <entry>asset_values</entry>
         <entry>risk_free_rates</entry>
@@ -27,6 +26,7 @@
         <entry>is_setup</entry>
         <entry>VAL</entry>
         <entry>VALUAT</entry>
+        <entry>corporation</entry>
       </history-search>
       <history-cmd>
         <entry>%s/False/false/g</entry>
@@ -132,23 +132,24 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/umbrella_type.py" timestamp="1589425208304">
-        <mark key="[" line="244" column="15" />
-        <mark key="]" line="244" column="40" />
-        <mark key="." line="244" column="39" />
-        <mark key="^" line="244" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/factories.py" timestamp="1589565669930">
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="308" column="0" />
-        <mark key="^" line="308" column="0" />
-        <mark key="." line="308" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/factories.py" timestamp="1589652267252">
+        <mark key="[" line="284" column="56" />
+        <mark key="]" line="284" column="97" />
+        <mark key="^" line="284" column="97" />
+        <mark key="." line="284" column="96" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1589433294191">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="12" />
         <mark key="^" line="154" column="42" />
         <mark key="." line="155" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" timestamp="1589652326586">
+        <mark key="'" line="19" column="21" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="83" column="56" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" timestamp="1589433166727">
         <mark key="[" line="0" column="0" />
@@ -173,15 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
-      <jump line="221" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
-      <jump line="188" column="41" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
-      <jump line="205" column="64" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
-      <jump line="277" column="39" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="286" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="295" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="330" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="383" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="400" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="82" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="167" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
@@ -273,6 +265,15 @@
       <jump line="229" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="237" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
       <jump line="238" column="50" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
+      <jump line="61" column="9" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="66" column="13" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="67" column="73" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="72" column="36" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="74" column="30" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="83" column="57" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="89" column="41" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="99" column="12" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
+      <jump line="19" column="21" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,14 +281,14 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>valuation_policy_service</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>valuation_policy_service</text>
+        <text>cls.corporation.id</text>
       </register>
       <register name="/" type="4">
-        <text>VALUAT</text>
+        <text>corporation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fcG9saWNpZXM9Tm9uZSwK</text>
@@ -296,31 +297,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydWxlX2RhdGE9e30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF0dHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5jb25zdGFudHMgaW1wb3J0IFZBTEJPVF9QT0xJQ1lfTkFNRSwgU0VMRUNUSU9OX0NPREVfREVGQVVMVAo=</text>
+        <text encoding="base64">ICAgIGh5YnJpZF9nZW5lcmF0b3IgPSBIeWJyaWRCYWNrc29sdmVQb2xpY3lHZW5lcmF0b3IoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGh5YnJpZF92YWx1YXRpb25fcG9saWN5X3RlbXBsYXRlKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLmNvcnBvcmF0aW9uID0gY29ycG9yYXRpb24K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhc19wcmVmZXJyZWQgPSBhdHRyLmliKHR5cGU9Ym9vbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUG9saWN5VGVzdFBhcmFtczoK</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb3Jwb3JhdGlvbkZhY3RvcnkuY3JlYXRlKGlkPVRFU1RfQ09SUE9SQVRJT05fSUQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGF0dHIucwo=</text>
+        <text encoding="base64">ZGVmIGNvcnBvcmF0aW9uKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
@@ -329,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>VALUAT</last-search>
+      <last-search>corporation</last-search>
       <last-offset />
-      <last-pattern>VALUAT</last-pattern>
+      <last-pattern>corporation</last-pattern>
       <last-replace>SegmentationMethodologies.BACKSOLVE_SIMPLE</last-replace>
       <last-substitute>'BACKSOLVE_SIMPLE'</last-substitute>
       <last-dir>1</last-dir>
