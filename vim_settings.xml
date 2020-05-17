@@ -88,12 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1589750891510">
-        <mark key="'" line="76" column="3" />
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="68" />
-        <mark key="." line="45" column="67" />
-        <mark key="^" line="45" column="68" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1589752198556">
+        <mark key="'" line="92" column="3" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1589690626832">
         <mark key="[" line="0" column="5" />
@@ -106,7 +106,7 @@
         <mark key="." line="86" column="51" />
         <mark key="^" line="86" column="52" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/captable/captable_data.py" timestamp="1589749645226" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/captable/captable_data.py" timestamp="1589751990182" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/common/files/models.py" timestamp="1589746151249" />
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1589691430647">
         <mark key="[" line="72" column="56" />
@@ -306,46 +306,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return super()._create(model_class, *args, **kwargs)</text>
+        <text>fresh</text>
       </register>
       <register name="-" type="4">
-        <text>return super()._create(model_class, *args, **kwargs)</text>
+        <text>fresh</text>
       </register>
       <register name="/" type="4">
         <text>Decimal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY2FwdGFibGVfZGF0YSBpbXBvcnQgQ2FwdGFibGVEYXRhQ3JlYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY2FsbGluZyBtb2NrZWQgcmVmcmVzaFxuJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaWRlX2VmZmVjdD0K</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY2FwdGFibGVfZGF0YSBpbXBvcnQgQ2FwdGFibGVEYXRhQ3JlYXRvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWRlX2VmZmVjdD0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbmplY3RfY2FwdGFibGVfZGF0YSgpOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2dlbmVyYXRvciA9IE1hZ2ljTW9jaygpCiAgICAgICAgbW9jay5wYXRjaC5vYmplY3QoCiAgICAgICAgICAgIFZhbHVhdGlvblJlcG9ydFBkZkdlbmVyYXRvciwgJ2ZhY3RvcnknLCByZXR1cm5fdmFsdWU9bW9ja19nZW5lcmF0b3IKICAgICAgICApCiAgICAgICAgbW9ja19nZW5lcmF0b3IuZ2VuZXJhdGVfcGRmLnJldHVybl92YWx1ZSA9IFVwbG9hZGVkRmlsZSh1cmxfcGs9J3h5emFiYycpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLm1vY2tfcmVwb3J0X2dlbmVyYXRvciA9IG1vY2tfcmVwb3J0X2dlbmVyYXRvcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBpbmplY3RfY2FwdGFibGVfZGF0YSgpOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX2dlbmVyYXRvciA9IE1hZ2ljTW9jaygpCiAgICAgICAgbW9jay5wYXRjaC5vYmplY3QoCiAgICAgICAgICAgIFZhbHVhdGlvblJlcG9ydFBkZkdlbmVyYXRvciwgJ2ZhY3RvcnknLCByZXR1cm5fdmFsdWU9bW9ja19nZW5lcmF0b3IKICAgICAgICApCiAgICAgICAgbW9ja19nZW5lcmF0b3IuZ2VuZXJhdGVfcGRmLnJldHVybl92YWx1ZSA9IFVwbG9hZGVkRmlsZSh1cmxfcGs9J3h5emFiYycpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLm1vY2tfcmVwb3J0X2dlbmVyYXRvciA9IG1vY2tfcmVwb3J0X2dlbmVyYXRvcgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9ja19nZW5lcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBtb2NrX3JlcG9ydF9nZW5lcmF0b3Ioc2VsZiwgbW9ja2VyKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9ja19nZW5lcmF0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
