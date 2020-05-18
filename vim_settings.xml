@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TEST</entry>
         <entry>features</entry>
         <entry>features\/ledger</entry>
         <entry>aluation</entry>
@@ -27,6 +26,7 @@
         <entry>Decimal</entry>
         <entry>treat_capped_notes_as_equity</entry>
         <entry>SortedCaptableDataType</entry>
+        <entry>OFFLINE</entry>
       </history-search>
       <history-cmd>
         <entry>%s/False/false/g</entry>
@@ -110,24 +110,16 @@
         <mark key="^" line="87" column="50" />
         <mark key="." line="87" column="49" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1589831544230" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/test_comparables.py" timestamp="1589843085143">
-        <mark key="[" line="7" column="66" />
-        <mark key="]" line="7" column="66" />
-        <mark key="^" line="7" column="66" />
-        <mark key="." line="7" column="65" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/test_comparables.py" timestamp="1589843085143" />
       <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/samples/asset.py" timestamp="1589843208929">
         <mark key="[" line="12" column="69" />
         <mark key="]" line="12" column="69" />
         <mark key="." line="12" column="69" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/instances/valuation/allocation_config.py" timestamp="1589831432640">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="52" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/xpressfeed.py" timestamp="1589845700766" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/settings/local_base.py" timestamp="1589845717127">
+        <mark key="'" line="64" column="24" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1589832834967">
         <mark key="[" line="49" column="0" />
@@ -182,8 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
-      <jump line="46" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="47" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="54" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="55" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
@@ -282,6 +272,8 @@
       <jump line="136" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" />
       <jump line="103" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" />
       <jump line="27" column="55" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/local_base.py" />
+      <jump line="64" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/settings/local_base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +288,7 @@
         <text>TEST_CORPORATION_ID</text>
       </register>
       <register name="/" type="4">
-        <text>SortedCaptableDataType</text>
+        <text>OFFLINE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1bWJyZWxsYSA9IGNscy51bWJyZWxsYQo=</text>
@@ -338,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SortedCaptableDataType</last-search>
+      <last-search>OFFLINE</last-search>
       <last-offset />
-      <last-pattern>SortedCaptableDataType</last-pattern>
+      <last-pattern>OFFLINE</last-pattern>
       <last-replace>SegmentationMethodologies.BACKSOLVE_SIMPLE</last-replace>
       <last-substitute>'BACKSOLVE_SIMPLE'</last-substitute>
       <last-dir>1</last-dir>
