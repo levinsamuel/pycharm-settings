@@ -88,12 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1589765910895">
-        <mark key="'" line="72" column="3" />
-        <mark key="[" line="97" column="46" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="97" column="45" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1589767588102">
+        <mark key="'" line="73" column="3" />
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="106" column="79" />
+        <mark key="^" line="106" column="79" />
+        <mark key="." line="106" column="78" />
       </file>
       <file name="/a.dummy" timestamp="1589690626832">
         <mark key="[" line="0" column="5" />
@@ -113,6 +113,12 @@
         <mark key="^" line="121" column="23" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/captable/captable_data.py" timestamp="1589751990182" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/tracking.py" timestamp="1589766298160">
+        <mark key="[" line="16" column="106" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="11" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/common/files/models.py" timestamp="1589746151249" />
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1589691430647">
         <mark key="[" line="72" column="56" />
@@ -157,6 +163,12 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/tracking.py" timestamp="1589767481371">
+        <mark key="[" line="87" column="61" />
+        <mark key="]" line="88" column="21" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="21" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_policies.py" timestamp="1589690614956">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="68" />
@@ -171,29 +183,17 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/samples.py" timestamp="1589688975237">
-        <mark key="[" line="60" column="67" />
-        <mark key="]" line="60" column="68" />
-        <mark key="." line="60" column="67" />
-        <mark key="^" line="60" column="68" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/samples/base.py" timestamp="1589690404989">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
         <mark key="^" line="63" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_asset_policy.py" timestamp="1589689715550">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="82" column="53" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuations/samples/asset.py" timestamp="1589689677730">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="30" column="46" />
-        <mark key="." line="30" column="45" />
-        <mark key="^" line="30" column="46" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/tracking.py" timestamp="1589766399430">
+        <mark key="[" line="19" column="75" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -304,47 +304,47 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZlbnQuY3VzdG9tX3Jlc3VsdF9jb2RlID09ICdNQVRDSCcK</text>
+      <register name="&quot;" type="4">
+        <text>start_date</text>
       </register>
       <register name="-" type="4">
-        <text>first_task</text>
+        <text>start_date</text>
       </register>
       <register name="/" type="4">
         <text>Decimal</text>
       </register>
-      <register name="0" type="4">
-        <text>mock_report_generator.return_value.generate_pdf.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3Qgc3RhcnRfZGF0ZSBvciBldmVudC5ldmVudF90aW1lID49IHN0YXJ0X2RhdGUpIGFuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZlbnQuY3VzdG9tX3Jlc3VsdF9jb2RlID09ICdNQVRDSCcK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF9pbmRleCwgZW5kX2luZGV4ID0gMCwgbGVuKGV2ZW50cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMgPSBbCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IFRyYWNrZWRFdmVudC5vYmplY3RzLmZpbHRlcihldmVudF90eXBlPVRSQUNLSU5HX0VWRU5UX1RZUEVfTkVXX1ZBTEJPVCkub3JkZXJfYnkoJ2V2ZW50X3RpbWUnKS5sYXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0X3Rhc2sgPSBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF90YXNrID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi5maWxlcy5tb2RlbHMgaW1wb3J0IFVwbG9hZGVkRmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRfaWQ9bW9kZWxfaW5zdGFuY2UuaWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KFZhbHVhdGlvblJlcG9ydFBkZkdlbmVyYXRvciwgJ2ZhY3RvcnknKSBhcyBtb2NrX3JlcG9ydF9nZW5lcmF0b3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOgo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS50eXBlcyBpbXBvcnQgRGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
