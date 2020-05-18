@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TESTING</entry>
         <entry>TEST</entry>
         <entry>features</entry>
         <entry>features\/ledger</entry>
@@ -27,6 +26,7 @@
         <entry>equity_value</entry>
         <entry>Decimal</entry>
         <entry>treat_capped_notes_as_equity</entry>
+        <entry>SortedCaptableDataType</entry>
       </history-search>
       <history-cmd>
         <entry>%s/False/false/g</entry>
@@ -143,7 +143,7 @@
         <mark key="^" line="464" column="49" />
         <mark key="." line="461" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1589831736812">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/asset_strategy.py" timestamp="1589838642208">
         <mark key="]" line="173" column="52" />
         <mark key="." line="173" column="51" />
         <mark key="^" line="173" column="52" />
@@ -154,21 +154,16 @@
         <mark key="." line="86" column="79" />
         <mark key="^" line="86" column="80" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/financials/debt.py" timestamp="1589836978505">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="35" />
-        <mark key="^" line="172" column="76" />
-        <mark key="." line="74" column="35" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/groups/allocation_config.py" timestamp="1589831425192">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="87" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" timestamp="1589837050437">
-        <mark key="[" line="104" column="55" />
-        <mark key="]" line="104" column="56" />
-        <mark key="^" line="104" column="56" />
-        <mark key="." line="104" column="55" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" timestamp="1589837691888">
+        <mark key="'" line="27" column="55" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="103" column="57" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/definition.py" timestamp="1589831206665">
         <mark key="[" line="8" column="8" />
@@ -176,11 +171,8 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/steps/allocation/capped_notes.py" timestamp="1589836051116" />
     </filemarks>
     <jumps>
-      <jump line="2017" column="33" filename="$USER_HOME$/git/c/carta-web/eshares/settings/base.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="13" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="46" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
       <jump line="47" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/settings/test.py" />
@@ -279,6 +271,8 @@
       <jump line="169" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/external/valuations_service.py" />
       <jump line="135" column="29" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" />
       <jump line="136" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" />
+      <jump line="103" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" />
+      <jump line="27" column="55" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/valuations_mapper/from_mapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,13 +281,13 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Dict[str, List['CaptableShareClassInfo']]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Dict[str, List['CaptableShareClassInfo']]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>treat_capped_notes_as_equity</text>
+        <text>SortedCaptableDataType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RlZF92YWx1ZSA9IHNlbGYuZ2V0X2V4cGVjdGVkX3ZhbHVlKHN0ZXApCg==</text>
@@ -302,31 +296,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGNhcHBlZF9ub3RlcyBpZiBub3RlLnZhbHVhdGlvbl9jYXAgZWxzZSB1bmNhcHBlZF9ub3RlcykuYXBwZW5kKG5vdGUpCg==</text>
+        <text encoding="base64">ICAgIE5PVEUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igbm90ZSBpbiBub3RlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGNhcHBlZF9ub3RlcyBpZiBub3RlLnZhbHVhdGlvbl9jYXAgZWxzZSB1bmNhcHBlZF9ub3RlcykuYXBwZW5kKG5vdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RlcyA9IGNhcHRhYmxlX2J5X3NoYXJlX2NsYXNzLmdldChOT1RFLCBbXSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igbm90ZSBpbiBub3RlczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5jYXBwZWRfbm90ZXMuYXBwZW5kKG5vdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RlcyA9IGNhcHRhYmxlX2J5X3NoYXJlX2NsYXNzLmdldChOT1RFLCBbXSkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdW5jYXBwZWRfbm90ZXMuYXBwZW5kKG5vdGUpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGNhcHBlZF9ub3Rlcw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3RlLnZhbHVhdGlvbl9jYXAgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGNhcHBlZF9ub3Rlcy5hcHBlbmQobm90ZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICB1bmNhcHBlZF9ub3Rlcy5hcHBlbmQobm90ZSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBub3RlIGluIGNvbnZlcnRpYmxlX25vdGVzOgogICAgICAgIGlmIG5vdGUudmFsdWF0aW9uX2NhcCBpcyBub3QgTm9uZToKICAgICAgICAgICAgY2FwcGVkX25vdGVzLmFwcGVuZChub3RlKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHVuY2FwcGVkX25vdGVzLmFwcGVuZChub3RlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnN0YW50cy5OT1RFIGluIGNhcHRhYmxlX2RhdGE6Cg==</text>
+        <text encoding="base64">ICAgIGZvciBub3RlIGluIGNvbnZlcnRpYmxlX25vdGVzOgogICAgICAgIGlmIG5vdGUudmFsdWF0aW9uX2NhcCBpcyBub3QgTm9uZToKICAgICAgICAgICAgY2FwcGVkX25vdGVzLmFwcGVuZChub3RlKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHVuY2FwcGVkX25vdGVzLmFwcGVuZChub3RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
@@ -335,9 +329,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>treat_capped_notes_as_equity</last-search>
+      <last-search>SortedCaptableDataType</last-search>
       <last-offset />
-      <last-pattern>treat_capped_notes_as_equity</last-pattern>
+      <last-pattern>SortedCaptableDataType</last-pattern>
       <last-replace>SegmentationMethodologies.BACKSOLVE_SIMPLE</last-replace>
       <last-substitute>'BACKSOLVE_SIMPLE'</last-substitute>
       <last-dir>1</last-dir>
