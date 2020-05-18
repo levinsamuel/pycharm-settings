@@ -88,12 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1589755637151">
-        <mark key="'" line="65" column="3" />
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="50" />
-        <mark key="^" line="74" column="50" />
-        <mark key="." line="74" column="49" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1589765910895">
+        <mark key="'" line="72" column="3" />
+        <mark key="[" line="97" column="46" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="97" column="45" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589690626832">
         <mark key="[" line="0" column="5" />
@@ -304,47 +304,47 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>exception</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZlbnQuY3VzdG9tX3Jlc3VsdF9jb2RlID09ICdNQVRDSCcK</text>
       </register>
       <register name="-" type="4">
-        <text>exception</text>
+        <text>first_task</text>
       </register>
       <register name="/" type="4">
         <text>Decimal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vY2sucGF0Y2gub2JqZWN0KAogICAgICAgIFZhbHVhdGlvblJlcG9ydFBkZkdlbmVyYXRvciwgJ2ZhY3RvcnknLCByZXR1cm5fdmFsdWU9bW9ja19nZW5lcmF0b3IKICAgICkK</text>
+      <register name="0" type="4">
+        <text>mock_report_generator.return_value.generate_pdf.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi5maWxlcy5tb2RlbHMgaW1wb3J0IFVwbG9hZGVkRmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZlbnQuY3VzdG9tX3Jlc3VsdF9jb2RlID09ICdNQVRDSCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMuY2FwdGFibGUgaW1wb3J0IGNhcHRhYmxlX2RhdGEgYXMgY2FwdGFibGVfZGF0YV9zZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZlbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBNYWdpY01vY2sK</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IFRyYWNrZWRFdmVudC5vYmplY3RzLmZpbHRlcihldmVudF90eXBlPVRSQUNLSU5HX0VWRU5UX1RZUEVfTkVXX1ZBTEJPVCkub3JkZXJfYnkoJ2V2ZW50X3RpbWUnKS5sYXN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgndHlwZTonLCB0eXBlKHJlc3VsdCksICdmaWVsZHM6JywgZGlyKHJlc3VsdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjYWxsaW5nIG1vY2tlZCByZWZyZXNoIHdpdGggdmFsdWF0aW9uOicsIHZhbHVhdGlvbiwgJ1xuJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0X3Rhc2sgPSBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdF90YXNrID0gVHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi5maWxlcy5tb2RlbHMgaW1wb3J0IFVwbG9hZGVkRmlsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmVxdWVzdC5jbHMubW9ja19yZXBvcnRfZ2VuZXJhdG9yID0gbW9ja19yZXBvcnRfZ2VuZXJhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KFZhbHVhdGlvblJlcG9ydFBkZkdlbmVyYXRvciwgJ2ZhY3RvcnknKSBhcyBtb2NrX3JlcG9ydF9nZW5lcmF0b3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOgo=</text>
       </register>
       <register name=":" type="4">
         <text>56,76s/'BACKSOLVE_SIMPLE'/SegmentationMethodologies.BACKSOLVE_SIMPLE/g</text>
