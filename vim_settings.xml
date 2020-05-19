@@ -134,6 +134,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1589927835571">
+        <mark key="[" line="180" column="47" />
+        <mark key="]" line="180" column="63" />
+        <mark key="." line="180" column="62" />
+        <mark key="^" line="180" column="63" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1589924425598">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -141,12 +147,6 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" timestamp="1589851478975">
         <mark key="[" line="17" column="53" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_generator.py" timestamp="1589924881796">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/planner/test_plan_asset_policy.py" timestamp="1589908733968">
         <mark key="[" line="26" column="70" />
@@ -274,11 +274,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5pbnRlcmZhY2VzLnBvbGljeS5nZW5lcmF0b3IgaW1wb3J0IFBvbGljeUdlbmVyYXRvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>TOTAL_DEBT</text>
       </register>
       <register name="-" type="4">
-        <text>flattened_nodes</text>
+        <text>TOTAL_DEBT</text>
       </register>
       <register name="/" type="4">
         <text>OFFLINE</text>
