@@ -113,11 +113,11 @@
         <mark key="[" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/captable/captable_data.py" timestamp="1590109384585" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1590172263354">
-        <mark key="[" line="66" column="60" />
-        <mark key="]" line="66" column="70" />
-        <mark key="^" line="66" column="70" />
-        <mark key="." line="66" column="69" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1590173202318">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="41" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/revisions/v2.py" timestamp="1590097490147">
         <mark key="'" line="15" column="23" />
@@ -262,16 +262,16 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>late_exit</text>
+        <text>late_exit_policy_instance</text>
       </register>
       <register name="-" type="4">
-        <text>late_exit</text>
+        <text>late_exit_policy_instance</text>
       </register>
       <register name="/" type="4">
         <text>financia</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlX2V4aXRfcG9saWN5X2luc3RhbmNlID0gcG9saWN5X2luc3RhbmNlLmh5YnJpZF9sYXRlX2V4aXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91bmRfdmFsdWUoCiAgICAgICAgICAgICAgICBsYXRlX2V4aXRfcG9saWN5X2luc3RhbmNlLmFsbG9jYXRpb24uY29tcGFueV92YWx1ZSwgcHJlY2lzaW9uPTIKICAgICAgICAgICAgKSA9PSBEZWNpbWFsKCc4MTkwODMuNDAnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
