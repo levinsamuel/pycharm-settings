@@ -102,22 +102,21 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/procedures/functions/functions.py" timestamp="1590033658617" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/issuables/certificates/models/share_class.py" timestamp="1590109637770" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/methodologies/__init__.py" timestamp="1590033180702">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/fixtures/valuations/sample_data/captable_data.py" timestamp="1590174580312">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1590164414575" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/external/valuations_service.py" timestamp="1590033218723">
         <mark key="[" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/captable/captable_data.py" timestamp="1590109384585" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1590173202318">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="41" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1590174671903">
+        <mark key="[" line="69" column="58" />
+        <mark key="]" line="70" column="41" />
+        <mark key="^" line="70" column="41" />
+        <mark key="." line="70" column="40" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/revisions/v2.py" timestamp="1590097490147">
         <mark key="'" line="15" column="23" />
@@ -262,10 +261,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>late_exit_policy_instance</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>late_exit_policy_instance</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>financia</text>
@@ -277,31 +276,34 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>&quot;),
+            #         quantity_held_by_org=Decimal(&quot;0.0&quot;),
+            #         seniority=1,
+            #         original_issue_price=Decimal</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">J2h0dHBzOi8vZ2l0aHViLmNvbS9jYXJ0YS9jYXJ0YS13ZWIvcHVsbC80NzQ2NycsCiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgV2lsbCBuZWVkIHRvIGFkZCB0aGlzIGJhY2sgaWYgd2Ugd2FudCB0byBkbyBpbmNyZW1lbnRhbCBhcHByb2FjaGVzCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogSW1wbGVtZW50IHRoaXMhCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IHJ1bGUgZG9lc24ndCBoYXZlIHRvIGJlIGEgRGljdCwgYnV0IHR5cGUgaGludHMgYW5kIGNhbGxzaXRlcyBlbmZvcmNlIGl0Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLmV4dGVybmFsLnZhbHVhdGlvbnMubWV0aG9kb2xvZ2llcyBpbXBvcnQgQmFja3NvbHZlQXJndW1lbnRzCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5leHRlcm5hbC52YWx1YXRpb25zLm1ldGhvZG9sb2dpZXMgaW1wb3J0IEJhY2tzb2x2ZUFyZ3VtZW50cwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLmV4dGVybmFsLnZhbHVhdGlvbnMubWV0aG9kb2xvZ2llcy5pbnZlc3RlZF9jYXBpdGFsIGltcG9ydCBJbnZlc3RlZENhcGl0YWxBcmdzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0YWJsZV9ieV9zaGFyZWNsYXNkZHM6ICdDYXB0YScK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLmV4dGVybmFsLnZhbHVhdGlvbnMubWV0aG9kb2xvZ2llcy5pbnZlc3RlZF9jYXBpdGFsIGltcG9ydCBJbnZlc3RlZENhcGl0YWxBcmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>289,302s/hybrid_early_exit/hybrid_late_exit/g</text>
