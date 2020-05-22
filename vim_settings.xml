@@ -88,6 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/service/mock_valuations_service.py" timestamp="1590107451687">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="24" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/__init__.py" timestamp="1590033210023">
         <mark key="[" line="27" column="23" />
         <mark key="]" line="29" column="26" />
@@ -100,22 +106,11 @@
         <mark key="]" line="14" column="62" />
         <mark key="." line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1590105787642">
-        <mark key="[" line="30" column="71" />
-        <mark key="]" line="30" column="70" />
-        <mark key="^" line="30" column="70" />
-        <mark key="." line="30" column="69" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/methodologies/__init__.py" timestamp="1590033180702">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="26" />
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/templates/groups/volatility.py" timestamp="1590025484268">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/steps/valuation/dlom.py" timestamp="1590030003112">
         <mark key="[" line="36" column="0" />
@@ -279,10 +274,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self.event_time</text>
+        <text>self.custom_result_code</text>
       </register>
       <register name="-" type="4">
-        <text>self.event_time</text>
+        <text>self.custom_result_code</text>
       </register>
       <register name="/" type="4">
         <text>financia</text>
