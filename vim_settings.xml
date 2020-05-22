@@ -100,9 +100,9 @@
         <mark key="]" line="14" column="62" />
         <mark key="." line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1590103784915">
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="30" column="69" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/tracking/event.py" timestamp="1590105787642">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="70" />
         <mark key="^" line="30" column="70" />
         <mark key="." line="30" column="69" />
       </file>
@@ -279,10 +279,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>self.event_time</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>self.event_time</text>
       </register>
       <register name="/" type="4">
         <text>financia</text>
