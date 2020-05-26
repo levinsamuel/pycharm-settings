@@ -93,11 +93,11 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0007_restructure.py" timestamp="1590452721069">
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="51" column="51" />
-        <mark key="." line="51" column="50" />
-        <mark key="^" line="51" column="51" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0007_restructure.py" timestamp="1590452849460">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="83" column="48" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/decision_tree/test_create_decision_tree.py" timestamp="1590346259159">
         <mark key="[" line="68" column="76" />
@@ -291,8 +291,8 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PositiveIntegerField</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>PositiveIntegerField</text>
@@ -310,32 +310,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkRlbGV0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdWYWx1YXRpb25Qb2xpY3lTZWxlY3Rpb24nLAogICAgICAgICksCg==</text>
+        <text encoding="base64">CgpkZWYgY29weV9zZWxlY3Rpb25fY29kZShhcHBzLCBzY2hlbWFfZWRpdG9yKToKICAgIEdyYXBoUm9vdCA9IGFwcHMuZ2V0X21vZGVsKCJ2YWx1YXRpb25fcG9saWN5IiwgIkdyYXBoUm9vdCIpCiAgICBncmFwaHMgPSBHcmFwaFJvb3Qub2JqZWN0cy5hbm5vdGF0ZShzZWxlY3Rpb25fY29kZT1tb2RlbHMuRignc2VsZWN0b3JfX2NvZGUnKSkKICAgIGZvciBncmFwaCBpbiBncmFwaHM6CiAgICAgICAgZ3JhcGgubmFtZSA9IGdyYXBoLnNlbGVjdGlvbl9jb2RlCiAgICAgICAgZ3JhcGguc2F2ZSh1cGRhdGVfZmllbGRzPVsnbmFtZSddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb3B5X3NlbGVjdGlvbl9jb2RlKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkRlbGV0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdWYWx1YXRpb25Qb2xpY3lTZWxlY3Rpb24nLAogICAgICAgICksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb3B5X3NlbGVjdGlvbl9jb2RlKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbmFtZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdncmFwaHJvb3Rncm91cHJlbGF0aW9uJywKICAgICAgICAgICAgb2xkX25hbWU9J3ZhbHVhdGlvbl9wb2xpY3knLAogICAgICAgICAgICBuZXdfbmFtZT0nZ3JhcGhfcm9vdCcsCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2dyYXBocm9vdGdyb3VwcmVsYXRpb24nLAogICAgICAgICAgICBuYW1lPSdncm91cCcsCiAgICAgICAgICAgIGZpZWxkPWNhcnRhLmRqYW5nby5tb2RlbHMubW9kZWxzLk9uZVRvT25lTm9uVW5pcXVlRmllbGQob25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdncmFwaF9yb290X3JlbGF0aW9uJywgdG89J3ZhbHVhdGlvbl9wb2xpY3kuUG9saWN5R3JvdXAnKSwKICAgICAgICApLAogICAgICAgIG1pZ3JhdGlvbnMuQWx0ZXJVbmlxdWVUb2dldGhlcigKICAgICAgICAgICAgbmFtZT0nZ3JhcGhyb290Z3JvdXByZWxhdGlvbicsCiAgICAgICAgICAgIHVuaXF1ZV90b2dldGhlcj17KCdncmFwaF9yb290JywgJ2dyb3VwJyl9LAogICAgICAgICksCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>migrations.AddField(
             model_name='graphroot',
             name='groups',
             field=models.ManyToManyField(related_name='valuation_policy', through='valuation_policy.GraphRootGroupRelation', to='valuation_policy.PolicyGroup'),
         ),</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IG1pZ3JhdGlvbnMuRGVsZXRlTW9kZWwoCiAgICAgICAgICAgIG5hbWU9J1ZhbHVhdGlvblBvbGljeScsCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkRlbGV0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdWYWx1YXRpb25Qb2xpY3lHcm91cFJlbGF0aW9uJywKICAgICAgICApLA==</text>
       </register>
       <register name=":" type="4">
         <text>289,302s/hybrid_early_exit/hybrid_late_exit/g</text>
