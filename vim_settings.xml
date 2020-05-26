@@ -93,6 +93,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0007_restructure.py" timestamp="1590452721069">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="51" />
+        <mark key="." line="51" column="50" />
+        <mark key="^" line="51" column="51" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/decision_tree/test_create_decision_tree.py" timestamp="1590346259159">
         <mark key="[" line="68" column="76" />
         <mark key="]" line="68" column="109" />
@@ -121,11 +127,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/graph/root.py" timestamp="1590447623272">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/graph/root.py" timestamp="1590450691334">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="15" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/utils.py" timestamp="1590347319338">
         <mark key="]" line="4" column="16" />
@@ -138,16 +144,15 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/models/root.py" timestamp="1590343675456">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="25" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1590446272940">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="72" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0008_restructure2.py" timestamp="1590450366632">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" timestamp="1590347376254">
         <mark key="[" line="6" column="0" />
@@ -176,12 +181,6 @@
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/types.py" timestamp="1590343655727">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -293,46 +292,50 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ValuationPolicy</text>
+        <text>PositiveIntegerField</text>
       </register>
       <register name="-" type="4">
-        <text>ValuationPolicy</text>
+        <text>PositiveIntegerField</text>
       </register>
       <register name="/" type="4">
         <text>valuation_policy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fcG9saWN5ID0gdXRpbHMuZ2V0X2dyYXBoX2Zvcl9yZXZpc2lvbihyZXZpc2lvbl9pZCkK</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdwb2xpY3lyZXZpc2lvbicsCiAgICAgICAgICAgIG5hbWU9J3BvbGljeV9pZCcsCiAgICAgICAgICAgIGZpZWxkPW1vZGVscy5Qb3NpdGl2ZUludGVnZXJGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpLAogICAgICAgICksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5pbnN0YW5jZXMgaW1wb3J0IFNlZ21lbnRhdGlvblBvbGljeUluc3RhbmNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0b3I9bWFwcGVkX3NlbGVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkRlbGV0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdWYWx1YXRpb25Qb2xpY3lTZWxlY3Rpb24nLAogICAgICAgICksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb3B5X3NlbGVjdGlvbl9jb2RlKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmV2aXNpb25fZGJfb2JqLnNlbGVjdG9yIGVsc2UgTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tYXBfcG9saWN5X2RlZmluaXRpb24ocmV2aXNpb25fZGJfb2JqLnNlbGVjdG9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZWRfc2VsZWN0b3IgPSAoCg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLlJlbmFtZUZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdncmFwaHJvb3Rncm91cHJlbGF0aW9uJywKICAgICAgICAgICAgb2xkX25hbWU9J3ZhbHVhdGlvbl9wb2xpY3knLAogICAgICAgICAgICBuZXdfbmFtZT0nZ3JhcGhfcm9vdCcsCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2dyYXBocm9vdGdyb3VwcmVsYXRpb24nLAogICAgICAgICAgICBuYW1lPSdncm91cCcsCiAgICAgICAgICAgIGZpZWxkPWNhcnRhLmRqYW5nby5tb2RlbHMubW9kZWxzLk9uZVRvT25lTm9uVW5pcXVlRmllbGQob25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdncmFwaF9yb290X3JlbGF0aW9uJywgdG89J3ZhbHVhdGlvbl9wb2xpY3kuUG9saWN5R3JvdXAnKSwKICAgICAgICApLAogICAgICAgIG1pZ3JhdGlvbnMuQWx0ZXJVbmlxdWVUb2dldGhlcigKICAgICAgICAgICAgbmFtZT0nZ3JhcGhyb290Z3JvdXByZWxhdGlvbicsCiAgICAgICAgICAgIHVuaXF1ZV90b2dldGhlcj17KCdncmFwaF9yb290JywgJ2dyb3VwJyl9LAogICAgICAgICksCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5pbnRlcmZhY2VzLnNlbGVjdG9yLnNlbGVjdG9yIGltcG9ydCBQb2xpY3lTZWxlY3Rvcgo=</text>
+      <register name="7" type="4">
+        <text>migrations.AddField(
+            model_name='graphroot',
+            name='groups',
+            field=models.ManyToManyField(related_name='valuation_policy', through='valuation_policy.GraphRootGroupRelation', to='valuation_policy.PolicyGroup'),
+        ),</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZ2V0X3NlbGVjdG9yKGNscykgLT4gJ1BvbGljeVNlbGVjdG9yJzoKICAgICAgICBpZiBjbHMuX19zZWxlY3RvciBpcyBOb25lOgogICAgICAgICAgICByYWlzZSBJbnZhbGlkU3RhdGVFeGNlcHRpb24oJ1NlbGVjdG9yIHdhcyBub3QgaW5pdGlhbGl6ZWQgcHJvcGVybHknKQogICAgICAgIHJldHVybiBjbHMuX19zZWxlY3Rvcgo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfc2V0X3NlbGVjdG9yKGNscywgc2VsZWN0b3I6ICdQb2xpY3lTZWxlY3RvcicpOgogICAgICAgIGlmIGNscy5fX3NlbGVjdG9yIGlzIG5vdCBOb25lOgogICAgICAgICAgICByYWlzZSBJbml0aWFsaXphdGlvbkV4Y2VwdGlvbignU2VsZWN0b3IgYWxyZWFkeSBpbml0aWFsaXplZC4nKQogICAgICAgIGNscy5fX3NlbGVjdG9yID0gc2VsZWN0b3IKCiA=</text>
+        <text encoding="base64">IG1pZ3JhdGlvbnMuRGVsZXRlTW9kZWwoCiAgICAgICAgICAgIG5hbWU9J1ZhbHVhdGlvblBvbGljeScsCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkRlbGV0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdWYWx1YXRpb25Qb2xpY3lHcm91cFJlbGF0aW9uJywKICAgICAgICApLA==</text>
       </register>
       <register name=":" type="4">
         <text>289,302s/hybrid_early_exit/hybrid_late_exit/g</text>
