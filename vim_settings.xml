@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>'BACKSOLVE_SIMPLE'</entry>
         <entry>var</entry>
         <entry>advance_i</entry>
         <entry>is_setup</entry>
@@ -27,6 +26,7 @@
         <entry>cap_table</entry>
         <entry>financia</entry>
         <entry>valuation_policy</entry>
+        <entry>_PIP</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n//g</entry>
@@ -155,11 +155,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/config/bin/db-reset" timestamp="1590694050197">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="8" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/git/c/carta-web/config/bin/db-reset" timestamp="1590708301288">
+        <mark key="'" line="4" column="167" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/scenario.py" timestamp="1590692694169" />
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1590547986199">
@@ -171,13 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="9" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
-      <jump line="66" column="13" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
-      <jump line="67" column="73" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
-      <jump line="72" column="36" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
-      <jump line="74" column="30" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
-      <jump line="83" column="57" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
-      <jump line="89" column="41" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
       <jump line="99" column="12" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
       <jump line="19" column="21" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" />
       <jump line="328" column="0" filename="$USER_HOME$/git/c/carta-web/tests/factories/valuations/factories.py" />
@@ -271,6 +265,13 @@
       <jump line="67" column="35" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/to_mapper.py" />
       <jump line="70" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/to_mapper.py" />
       <jump line="88" column="6" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" />
+      <jump line="24" column="24" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
+      <jump line="44" column="15" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
+      <jump line="70" column="26" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
+      <jump line="78" column="12" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
+      <jump line="79" column="8" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
+      <jump line="81" column="8" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
+      <jump line="124" column="167" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,13 +280,13 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>comp_map</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>comp_map</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>valuation_policy</text>
+        <text>_PIP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbl9tZXRob2Q9dmFsdWF0aW9uX3BvbGljeV9pbnN0YW5jZS5hbGxvY2F0aW9uX2NvbmZpZy5tZXRob2QsCiAgICAgICAgICAgIHRyZWF0X2NhcHBlZF9ub3Rlc19hc19lcXVpdHk9dmFsdWF0aW9uX3BvbGljeV9pbnN0YW5jZS5hbGxvY2F0aW9uX2NvbmZpZy50cmVhdF9jYXBwZWRfbm90ZXNfYXNfZXF1aXR5LAo=</text>
@@ -294,31 +295,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmluZF9kdXBsaWNhdGVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluZF9kdXBsaWNhdGVzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWR1Y2UobGFtYmRhIG1hcCwgY29tcDogbWFwW10pCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZWR1Y2UobGFtYmRhIG1hcCwgY29tcDogbWFwW10pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBjaGVjayByZXN1bHRzCiAgICAgICAgZXZlbnRfc2VydmljZSA9IFNlcnZpY2VSZWdpc3RyeS5nZXRfdHJhY2tpbmdfc2VydmljZSgpCiAgICAgICAgZXZlbnRzID0gZXZlbnRfc2VydmljZS5nZXRfZXZlbnRzKAogICAgICAgICAgICBldmVudF90eXBlPVRSQUNLSU5HX0VWRU5UX1RZUEVfSFlCUklEX0JBQ0tTT0xWRV9QT0xJQ1ksCiAgICAgICAgICAgICMgYmVmb3JlIHRoaXMgaXMgYmVpbmcgcnVuCiAgICAgICAgICAgIHN0YXJ0X2RhdGU9ZGF0ZXRpbWUoMjAyMCwgNSwgMSkKICAgICAgICApCiAgICAgICAgYXNzZXJ0IGxlbihldmVudHMpID4gMAogICAgICAgIGV2ZW50ID0gZXZlbnRzWy0xXQogICAgICAgICMgVGhlc2UgbWVhbnMgdGhhdCBwb2xpY3kgcmFuIGFuZCBhIGNvbXBhcmlzb24gaGFwcGVuZWQuCiAgICAgICAgYXNzZXJ0IGV2ZW50LmN1c3RvbV9yZXN1bHRfY29kZSBpbiB7J01BVENIJywgJ01JU01BVENIJ30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChldmVudHMpCg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBjaGVjayByZXN1bHRzCiAgICAgICAgZXZlbnRfc2VydmljZSA9IFNlcnZpY2VSZWdpc3RyeS5nZXRfdHJhY2tpbmdfc2VydmljZSgpCiAgICAgICAgZXZlbnRzID0gZXZlbnRfc2VydmljZS5nZXRfZXZlbnRzKAogICAgICAgICAgICBldmVudF90eXBlPVRSQUNLSU5HX0VWRU5UX1RZUEVfSFlCUklEX0JBQ0tTT0xWRV9QT0xJQ1ksCiAgICAgICAgICAgICMgYmVmb3JlIHRoaXMgaXMgYmVpbmcgcnVuCiAgICAgICAgICAgIHN0YXJ0X2RhdGU9ZGF0ZXRpbWUoMjAyMCwgNSwgMSkKICAgICAgICApCiAgICAgICAgYXNzZXJ0IGxlbihldmVudHMpID4gMAogICAgICAgIGV2ZW50ID0gZXZlbnRzWy0xXQogICAgICAgICMgVGhlc2UgbWVhbnMgdGhhdCBwb2xpY3kgcmFuIGFuZCBhIGNvbXBhcmlzb24gaGFwcGVuZWQuCiAgICAgICAgYXNzZXJ0IGV2ZW50LmN1c3RvbV9yZXN1bHRfY29kZSBpbiB7J01BVENIJywgJ01JU01BVENIJ30K</text>
       </register>
       <register name=":" type="4">
         <text>289,302s/hybrid_early_exit/hybrid_late_exit/g</text>
@@ -327,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>valuation_policy</last-search>
+      <last-search>_PIP</last-search>
       <last-offset />
-      <last-pattern>valuation_policy</last-pattern>
+      <last-pattern>_PIP</last-pattern>
       <last-replace>hybrid_late_exit</last-replace>
       <last-substitute>hybrid_early_exit</last-substitute>
       <last-dir>1</last-dir>
