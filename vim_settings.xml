@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>equity_value</entry>
         <entry>Decimal</entry>
         <entry>treat_capped_notes_as_equity</entry>
         <entry>SortedCaptableDataType</entry>
@@ -27,6 +26,7 @@
         <entry>SOURCE</entry>
         <entry>SKIP_PIP</entry>
         <entry encoding="base64">XDxDUkVBVEVfREJTXD4=</entry>
+        <entry>revision</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n//g</entry>
@@ -121,12 +121,12 @@
         <mark key="^" line="53" column="50" />
         <mark key="." line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591050782136">
-        <mark key="'" line="125" column="8" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591051107711">
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
         <mark key="^" line="68" column="40" />
-        <mark key="." line="75" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" timestamp="1590719640248">
         <mark key="'" line="17" column="13" />
@@ -302,8 +302,8 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, segment: %s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>, segment: %s</text>
@@ -318,31 +318,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLnBvbGljeV9yZXZpc2lvbiA9IHBvbGljeV9yZXZpc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLnBvbGljeV9yZXZpc2lvbiA9IHBvbGljeV9yZXZpc2lvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb290X3BvbGljeSA9IG1vZGVsX2NsYXNzLnJvb3RfcG9saWN5Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByb290X3BvbGljeSA9IG1vZGVsX2NsYXNzLnJvb3RfcG9saWN5Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgVFlQRV9DSEVDS0lORzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5wb2xpY3kudGVtcGxhdGVzLmludGVyZmFjZXMgaW1wb3J0IFZhbHVhdGlvblBvbGljeVRlbXBsYXRlCg==</text>
+        <text encoding="base64">aWYgVFlQRV9DSEVDS0lORzoK</text>
       </register>
       <register name=":" type="4">
         <text>289,302s/hybrid_early_exit/hybrid_late_exit/g</text>
