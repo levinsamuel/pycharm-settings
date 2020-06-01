@@ -91,27 +91,42 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/values.py" timestamp="1590951943291">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/owner_key.py" timestamp="1590718801574" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/restructure_utils.py" timestamp="1590784958291">
         <mark key="[" line="7" column="76" />
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1590784945430">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="27" column="13" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" timestamp="1590719640248">
         <mark key="'" line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/version.py" timestamp="1590719354446">
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="77" />
+        <mark key="." line="4" column="77" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0007_restructure.py" timestamp="1590784968296">
-        <mark key="'" line="57" column="61" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="78" column="47" />
-        <mark key="." line="73" column="0" />
+        <mark key="'" line="54" column="61" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="75" column="47" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/__init__.py" timestamp="1590719456128">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/corporations/purge_tasks/purge_409.py" timestamp="1590770884305">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1590951863035">
         <mark key="'" line="340" column="20" />
@@ -123,33 +138,17 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/common/management/commands/db_local_restore.py" timestamp="1590773339136">
         <mark key="'" line="301" column="26" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/restructure_utils.py" timestamp="1591030073542">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/constants.py" timestamp="1590784400161">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="4" column="55" />
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/repository/repository.py" timestamp="1590718838140">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="64" />
-        <mark key="^" line="23" column="64" />
-        <mark key="." line="23" column="63" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1590784945430">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="27" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/version.py" timestamp="1590719354446">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/corporations/purge_tasks/purge_409.py" timestamp="1590770884305">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/repository/test_repository.py" timestamp="1590719819777">
         <mark key="[" line="64" column="0" />
@@ -166,6 +165,12 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="30" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/repository/repository.py" timestamp="1590718838140">
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="64" />
+        <mark key="^" line="23" column="64" />
+        <mark key="." line="23" column="63" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/root.py" timestamp="1590719465827">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
@@ -174,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="51" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="285" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" />
       <jump line="195" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
       <jump line="196" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
@@ -274,6 +278,7 @@
       <jump line="355" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="340" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="22" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/values.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/restructure_utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
