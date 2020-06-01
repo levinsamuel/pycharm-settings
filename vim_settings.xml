@@ -88,6 +88,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/values.py" timestamp="1590951943291">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/utils/owner_key.py" timestamp="1590718801574" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/restructure_utils.py" timestamp="1590784958291">
         <mark key="[" line="7" column="76" />
@@ -110,8 +113,8 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1590951800187">
-        <mark key="'" line="355" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" timestamp="1590951863035">
+        <mark key="'" line="340" column="20" />
         <mark key="[" line="345" column="0" />
         <mark key="]" line="345" column="24" />
         <mark key="^" line="341" column="21" />
@@ -171,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="179" column="51" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" />
       <jump line="285" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" />
       <jump line="195" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" />
@@ -265,12 +267,13 @@
       <jump line="32" column="4" filename="$USER_HOME$/git/c/carta-web/config/bin/db-reset" />
       <jump line="57" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/migrations/0007_restructure.py" />
       <jump line="353" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="340" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="337" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="335" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="323" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="329" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="355" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
+      <jump line="340" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/values.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
