@@ -101,13 +101,13 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1590784945430">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="27" column="13" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1591043336566">
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591042696618">
+      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591043256557">
         <mark key="'" line="124" column="8" />
         <mark key="[" line="86" column="11" />
         <mark key="]" line="86" column="24" />
@@ -170,6 +170,11 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/rpc/services/irc409a_report/handlers.py" timestamp="1590771472892">
         <mark key="'" line="7" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1591043261929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" timestamp="1590719489467">
         <mark key="[" line="34" column="29" />
@@ -299,46 +304,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>root_policy</text>
+        <text>.core.service_registry import ServiceRegistry</text>
       </register>
       <register name="-" type="4">
-        <text>root_policy</text>
+        <text>.core.service_registry import ServiceRegistry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDUkVBVEVfREJTXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>decision_tree_revision</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PgogICAgPj4+ICMgT3IgY3JlYXRlIGEgZGVjaXNpb24tdHJlZSBzdHlsZSBwb2xpY3kKICAgID4+PiB0cmVlID0gQm9vbGVhblJ1bGUoCiAgICA+Pj4gICAgIG5hbWU9Li4uLCBjb25kaXRpb249Li4uLCBpZl9mYWxzZT0uLi4sIGlmX3RydWU9Li4uCiAgICA+Pj4gKQogICAgPj4+IHJvb3RfcG9saWN5ID0gVmFsYm90UG9saWN5UmV2aXNpb25GYWN0b3J5LmNyZWF0ZSgKICAgID4+PiAgICAgbmFtZT0nTXkgdHJlZSBwb2xpY3knLCBkZWNpc2lvbl90cmVlPXRyZWUKICAgID4+PiApCiAgICA+Pj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkZWNpc2lvbl90cmVlOiBDcmVhdGUgYSBkZWNpc2lvbi10cmVlLXNoYXBlZCBwb2xpY3kgZnJvbSBhIFZhbHVhdG9uUG9saWN5VGVtcGxhdGUuCg==</text>
+        <text encoding="base64">ICAgICMgZGVmYXVsdCBwb2xpY3kgaXMgdmFsYm90</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uX3BvbGljeT12YWx1YXRpb25fcG9saWN5LAo=</text>
+        <text encoding="base64">Igo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fcG9saWN5OiBWYWx1YXRpb25Qb2xpY3lUZW1wbGF0ZSA9IE5vbmUsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PgogICAgPj4+ICMgT3IgY3JlYXRlIGEgZGVjaXNpb24tdHJlZSBzdHlsZSBwb2xpY3kKICAgID4+PiB0cmVlID0gQm9vbGVhblJ1bGUoCiAgICA+Pj4gICAgIG5hbWU9Li4uLCBjb25kaXRpb249Li4uLCBpZl9mYWxzZT0uLi4sIGlmX3RydWU9Li4uCiAgICA+Pj4gKQogICAgPj4+IHJvb3RfcG9saWN5ID0gVmFsYm90UG9saWN5UmV2aXNpb25GYWN0b3J5LmNyZWF0ZSgKICAgID4+PiAgICAgbmFtZT0nTXkgdHJlZSBwb2xpY3knLCBkZWNpc2lvbl90cmVlPXRyZWUKICAgID4+PiApCiAgICA+Pj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2YWx1YXRpb25fcG9saWN5OiBDcmVhdGUgYSBEQUctc2hhcGVkIHBvbGljeSBmcm9tIGEgY2FydGEudmFsdWF0aW9ucy5ydWxlcyBydWxlIHRyZWUuCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBkZWNpc2lvbl90cmVlOiBDcmVhdGUgYSBkZWNpc2lvbi10cmVlLXNoYXBlZCBwb2xpY3kgZnJvbSBhIFZhbHVhdG9uUG9saWN5VGVtcGxhdGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID4+Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWF0aW9uX3BvbGljeT12YWx1YXRpb25fcG9saWN5LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgID4+PiB2YWx1YXRpb25fcG9saWN5ID0gVmFsYm90UG9saWN5UmV2aXNpb25GYWN0b3J5LmNyZWF0ZSh2YWx1YXRpb25fcG9saWN5PXRlbXBsYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb25fcG9saWN5OiBWYWx1YXRpb25Qb2xpY3lUZW1wbGF0ZSA9IE5vbmUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID4+PiB0ZW1wbGF0ZSA9IFN0YW5kYXJkQmFja3NvbHZlUG9saWN5R2VuZXJhdG9yKCkuY3JlYXRlX3BvbGljeSgpICAjIGNyZWF0ZSBhIHBvbGljeSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB2YWx1YXRpb25fcG9saWN5OiBDcmVhdGUgYSBEQUctc2hhcGVkIHBvbGljeSBmcm9tIGEgY2FydGEudmFsdWF0aW9ucy5ydWxlcyBydWxlIHRyZWUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID4+PiAjIENyZWF0ZSBhIGdyYXBoLXN0eWxlIHZhbHVhdGlvbiBwb2xpY3kK</text>
+        <text encoding="base64">ICAgID4+Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>289,302s/hybrid_early_exit/hybrid_late_exit/g</text>
