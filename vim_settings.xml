@@ -100,23 +100,10 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591051107711">
-        <mark key="'" line="124" column="8" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="68" column="40" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/service_registry.py" timestamp="1591062548874">
         <mark key="[" line="2" column="56" />
         <mark key="]" line="2" column="56" />
         <mark key="." line="2" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/policy.py" timestamp="1591052225077">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="20" column="108" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/runner.py" timestamp="1591052750531">
         <mark key="[" line="99" column="29" />
@@ -136,16 +123,7 @@
         <mark key="." line="61" column="70" />
         <mark key="^" line="61" column="71" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1591062992350">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/valuation_policy.py" timestamp="1591052518635">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1591062992350" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/__init__.py" timestamp="1591052582380">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="11" column="16" />
@@ -162,7 +140,7 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1591061201614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="7" column="30" />
+        <mark key="^" line="4" column="30" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" timestamp="1591052780216">
@@ -172,19 +150,25 @@
         <mark key="." line="153" column="70" />
         <mark key="^" line="153" column="71" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1591118206041">
+        <mark key="'" line="88" column="38" />
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="53" column="50" />
+        <mark key="^" line="53" column="50" />
+        <mark key="." line="53" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/check_policies.py" timestamp="1591121280832">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" timestamp="1591052808515">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="62" column="21" />
         <mark key="]" line="62" column="57" />
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="57" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" timestamp="1591052648370">
-        <mark key="'" line="80" column="3" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/startup.py" timestamp="1591062529504">
         <mark key="[" line="31" column="35" />
@@ -313,16 +297,16 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ValuationPolicyServiceContainer.get_service_instance()</text>
+        <text encoding="base64">ICAjIHR5cGU6IFN0YW5kYXJkVmFsdWF0aW9uUG9saWN5VGVtcGxhdGU=</text>
       </register>
       <register name="-" type="4">
-        <text>ValuationPolicyServiceContainer.get_service_instance()</text>
+        <text encoding="base64">ICAjIHR5cGU6IFN0YW5kYXJkVmFsdWF0aW9uUG9saWN5VGVtcGxhdGU=</text>
       </register>
       <register name="/" type="4">
         <text>service_instance</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LnNlcnZpY2UgaW1wb3J0IFZhbHVhdGlvbnNTZXJ2aWNlCg==</text>
+      <register name="0" type="4">
+        <text># type: StandardValuationPolicyTemplate</text>
       </register>
       <register name="q" type="4">
         <text />
