@@ -119,15 +119,11 @@
         <mark key="." line="61" column="70" />
         <mark key="^" line="61" column="71" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1591043261929">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1591051008029">
-        <mark key="[" line="55" column="66" />
-        <mark key="]" line="55" column="66" />
-        <mark key="." line="55" column="66" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1591061430556">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/valuation_policy.py" timestamp="1591052518635">
         <mark key="[" line="4" column="0" />
@@ -147,11 +143,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1591052151233">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="53" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1591061201614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" timestamp="1591043953997">
         <mark key="[" line="0" column="0" />
@@ -189,6 +185,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/startup.py" timestamp="1591061416162">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="49" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="49" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" timestamp="1591053162909">
         <mark key="[" line="80" column="25" />
@@ -312,46 +314,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_policy</text>
+        <text>service_instance</text>
       </register>
       <register name="-" type="4">
-        <text>_policy</text>
+        <text>service_instance</text>
       </register>
       <register name="/" type="4">
         <text>service_instance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIHJ1bl9zdGFuZGFyZF9wb2xpY3lfZm9yX3R5cGUoc2VsZiwgdW1icmVsbGE6ICdVbWJyZWxsYScpIC0+ICdWYWxib3RQb2xpY3lSZXNwb25zZVtQb2xpY3lJbnN0YW5jZV0nOgogICAgICAgIHBhc3M=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LnNlcnZpY2UgaW1wb3J0IFZhbHVhdGlvbnNTZXJ2aWNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kubW9kZWxzIGltcG9ydCBSb290UG9saWN5Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGVWYXIsIEdlbmVyaWMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5pbnRlcmZhY2VzLnBvbGljeSBpbXBvcnQgQWJzdHJhY3RQb2xpY3lJbnN0YW5jZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
+        <text encoding="base64">UG9saWN5SW5zdGFuY2VUeXBlID0gVHlwZVZhcignUG9saWN5SW5zdGFuY2VUeXBlJywgYm91bmQ9QWJzdHJhY3RQb2xpY3lJbnN0YW5jZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kubW9kZWxzIGltcG9ydCBSb290UG9saWN5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>79,93s/service_instance/policy_service/g</text>
