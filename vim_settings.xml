@@ -88,11 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1591042195604">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591051107711">
         <mark key="'" line="124" column="8" />
         <mark key="[" line="72" column="0" />
@@ -194,6 +189,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" timestamp="1591053162909">
+        <mark key="[" line="80" column="25" />
+        <mark key="]" line="80" column="61" />
+        <mark key="^" line="80" column="61" />
+        <mark key="." line="80" column="60" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" timestamp="1591044390505">
         <mark key="[" line="46" column="58" />
@@ -311,10 +312,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>root_policy</text>
+        <text>_policy</text>
       </register>
       <register name="-" type="4">
-        <text>root_policy</text>
+        <text>_policy</text>
       </register>
       <register name="/" type="4">
         <text>service_instance</text>
@@ -326,31 +327,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kubW9kZWxzIGltcG9ydCBSb290UG9saWN5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuY2xzLnBvbGljeV9yZXZpc2lvbiA9IHBvbGljeV9yZXZpc2lvbgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXBvc2l0b3J5LmdldF9hY3RpdmVfcG9saWN5X2J5X25hbWUocm9vdF9wb2xpY3kub3duZXIuaWQsIHJvb3RfcG9saWN5Lm5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>79,93s/service_instance/policy_service/g</text>
