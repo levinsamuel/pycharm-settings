@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>policy.py</entry>
         <entry>hybrid_early_exit</entry>
         <entry>share_class_volatilities</entry>
         <entry>captable</entry>
@@ -27,6 +26,7 @@
         <entry>\bweight\b</entry>
         <entry>\\bweight\\b</entry>
         <entry>\Wweight\W</entry>
+        <entry>hybrid_backsolve_weighted_totals</entry>
       </history-search>
       <history-cmd>
         <entry>29,86/carta.django.models.fields\.//g</entry>
@@ -88,17 +88,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy/valuations_client.py" timestamp="1591062616474">
-        <mark key="'" line="5" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="81" />
-        <mark key="^" line="1" column="81" />
-        <mark key="." line="1" column="80" />
-      </file>
       <file name="/a.dummy" timestamp="1591124567966">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" timestamp="1591146855561">
+        <mark key="'" line="90" column="39" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuation_policy.py" timestamp="1591062992350" />
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" timestamp="1591070105745">
@@ -132,22 +128,11 @@
         <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/dlom_adjusted.py" timestamp="1591137937898" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/service_registry.py" timestamp="1591062548874">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="56" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_asset_policies.py" timestamp="1591070163322">
         <mark key="[" line="46" column="25" />
         <mark key="]" line="46" column="61" />
         <mark key="." line="46" column="60" />
         <mark key="^" line="46" column="61" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1591146535095">
-        <mark key="[" line="158" column="137" />
-        <mark key="]" line="159" column="85" />
-        <mark key="^" line="159" column="85" />
-        <mark key="." line="159" column="84" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1591118206041">
         <mark key="'" line="88" column="38" />
@@ -162,11 +147,15 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" timestamp="1591146541904">
+      <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" timestamp="1591146790935">
+        <mark key="'" line="72" column="27" />
         <mark key="[" line="38" column="42" />
         <mark key="]" line="38" column="72" />
         <mark key="." line="38" column="71" />
         <mark key="^" line="38" column="72" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" timestamp="1591146836638">
+        <mark key="'" line="155" column="23" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1591146136349">
         <mark key="'" line="473" column="47" />
@@ -178,19 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="6" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="10" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="13" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="18" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="21" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="32" column="30" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="51" column="30" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="65" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/to_mapper.py" />
       <jump line="73" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/to_mapper.py" />
       <jump line="2" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/to_mapper.py" />
       <jump line="3" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/to_mapper.py" />
@@ -278,6 +254,19 @@
       <jump line="446" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="473" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
       <jump line="15" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="56" column="26" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" />
+      <jump line="90" column="27" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" />
+      <jump line="108" column="27" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" />
+      <jump line="54" column="27" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" />
+      <jump line="72" column="27" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="56" column="19" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="69" column="19" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="155" column="23" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/discussion_backsolve.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" />
+      <jump line="30" column="31" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" />
+      <jump line="44" column="31" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" />
+      <jump line="90" column="39" filename="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,7 +281,7 @@
         <text>hybrid_backsolve_weighted_totals</text>
       </register>
       <register name="/" type="4">
-        <text>\Wweight\W</text>
+        <text>hybrid_backsolve_weighted_totals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnd2VpZ2h0JywKICAgICAgICAnYWxsb2NhdGlvbicsCiAgICAgICAgJ3ZhbHVlJywKICAgICAgICAndm9sYXRpbGl0eScsCiAgICAgICAgJ2NoYWZmZScsCiAgICAgICAgJ2Zpbm5lcnR5JywKICAgICAgICAnaW5jcmVtZW50YWxfY2hhZmZlJywKICAgICAgICAnaW5jcmVtZW50YWxfZmlubmVydHknLAo=</text>
@@ -344,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\Wweight\W</last-search>
+      <last-search>hybrid_backsolve_weighted_totals</last-search>
       <last-offset />
-      <last-pattern>\Wweight\W</last-pattern>
+      <last-pattern>hybrid_backsolve_weighted_totals</last-pattern>
       <last-replace>policy_service</last-replace>
       <last-substitute>service_instance</last-substitute>
       <last-dir>1</last-dir>
