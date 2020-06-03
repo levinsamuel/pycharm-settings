@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>treat_capped_notes_as_equity</entry>
-        <entry>SortedCaptableDataType</entry>
-        <entry>OFFLINE</entry>
-        <entry encoding="base64">XDxUT0RPXD4=</entry>
         <entry>policy.py</entry>
         <entry>hybrid_early_exit</entry>
         <entry>share_class_volatilities</entry>
@@ -27,6 +23,10 @@
         <entry encoding="base64">XDxDUkVBVEVfREJTXD4=</entry>
         <entry>revision</entry>
         <entry>service_instance</entry>
+        <entry>weight</entry>
+        <entry>\bweight\b</entry>
+        <entry>\\bweight\\b</entry>
+        <entry>\Wweight\W</entry>
       </history-search>
       <history-cmd>
         <entry>29,86/carta.django.models.fields\.//g</entry>
@@ -108,11 +108,6 @@
         <mark key="." line="49" column="60" />
         <mark key="^" line="49" column="61" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/policy/response.py" timestamp="1591061201614">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" timestamp="1591138084536">
         <mark key="'" line="97" column="24" />
       </file>
@@ -129,12 +124,6 @@
         <mark key="]" line="132" column="25" />
         <mark key="." line="132" column="24" />
         <mark key="^" line="132" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_simple_valuation_policy.py" timestamp="1591053162909">
-        <mark key="[" line="80" column="25" />
-        <mark key="]" line="80" column="61" />
-        <mark key="^" line="80" column="61" />
-        <mark key="." line="80" column="60" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/__init__.py" timestamp="1591124592801">
         <mark key="[" line="4" column="15" />
@@ -154,11 +143,11 @@
         <mark key="." line="46" column="60" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1591145551783">
-        <mark key="[" line="96" column="79" />
-        <mark key="]" line="145" column="57" />
-        <mark key="^" line="145" column="57" />
-        <mark key="." line="145" column="56" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" timestamp="1591146535095">
+        <mark key="[" line="158" column="137" />
+        <mark key="]" line="159" column="85" />
+        <mark key="^" line="159" column="85" />
+        <mark key="." line="159" column="84" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1591118206041">
         <mark key="'" line="88" column="38" />
@@ -173,6 +162,15 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_dlom.html" timestamp="1591146541904">
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="71" />
+        <mark key="^" line="38" column="72" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" timestamp="1591146136349">
+        <mark key="'" line="473" column="47" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuations.py" timestamp="1591124605590">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -180,19 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="8" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="9" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="10" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="11" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="12" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="15" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="57" column="45" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="60" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="74" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/from_mapper.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
-      <jump line="69" column="25" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
       <jump line="4" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
       <jump line="5" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
       <jump line="6" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/mappers/django_mapper/template_mapper.py" />
@@ -280,6 +265,19 @@
       <jump line="2" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy/valuations_client.py" />
       <jump line="163" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" />
       <jump line="174" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" />
+      <jump line="123" column="6" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="256" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="338" column="87" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="26" column="50" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="111" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="125" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="135" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="154" column="44" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="158" column="53" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
+      <jump line="357" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="446" column="27" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="473" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/scenario.py" />
+      <jump line="15" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/report/context/hybrid/hybrid_scenarios.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,46 +286,56 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>get_approach_value</text>
+        <text>hybrid_backsolve_weighted_totals</text>
       </register>
       <register name="-" type="4">
-        <text>get_approach_value</text>
+        <text>hybrid_backsolve_weighted_totals</text>
       </register>
       <register name="/" type="4">
-        <text>service_instance</text>
+        <text>\Wweight\W</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbnlfdmFsdWVfY29uZmlnOiAnQ29tcGFueVZhbHVlQ29uZmlnJywKICAgIGRlYnQ6ICdEZWJ0U3RydWN0JywKICAgIGFwcHJvYWNoOiAnQXBwcm9hY2hUeXBlJywKICAgIGtleTogc3RyLAopIC0+IERlY2ltYWw6Cg==</text>
+        <text encoding="base64">ICAgICAgICAnd2VpZ2h0JywKICAgICAgICAnYWxsb2NhdGlvbicsCiAgICAgICAgJ3ZhbHVlJywKICAgICAgICAndm9sYXRpbGl0eScsCiAgICAgICAgJ2NoYWZmZScsCiAgICAgICAgJ2Zpbm5lcnR5JywKICAgICAgICAnaW5jcmVtZW50YWxfY2hhZmZlJywKICAgICAgICAnaW5jcmVtZW50YWxfZmlubmVydHknLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="2" type="4">
+        <text>ScenarioSummary = namedtuple('ScenarioSummary', [
+        'weight',
+        'allocation',
+        'value',
+        'volatility',
+        'chaffe',
+        'finnerty',
+        'incremental_chaffe',
+        'incremental_finnerty',
+    ]
+)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPOiBtb3ZlIHRvIHZhbHVhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9ZWFybHlfZXhpdF92YWx1YXRpb25fZGF0ZV9jb250ZXh0WydzY2VuYXJpb19jb21wYW55X3ZhbHVlJ10sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LnNlcnZpY2UgaW1wb3J0IGltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9bGF0ZV9leGl0X2NvbnRleHRbJ2JhY2tzb2x2ZSddLmltcGxpZWRfZXF1aXR5X3ZhbHVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIE9wdGlvbmFsLCBUeXBlVmFyCmltcG9ydCBsb2dnaW5nCgpmcm9tIGVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5jb3JlLmNvbnN0YW50cyBpbXBvcnQgVkFMQk9UX1BPTElDWV9OQU1FLCBTRUdNRU5UQVRJT05fUE9MSUNZX05BTUUKZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5leGNlcHRpb25zIGltcG9ydCBOb3RGb3VuZEV4Y2VwdGlvbiwgTm9Qb2xpY3lGb3JTZWxlY3Rpb25Db2RlCmZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuaW50ZXJmYWNlcy5wb2xpY3kuaW5zdGFuY2UgaW1wb3J0IEFic3RyYWN0UG9saWN5SW5zdGFuY2UKZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkKZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMucGxhbm5lciBpbXBvcnQgKAogICAgRmxhdHRlbmVyLAogICAgUnVsZUV2YWx1YXRpb25QbGFubmVyCikKZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCmZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LnJ1bGVzLmV2YWx1YXRvciBpbXBvcnQgUnVsZUV2YWx1YXRvcgpmcm9tIGVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5ydWxlcy5qc29uIGltcG9ydCBKU09OUnVsZVNlcnZpY2UKZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5kYXRhLnBvbGljeS5yZXNwb25zZSBpbXBvcnQgVmFsYm90UG9saWN5UmVzcG9uc2UKZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29yZS5pbnRlcmZhY2VzLnNlcnZpY2VzIGltcG9ydCBBYnN0cmFjdFZhbHVhdGlvblBvbGljeVNlcnZpY2UKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5jb3JlLmRhdGEucnVsZXMgaW1wb3J0IFJ1bGVzQ29udGV4dAogICAgZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgICMgbm9xYTogRjQwMQogICAgZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCAoICAjIG5vcWE6IEY0MDEKICAgICAgICBQb2xpY3lSZXZpc2lvbiwgVmFsdWF0aW9uUG9saWN5LCBQb2xpY3lEZWZpbml0aW9uCiAgICApCiAgICBmcm9tIGVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5jb3JlLmludGVyZmFjZXMucmVwb3NpdG9yeS5yZXBvc2l0b3J5IGltcG9ydCBWYWx1YXRpb25Qb2xpY3lSZXBvc2l0b3J5Cgpsb2cgPSBsb2dnaW5nLmdldExvZ2dlcignZXNoYXJlcycpCgpQb2xpY3lJbnN0YW5jZVR5cGUgPSBUeXBlVmFyKCdQb2xpY3lJbnN0YW5jZVR5cGUnLCBib3VuZD1BYnN0cmFjdFBvbGljeUluc3RhbmNlLCBjb3ZhcmlhbnQ9VHJ1ZSkKCgojIFRPRE86IG1vdmUgdG8gdmFsdWF0aW9ucwpjbGFzcyBWYWx1YXRpb25Qb2xpY3lTZXJ2aWNlKEFic3RyYWN0VmFsdWF0aW9uUG9saWN5U2VydmljZSk6CiAgICBkZWYgZ2V0X3NlZ21lbnRhdGlvbl9wb2xpY3koc2VsZiwgYXNfb2ZfZGF0ZTogT3B0aW9uYWxbJ2RhdGV0aW1lJ10gPSBOb25lKToKICAgICAgICByZXBvID0gU2VydmljZVJlZ2lzdHJ5LmdldF9yZXBvc2l0b3J5KCkKCiAgICAgICAgb3duZXIgPSByZXBvLmdldF9jYXJ0YV9vd25lcl9vYmplY3QoKQogICAgICAgIGFjdGl2ZV9yZXZpc2lvbiA9IHNlbGYuX2dldF9hY3RpdmVfcG9saWN5KAogICAgICAgICAgICByZXBvPXJlcG8sCiAgICAgICAgICAgIG93bmVyX2lkPW93bmVyLmlkLAogICAgICAgICAgICBwb2xpY3lfbmFtZT1TRUdNRU5UQVRJT05fUE9MSUNZX05BTUUsCiAgICAgICAgICAgIGFzX29mX2RhdGU9YXNfb2ZfZGF0ZQogICAgICAgICkKICAgICAgICBkZWNpc2lvbl90cmVlID0gcmVwby5nZXRfZGVjaXNpb25fdHJlZV9mcm9tX3JldmlzaW9uKHJldmlzaW9uX2lkPWFjdGl2ZV9yZXZpc2lvbi5pZCkKICAgICAgICByZXR1cm4gZGVjaXNpb25fdHJlZS5maXJzdF9ub2RlCgogICAgIyBUT0RPOiBJcyBpdCBiZXR0ZXIgdG8gYXNrIGZvciBmZXdlciBhcmdzIGFuZCBhc2sgVmFsdWF0aW9uc1NlcnZpY2UgZm9yIG90aGVycz8KICAgIGRlZiBnZXRfdmFsYm90X3BvbGljeV9pbnN0YW5jZSgKICAgICAgICBzZWxmLAogICAgICAgIGNvcnBvcmF0aW9uX2lkOiBpbnQsCiAgICAgICAgYXNfb2ZfZGF0ZTogT3B0aW9uYWxbJ2RhdGV0aW1lJ10gPSBOb25lLAogICAgICAgIHVtYnJlbGxhX2lkOiBPcHRpb25hbFtpbnRdID0gTm9uZSwKICAgICAgICB2YWx1YXRpb25faWQ6IE9wdGlvbmFsW2ludF0gPSBOb25lLAogICAgICAgIGNhcHRhYmxlX2lkOiBPcHRpb25hbFtpbnRdID0gTm9uZSwKICAgICkgLT4gJ1ZhbGJvdFBvbGljeVJlc3BvbnNlJzoKCiAgICAgICAgbG9nLmluZm8oCiAgICAgICAgICAgICdHZXQgdmFsYm90IHBvbGljeSBpbnN0YW5jZTogdW1icmVsbGEgaWQ6ICVzLCBkYXRlOiAlcycsCiAgICAgICAgICAgIHVtYnJlbGxhX2lkLCBhc19vZl9kYXRlCiAgICAgICAgKQogICAgICAgIHJlcG8gPSBTZXJ2aWNlUmVnaXN0cnkuZ2V0X3JlcG9zaXRvcnkoKQogICAgICAgIHZhbHVhdGlvbnNfc2VydmljZSA9IFNlcnZpY2VSZWdpc3RyeS5nZXRfdmFsdWF0aW9uc19zZXJ2aWNlKCkKCiAgICAgICAgb3duZXIgPSByZXBvLmdldF9jYXJ0YV9vd25lcl9vYmplY3QoKQogICAgICAgIGFjdGl2ZV9yZXZpc2lvbiA9IHNlbGYuX2dldF9hY3RpdmVfcG9saWN5KAogICAgICAgICAgICByZXBvPXJlcG8sCiAgICAgICAgICAgIG93bmVyX2lkPW93bmVyLmlkLAogICAgICAgICAgICBwb2xpY3lfbmFtZT1WQUxCT1RfUE9MSUNZX05BTUUsCiAgICAgICAgICAgIGFzX29mX2RhdGU9YXNfb2ZfZGF0ZQogICAgICAgICkKICAgICAgICBzZWxlY3RlZF9wb2xpY3kgPSBzZWxmLl9nZXRfcG9saWN5X2Zvcl9zZWxlY3Rpb25fY29kZSgKICAgICAgICAgICAgcmV2aXNpb25faWQ9YWN0aXZlX3JldmlzaW9uLmlkLAogICAgICAgICkKICAgICAgICBsb2cuZGVidWcoJ2dvdCBwb2xpY3kgd2l0aCBpZDogJXMnLCBzZWxlY3RlZF9wb2xpY3kuaWQpCgogICAgICAgIGJhc2VfY29udGV4dCA9IFZhbGJvdDQwOUFDb250ZXh0QnVpbGRlci5mYWN0b3J5KAogICAgICAgICAgICB2YWx1YXRpb25zX3NlcnZpY2U9dmFsdWF0aW9uc19zZXJ2aWNlCiAgICAgICAgKS5idWlsZF9iYXNlX2NvbnRleHQoCiAgICAgICAgICAgIGNvcnBvcmF0aW9uX2lkPWNvcnBvcmF0aW9uX2lkLAogICAgICAgICAgICB1bWJyZWxsYV9pZD11bWJyZWxsYV9pZCwKICAgICAgICAgICAgdmFsdWF0aW9uX2lkPXZhbHVhdGlvbl9pZCwKICAgICAgICAgICAgY2FwdGFibGVfaWQ9Y2FwdGFibGVfaWQsCiAgICAgICAgKQoKICAgICAgICBwb2xpY3lfaW5zdGFuY2UgPSBzZWxmLl9nZW5lcmF0ZV9pbnN0YW5jZV9mcm9tX3ZhbHVhdGlvbl9wb2xpY3koc2VsZWN0ZWRfcG9saWN5LCBiYXNlX2NvbnRleHQpCiAgICAgICAgcmV0dXJuIFZhbGJvdFBvbGljeVJlc3BvbnNlKAogICAgICAgICAgICBwb2xpY3lfaW5zdGFuY2U9cG9saWN5X2luc3RhbmNlLAogICAgICAgICAgICByZXZpc2lvbl9pZD1hY3RpdmVfcmV2aXNpb24uaWQsCiAgICAgICAgICAgIGFzX29mX2RhdGU9YXNfb2ZfZGF0ZSwKICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9nZW5lcmF0ZV9pbnN0YW5jZV9mcm9tX3ZhbHVhdGlvbl9wb2xpY3koCiAgICAgICAgc2VsZWN0ZWRfcG9saWN5OiAnVmFsdWF0aW9uUG9saWN5JywgYmFzZV9jb250ZXh0OiAnUnVsZXNDb250ZXh0JwogICAgKSAtPiBQb2xpY3lJbnN0YW5jZVR5cGU6CiAgICAgICAgZmxhdHRlbmVkX3BvbGljeV9ub2RlcyA9IEZsYXR0ZW5lci5mbGF0dGVuX3BvbGljeV9ob2xkZXIoCiAgICAgICAgICAgIGhvbGRlcj1zZWxlY3RlZF9wb2xpY3kKICAgICAgICApCiAgICAgICAgZXZhbHVhdGlvbl9wbGFuID0gUnVsZUV2YWx1YXRpb25QbGFubmVyLmJ1aWxkX2V2YWx1YXRpb25fcGxhbigKICAgICAgICAgICAgbm9kZXM9ZmxhdHRlbmVkX3BvbGljeV9ub2RlcwogICAgICAgICkKICAgICAgICBldmFsdWF0ZWRfaW5zdGFuY2UgPSBSdWxlRXZhbHVhdG9yLmZhY3RvcnkoCiAgICAgICAgICAgIGpzb25fcnVsZV9zZXJ2aWNlPUpTT05SdWxlU2VydmljZSgpLAogICAgICAgICAgICBpbnN0YW5jZV90eXBlPXNlbGVjdGVkX3BvbGljeS5pbnN0YW5jZV90eXBlLAogICAgICAgICkuZXZhbHVhdGVfcGxhbigKICAgICAgICAgICAgZXZhbHVhdGlvbl9wbGFuPWV2YWx1YXRpb25fcGxhbiwKICAgICAgICAgICAgY29udGV4dD1iYXNlX2NvbnRleHQsCiAgICAgICAgKQogICAgICAgIGxvZy5kZWJ1ZygncHJvZHVjZWQgZXZhbHVhdGlvbiByZXN1bHQ6ICVzJywgZXZhbHVhdGVkX2luc3RhbmNlKQogICAgICAgIHJldHVybiBldmFsdWF0ZWRfaW5zdGFuY2UKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9wb2xpY3lfZm9yX3NlbGVjdGlvbl9jb2RlKHJldmlzaW9uX2lkOiBpbnQpIC0+ICdWYWx1YXRpb25Qb2xpY3knOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmVwbyA9IFNlcnZpY2VSZWdpc3RyeS5nZXRfcmVwb3NpdG9yeSgpCiAgICAgICAgICAgIHNlbGVjdGVkX3BvbGljeSA9IHJlcG8uZ2V0X3NlbGVjdGVkX3NwZWNpZmljX3BvbGljeSgKICAgICAgICAgICAgICAgIHJldmlzaW9uX2lkPXJldmlzaW9uX2lkLAogICAgICAgICAgICApCiAgICAgICAgICAgIHJldHVybiBzZWxlY3RlZF9wb2xpY3kKICAgICAgICBleGNlcHQgTm90Rm91bmRFeGNlcHRpb246CiAgICAgICAgICAgIHJhaXNlIE5vUG9saWN5Rm9yU2VsZWN0aW9uQ29kZSgKICAgICAgICAgICAgICAgICdyZXZpc2lvbiB7fSBoYXMgbm8gdmFsdWF0aW9uIHBvbGljeSBmb3IgdGhhdCBjb2RlLicuZm9ybWF0KHJldmlzaW9uX2lkKQogICAgICAgICAgICApCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX2dldF9hY3RpdmVfcG9saWN5KAogICAgICAgIGNscywgcmVwbzogJ1ZhbHVhdGlvblBvbGljeVJlcG9zaXRvcnknLAogICAgICAgIG93bmVyX2lkOiBpbnQsCiAgICAgICAgcG9saWN5X25hbWU6IHN0ciwKICAgICAgICBhc19vZl9kYXRlOiBPcHRpb25hbFsnZGF0ZXRpbWUnXSA9IE5vbmUKICAgICkgLT4gJ1BvbGljeVJldmlzaW9uJzoKICAgICAgICBpZiBhc19vZl9kYXRlIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gcmVwby5nZXRfYWN0aXZlX3BvbGljeV9ieV9uYW1lX2Zvcl9kYXRlKAogICAgICAgICAgICAgICAgb3duZXJfaWQ9b3duZXJfaWQsCiAgICAgICAgICAgICAgICBuYW1lPXBvbGljeV9uYW1lLAogICAgICAgICAgICAgICAgYXNfb2ZfZGF0ZT1hc19vZl9kYXRlCiAgICAgICAgICAgICkKICAgICAgICByZXR1cm4gcmVwby5nZXRfYWN0aXZlX3BvbGljeV9ieV9uYW1lKAogICAgICAgICAgICBvd25lcl9pZD1vd25lcl9pZCwKICAgICAgICAgICAgbmFtZT1wb2xpY3lfbmFtZSwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBlYXJseV9leGl0X2JhY2tzb2x2ZV9kYXRlX2NvbnRleHQgPSBjb250ZXh0W0hZQlJJRF9TQ0VOQVJJT19DT05URVhUX0xBQkVMX01BUFtIWUJSSURfU0NFTkFSSU9fTEFCRUxfRUFSTFlfRVhJVF9CQUNLU09MVkVfREFURV1dCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUT0RPOiBtb3ZlIHRvIHZhbHVhdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LnNlcnZpY2UgaW1wb3J0IFZhbHVhdGlvbnNTZXJ2aWNlCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>79,93s/service_instance/policy_service/g</text>
@@ -336,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>service_instance</last-search>
+      <last-search>\Wweight\W</last-search>
       <last-offset />
-      <last-pattern>service_instance</last-pattern>
+      <last-pattern>\Wweight\W</last-pattern>
       <last-replace>policy_service</last-replace>
       <last-substitute>service_instance</last-substitute>
       <last-dir>1</last-dir>
