@@ -103,13 +103,6 @@
         <mark key="." line="163" column="19" />
         <mark key="^" line="163" column="20" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_new_structure_policies.py" timestamp="1591118206041">
-        <mark key="'" line="88" column="38" />
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="53" column="50" />
-        <mark key="^" line="53" column="50" />
-        <mark key="." line="53" column="49" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" timestamp="1591146855561">
         <mark key="'" line="90" column="39" />
       </file>
@@ -164,6 +157,12 @@
         <mark key="]" line="58" column="15" />
         <mark key="." line="58" column="15" />
         <mark key="^" line="57" column="57" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1591238544481">
+        <mark key="[" line="98" column="64" />
+        <mark key="]" line="99" column="110" />
+        <mark key="^" line="99" column="110" />
+        <mark key="." line="99" column="109" />
       </file>
     </filemarks>
     <jumps>
@@ -275,10 +274,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>check_does_not_error_when_missing_classes</text>
+        <text>strategy</text>
       </register>
       <register name="-" type="4">
-        <text>check_does_not_error_when_missing_classes</text>
+        <text>strategy</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
