@@ -94,6 +94,13 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_evaluate_selector.py" timestamp="1591300874708">
+        <mark key="'" line="106" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="83" />
+        <mark key="." line="1" column="82" />
+        <mark key="^" line="1" column="83" />
+      </file>
       <file name="/a.dummy" timestamp="1591252080398">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="5" />
@@ -105,13 +112,6 @@
         <mark key="]" line="20" column="55" />
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_rule_evaluator.py" timestamp="1591250964415">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="68" column="109" />
-        <mark key="]" line="69" column="32" />
-        <mark key="." line="69" column="31" />
-        <mark key="^" line="69" column="32" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/startup.py" timestamp="1591255153332">
         <mark key="]" line="0" column="53" />
@@ -160,10 +160,14 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="79" column="27" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuations.py" timestamp="1591300943476">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="110" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" />
-      <jump line="157" column="21" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" />
       <jump line="18" column="13" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" />
       <jump line="19" column="13" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" />
       <jump line="10" column="13" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/fixtures.py" />
@@ -262,6 +266,8 @@
       <jump line="135" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" />
       <jump line="3" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_rule_evaluator.py" />
       <jump line="47" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_rule_evaluator.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_evaluate_selector.py" />
+      <jump line="103" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_evaluate_selector.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -270,46 +276,54 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIb2xkaW5nKGlkPTEsIHNjZW5hcmlvX2lkPTIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50YXRpb25fY29udGV4dCA9IFNlZ21lbnRhdGlvbkNvbnRleHQoc2VnbWVudD1zZWdtZW50KQogICAgICAgIHJldHVybiBSdWxlc0NvbnRleHQoYXR0ci5hc2RpY3Qoc2VnbWVudGF0aW9uX2NvbnRleHQsIHJlY3Vyc2U9VHJ1ZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text>&quot;&quot;&quot;</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy51bml0LmVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5zZXJ2aWNlLm1vY2tfdmFsdWF0aW9uc19zZXJ2aWNlIGltcG9ydCBNb2NrVmFsdWF0aW9uc1NlcnZpY2UK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IiIiCg==</text>
+      <register name="3" type="4">
+        <text>(
+            _SegmentationRuleContext.factory(MockValuationsService())
+            .build_base_context</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+      <register name="5" type="4">
+        <text>(
+            _SegmentationRuleContext.factory(MockValuationsService())
+            .build_base_context</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBQb2xpY3lPd25lcgo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>(
+            _SegmentationRuleContext.factory(MockValuationsService())
+            .build_base_context</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9faW5pdF9fKHNlbGYsIG93bmVyOiBQb2xpY3lPd25lcik6CiAgICAgICAgc2VsZi5vd25lciA9IG93bmVy</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENhcFRhYmxlQnlTaGFyZUNsYXNzLAo=</text>
+      <register name="9" type="4">
+        <text>(
+            _SegmentationRuleContext.factory(MockValuationsService())
+            .build_base_context</text>
       </register>
       <register name=":" type="4">
         <text>79,93s/service_instance/policy_service/g</text>
