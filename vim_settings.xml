@@ -91,6 +91,12 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1591228681084">
         <mark key="'" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1591240984032">
+        <mark key="[" line="97" column="15" />
+        <mark key="]" line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+        <mark key="." line="97" column="37" />
+      </file>
       <file name="/a.dummy" timestamp="1591124567966">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -105,12 +111,6 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/templates/valuation-report/409a/Hybrid/exhibit_backsolve_results.html" timestamp="1591146855561">
         <mark key="'" line="90" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/check_policies.py" timestamp="1591121280832">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" timestamp="1591138084536">
         <mark key="'" line="97" column="24" />
@@ -158,11 +158,11 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="57" column="57" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1591238544481">
-        <mark key="[" line="98" column="64" />
-        <mark key="]" line="99" column="110" />
-        <mark key="^" line="99" column="110" />
-        <mark key="." line="99" column="109" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1591238617937">
+        <mark key="[" line="99" column="112" />
+        <mark key="]" line="100" column="77" />
+        <mark key="^" line="100" column="77" />
+        <mark key="." line="100" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -274,10 +274,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>strategy</text>
+        <text>not valuation_ids</text>
       </register>
       <register name="-" type="4">
-        <text>strategy</text>
+        <text>not valuation_ids</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
