@@ -154,11 +154,11 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/valbot_409a_context_builder.py" timestamp="1591252596828">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="79" column="27" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/valbot_409a_context_builder.py" timestamp="1591336246830">
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="131" column="70" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/valuations.py" timestamp="1591300943476">
         <mark key="[" line="12" column="0" />
@@ -276,10 +276,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByZXZpb3VzIGx0bSBpcyBub3QgaW5jbHVkZWQgaW4gZmluYW5jaWFsc19mb3Jfc2NlbmFyaW8gc28gaXQgZG9lc24ndCBwdWxsIHRocm91Z2gK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>primary_financials.get_ltm_financials()</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
@@ -291,39 +291,35 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByZXZpb3VzIGx0bSBpcyBub3QgaW5jbHVkZWQgaW4gZmluYW5jaWFsc19mb3Jfc2NlbmFyaW8gc28gaXQgZG9lc24ndCBwdWxsIHRocm91Z2gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy51bml0LmVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5zZXJ2aWNlLm1vY2tfdmFsdWF0aW9uc19zZXJ2aWNlIGltcG9ydCBNb2NrVmFsdWF0aW9uc1NlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBiYWNrc29sdmVfZmluYW5jaWFscz1iYWNrc29sdmVfZmluYW5jaWFscywK</text>
       </register>
-      <register name="3" type="4">
-        <text>(
-            _SegmentationRuleContext.factory(MockValuationsService())
-            .build_base_context</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRvbid0IGtub3cgd2h5IG50bSBkaWRuJ3QgcHVsbCB0aHJvdWdoIGJ1dCBpdCdzIG5vdCBuZWNlc3NhcnkgZWl0aGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSB0ZXN0cy51bml0LmVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5zZXJ2aWNlLm1vY2tfdmFsdWF0aW9uc19zZXJ2aWNlIGltcG9ydCBNb2NrVmFsdWF0aW9uc1NlcnZpY2UK</text>
+      </register>
+      <register name="6" type="4">
         <text>(
             _SegmentationRuleContext.factory(MockValuationsService())
             .build_base_context</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>(
             _SegmentationRuleContext.factory(MockValuationsService())
             .build_base_context</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>(
-            _SegmentationRuleContext.factory(MockValuationsService())
-            .build_base_context</text>
       </register>
       <register name=":" type="4">
         <text>79,93s/service_instance/policy_service/g</text>
