@@ -88,11 +88,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1591418596522">
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="93" column="39" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="93" column="38" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_asset_strategy.py" timestamp="1591419252784">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="100" column="58" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/startup.py" timestamp="1591408230055">
         <mark key="[" line="171" column="52" />
@@ -315,8 +315,8 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>new_valbot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBjZWxlcnkucmVzdWx0IGltcG9ydCBFYWdlclJlc3VsdAo=</text>
       </register>
       <register name="-" type="4">
         <text>new_valbot</text>
@@ -331,37 +331,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkucmVzdWx0IGltcG9ydCBFYWdlclJlc3VsdAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2YWx1YXRpb25faWRzID0gW10K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyZXN1bHQsIEVhZ2VyUmVzdWx0KToKICAgICAgICAgICAgICAgIHZhbHVhdGlvbl9pZCA9IHJlc3VsdC5nZXQoKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdmFsdWF0aW9uX2lkID0gcmVzdWx0CiAgICAgICAgICAgIGFzc2VydCBpc2luc3RhbmNlKHZhbHVhdGlvbl9pZCwgaW50KSwgKAogICAgICAgICAgICAgICAgJ0ZhaWxlZCB0byBleGVjdXRlIHt9IGFzc2V0IHN0cmF0ZWd5LiBDaGVjayB0aGUgbG9nIGZvciBkZXRhaWxzLicuZm9ybWF0KHN0cmF0ZWd5KQogICAgICAgICAgICApCiAgICAgICAgICAgIHZhbHVhdGlvbl9pZHMuYXBwZW5kKHZhbHVhdGlvbl9pZCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyYXRlZ3kgPSAnb2xkIHZhbGJvdCcgaWYgaW5kZXggPT0gMCBlbHNlICduZXcgdmFsYm90Jwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgRmlyc3QgdGFzayBpcyBvbGQgdmFsYm90LiBTaG91bGQgZ2VuZXJhdGUgcmVwb3J0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc3RyYXRlZ3kgPT0gJ29sZCB2YWxib3QnOgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1vY2tfcmVwb3J0X2dlbmVyYXRvcl9mYWN0b3J5LmFzc2VydF9jYWxsZWRfb25jZV93aXRoKHZhbHVhdGlvbl9pZCkKICAgICAgICAgICAgICAgIG1vY2tfZ2VuZXJhdGVfcGRmLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvbWF0ZWRfdmFsdWF0aW9uX3Rhc2tzID0gZ2V0X2F1dG9tYXRlZF92YWx1YXRpb25fdGFza3NfZ3JvdXAoCiAgICAgICAgICAgIHVtYnJlbGxhX3BrPXNlbGYudW1icmVsbGEuaWQsIHVzZXJfcGs9c2VsZi51c2VyLmlkLAogICAgICAgICkKICAgICAgICB2YWx1YXRpb25faWRzID0gW10K</text>
-      </register>
-      <register name="9" type="4">
-        <text>return cls(
-            new_valuation=new_valuation,
-            umbrella=umbrella,
-            request_valuation=request_valuation,
-            strategy=strategy,
-            previous_delivered_valuation=previous_delivered_valuation,
-        )</text>
       </register>
       <register name=":" type="4">
         <text>79,91s/valbot_api/policy_client/g</text>
