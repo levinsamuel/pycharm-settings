@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PREFIX</entry>
-        <entry>prefix</entry>
-        <entry>SOURCE</entry>
         <entry>SKIP_PIP</entry>
         <entry encoding="base64">XDxDUkVBVEVfREJTXD4=</entry>
         <entry>revision</entry>
@@ -27,6 +24,9 @@
         <entry>has_series</entry>
         <entry>share_clas</entry>
         <entry>class_labels</entry>
+        <entry>last_pref</entry>
+        <entry>share_class</entry>
+        <entry>class_lab</entry>
       </history-search>
       <history-cmd>
         <entry>29,86s/carta.django.models.fields\.//g</entry>
@@ -88,11 +88,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_conditions.py" timestamp="1591738800828">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-        <mark key="^" line="27" column="10" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_conditions.py" timestamp="1591740260798">
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="46" column="68" />
+        <mark key="." line="46" column="67" />
+        <mark key="^" line="46" column="68" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1591723579423">
         <mark key="'" line="0" column="0" />
@@ -103,18 +103,19 @@
         <mark key="." line="180" column="87" />
         <mark key="^" line="180" column="88" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/conditions.py" timestamp="1591739557694">
+        <mark key="'" line="20" column="62" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="14" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" timestamp="1591737871400">
         <mark key="'" line="52" column="11" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="90" column="71" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/factories/valuation_policy/factories.py" timestamp="1591471758356">
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="104" column="67" />
-        <mark key="^" line="104" column="67" />
-        <mark key="." line="104" column="66" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/policy/test_segmentation.py" timestamp="1591729874993">
         <mark key="'" line="52" column="35" />
@@ -148,8 +149,12 @@
         <mark key="^" line="262" column="44" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/repository/repository.py" timestamp="1591655608101" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1591737903243">
-        <mark key="'" line="143" column="50" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1591739726404">
+        <mark key="'" line="64" column="68" />
+        <mark key="[" line="147" column="22" />
+        <mark key="]" line="147" column="69" />
+        <mark key="." line="147" column="68" />
+        <mark key="^" line="147" column="69" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/external/valuations/__init__.py" timestamp="1591472429198">
         <mark key="[" line="29" column="0" />
@@ -179,11 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="337" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="335" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="323" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
-      <jump line="329" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="355" column="16" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="340" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/base/scenario.py" />
       <jump line="22" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/default_policy/values.py" />
@@ -277,8 +277,13 @@
       <jump line="44" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="52" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="145" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
-      <jump line="60" column="57" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="143" column="50" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
+      <jump line="60" column="56" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
+      <jump line="221" column="35" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
+      <jump line="165" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
+      <jump line="187" column="42" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
+      <jump line="20" column="62" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/conditions.py" />
+      <jump line="64" column="68" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,46 +292,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>{'!': {'in': ['B', {'var': 'class_labels'}]}},</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>{'!': {'in': ['B', {'var': 'class_labels'}]}},</text>
       </register>
       <register name="/" type="4">
-        <text>class_labels</text>
+        <text>class_lab</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9sYXRlc3RfaXNzdWVfZGF0ZV9jb3JyZWN0bHlfaWdub3Jlc19udWxsX2RhdGVzKHNlbGYpOgogICAgICAgIGxhdGVzdF9kYXRlID0gZGF0ZSgyMDE5LCA0LCAyKQogICAgICAgIGNsYXNzZXMgPSBbCiAgICAgICAgICAgIE1hZ2ljTW9jayhlYXJsaWVzdF9pc3N1ZV9kYXRlPU5vbmUsIGxhdGVzdF9pc3N1ZV9kYXRlPWRhdGUoMjAxOCwgMTAsIDIpKSwKICAgICAgICAgICAgTWFnaWNNb2NrKGVhcmxpZXN0X2lzc3VlX2RhdGU9bGF0ZXN0X2RhdGUsIGxhdGVzdF9pc3N1ZV9kYXRlPU5vbmUpLAogICAgICAgIF0KICAgICAgICBhc3NlcnQgZ2V0X2xhdGVzdF9zaGFyZV9jbGFzc19lYXJsaWVzdF9pc3N1ZV9kYXRlKGNsYXNzZXMpID09IGxhdGVzdF9kYXRlCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">eyc8Jzo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgJ2FuZCc6IFsKICAgICAgICAgICAgICAgICAgICAjIE5vbmUgaWYgdGhlcmUgaXMgbm8gbGFzdCBwcmVmZXJyZWQKICAgICAgICAgICAgICAgICAgICB7JyE9JzogW3sndmFyJzogJ2xhc3RfcHJlZmVycmVkX21vbnRoc19hZ28nfSwgTm9uZV19LAogICAgICAgICAgICAgICAgICAgICMgSGVyZSdzIHdoeSBJJ20gZG9pbmcgJzwnOiBUaGUgbW9udGggZGlmZmVyZW5jZSwgYXMgY2FsY3VsYXRlZCBpbiB0aGF0IG1ldGhvZCwgZXNzZW50aWFsbHkKICAgICAgICAgICAgICAgICAgICAjIGdpdmVzIGEgImZsb29yIi4gU28gMjAxOS0wNy0wNSBhbmQgMjAxOS0wNC0wMSBoYXZlIGEgZGlmZmVyZW5jZSBvZiAzIG1vbnRocyBhbmQgYSBmZXcgZGF5cy4KICAgICAgICAgICAgICAgICAgICAjIGBnZXRfbW9udGhfZGlmZmVyZW5jZWAgcmV0dXJucyAzIGZvciB0aGlzLiBXaGVuIEkgdGhpbmsgIndpdGhpbiAzIG1vbnRocyIsIEkgdGhpbmsgIm5vIGxvbmdlcgogICAgICAgICAgICAgICAgICAgICMgdGhhbiAzIG1vbnRocy4iCiAgICAgICAgICAgICAgICAgICAgIyBUaGlzIG1lYW5zIHRoZSB2YWxpZCBjYXNlcyBhcmUgdGhlIG1vbnRocyBpcyBsZXNzIHRoZSB0aGUgc3BlY2lmaWVkIGFtb3VudCwKICAgICAgICAgICAgICAgICAgICAjIG9yIHRoZSBtb250aHMgYXJlIGVxdWFsIHdpdGggbm8gbGVmdG92ZXIgZGF5cwogICAgICAgICAgICAgICAgICAgICMgU2VlOiB0ZXN0X3doZW5fZWFybGllc3RfcHJlZmVycmVkX21vcmVfdGhhbl8zX21vbnRoc19ub3RfYXV0b19iYWNrc29sdmUKICAgICAgICAgICAgICAgICAgICB7JzwnOiBbeyd2YXInOiAnbGFzdF9wcmVmZXJyZWRfbW9udGhzX2Fnbyd9LCA2XX0KICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF90cnVlX3doZW5fbW9udGhfZGlmZmVyZW5jZV9pc19leGFjdGx5X3RoZV9naXZlbl9wYXJhbWV0ZXIoc2VsZiwgZGF0ZV9zdWJqZWN0KToKICAgICAgICBtb250aHNfc2luY2VfbGFzdF9wcmVmZXJyZWQgPSBQb2xpY3lSZXF1ZXN0U3ViamVjdC5fZ2V0X21vbnRoc19zaW5jZV9sYXN0X3ByZWZlcnJlZCgKICAgICAgICAgICAgbGFzdF9lYXJsaWVzdF9wcmVmZXJyZWRfZGF0ZT1kYXRlX3N1YmplY3QuZ2V0XywKICAgICAgICAgICAgdmFsdWF0aW9uX2RhdGU9ZGF0ZV9zdWJqZWN0LmdldF92YWx1YXRpb25fZGF0ZSgpLAogICAgICAgICkKICAgICAgICBhc3NlcnQgZnVuYyhkYXRlX3N1YmplY3QpIGlzIFRydWU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuc2VnbWVudGF0aW9uLmNvbmRpdGlvbnMgaW1wb3J0ICgKICAgIGhhc19zZXJpZXNfb3JfZ3JlYXRlciwKICAgIGxhc3RfcHJlZmVycmVkX3dpdGhpbl9tb250aHMsCikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBkYXRlX3N1YmplY3QoKToKICAgIHN1YmplY3QgPSBNYWdpY01vY2soKQogICAgc3ViamVjdC5nZXRfdmFsdWF0aW9uX2RhdGUucmV0dXJuX3ZhbHVlID0gZGF0ZSgyMDE5LCA4LCAxKQogICAgc3ViamVjdC5nZXRfbGF0ZXN0X3NoYXJlX2NsYXNzX2VhcmxpZXN0X3ByZWZlcnJlZF9kYXRlLnJldHVybl92YWx1ZSA9IGRhdGUoMjAxOSwgMiwgMSkKICAgIHJldHVybiBzdWJqZWN0CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBkYXRlX3N1YmplY3QoKToKICAgIHN1YmplY3QgPSBNYWdpY01vY2soKQogICAgc3ViamVjdC5nZXRfdmFsdWF0aW9uX2RhdGUucmV0dXJuX3ZhbHVlID0gZGF0ZSgyMDE5LCA4LCAxKQogICAgc3ViamVjdC5nZXRfbGF0ZXN0X3NoYXJlX2NsYXNzX2VhcmxpZXN0X3ByZWZlcnJlZF9kYXRlLnJldHVybl92YWx1ZSA9IGRhdGUoMjAxOSwgMiwgMSkKICAgIHJldHVybiBzdWJqZWN0CgoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBkZWYgdGVzdF90cnVlX3doZW5fbW9udGhfZGlmZmVyZW5jZV9pc19leGFjdGx5X3RoZV9naXZlbl9wYXJhbWV0ZXIoc2VsZiwgZGF0ZV9zdWJqZWN0KToKICAgICAgICBtb250aHNfc2luY2VfbGFzdF9wcmVmZXJyZWQgPSBQb2xpY3lSZXF1ZXN0U3ViamVjdC5fZ2V0X21vbnRoc19zaW5jZV9sYXN0X3ByZWZlcnJlZCgKICAgICAgICAgICAgbGFzdF9lYXJsaWVzdF9wcmVmZXJyZWRfZGF0ZT1kYXRlX3N1YmplY3QuZ2V0XywKICAgICAgICAgICAgdmFsdWF0aW9uX2RhdGU9ZGF0ZV9zdWJqZWN0LmdldF92YWx1YXRpb25fZGF0ZSgpLAogICAgICAgICkKICAgICAgICBhc3NlcnQgZnVuYyhkYXRlX3N1YmplY3QpIGlzIFRydWU=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc19uYW1lcyA9IFtdCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBkYXRlX3N1YmplY3QoKToKICAgIHN1YmplY3QgPSBNYWdpY01vY2soKQogICAgc3ViamVjdC5nZXRfdmFsdWF0aW9uX2RhdGUucmV0dXJuX3ZhbHVlID0gZGF0ZSgyMDE5LCA4LCAxKQogICAgc3ViamVjdC5nZXRfbGF0ZXN0X3NoYXJlX2NsYXNzX2VhcmxpZXN0X3ByZWZlcnJlZF9kYXRlLnJldHVybl92YWx1ZSA9IGRhdGUoMjAxOSwgMiwgMSkKICAgIHJldHVybiBzdWJqZWN0CgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X2VhcmxpZXN0X3ByZWZlcnJlZF9kYXRlID0gTm9uZQo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBkYXRlX3N1YmplY3QoKToKICAgIHN1YmplY3QgPSBNYWdpY01vY2soKQogICAgc3ViamVjdC5nZXRfdmFsdWF0aW9uX2RhdGUucmV0dXJuX3ZhbHVlID0gZGF0ZSgyMDE5LCA4LCAxKQogICAgc3ViamVjdC5nZXRfbGF0ZXN0X3NoYXJlX2NsYXNzX2VhcmxpZXN0X3ByZWZlcnJlZF9kYXRlLnJldHVybl92YWx1ZSA9IGRhdGUoMjAxOSwgMiwgMSkKICAgIHJldHVybiBzdWJqZWN0CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVycmVkX2NsYXNzZXMgPSBjYXB0YWJsZV9kYXRhW1BSRUZFUlJFRF9TSEFSRV9DTEFTU10K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc19uYW1lcyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBQUkVGRVJSRURfU0hBUkVfQ0xBU1MgaW4gY2FwdGFibGVfZGF0YToK</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X2VhcmxpZXN0X3ByZWZlcnJlZF9kYXRlID0gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVycmVkX2NsYXNzZXMgPSBjYXB0YWJsZV9kYXRhW1BSRUZFUlJFRF9TSEFSRV9DTEFTU10K</text>
       </register>
       <register name=":" type="4">
         <text>79,91s/valbot_api/policy_client/g</text>
@@ -335,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>class_labels</last-search>
+      <last-search>class_lab</last-search>
       <last-offset />
-      <last-pattern>class_labels</last-pattern>
+      <last-pattern>class_lab</last-pattern>
       <last-replace>policy_client</last-replace>
       <last-substitute>valbot_api</last-substitute>
       <last-dir>1</last-dir>
