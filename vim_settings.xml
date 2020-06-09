@@ -178,11 +178,11 @@
         <mark key="^" line="131" column="35" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_subject.py" timestamp="1591735608465">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="35" column="70" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_subject.py" timestamp="1591737446177">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="62" />
+        <mark key="." line="32" column="62" />
+        <mark key="^" line="36" column="93" />
       </file>
     </filemarks>
     <jumps>
@@ -293,11 +293,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>, get_subject</text>
       </register>
       <register name="-" type="4">
-        <text>subject</text>
+        <text>, get_subject</text>
       </register>
       <register name="/" type="4">
         <text>valuation</text>
@@ -309,19 +309,19 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0ID0gZ2V0X3N1YmplY3QoY29tbW9uX2NsYXNzZXM9Y29tbW9uX2NsYXNzZXMsIHByZWZlcnJlZF9jbGFzc2VzPXByZWZlcnJlZF9jbGFzc2VzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGluc3BlY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBnZXRfc3ViamVjdCgpOgogICAgZGVmIGlubmVyKCoqa3dhcmdzKToKICAgICAgICBzdWJqZWN0X2FyZ3MgPSBpbnNwZWN0LmdldGZ1bGxhcmdzcGVjKFJlcXVlc3RTdWJqZWN0Ll9faW5pdF9fKVswXQogICAgICAgIHN1YmplY3Rfa3dhcmdzID0ge2s6IE5vbmUgZm9yIGsgaW4gc3ViamVjdF9hcmdzfQogICAgICAgIHN1YmplY3Rfa3dhcmdzLnVwZGF0ZShrd2FyZ3MpCiAgICAgICAgZGVsIHN1YmplY3Rfa3dhcmdzWydzZWxmJ10KICAgICAgICBzdWJqZWN0ID0gUmVxdWVzdFN1YmplY3QoKipzdWJqZWN0X2t3YXJncykKICAgICAgICByZXR1cm4gc3ViamVjdAogICAgcmV0dXJuIGlubmVyCgoK</text>
+        <text encoding="base64">aW1wb3J0IGluc3BlY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0ID0gZ2V0X3N1YmplY3QodW1icmVsbGE9dW1icmVsbGEpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBnZXRfc3ViamVjdCgpOgogICAgZGVmIGlubmVyKCoqa3dhcmdzKToKICAgICAgICBzdWJqZWN0X2FyZ3MgPSBpbnNwZWN0LmdldGZ1bGxhcmdzcGVjKFJlcXVlc3RTdWJqZWN0Ll9faW5pdF9fKVswXQogICAgICAgIHN1YmplY3Rfa3dhcmdzID0ge2s6IE5vbmUgZm9yIGsgaW4gc3ViamVjdF9hcmdzfQogICAgICAgIHN1YmplY3Rfa3dhcmdzLnVwZGF0ZShrd2FyZ3MpCiAgICAgICAgZGVsIHN1YmplY3Rfa3dhcmdzWydzZWxmJ10KICAgICAgICBzdWJqZWN0ID0gUmVxdWVzdFN1YmplY3QoKipzdWJqZWN0X2t3YXJncykKICAgICAgICByZXR1cm4gc3ViamVjdAogICAgcmV0dXJuIGlubmVyCgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzdWJqZWN0ID0gZ2V0X3N1YmplY3QodW1icmVsbGE9dW1icmVsbGEpCg==</text>
@@ -330,10 +330,10 @@
         <text encoding="base64">ICAgICAgICBzdWJqZWN0ID0gZ2V0X3N1YmplY3QodW1icmVsbGE9dW1icmVsbGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0ID0gZ2V0X3N1YmplY3QodW1icmVsbGE9dW1icmVsbGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc19hdWRpdGVkX2J5X2tub3duX2Zpcm0gPSBjbHMuX2lzX2F1ZGl0ZWRfYnlfa25vd25fZmlybSh1bWJyZWxsYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79,91s/valbot_api/policy_client/g</text>
