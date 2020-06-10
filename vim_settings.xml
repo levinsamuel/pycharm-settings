@@ -136,19 +136,19 @@
         <mark key="^" line="96" column="90" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1591818940976">
-        <mark key="[" line="48" column="63" />
-        <mark key="]" line="48" column="71" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1591822613225">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="48" column="71" />
-        <mark key="." line="48" column="70" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/share_classes.py" timestamp="1591738176379" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1591818868882">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1591820975987">
         <mark key="'" line="212" column="23" />
-        <mark key="[" line="267" column="20" />
-        <mark key="]" line="269" column="23" />
-        <mark key="." line="269" column="22" />
-        <mark key="^" line="269" column="23" />
+        <mark key="[" line="268" column="14" />
+        <mark key="]" line="268" column="49" />
+        <mark key="." line="268" column="48" />
+        <mark key="^" line="268" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" timestamp="1591819435060">
         <mark key="'" line="0" column="39" />
@@ -167,11 +167,11 @@
         <mark key="'" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/api.py" timestamp="1591813455045" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1591820847015">
-        <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="21" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1591822335352">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_subject.py" timestamp="1591737446177">
         <mark key="[" line="32" column="62" />
@@ -289,11 +289,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExUTV9SRVZFTlVFX1VQUEVSX0xJTUlULAo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Has pivot or has no preferred</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
@@ -305,24 +305,27 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIExUTV9SRVZFTlVFX1VQUEVSX0xJTUlULAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBoYXNfaGlzdG9yaWNhbF9wcmVmZXJyZWQgPSBzdWJqZWN0Lmhhc19oaXN0b3JpY2FsX3ByZWZlcnJlZAogICAgaGFzX3Bpdm90ID0gc3ViamVjdC5oYXNfcGl2b3QKICAgIHJldmVudWVfaXNfYmVsb3dfdXBwZXJfbGltaXQgPSBzdWJqZWN0Lmx0bV9yZXZlbnVlIDwgTFRNX1JFVkVOVUVfVVBQRVJfTElNSVQKCiAgICBpZiBub3QgcmV2ZW51ZV9pc19iZWxvd191cHBlcl9saW1pdDoKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBpZiAoaGFzX2hpc3RvcmljYWxfcHJlZmVycmVkIGFuZCBoYXNfcGl2b3QpIG9yIChub3QgaGFzX2hpc3RvcmljYWxfcHJlZmVycmVkKToKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIHJldHVybiBGYWxzZQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZl9mYWxzZT1GYWxzZSwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZl90cnVlPVRydWUsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBuYW1lPScgcHJlZmVycmVkIGNoZWNrJywK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>AndChain(
                 name='Has preferred but has pivot',
                 rules=[
@@ -332,11 +335,8 @@
                 ]
             )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmX2ZhbHNlPUZhbHMK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmX3RydWU9VHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmX2ZhbHNlPUZhbHMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
