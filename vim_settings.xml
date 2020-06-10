@@ -167,11 +167,11 @@
         <mark key="'" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/api.py" timestamp="1591813455045" />
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1591822335352">
-        <mark key="[" line="61" column="21" />
-        <mark key="]" line="61" column="42" />
-        <mark key="." line="61" column="41" />
-        <mark key="^" line="61" column="42" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" timestamp="1591823705245">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_subject.py" timestamp="1591737446177">
         <mark key="[" line="32" column="62" />
@@ -290,10 +290,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExUTV9SRVZFTlVFX1VQUEVSX0xJTUlULAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdWJqZWN0LCBzdWJqZWN0Lmx0bV9yZXZlbnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Has pivot or has no preferred</text>
+        <text>PolicyRequestSubject</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
@@ -305,38 +305,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExUTV9SRVZFTlVFX1VQUEVSX0xJTUlULAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdWJqZWN0LCBzdWJqZWN0Lmx0bV9yZXZlbnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuc2VnbWVudGF0aW9uLnBvbGljeV9jb21wYXRpYmxlIGltcG9ydCBQb2xpY3lSZXF1ZXN0U3ViamVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgIExUTV9SRVZFTlVFX1VQUEVSX0xJTUlULAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBoYXNfaGlzdG9yaWNhbF9wcmVmZXJyZWQgPSBzdWJqZWN0Lmhhc19oaXN0b3JpY2FsX3ByZWZlcnJlZAogICAgaGFzX3Bpdm90ID0gc3ViamVjdC5oYXNfcGl2b3QKICAgIHJldmVudWVfaXNfYmVsb3dfdXBwZXJfbGltaXQgPSBzdWJqZWN0Lmx0bV9yZXZlbnVlIDwgTFRNX1JFVkVOVUVfVVBQRVJfTElNSVQKCiAgICBpZiBub3QgcmV2ZW51ZV9pc19iZWxvd191cHBlcl9saW1pdDoKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBpZiAoaGFzX2hpc3RvcmljYWxfcHJlZmVycmVkIGFuZCBoYXNfcGl2b3QpIG9yIChub3QgaGFzX2hpc3RvcmljYWxfcHJlZmVycmVkKToKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIHJldHVybiBGYWxzZQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZl9mYWxzZT1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZl90cnVlPVRydWUsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBoYXNfaGlzdG9yaWNhbF9wcmVmZXJyZWQgPSBzdWJqZWN0Lmhhc19oaXN0b3JpY2FsX3ByZWZlcnJlZAogICAgaGFzX3Bpdm90ID0gc3ViamVjdC5oYXNfcGl2b3QKICAgIHJldmVudWVfaXNfYmVsb3dfdXBwZXJfbGltaXQgPSBzdWJqZWN0Lmx0bV9yZXZlbnVlIDwgTFRNX1JFVkVOVUVfVVBQRVJfTElNSVQKCiAgICBpZiBub3QgcmV2ZW51ZV9pc19iZWxvd191cHBlcl9saW1pdDoKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBpZiAoaGFzX2hpc3RvcmljYWxfcHJlZmVycmVkIGFuZCBoYXNfcGl2b3QpIG9yIChub3QgaGFzX2hpc3RvcmljYWxfcHJlZmVycmVkKToKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIHJldHVybiBGYWxzZQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lPScgcHJlZmVycmVkIGNoZWNrJywK</text>
+        <text encoding="base64">ICAgICAgICBpZl9mYWxzZT1GYWxzZSwK</text>
       </register>
-      <register name="8" type="4">
-        <text>AndChain(
-                name='Has preferred but has pivot',
-                rules=[
-                    BooleanRule(
-                        
-                    )
-                ]
-            )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZl90cnVlPVRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmX2ZhbHNlPUZhbHMK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lPScgcHJlZmVycmVkIGNoZWNrJywK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
