@@ -120,13 +120,18 @@
         <mark key="^" line="43" column="68" />
         <mark key="." line="43" column="67" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/duplicate_multiples.py" timestamp="1591902668324">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+        <mark key="^" line="44" column="37" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/valuation/service.py" timestamp="1591897789999">
         <mark key="[" line="7" column="77" />
         <mark key="]" line="7" column="91" />
         <mark key="^" line="7" column="91" />
         <mark key="." line="7" column="90" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/service_registry.py" timestamp="1591813266874" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/instance.py" timestamp="1591854720802" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/service.py" timestamp="1591822613225">
         <mark key="[" line="5" column="0" />
@@ -174,7 +179,7 @@
         <mark key="^" line="53" column="36" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/root.py" timestamp="1591813334689" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591900924703" />
     </filemarks>
     <jumps>
       <jump line="41" column="0" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" />
@@ -284,8 +289,8 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbS5lYml0ZGFfd2VpZ2h0Ogo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -299,7 +304,24 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbS5lYml0ZGFfd2VpZ2h0Ogo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbS5yZXZlbnVlX3dlaWdodDoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ211bHRpcGxlJywgbS5pZCwgJ2hhcyB3ZWlnaHQnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>(
+                    
+                )</text>
+      </register>
+      <register name="6" type="4">
         <text>ValuationPolicyService().get_valbot_policy_instance(
         corporation_id=corporation_pk,
         segment=segment,
@@ -308,29 +330,14 @@
         captable_id=captable_id,
     )</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">KQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEFzc2V0VmFsdWF0aW9uUG9saWN5SW5zdGFuY2UsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuYXNzZXRfcG9saWN5IGltcG9ydCAoCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuYXNzZXRfcG9saWN5IGltcG9ydCBBc3NldFZhbHVhdGlvblBvbGljeUluc3RhbmNlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuc2VydmljZXMgaW1wb3J0IFZhbHVhdGlvblBvbGljeVNlcnZpY2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuY29udGV4dC5idWlsZGVycyBpbXBvcnQgVmFsYm90NDA5QUNvbnRleHRCdWlsZGVyCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICdhc3NldCc6IEFzc2V0VmFsdWF0aW9uUG9saWN5SW5zdGFuY2UsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRfcG9saWN5ID0gQXNzZXRWYWx1YXRpb25Qb2xpY3lJbnN0YW5jZS5mYWN0b3J5KAogICAgICAgICAgICB1bWJyZWxsYT11bWJyZWxsYSwKICAgICAgICAgICAgdmFsdWF0aW9uPXZhbHVhdGlvbiwKICAgICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuYXNzZXRfcG9saWN5IGltcG9ydCAoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
