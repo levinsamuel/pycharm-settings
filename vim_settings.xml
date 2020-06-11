@@ -114,6 +114,12 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591905570340">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="35" column="17" />
+        <mark key="^" line="35" column="17" />
+        <mark key="." line="35" column="16" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" timestamp="1591855136195">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="43" column="68" />
@@ -165,7 +171,6 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/api.py" timestamp="1591813455045" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/valbot_409a_context_builder.py" timestamp="1591851288542">
         <mark key="'" line="66" column="81" />
         <mark key="[" line="54" column="0" />
@@ -182,9 +187,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591900924703" />
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" />
-      <jump line="39" column="43" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuation_policy/services/test_hybrid_policies.py" />
       <jump line="52" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" />
       <jump line="2" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy/valuations_client.py" />
@@ -282,6 +284,9 @@
       <jump line="20" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" />
       <jump line="75" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
+      <jump line="33" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -290,10 +295,10 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>parent_model</text>
+        <text encoding="base64">bGVuKGRpZmZzKSA+IDE6</text>
       </register>
       <register name="-" type="4">
-        <text>parent_model</text>
+        <text encoding="base64">bGVuKGRpZmZzKSA+IDE6</text>
       </register>
       <register name="/" type="4">
         <text>VAL_POLICY_SEGMENTATION_CUTOVER</text>
@@ -305,39 +310,37 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbS5lYml0ZGFfd2VpZ2h0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbS5yZXZlbnVlX3dlaWdodDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ211bHRpcGxlJywgbS5pZCwgJ2hhcyB3ZWlnaHQnKQo=</text>
+      <register name="3" type="4">
+        <text>info = [
+                (m.revenue_weight, m.revenue_multiple_manual_entry,
+                 m.ebitda_weight, m.ebitda_multiple_manual_entry)
+                for m in multiples_for_date
+            ]
+            diffs = set(info)
+            if len(diffs) == 1:</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RpZmZzOicsIGRpZmZzKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>(
-                    
-                )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaGFzX3dlaWdodDoK</text>
       </register>
       <register name="6" type="4">
-        <text>ValuationPolicyService().get_valbot_policy_instance(
-        corporation_id=corporation_pk,
-        segment=segment,
-        umbrella_id=umbrella_id,
-        valuation_id=valuation.id,
-        captable_id=captable_id,
-    )</text>
+        <text encoding="base64">IGhhc193ZWlnaHQgPSBGYWxzZQogICAgICAgICAgICBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGU6ICAjIHR5cGU6IE11bHRpcGxlCiAgICAgICAgICAgICAgICBpZiBtLnJldmVudWVfd2VpZ2h0ID4gMCBvciBtLmViaXRkYV93ZWlnaHQgPiAwOgogICAgICAgICAgICAgICAgICAgIHByaW50KCdtdWx0aXBsZScsIG0uaWQsICdoYXMgd2VpZ2h0JykKICAgICAgICAgICAgICAgICAgICBoYXNfd2VpZ2h0ID0gVHJ1ZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaGFzX3dlaWdodCA9IEZhbHNlCiAgICAgICAgICAgIGZvciBtIGluIG11bHRpcGxlc19mb3JfZGF0ZTogICMgdHlwZTogTXVsdGlwbGUKICAgICAgICAgICAgICAgIGlmIG0ucmV2ZW51ZV93ZWlnaHQgPiAwIG9yIG0uZWJpdGRhX3dlaWdodCA+IDA6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ211bHRpcGxlJywgbS5pZCwgJ2hhcyB3ZWlnaHQnKQogICAgICAgICAgICAgICAgICAgIGhhc193ZWlnaHQgPSBUcnVlCgogICAgICAgICAgICBpZiBoYXNfd2VpZ2h0OgogICAgICAgICAgICAgICAgaW5mbyA9IFsKICAgICAgICAgICAgICAgICAgICAobS5yZXZlbnVlX3dlaWdodCwgbS5yZXZlbnVlX211bHRpcGxlX21hbnVhbF9lbnRyeSwKICAgICAgICAgICAgICAgICAgICAgbS5lYml0ZGFfd2VpZ2h0LCBtLmViaXRkYV9tdWx0aXBsZV9tYW51YWxfZW50cnkpCiAgICAgICAgICAgICAgICAgICAgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICBkaWZmcyA9IHNldChpbmZvKQogICAgICAgICAgICAgICAgcHJpbnQoJ2RpZmZzOicsIGRpZmZzKQogICAgICAgICAgICAgICAgaWYgbGVuKGRpZmZzKSA+IDE6CiAgICAgICAgICAgICAgICAgICAgdmFsdWF0aW9uID0gcGFyZW50X21vZGVsLnNjZW5hcmlvLmdldF92YWx1YXRpb24oKQogICAgICAgICAgICAgICAgICAgIGZpcm1faWQgPSBOb25lCiAgICAgICAgICAgICAgICAgICAgaWYgdmFsdWF0aW9uLmlzXzgyMDoKICAgICAgICAgICAgICAgICAgICAgICAgZmlybV9pZCA9IHZhbHVhdGlvbi5vcmdhbml6YXRpb25fcGsKICAgICAgICAgICAgICAgICAgICBwcmludCgKICAgICAgICAgICAgICAgICAgICAgICAgJ3RoZXJlIGFyZSBkaWZmZXJlbmNlcyBpbiBtdWx0aXBsZXMgZm9yIHBhcmVudCB0eXBlLCB2YWx1YXRpb24gJwogICAgICAgICAgICAgICAgICAgICAgICAnaWQsIGNvcnAgcGssIGZpcm0gaWQ6JywKICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWxfY2xhc3MuX19uYW1lX18sIHZhbHVhdGlvbi5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWF0aW9uLmNvcnBvcmF0aW9uX3BrLCBmaXJtX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgaWYgYW55KG0ucmV2ZW51ZV93ZWlnaHQgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlKToKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ3JldmVudWU6JywgbS5pZCwgbS5yZXZlbnVlX3dlaWdodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG0ucmV2ZW51ZV9tdWx0aXBsZV9tYW51YWxfZW50cnksIGZpbGU9c3lzLnN0ZGVycikKCiAgICAgICAgICAgICAgICAgICAgaWYgYW55KG0uZWJpdGRhX3dlaWdodCBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGUpOgogICAgICAgICAgICAgICAgICAgICAgICBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludCgnZWJpdGRhOicsIG0uaWQsIG0uZWJpdGRhX3dlaWdodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbS5lYml0ZGFfbXVsdGlwbGVfbWFudWFsX2VudHJ5LCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFzc2V0VmFsdWF0aW9uUG9saWN5SW5zdGFuY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RhdGU6JywgZHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuYXNzZXRfcG9saWN5IGltcG9ydCAoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
