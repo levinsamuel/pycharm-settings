@@ -114,12 +114,12 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591913796093">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="45" column="52" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591915374755">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="170" column="54" />
+        <mark key="]" line="171" column="49" />
+        <mark key="." line="171" column="48" />
+        <mark key="^" line="171" column="49" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" timestamp="1591855136195">
         <mark key="[" line="39" column="8" />
@@ -296,49 +296,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rollback</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>rollback</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>in_atomic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbW9yZV90aGFuX29uZV9tdWx0aXBsZV9oYXNfd2VpZ2h0KG11bHRpcGxlc19mb3JfZGF0ZSwgJ3JldmVudWVfd2VpZ2h0Jyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdlYml0ZGEgYW5kIHJldmVudWUgdmFsdWVzIGRpZmZlciwgZ29pbmcgdG8gZGVsZXRlIGFsbCBidXQgb25lIGFuZCByZWNvcmQnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>{
-                    field: getattr(multiple, field)
-                    for field in fields_to_record
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLm9yZGVyX2J5KCdpZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9fZGVsZXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF9jbGFzcyA9IHNlbGYubW9kZWxfY2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWxsX2lkcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc190b19kZWxldGUuZXh0ZW5kKHRvX2RlbGV0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgc2VsZi5kcnlfcnVuOgogICAgICAgICAgICB0cmFuc2FjdGlvbi5yb2xsYmFjaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc190b19kZWxldGUuZXh0ZW5kKHRvX2RlbGV0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSBnZXRhdHRyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc190b19kZWxldGUuZXh0ZW5kKHRvX2RlbGV0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRzX3RvX2RlbGV0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZHNfdG9fZGVsZXRlID0gW10gICMgdHlwZTogTGlzdFtpbnRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
