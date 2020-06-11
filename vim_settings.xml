@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>weight</entry>
         <entry>\bweight\b</entry>
         <entry>\\bweight\\b</entry>
         <entry>\Wweight\W</entry>
@@ -27,6 +26,7 @@
         <entry>\n\n</entry>
         <entry>\\n</entry>
         <entry>VAL_POLICY_SEGMENTATION_CUTOVER</entry>
+        <entry>in_atomic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -114,12 +114,12 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591912059944">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="54" />
-        <mark key="." line="68" column="53" />
-        <mark key="^" line="68" column="54" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591913796093">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="51" />
+        <mark key="^" line="45" column="52" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" timestamp="1591855136195">
         <mark key="[" line="39" column="8" />
@@ -296,13 +296,13 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>without_recording</text>
+        <text>rollback</text>
       </register>
       <register name="-" type="4">
-        <text>without_recording</text>
+        <text>rollback</text>
       </register>
       <register name="/" type="4">
-        <text>VAL_POLICY_SEGMENTATION_CUTOVER</text>
+        <text>in_atomic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbW9yZV90aGFuX29uZV9tdWx0aXBsZV9oYXNfd2VpZ2h0KG11bHRpcGxlc19mb3JfZGF0ZSwgJ3JldmVudWVfd2VpZ2h0Jyk6Cg==</text>
@@ -310,32 +310,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgc2VsZi5kcnlfcnVuOgogICAgICAgICAgICB0cmFuc2FjdGlvbi5yb2xsYmFjaygpCg==</text>
+      <register name="1" type="4">
+        <text>{
+                    field: getattr(multiple, field)
+                    for field in fields_to_record
+                }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSBnZXRhdHRyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1YXRpb24gPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF9jbGFzcyA9IHNlbGYubW9kZWxfY2xhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZHNfdG9fZGVsZXRlLmV4dGVuZChhbGxfaWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGxfaWRzID0gW20uaWQgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlXQogICAgICAgICAgICAgICAgICAgIGlkX3RvX2tlZXAgPSBhbGxfaWRzLnBvcCgpCiAgICAgICAgICAgICAgICAgICAgaWRzX3RvX2RlbGV0ZS5leHRlbmQoYWxsX2lkcykK</text>
+        <text encoding="base64">CiAgICAgICAgaWYgc2VsZi5kcnlfcnVuOgogICAgICAgICAgICB0cmFuc2FjdGlvbi5yb2xsYmFjaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSBnZXRhdHRyKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
@@ -344,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>VAL_POLICY_SEGMENTATION_CUTOVER</last-search>
+      <last-search>in_atomic</last-search>
       <last-offset />
-      <last-pattern>VAL_POLICY_SEGMENTATION_CUTOVER</last-pattern>
+      <last-pattern>in_atomic</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
