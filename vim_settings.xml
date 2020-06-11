@@ -114,11 +114,12 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591905570340">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-        <mark key="." line="35" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591906916408">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="18" />
+        <mark key="^" line="55" column="18" />
+        <mark key="." line="55" column="17" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" timestamp="1591855136195">
         <mark key="[" line="39" column="8" />
@@ -187,8 +188,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591900924703" />
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/valbot/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_runner.py" />
       <jump line="2" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy/valuations_client.py" />
       <jump line="163" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" />
       <jump line="174" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/approaches.py" />
@@ -287,6 +286,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
       <jump line="43" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
       <jump line="33" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,52 +296,58 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGVuKGRpZmZzKSA+IDE6</text>
+        <text>list(
+                parent_model.multiple_selection.multiples.values('financial_date')
+                .annotate(c=Count(1))
+                .filter(c__gt=1)
+                .values_list('financial_date', flat=True)
+                .order_by('id')
+            )</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGVuKGRpZmZzKSA+IDE6</text>
+        <text>trans</text>
       </register>
       <register name="/" type="4">
         <text>VAL_POLICY_SEGMENTATION_CUTOVER</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhbnkobS5yZXZlbnVlX3dlaWdodCBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGUpOgo=</text>
+      <register name="0" type="4">
+        <text>approaches_with_duplicate_multiples</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>list(
+                parent_model.multiple_selection.multiples.values('financial_date')
+                .annotate(c=Count(1))
+                .filter(c__gt=1)
+                .values_list('financial_date', flat=True)
+                .order_by('id')
+            )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhcHByb2FjaGVzX3dpdGhfZHVwbGljYXRlX211bHRpcGxlcyA9IHNldCgKICAgICAgICAgICAgbW9kZWxfY2xhc3Mub2JqZWN0cy5maWx0ZXIoaXNfdXNlZD1UcnVlLCB3ZWlnaHRfX2d0PTApCiAgICAgICAgICAgIC52YWx1ZXMoJ2lkJywgJ211bHRpcGxlX3NlbGVjdGlvbl9fbXVsdGlwbGVzX19maW5hbmNpYWxfZGF0ZScpCiAgICAgICAgICAgIC5hbm5vdGF0ZShjPUNvdW50KDEpKQogICAgICAgICAgICAuZmlsdGVyKGNfX2d0PTEpCiAgICAgICAgICAgIC52YWx1ZXNfbGlzdCgnaWQnLCBmbGF0PVRydWUpCiAgICAgICAgKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>info = [
-                (m.revenue_weight, m.revenue_multiple_manual_entry,
-                 m.ebitda_weight, m.ebitda_multiple_manual_entry)
-                for m in multiples_for_date
-            ]
-            diffs = set(info)
-            if len(diffs) == 1:</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RpZmZzOicsIGRpZmZzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaGFzX3dlaWdodDoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGhhc193ZWlnaHQgPSBGYWxzZQogICAgICAgICAgICBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGU6ICAjIHR5cGU6IE11bHRpcGxlCiAgICAgICAgICAgICAgICBpZiBtLnJldmVudWVfd2VpZ2h0ID4gMCBvciBtLmViaXRkYV93ZWlnaHQgPiAwOgogICAgICAgICAgICAgICAgICAgIHByaW50KCdtdWx0aXBsZScsIG0uaWQsICdoYXMgd2VpZ2h0JykKICAgICAgICAgICAgICAgICAgICBoYXNfd2VpZ2h0ID0gVHJ1ZQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzX3dlaWdodCA9IEZhbHNlCiAgICAgICAgICAgIGZvciBtIGluIG11bHRpcGxlc19mb3JfZGF0ZTogICMgdHlwZTogTXVsdGlwbGUKICAgICAgICAgICAgICAgIGlmIG0ucmV2ZW51ZV93ZWlnaHQgPiAwIG9yIG0uZWJpdGRhX3dlaWdodCA+IDA6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ211bHRpcGxlJywgbS5pZCwgJ2hhcyB3ZWlnaHQnKQogICAgICAgICAgICAgICAgICAgIGhhc193ZWlnaHQgPSBUcnVlCgogICAgICAgICAgICBpZiBoYXNfd2VpZ2h0OgogICAgICAgICAgICAgICAgaW5mbyA9IFsKICAgICAgICAgICAgICAgICAgICAobS5yZXZlbnVlX3dlaWdodCwgbS5yZXZlbnVlX211bHRpcGxlX21hbnVhbF9lbnRyeSwKICAgICAgICAgICAgICAgICAgICAgbS5lYml0ZGFfd2VpZ2h0LCBtLmViaXRkYV9tdWx0aXBsZV9tYW51YWxfZW50cnkpCiAgICAgICAgICAgICAgICAgICAgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICBkaWZmcyA9IHNldChpbmZvKQogICAgICAgICAgICAgICAgcHJpbnQoJ2RpZmZzOicsIGRpZmZzKQogICAgICAgICAgICAgICAgaWYgbGVuKGRpZmZzKSA+IDE6CiAgICAgICAgICAgICAgICAgICAgdmFsdWF0aW9uID0gcGFyZW50X21vZGVsLnNjZW5hcmlvLmdldF92YWx1YXRpb24oKQogICAgICAgICAgICAgICAgICAgIGZpcm1faWQgPSBOb25lCiAgICAgICAgICAgICAgICAgICAgaWYgdmFsdWF0aW9uLmlzXzgyMDoKICAgICAgICAgICAgICAgICAgICAgICAgZmlybV9pZCA9IHZhbHVhdGlvbi5vcmdhbml6YXRpb25fcGsKICAgICAgICAgICAgICAgICAgICBwcmludCgKICAgICAgICAgICAgICAgICAgICAgICAgJ3RoZXJlIGFyZSBkaWZmZXJlbmNlcyBpbiBtdWx0aXBsZXMgZm9yIHBhcmVudCB0eXBlLCB2YWx1YXRpb24gJwogICAgICAgICAgICAgICAgICAgICAgICAnaWQsIGNvcnAgcGssIGZpcm0gaWQ6JywKICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWxfY2xhc3MuX19uYW1lX18sIHZhbHVhdGlvbi5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWF0aW9uLmNvcnBvcmF0aW9uX3BrLCBmaXJtX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgaWYgYW55KG0ucmV2ZW51ZV93ZWlnaHQgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlKToKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ3JldmVudWU6JywgbS5pZCwgbS5yZXZlbnVlX3dlaWdodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG0ucmV2ZW51ZV9tdWx0aXBsZV9tYW51YWxfZW50cnksIGZpbGU9c3lzLnN0ZGVycikKCiAgICAgICAgICAgICAgICAgICAgaWYgYW55KG0uZWJpdGRhX3dlaWdodCBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGUpOgogICAgICAgICAgICAgICAgICAgICAgICBmb3IgbSBpbiBtdWx0aXBsZXNfZm9yX2RhdGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludCgnZWJpdGRhOicsIG0uaWQsIG0uZWJpdGRhX3dlaWdodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbS5lYml0ZGFfbXVsdGlwbGVfbWFudWFsX2VudHJ5LCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RhdGU6JywgZHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
