@@ -114,12 +114,12 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591908562691">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="32" column="49" />
-        <mark key="^" line="32" column="49" />
-        <mark key="." line="32" column="48" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591912059944">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="54" />
+        <mark key="." line="68" column="53" />
+        <mark key="^" line="68" column="54" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" timestamp="1591855136195">
         <mark key="[" line="39" column="8" />
@@ -185,7 +185,7 @@
         <mark key="^" line="53" column="36" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591900924703" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591910950214" />
     </filemarks>
     <jumps>
       <jump line="2" column="22" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy/valuations_client.py" />
@@ -296,52 +296,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ids_to_delete</text>
+        <text>without_recording</text>
       </register>
       <register name="-" type="4">
-        <text>ids_to_delete</text>
+        <text>without_recording</text>
       </register>
       <register name="/" type="4">
         <text>VAL_POLICY_SEGMENTATION_CUTOVER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHNfdG9fZGVsZXRlID0gW20uaWQgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbW9yZV90aGFuX29uZV9tdWx0aXBsZV9oYXNfd2VpZ2h0KG11bHRpcGxlc19mb3JfZGF0ZSwgJ3JldmVudWVfd2VpZ2h0Jyk6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>list(
-                parent_model.multiple_selection.multiples.values('financial_date')
-                .annotate(c=Count(1))
-                .filter(c__gt=1)
-                .values_list('financial_date', flat=True)
-                .order_by('id')
-            )</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgc2VsZi5kcnlfcnVuOgogICAgICAgICAgICB0cmFuc2FjdGlvbi5yb2xsYmFjaygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHByb2FjaGVzX3dpdGhfZHVwbGljYXRlX211bHRpcGxlcyA9IHNldCgKICAgICAgICAgICAgbW9kZWxfY2xhc3Mub2JqZWN0cy5maWx0ZXIoaXNfdXNlZD1UcnVlLCB3ZWlnaHRfX2d0PTApCiAgICAgICAgICAgIC52YWx1ZXMoJ2lkJywgJ211bHRpcGxlX3NlbGVjdGlvbl9fbXVsdGlwbGVzX19maW5hbmNpYWxfZGF0ZScpCiAgICAgICAgICAgIC5hbm5vdGF0ZShjPUNvdW50KDEpKQogICAgICAgICAgICAuZmlsdGVyKGNfX2d0PTEpCiAgICAgICAgICAgIC52YWx1ZXNfbGlzdCgnaWQnLCBmbGF0PVRydWUpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSBnZXRhdHRyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZHNfdG9fZGVsZXRlLmV4dGVuZChhbGxfaWRzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGxfaWRzID0gW20uaWQgZm9yIG0gaW4gbXVsdGlwbGVzX2Zvcl9kYXRlXQogICAgICAgICAgICAgICAgICAgIGlkX3RvX2tlZXAgPSBhbGxfaWRzLnBvcCgpCiAgICAgICAgICAgICAgICAgICAgaWRzX3RvX2RlbGV0ZS5leHRlbmQoYWxsX2lkcykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
