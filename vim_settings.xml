@@ -114,12 +114,12 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591915642172">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="174" column="53" />
-        <mark key="]" line="175" column="65" />
-        <mark key="." line="175" column="64" />
-        <mark key="^" line="175" column="65" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591918970261">
+        <mark key="'" line="92" column="4" />
+        <mark key="[" line="102" column="50" />
+        <mark key="]" line="102" column="67" />
+        <mark key="." line="102" column="50" />
+        <mark key="^" line="101" column="77" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" timestamp="1591855136195">
         <mark key="[" line="39" column="8" />
@@ -296,46 +296,46 @@
         <text>hybrid_late_exit__tte</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>, file=sys.stderr</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>affected_dates</text>
       </register>
       <register name="/" type="4">
         <text>in_atomic</text>
       </register>
       <register name="0" type="4">
-        <text>, 'revenue_weight', 'ebitda_weight'</text>
+        <text>, file=sys.stderr</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yZGVyX2J5KCdpZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVubmluZyBkZWxldGUgb24gbXVsdGlwbGVzOicsIG11bHRpcGxlc19mb3JfZGF0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9fZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlcG9pbnQgPSB0cmFuc2FjdGlvbi5zYXZlcG9pbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWxsX2lkcwo=</text>
+        <text encoding="base64">ICAgIEB0cmFuc2FjdGlvbi5hdG9taWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc190b19kZWxldGUuZXh0ZW5kKHRvX2RlbGV0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc190b19kZWxldGUuZXh0ZW5kKHRvX2RlbGV0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3dvdWxkIGRlbGV0ZScsIGxlbihzZWxmLmlkc190b19kZWxldGUpLCAnbXVsdGlwbGVzLiBleHBlY3RpbmcgdG8gZGVsZXRlJywgc2VsZi5leHBlY3RpbmdfdG9fZGVsZXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc190b19kZWxldGUuZXh0ZW5kKHRvX2RlbGV0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlc19saXN0KCdpZCcsIGZsYXQ9VHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRzX3RvX2RlbGV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9yZGVyX2J5KCdpZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZHNfdG9fZGVsZXRlID0gW10gICMgdHlwZTogTGlzdFtpbnRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
