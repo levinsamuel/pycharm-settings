@@ -105,11 +105,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/steps/scenario/dlom_volatility.py" timestamp="1591993097504">
-        <mark key="[" line="107" column="64" />
-        <mark key="]" line="107" column="63" />
-        <mark key="." line="107" column="62" />
-        <mark key="^" line="107" column="63" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/steps/scenario/dlom_volatility.py" timestamp="1591996849254">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_compare_policies.py" timestamp="1591992434625">
         <mark key="[" line="9" column="0" />
@@ -117,19 +117,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" timestamp="1591929032046">
-        <mark key="'" line="138" column="8" />
-        <mark key="[" line="97" column="13" />
-        <mark key="]" line="97" column="17" />
-        <mark key="." line="97" column="16" />
-        <mark key="^" line="97" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1591929339300">
-        <mark key="'" line="0" column="4726" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4727" />
-        <mark key="." line="0" column="4726" />
-        <mark key="^" line="0" column="4727" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/conftest.py" timestamp="1591996947457">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/interfaces.py" timestamp="1591991674326">
         <mark key="[" line="87" column="0" />
@@ -158,10 +149,22 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/asset_policy/values.py" timestamp="1591996670493">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/asset_policy/__init__.py" timestamp="1591992557830">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/data.py" timestamp="1591996761867" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/steps/allocation/volatility.py" timestamp="1591996771764">
+        <mark key="[" line="123" column="43" />
+        <mark key="]" line="123" column="64" />
+        <mark key="." line="123" column="63" />
+        <mark key="^" line="123" column="64" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/asset/revisions/v1.py" timestamp="1591995578111">
         <mark key="[" line="131" column="27" />
@@ -172,14 +175,11 @@
         <mark key="]" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.txt" timestamp="1591929745586">
-        <mark key="'" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_get_fmv_range.py" timestamp="1591992328042">
-        <mark key="[" line="6" column="62" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_get_fmv_range.py" timestamp="1591997199179">
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="8" column="76" />
+        <mark key="." line="8" column="75" />
+        <mark key="^" line="8" column="76" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1591995633010">
         <mark key="[" line="94" column="21" />
@@ -300,49 +300,79 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
-        <text>hybrid_late_exit__tte</text>
+        <text>(
+        &quot;Carta 409A policy dictates the following for volatility policy:\n&quot;
+        &quot;- Minimum of {min_vol}\n&quot;
+        &quot;- Maximum percentile if 90th percentile is less than {min_vol}\n&quot;
+        &quot;- 90th percentile if it is between {min_vol} and {max_vol}\n&quot;
+        &quot;- Maximum of {max_vol}\n&quot;
+        .format(
+            min_vol=format_percentage(AssetPolicyValues.MINIMUM_VOLATILITY),
+            max_vol=format_percentage(AssetPolicyValues.MAXIMUM_VOLATILITY),
+        )
+    )</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>alues</text>
       </register>
       <register name="/" type="4">
         <text>Meta</text>
       </register>
       <register name="0" type="4">
-        <text>__unrounded_volatility</text>
+        <text>(
+        &quot;Carta 409A policy dictates the following for volatility policy:\n&quot;
+        &quot;- Minimum of {min_vol}\n&quot;
+        &quot;- Maximum percentile if 90th percentile is less than {min_vol}\n&quot;
+        &quot;- 90th percentile if it is between {min_vol} and {max_vol}\n&quot;
+        &quot;- Maximum of {max_vol}\n&quot;
+        .format(
+            min_vol=format_percentage(AssetPolicyValues.MINIMUM_VOLATILITY),
+            max_vol=format_percentage(AssetPolicyValues.MAXIMUM_VOLATILITY),
+        )
+    )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS50ZW1wbGF0ZXMgaW1wb3J0IFByb2NlZHVyZVRlbXBsYXRlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3RlcC5wZXJmb3JtX3N0ZXAoKS51cGRhdGVzWydkbG9tX3ZvbGF0aWxpdHlfbWFudWFsX2VudHJ5J10gPT0gZXhwZWN0ZWRfcm91bmRlZF9yZXN1bHQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwLnBvbGljeS5kbG9tX3ZvbGF0aWxpdHkgPSBtb2NrZWRfZGxvbV92b2xhdGlsaXR5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXNldC5kb25lID0gc2V0KCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBJbXBvcnQgc29tZSBmaXh0dXJlcyBieSBkZWZhdWx0IGZyb20gdmFsdWF0aW9ucyBmaXh0dXJlcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoJ21vY2tlZF9kbG9tX3ZvbGF0aWxpdHksIGV4cGVjdGVkX3JvdW5kZWRfcmVzdWx0JywgWwogICAgICAgIChEZWNpbWFsKCcwLjgxMjMnKSwgRGVjaW1hbCgnMC44MCcpKSwKICAgICAgICAoRGVjaW1hbCgnMC44MzMnKSwgRGVjaW1hbCgnMC44NScpKSwKICAgICAgICAoRGVjaW1hbCgnMC44NjcnKSwgRGVjaW1hbCgnMC44NScpKSwKICAgICAgICAoRGVjaW1hbCgnMC44ODgnKSwgRGVjaW1hbCgnMC45MCcpKSwKCiAgICBdKQogICAgZGVmIHRlc3Rfd2hlbl9jYWxsZWRfc2V0c19yb3VuZGVkX2Rsb21fdm9sYXRpbGl0eV90b191cGRhdGVzKAogICAgICAgIHNlbGYsCiAgICAgICAgc3RlcCwKICAgICAgICBtb2NrZWRfZGxvbV92b2xhdGlsaXR5LAogICAgICAgIGV4cGVjdGVkX3JvdW5kZWRfcmVzdWx0CiAgICApOgogICAgICAgIHN0ZXAucG9saWN5LmRsb21fdm9sYXRpbGl0eSA9IG1vY2tlZF9kbG9tX3ZvbGF0aWxpdHkKCiAgICAgICAgYXNzZXJ0IHN0ZXAucGVyZm9ybV9zdGVwKCkudXBkYXRlc1snZGxvbV92b2xhdGlsaXR5X21hbnVhbF9lbnRyeSddID09IGV4cGVjdGVkX3JvdW5kZWRfcmVzdWx0Cg==</text>
+        <text># Import some fixes</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcm91bmRfZGxvbV92b2xhdGlsaXR5KHNlbGYsIGRsb21fdm9sYXRpbGl0eV9zZWxlY3Rpb246ICdEZWNpbWFsJykgLT4gJ0RlY2ltYWwnOgogICAgICAgIHRyeToKICAgICAgICAgICAgcm91bmRlZF92b2xhdGlsaXR5ID0gc2VsZi5wb2xpY3kuZGVmaW5pdGlvbl9jbGFzcy5yb3VuZF92b2xhdGlsaXR5KGRsb21fdm9sYXRpbGl0eV9zZWxlY3Rpb24pCiAgICAgICAgICAgIHJldHVybiByb3VuZGVkX3ZvbGF0aWxpdHkKICAgICAgICAjIE5ldyBwb2xpY3kgd29uJ3QgaGF2ZSB0aGlzIGF0dHJpYnV0ZQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIGRsb21fdm9sYXRpbGl0eV9zZWxlY3Rpb24KCg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuYXNzZXRfcG9saWN5IGltcG9ydCBBc3NldFBvbGljeUV4cGxhbmF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuaW5zdGFuY2UgaW1wb3J0IEFzc2V0VmFsdWF0aW9uUG9saWN5SW5zdGFuY2UK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMucG9saWN5LmlyYzQwOWEuYXNzZXRfcG9saWN5IGltcG9ydCBBc3NldFBvbGljeUV4cGxhbmF0aW9uCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuZGVmaW5pdGlvbiBpbXBvcnQgQXNzZXRWYWx1YXRpb25Qb2xpY3lEZWZpbml0aW9uCg==</text>
+      <register name="9" type="4">
+        <text>(
+        &quot;Carta 409A policy dictates the following for volatility policy:\n&quot;
+        &quot;- Minimum of {min_vol}\n&quot;
+        &quot;- Maximum percentile if 90th percentile is less than {min_vol}\n&quot;
+        &quot;- 90th percentile if it is between {min_vol} and {max_vol}\n&quot;
+        &quot;- Maximum of {max_vol}\n&quot;
+        .format(
+            min_vol=format_percentage(AssetPolicyValues.MINIMUM_VOLATILITY),
+            max_vol=format_percentage(AssetPolicyValues.MAXIMUM_VOLATILITY),
+        )
+    )</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
