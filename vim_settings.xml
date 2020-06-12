@@ -137,7 +137,12 @@
         <mark key="." line="54" column="58" />
         <mark key="^" line="54" column="58" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0168_multiple_financial_date_unique.py" timestamp="1591982530607" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0168_multiple_financial_date_unique.py" timestamp="1591984312661">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/valuation/service.py" timestamp="1591897789999">
         <mark key="[" line="7" column="77" />
         <mark key="]" line="7" column="91" />
@@ -186,16 +191,15 @@
         <mark key="^" line="53" column="36" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591982271179">
-        <mark key="'" line="94" column="10" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="95" column="68" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1591982845354">
+        <mark key="'" line="96" column="36" />
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="97" column="69" />
+        <mark key="." line="97" column="68" />
+        <mark key="^" line="97" column="69" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="9" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="159" column="39" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="23" column="13" filename="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/carta_json_logic/__init__.py" />
       <jump line="278" column="11" filename="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/carta_json_logic/__init__.py" />
@@ -295,6 +299,7 @@
       <jump line="1" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.txt" />
       <jump line="13" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" />
       <jump line="94" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" />
+      <jump line="95" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,11 +307,11 @@
       <register name="a" type="4">
         <text>hybrid_late_exit__tte</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLmNvbW1vbi5pbmRleGVzIGltcG9ydCBQYXJ0aWFsVW5pcXVlSW5kZXgK</text>
+      <register name="&quot;" type="4">
+        <text>unique_together = [('multiple_selection', 'financial_date')]</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>unique_together = [('multiple_selection', 'financial_date')]</text>
       </register>
       <register name="/" type="4">
         <text>Meta</text>
