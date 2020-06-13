@@ -106,11 +106,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1592026925606">
-        <mark key="[" line="109" column="22" />
-        <mark key="]" line="109" column="41" />
-        <mark key="^" line="109" column="30" />
-        <mark key="." line="109" column="29" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/tasks.py" timestamp="1592029377566">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="108" column="30" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/valbot.py" timestamp="1592026935985">
         <mark key="[" line="5" column="4" />
@@ -178,10 +178,10 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1592023972156">
-        <mark key="[" line="109" column="5" />
-        <mark key="]" line="109" column="25" />
-        <mark key="." line="109" column="24" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1592029402506">
+        <mark key="[" line="24" column="67" />
+        <mark key="]" line="24" column="67" />
+        <mark key="." line="24" column="67" />
         <mark key="^" line="109" column="25" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_get_fmv_range.py" timestamp="1592023356251">
@@ -310,11 +310,11 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uIGltcG9ydCB1cGRhdGVfdGVtcGxhdGVfdHlwZQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>valuation</text>
@@ -326,31 +326,31 @@ max</text>
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uIGltcG9ydCB1cGRhdGVfdGVtcGxhdGVfdHlwZQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uX3BvbGljeV9oZWxwZXIgaW1wb3J0IFZhbHVhdGlvblBvbGljeUhlbHBlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBWYWx1YXRpb25UZW1wbGF0ZQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudmFsdWF0aW9uIGltcG9ydCB1cGRhdGVfdGVtcGxhdGVfdHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfdGVtcGxhdGVfdHlwZShuZXdfdmFsdWF0aW9uLCB0ZW1wbGF0ZV90eXBlPVZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBWYWx1YXRpb25UZW1wbGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBNYXAgZGlyZWN0bHkgZnJvbSByZXF1ZXN0IGZvcm0KICAgICAgICBzZWxmLl9jb3B5X2ZpbmFuY2lhbHNfdG9fdmFsdWF0aW9uKHJlcXVlc3RfdmFsdWF0aW9uPXNlbGYucmVxdWVzdF92YWx1YXRpb24sIG5ld192YWx1YXRpb249dmFsdWF0aW9uKQogICAgICAgIHJldHVybiB2YWx1YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfdGVtcGxhdGVfdHlwZShuZXdfdmFsdWF0aW9uLCB0ZW1wbGF0ZV90eXBlPVZhbHVhdGlvblRlbXBsYXRlLkhZQlJJRCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBNYXAgZGlyZWN0bHkgZnJvbSByZXF1ZXN0IGZvcm0KICAgICAgICBzZWxmLl9jb3B5X2ZpbmFuY2lhbHNfdG9fdmFsdWF0aW9uKHJlcXVlc3RfdmFsdWF0aW9uPXNlbGYucmVxdWVzdF92YWx1YXRpb24sIG5ld192YWx1YXRpb249dmFsdWF0aW9uKQo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBNYXAgZGlyZWN0bHkgZnJvbSByZXF1ZXN0IGZvcm0KICAgICAgICBzZWxmLl9jb3B5X2ZpbmFuY2lhbHNfdG9fdmFsdWF0aW9uKHJlcXVlc3RfdmFsdWF0aW9uPXNlbGYucmVxdWVzdF92YWx1YXRpb24sIG5ld192YWx1YXRpb249dmFsdWF0aW9uKQogICAgICAgIHJldHVybiB2YWx1YXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXBfY29tcGFueV9kZXRhaWxzKHBvbGljeV9pbnN0YW5jZSwgY29tcGFueV9pbmZvcm1hdGlvbj1jb21wYW55X2luZm9ybWF0aW9uKQo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBNYXAgZGlyZWN0bHkgZnJvbSByZXF1ZXN0IGZvcm0KICAgICAgICBzZWxmLl9jb3B5X2ZpbmFuY2lhbHNfdG9fdmFsdWF0aW9uKHJlcXVlc3RfdmFsdWF0aW9uPXNlbGYucmVxdWVzdF92YWx1YXRpb24sIG5ld192YWx1YXRpb249dmFsdWF0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9tYXBfY29tcGFueV9kZXRhaWxzKHBvbGljeV9pbnN0YW5jZSwgY29tcGFueV9pbmZvcm1hdGlvbj1jb21wYW55X2luZm9ybWF0aW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXBfZGxvbShwb2xpY3lfaW5zdGFuY2UsIHZhbHVhdGlvbj12YWx1YXRpb24sIHNjZW5hcmlvPXNjZW5hcmlvKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXBfY29tcGFueV9kZXRhaWxzKHBvbGljeV9pbnN0YW5jZSwgY29tcGFueV9pbmZvcm1hdGlvbj1jb21wYW55X2luZm9ybWF0aW9uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5pbnN0YW5jZXMudmFsdWF0aW9uLmNvbXBhcmFibGVzIGltcG9ydCBDb21wYXJhYmxlc1BvbGljeUluc3RhbmNlCmZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5wb2xpY3kuaW5zdGFuY2VzLnZhbHVhdGlvbi5kbG9tIGltcG9ydCBETE9NUG9saWN5SW5zdGFuY2UK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXBfZGxvbShwb2xpY3lfaW5zdGFuY2UsIHZhbHVhdGlvbj12YWx1YXRpb24sIHNjZW5hcmlvPXNjZW5hcmlvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
