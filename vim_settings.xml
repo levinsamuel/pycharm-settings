@@ -175,11 +175,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1592021604092">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="202" column="51" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1592021986614">
+        <mark key="[" line="201" column="39" />
+        <mark key="]" line="202" column="17" />
+        <mark key="^" line="202" column="17" />
+        <mark key="." line="202" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" timestamp="1591990297742">
         <mark key="[" line="0" column="0" />
@@ -301,11 +301,11 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuY29uc3RhbnRzIGltcG9ydCBRdWFydGlsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>lowish_quartiles.max</text>
       </register>
       <register name="-" type="4">
-        <text>[Quartile.MAX.value]</text>
+        <text>lowish_quartiles.max</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
