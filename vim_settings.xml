@@ -181,11 +181,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1592008002027">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="184" column="106" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1592008126797">
+        <mark key="[" line="218" column="44" />
+        <mark key="]" line="218" column="44" />
+        <mark key="^" line="218" column="44" />
+        <mark key="." line="218" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" timestamp="1591990297742">
         <mark key="[" line="0" column="0" />
@@ -302,11 +302,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gUnVsZXNDb250ZXh0KHsKICAgICAgICAgICAgJ3ZvbGF0aWxpdHlfX3ZvbGF0aWxpdHlfcXVhbnRpbGVzJzogbG93X3F1YXJ0aWxlcwogICAgICAgIH0pCiAgICAgICAgcmVzdWx0ID0gZGVmaW5pdGlvbi5ldmFsdWF0ZShjb250ZXh0PWNvbnRleHQpCgogICAgICAgIGFzc2VydCByZXN1bHQudmFsdWUgPT0gX01JTklNVU1fVk9MQVRJTElUWQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBkZWZpbml0aW9uLmV2YWx1YXRlKGNvbnRleHQ9Y29udGV4dCwganNvbl9ydWxlX3NlcnZpY2U9cnVsZV9zZXJ2aWNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>medium_quartiles[Quartile.NINETIETH.value]</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>medium_quartiles[Quartile.NINETIETH.value]</text>
       </register>
       <register name="/" type="4">
         <text>Meta</text>
