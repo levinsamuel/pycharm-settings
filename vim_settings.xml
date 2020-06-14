@@ -91,11 +91,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" timestamp="1592094889195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/mappers/django/policy/test_hybrid_policy_to_valuation_mapper.py" timestamp="1592163965868">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="22" />
-        <mark key="^" line="34" column="22" />
-        <mark key="." line="34" column="21" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/mappers/django/policy/test_hybrid_policy_to_valuation_mapper.py" timestamp="1592165038940">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="36" column="59" />
+        <mark key="^" line="36" column="59" />
+        <mark key="." line="36" column="58" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_default_policy.py" timestamp="1592023346495">
         <mark key="'" line="4" column="13" />
@@ -109,11 +109,11 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1592164857504">
-        <mark key="[" line="164" column="29" />
-        <mark key="]" line="164" column="94" />
-        <mark key="^" line="164" column="94" />
-        <mark key="." line="164" column="93" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1592165145879">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="177" column="37" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/valbot.py" timestamp="1592026473030">
         <mark key="[" line="16" column="43" />
@@ -126,12 +126,12 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/hybrid.py" timestamp="1592163866861">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/hybrid.py" timestamp="1592164980629">
         <mark key="'" line="93" column="34" />
-        <mark key="[" line="86" column="56" />
-        <mark key="]" line="86" column="78" />
-        <mark key="^" line="86" column="78" />
-        <mark key="." line="86" column="77" />
+        <mark key="[" line="90" column="53" />
+        <mark key="]" line="90" column="63" />
+        <mark key="^" line="90" column="63" />
+        <mark key="." line="90" column="62" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_get_fmv_range.py" timestamp="1592023356251">
         <mark key="[" line="11" column="0" />
@@ -151,11 +151,11 @@
         <mark key="^" line="202" column="17" />
         <mark key="." line="202" column="16" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/standard.py" timestamp="1592163855620">
-        <mark key="[" line="76" column="56" />
-        <mark key="]" line="76" column="78" />
-        <mark key="^" line="76" column="78" />
-        <mark key="." line="76" column="77" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/standard.py" timestamp="1592164973313">
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="80" column="63" />
+        <mark key="." line="80" column="62" />
+        <mark key="^" line="80" column="63" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1592026077673">
         <mark key="[" line="222" column="0" />
@@ -291,47 +291,47 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>uses_asset_volatility</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>allocation = Allocation()</text>
       </register>
       <register name="/" type="4">
         <text>valuation</text>
       </register>
-      <register name="0" type="4">
-        <text>uses_asset_volatility</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVhcmx5X2V4aXRfc2NlbmFyaW8uYWxsb2NhdGlvbiA9IEFsbG9jYXRpb24oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9pbmNsdWRlZF9kZWJ0ID0gRGVjaW1hbCgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkZWNpbWFsIGltcG9ydCBEZWNpbWFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9pbmNsdWRlZF9kZWJ0ID0gRGVjaW1hbCgwKQogICAgICAgIGlmIHBvbGljeV9pbnN0YW5jZS5hbGxvY2F0aW9uX2NvbmZpZy5kZWJ0X2luZm86CiAgICAgICAgICAgIHRvdGFsX2luY2x1ZGVkX2RlYnQgPSBwb2xpY3lfaW5zdGFuY2UuYWxsb2NhdGlvbl9jb25maWcuZGVidF9pbmZvLnRvdGFsX2luY2x1ZGVkX2RlYnQKICAgICAgICB1c2VzX2Fzc2V0X3ZvbGF0aWxpdHkgPSBnZXRfYXNzZXRfdm9sYXRpbGl0eV9zZXR0aW5nX2Zyb21fZGVidCgKICAgICAgICAgICAgdG90YWxfaW5jbHVkZWRfZGVidD10b3RhbF9pbmNsdWRlZF9kZWJ0LAogICAgICAgICAgICBkZWJ0X29wdGlvbj1EZWJ0T3B0aW9ucyhwb2xpY3lfaW5zdGFuY2UuYWxsb2NhdGlvbl9jb25maWcuZGVidF9vcHRpb24pLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55X2luZm9ybWF0aW9uID0gdmFsdWF0aW9uLmNvbXBhbnlfaW5mb3JtYXRpb24gICMgdHlwZTogQ29tcGFueUluZm9ybWF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9pbmNsdWRlZF9kZWJ0ID0gRGVjaW1hbCgwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5pbnN0YW5jZXMudmFsdWF0aW9uLmNvbXBhbnlfZGV0YWlscyBpbXBvcnQgQ29tcGFueURldGFpbHNQb2xpY3lJbnN0YW5jZQpmcm9tIGVzaGFyZXMudmFsdWF0aW9uX3BvbGljeS5jb3JlLmRhdGEucG9saWN5Lmluc3RhbmNlcy52YWx1YXRpb24ubWV0aG9kb2xvZ2llcyBpbXBvcnQgSW52ZXN0ZWRDYXBpdGFsUG9saWN5SW5zdGFuY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBJbnZlc3RlZENhcGl0YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9pbmNsdWRlZF9kZWJ0ID0gRGVjaW1hbCgwKQogICAgICAgIGlmIHBvbGljeV9pbnN0YW5jZS5hbGxvY2F0aW9uX2NvbmZpZy5kZWJ0X2luZm86CiAgICAgICAgICAgIHRvdGFsX2luY2x1ZGVkX2RlYnQgPSBwb2xpY3lfaW5zdGFuY2UuYWxsb2NhdGlvbl9jb25maWcuZGVidF9pbmZvLnRvdGFsX2luY2x1ZGVkX2RlYnQKICAgICAgICB1c2VzX2Fzc2V0X3ZvbGF0aWxpdHkgPSBnZXRfYXNzZXRfdm9sYXRpbGl0eV9zZXR0aW5nX2Zyb21fZGVidCgKICAgICAgICAgICAgdG90YWxfaW5jbHVkZWRfZGVidD10b3RhbF9pbmNsdWRlZF9kZWJ0LAogICAgICAgICAgICBkZWJ0X29wdGlvbj1EZWJ0T3B0aW9ucyhwb2xpY3lfaW5zdGFuY2UuYWxsb2NhdGlvbl9jb25maWcuZGVidF9vcHRpb24pLAogICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgX21hcF9lYXJseV9leGl0X2F0dHJpYnV0ZXMoc2VsZiwgZWFybHlfZXhpdF9wb2xpY3lfaW5zdGFuY2UsIGVhcmx5X2V4aXRfc2NlbmFyaW8pOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55X2luZm9ybWF0aW9uID0gdmFsdWF0aW9uLmNvbXBhbnlfaW5mb3JtYXRpb24gICMgdHlwZTogQ29tcGFueUluZm9ybWF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
