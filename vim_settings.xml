@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>valbot_api</entry>
         <entry>SEGMEN</entry>
         <entry>has_serires</entry>
         <entry>has_series</entry>
@@ -27,6 +26,7 @@
         <entry>staff</entry>
         <entry>valuation</entry>
         <entry>Any</entry>
+        <entry>valuations</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -104,8 +104,10 @@
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="26" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/urls.py" timestamp="1592334220441">
-        <mark key="'" line="236" column="61" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/urls.py" timestamp="1592336450158">
+        <mark key="'" line="236" column="13" />
+        <mark key="[" line="236" column="11" />
+        <mark key="." line="236" column="12" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/hybrid.py" timestamp="1592248854790">
         <mark key="'" line="115" column="34" />
@@ -270,11 +272,11 @@
       <jump line="20" column="53" filename="$USER_HOME$/git/c/carta-web/entries.js" />
       <jump line="52" column="50" filename="$USER_HOME$/git/c/carta-web/entries.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
-      <jump line="236" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
       <jump line="241" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
       <jump line="0" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
       <jump line="77" column="54" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
+      <jump line="236" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +293,7 @@ max</text>
         <text>PolicyManager</text>
       </register>
       <register name="/" type="4">
-        <text>Any</text>
+        <text>valuations</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdhc3NldC1jYWxpYnJhdGlvbic6ICcuL2FwcC92YWx1YXRpb25zL2Fzc2V0LWNhbGlicmF0aW9uL2luZGV4JywK</text>
@@ -333,9 +335,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Any</last-search>
+      <last-search>valuations</last-search>
       <last-offset />
-      <last-pattern>Any</last-pattern>
+      <last-pattern>valuations</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
