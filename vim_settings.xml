@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>max</entry>
         <entry>valbot_api</entry>
         <entry>SEGMEN</entry>
         <entry>has_serires</entry>
@@ -27,6 +26,7 @@
         <entry>VAL_P</entry>
         <entry>staff</entry>
         <entry>valuation</entry>
+        <entry>Any</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -98,11 +98,11 @@
         <mark key="]" line="360" column="0" />
         <mark key="." line="360" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/urls.py" timestamp="1592334408484">
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="47" column="40" />
-        <mark key="^" line="47" column="40" />
-        <mark key="." line="47" column="39" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/urls.py" timestamp="1592335643024">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="26" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/urls.py" timestamp="1592334220441">
         <mark key="'" line="236" column="61" />
@@ -140,12 +140,12 @@
         <mark key="^" line="60" column="53" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/umbrella/umbrella.py" timestamp="1592263613503" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" timestamp="1592272453965">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="^" line="225" column="28" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" timestamp="1592334679968">
+        <mark key="'" line="77" column="54" />
+        <mark key="[" line="241" column="40" />
+        <mark key="]" line="242" column="0" />
+        <mark key="^" line="242" column="0" />
+        <mark key="." line="241" column="40" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/standard_backsolve_strategy.py" timestamp="1592254775654">
         <mark key="[" line="6" column="0" />
@@ -175,9 +175,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1592325745672" />
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/client.py" />
-      <jump line="30" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/client.py" />
-      <jump line="35" column="6" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" />
       <jump line="61" column="53" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/policy/client/test_policy_instance_mapper.py" />
       <jump line="58" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/services/policy/client/test_policy_instance_mapper.py" />
       <jump line="78" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/service_registry.py" />
@@ -275,6 +272,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
       <jump line="236" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
+      <jump line="241" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
+      <jump line="0" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
+      <jump line="77" column="54" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,14 +284,14 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PolicyManager</text>
       </register>
       <register name="-" type="4">
-        <text>asset-calibration</text>
+        <text>PolicyManager</text>
       </register>
       <register name="/" type="4">
-        <text>valuation</text>
+        <text>Any</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdhc3NldC1jYWxpYnJhdGlvbic6ICcuL2FwcC92YWx1YXRpb25zL2Fzc2V0LWNhbGlicmF0aW9uL2luZGV4JywK</text>
@@ -333,9 +333,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>valuation</last-search>
+      <last-search>Any</last-search>
       <last-offset />
-      <last-pattern>valuation</last-pattern>
+      <last-pattern>Any</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
