@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hybrid_backsolve_weighted_totals</entry>
         <entry>max</entry>
         <entry>valbot_api</entry>
         <entry>SEGMEN</entry>
@@ -26,6 +25,7 @@
         <entry>Meta</entry>
         <entry>\\n</entry>
         <entry>VAL_P</entry>
+        <entry>staff</entry>
         <entry>valuation</entry>
       </history-search>
       <history-cmd>
@@ -92,17 +92,20 @@
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="67" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/mappers/django/policy/test_hybrid_policy_to_valuation_mapper.py" timestamp="1592243135384">
-        <mark key="[" line="10" column="64" />
-        <mark key="]" line="10" column="64" />
-        <mark key="^" line="76" column="49" />
-        <mark key="." line="10" column="64" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1592254520308">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="360" column="0" />
         <mark key="]" line="360" column="0" />
         <mark key="." line="360" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/urls.py" timestamp="1592334408484">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="47" column="40" />
+        <mark key="^" line="47" column="40" />
+        <mark key="." line="47" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/urls.py" timestamp="1592334220441">
+        <mark key="'" line="236" column="61" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/hybrid.py" timestamp="1592248854790">
         <mark key="'" line="115" column="34" />
@@ -120,6 +123,9 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/service.py" timestamp="1592248958906">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="89" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" timestamp="1592334236207">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" timestamp="1592255246863">
         <mark key="[" line="12" column="33" />
@@ -169,9 +175,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" timestamp="1592325745672" />
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_evaluate_selector.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/valbot_409a_context_builder.py" />
-      <jump line="65" column="81" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/valbot_409a_context_builder.py" />
       <jump line="25" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/client.py" />
       <jump line="30" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/client.py" />
       <jump line="35" column="6" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/core/exceptions.py" />
@@ -269,6 +272,9 @@
       <jump line="16" column="4" filename="$USER_HOME$/git/c/carta-web/entries.js" />
       <jump line="20" column="53" filename="$USER_HOME$/git/c/carta-web/entries.js" />
       <jump line="52" column="50" filename="$USER_HOME$/git/c/carta-web/entries.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
+      <jump line="236" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
