@@ -149,16 +149,20 @@
       <file name="$USER_HOME$/git/c/carta-web/templates/menu/includes/nav_primary.html" timestamp="1592337239086">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/urls.py" timestamp="1592349711293">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="5" column="52" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="5" column="51" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/urls.py" timestamp="1592357264021">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/standard_backsolve_strategy.py" timestamp="1592254775654">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/urls.py" timestamp="1592357240682">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="58" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/migrations/0168_multiple_financial_date_unique.py" timestamp="1592259388469" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/utils/view.py" timestamp="1592264662673">
@@ -286,17 +290,17 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>corporation_pk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>corporation_pk</text>
       </register>
       <register name="/" type="4">
         <text>valuations</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlc3BvbnNlX2RhdGEgPSBzZWxmLnJldHJpZXZlKCkKICAgICAgICAgICAgcmVzcG9uc2UgPSBSZXNwb25zZShkYXRhPXJlc3BvbnNlX2RhdGEpCiAgICAgICAgZXhjZXB0IHNlbGYuZXhjZXB0aW9ucy5CYXNlQXNzZXRDYWxpYnJhdGlvbkV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXNwb25zZSA9IFJlc3BvbnNlKGUubWVzc2FnZSwgc3RhdHVzPXN0YXR1cy5IVFRQXzQwMF9CQURfUkVRVUVTVCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcih0cmFjZWJhY2suZm9ybWF0X2V4YygpKQogICAgICAgICAgICByYWlzZSBlCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlCgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KD9QPGNvcnBvcmF0aW9uX3BrPlxkKyk=</text>
       </register>
       <register name="q" type="4">
         <text />
