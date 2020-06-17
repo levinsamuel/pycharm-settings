@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>has_series</entry>
-        <entry>share_clas</entry>
         <entry>class_labels</entry>
         <entry>last_pref</entry>
         <entry>share_class</entry>
@@ -27,6 +25,8 @@
         <entry>valuation</entry>
         <entry>staff</entry>
         <entry>valuations</entry>
+        <entry>IBIS</entry>
+        <entry>Ibis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -115,6 +115,7 @@
         <mark key="^" line="270" column="34" />
         <mark key="." line="270" column="33" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/umbrella/umbrella.py" timestamp="1592431043315" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/urls.py" timestamp="1592425084739">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="34" />
@@ -158,6 +159,9 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" timestamp="1592431091424">
+        <mark key="'" line="147" column="34" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_new_segmentation_revision.py" timestamp="1592418847524">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -191,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="29" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
       <jump line="0" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
       <jump line="5" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
       <jump line="9" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
@@ -291,6 +294,7 @@
       <jump line="236" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
       <jump line="228" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
       <jump line="2" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/utils/test_owner_key.py" />
+      <jump line="147" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +311,7 @@ max</text>
         <text>shape</text>
       </register>
       <register name="/" type="4">
-        <text>valuations</text>
+        <text>Ibis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNoYXBlID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKCkK</text>
@@ -349,9 +353,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>valuations</last-search>
+      <last-search>Ibis</last-search>
       <last-offset />
-      <last-pattern>valuations</last-pattern>
+      <last-pattern>Ibis</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
