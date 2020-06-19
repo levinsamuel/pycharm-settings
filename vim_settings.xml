@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>class_labels</entry>
         <entry>last_pref</entry>
         <entry>share_class</entry>
         <entry>class_lab</entry>
@@ -27,6 +26,7 @@
         <entry>valuations</entry>
         <entry>IBIS</entry>
         <entry>Ibis</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -111,11 +111,12 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1592449260079">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1592524826393">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="47" />
+        <mark key="^" line="25" column="47" />
+        <mark key="." line="25" column="46" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" timestamp="1592431091424">
         <mark key="'" line="147" column="34" />
@@ -161,7 +162,6 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/scenario_type.py" timestamp="1592447506895" />
     </filemarks>
     <jumps>
-      <jump line="0" column="15" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
       <jump line="5" column="17" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
       <jump line="9" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
       <jump line="10" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/company_value/post_money_table.py" />
@@ -261,6 +261,7 @@
       <jump line="228" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
       <jump line="2" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/utils/test_owner_key.py" />
       <jump line="147" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/implementations/hybrid_backsolve_strategy.py" />
+      <jump line="6" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -270,14 +271,14 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>root_api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBzZWxmX3JlZmVyZW5jZShjbHMpOgogICAgICAgIHJldHVybiBjbHMK</text>
       </register>
       <register name="-" type="4">
-        <text>root_api</text>
+        <text>BoundField</text>
       </register>
       <register name="/" type="4">
-        <text>Ibis</text>
+        <text>method</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIG93bmVyX2tleShzZWxmKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIHNlbGYua3dhcmdzLmdldChhcGlfY29uc3RhbnRzLnBvbGljeV9vd25lcl9rZXlfa2V5KQoK</text>
@@ -286,31 +287,31 @@ max</text>
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpjbGFzcyBSb290UG9saWN5QVBJVmlldyhWYWx1YXRpb25Qb2xpY3lBUElWaWV3KToKCiAgICBwZXJtaXNzaW9uX2NsYXNzZXMgPSAoCiAgICAgICAgQW55KAogICAgICAgICAgICBJc09yZ2FuaXphdGlvbk1lbWJlcigpLAogICAgICAgICAgICBTdGFmZlBlcm1pc3Npb24oKSwKICAgICAgICApLAogICAgKQogICAgc2VyaWFsaXplcl9jbGFzcyA9IFJvb3RQb2xpY3lTZXJpYWxpemVyCgogICAgZGVmIGdldChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcG9saWNpZXMgPSBzZWxmLnBvbGljeV9hcGkuKCkKICAgICAgICAgICAgc2VyaWFsaXplZCA9IHNlbGYuc2VyaWFsaXplcl9jbGFzcyhwb2xpY2llcywgbWFueT1UcnVlKQogICAgICAgICAgICByZXNwb25zZSA9IFJlc3BvbnNlKGRhdGE9eydwb2xpY2llcyc6IHNlcmlhbGl6ZWQuZGF0YX0pCiAgICAgICAgZXhjZXB0IEJhZFJlcXVlc3QgYXMgZToKICAgICAgICAgICAgcmVzcG9uc2UgPSBSZXNwb25zZShzdHIoZSksIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2cuZXJyb3IoJ0dFVCBmYWlsZWQnLCBleGNfaW5mbz1lKQogICAgICAgICAgICByYWlzZSBlCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBzZWxmX3JlZmVyZW5jZShjbHMpOgogICAgICAgIHJldHVybiBjbHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBQb2xpY3lTaGFwZQo=</text>
+        <text encoding="base64">ICAgIGlmX3RydWUgPSBzZWxmX3JlZmVyZW5jZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc2hhcGUgPSBzZXJpYWxpemVycy5DaG9pY2VGaWVsZChjaG9pY2VzPVBvbGljeVNoYXBlKQo=</text>
+        <text encoding="base64">CgpjbGFzcyBSb290UG9saWN5QVBJVmlldyhWYWx1YXRpb25Qb2xpY3lBUElWaWV3KToKCiAgICBwZXJtaXNzaW9uX2NsYXNzZXMgPSAoCiAgICAgICAgQW55KAogICAgICAgICAgICBJc09yZ2FuaXphdGlvbk1lbWJlcigpLAogICAgICAgICAgICBTdGFmZlBlcm1pc3Npb24oKSwKICAgICAgICApLAogICAgKQogICAgc2VyaWFsaXplcl9jbGFzcyA9IFJvb3RQb2xpY3lTZXJpYWxpemVyCgogICAgZGVmIGdldChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcG9saWNpZXMgPSBzZWxmLnBvbGljeV9hcGkuKCkKICAgICAgICAgICAgc2VyaWFsaXplZCA9IHNlbGYuc2VyaWFsaXplcl9jbGFzcyhwb2xpY2llcywgbWFueT1UcnVlKQogICAgICAgICAgICByZXNwb25zZSA9IFJlc3BvbnNlKGRhdGE9eydwb2xpY2llcyc6IHNlcmlhbGl6ZWQuZGF0YX0pCiAgICAgICAgZXhjZXB0IEJhZFJlcXVlc3QgYXMgZToKICAgICAgICAgICAgcmVzcG9uc2UgPSBSZXNwb25zZShzdHIoZSksIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2cuZXJyb3IoJ0dFVCBmYWlsZWQnLCBleGNfaW5mbz1lKQogICAgICAgICAgICByYWlzZSBlCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBQb2xpY3lTaGFwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgIFRoZXJlIHNob3VsZCBiZSBhIHN0YW5kYXJkIHdheSB0byBjaGVjayBmb3IgYSBtYXRjaCBvbiB0aGF0IHBhdHRlcm4uCg==</text>
+        <text encoding="base64">ICAgICMgc2hhcGUgPSBzZXJpYWxpemVycy5DaG9pY2VGaWVsZChjaG9pY2VzPVBvbGljeVNoYXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcGF0dGVybiBpcyBqdXN0IHRoZSBwYXR0ZXJuIGZvciBhIHVybC1zYWZlIGJhc2U2NCBzdHJpbmcK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuZ2VuZXJhdG9ycyBpbXBvcnQgQXNzZXRQb2xpY3lHZW5lcmF0b3IK</text>
+        <text encoding="base64">ICAgICMgIFRoZXJlIHNob3VsZCBiZSBhIHN0YW5kYXJkIHdheSB0byBjaGVjayBmb3IgYSBtYXRjaCBvbiB0aGF0IHBhdHRlcm4uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5leGNlcHRpb25zIGltcG9ydCBOb3RGb3VuZEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogcGF0dGVybiBpcyBqdXN0IHRoZSBwYXR0ZXJuIGZvciBhIHVybC1zYWZlIGJhc2U2NCBzdHJpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uLnR5cGVzIGltcG9ydCBQb2xpY3lTaGFwZQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuZ2VuZXJhdG9ycyBpbXBvcnQgQXNzZXRQb2xpY3lHZW5lcmF0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
@@ -319,9 +320,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Ibis</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>Ibis</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
