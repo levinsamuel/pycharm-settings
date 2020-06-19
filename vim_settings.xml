@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>share_class</entry>
         <entry>class_lab</entry>
         <entry>has_historical_preferred</entry>
         <entry>\n\n</entry>
@@ -27,6 +26,7 @@
         <entry>Ibis</entry>
         <entry>method</entry>
         <entry>serializer_class</entry>
+        <entry>query_params</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -112,7 +112,8 @@
         <mark key="." line="7" column="96" />
         <mark key="^" line="7" column="97" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/revision.py" timestamp="1592592146121">
+      <file name="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/rest_framework/views.py" timestamp="1592592734003" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/revision.py" timestamp="1592592638952">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="28" column="66" />
         <mark key="." line="28" column="65" />
@@ -131,11 +132,11 @@
         <mark key="^" line="42" column="51" />
         <mark key="." line="42" column="50" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/root.py" timestamp="1592592093491">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="47" column="56" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/root.py" timestamp="1592592342108">
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/repository/repository.py" timestamp="1592526160523">
         <mark key="[" line="79" column="15" />
@@ -184,8 +185,8 @@
         <mark key="." line="6" column="66" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" timestamp="1592525707728">
-        <mark key="'" line="363" column="4" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" timestamp="1592592699748">
+        <mark key="'" line="243" column="28" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/repository/test_repository.py" timestamp="1592526503347">
         <mark key="[" line="50" column="37" />
@@ -195,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
-      <jump line="93" column="54" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
-      <jump line="116" column="23" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="124" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="158" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="160" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
@@ -295,6 +293,9 @@
       <jump line="363" column="4" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
       <jump line="10" column="12" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/api/test_utils.py" />
       <jump line="0" column="12" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/api/test_utils.py" />
+      <jump line="368" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
+      <jump line="282" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
+      <jump line="243" column="28" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +312,7 @@ max</text>
         <text>2020-06-03</text>
       </register>
       <register name="/" type="4">
-        <text>serializer_class</text>
+        <text>query_params</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHN0cmluZ190b19kYXRlKCcyMDIwLTA2LTAzJykK</text>
@@ -353,9 +354,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>serializer_class</last-search>
+      <last-search>query_params</last-search>
       <last-offset />
-      <last-pattern>serializer_class</last-pattern>
+      <last-pattern>query_params</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
