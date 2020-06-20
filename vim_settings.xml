@@ -129,12 +129,12 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1592616879403">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="42" column="45" />
-        <mark key="^" line="42" column="45" />
-        <mark key="." line="42" column="44" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1592683397877">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="52" column="64" />
+        <mark key="]" line="53" column="60" />
+        <mark key="." line="53" column="59" />
+        <mark key="^" line="53" column="60" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/root.py" timestamp="1592600882849">
         <mark key="[" line="0" column="0" />
@@ -148,11 +148,12 @@
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/api/valuation_policy/test_valuation_policy_serializer.py" timestamp="1592550216898">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/api/valuation_policy/test_valuation_policy_serializer.py" timestamp="1592683292809">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="36" column="46" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" timestamp="1592530493955">
         <mark key="[" line="257" column="0" />
@@ -200,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="158" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="160" column="40" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
       <jump line="13" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
@@ -300,6 +300,7 @@
       <jump line="368" column="21" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
       <jump line="282" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
       <jump line="243" column="28" filename="$USER_HOME$/git/c/carta-web/eshares/common/components/api.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/api/valuation_policy/test_valuation_policy_serializer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,47 +310,47 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgVGVzdFNlcmlhbGl6ZURlY2lzaW9uVHJlZToKICAgIGRlZiB0ZXN0X3NlcmlhbGl6ZV9ib29sZWFuX3J1bGVfaW50b19kaWN0KHNlbGYsIHNhbXBsZV9ydWxlcyk6CiAgICAgICAgcnVsZV9kaWN0ID0gRGVjaXNpb25UcmVlUm9vdFNlcmlhbGl6ZXIuX3NlcmlhbGl6ZV9kZWNpc2lvbl90cmVlKHNhbXBsZV9ydWxlcykKICAgICAgICBhc3NlcnQgcnVsZV9kaWN0ID09IHsKICAgICAgICAgICAgImNvbmRpdGlvbiI6ICd7InZhciI6ICJ3aG9fYW1faSJ9JywKICAgICAgICAgICAgImlmX2ZhbHNlIjogewogICAgICAgICAgICAgICAgIm5hbWUiOiAibWFueSB0aGluZ3MiLAogICAgICAgICAgICAgICAgInJ1bGVzIjogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImNvbmRpdGlvbiI6ICd7IiEiOiB7IjwiOiBbMywgNF19fScsCiAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogInZlcnkgbmljZSIKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImNvbmRpdGlvbiI6ICd7ImlmIjogW3siPCI6IFszLCA0XX0sIHsidmFyIjogIm15c3RlcnkifSwgNDQ0NF19JywKICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAidmVyeSBnb29kICMxIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgIm5hbWUiOiAiaGV5IiwKICAgICAgICAgICAgImlmX3RydWUiOiAiQklHX05VTUJFUiIKICAgICAgICB9CgoK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>json.dumps(node.condition, default=ExactDecimalEncoder)</text>
       </register>
       <register name="/" type="4">
         <text>query_params</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHN0cmluZ190b19kYXRlKCcyMDIwLTA2LTAzJykK</text>
+        <text encoding="base64">CgpjbGFzcyBUZXN0U2VyaWFsaXplRGVjaXNpb25UcmVlOgogICAgZGVmIHRlc3Rfc2VyaWFsaXplX2Jvb2xlYW5fcnVsZV9pbnRvX2RpY3Qoc2VsZiwgc2FtcGxlX3J1bGVzKToKICAgICAgICBydWxlX2RpY3QgPSBEZWNpc2lvblRyZWVSb290U2VyaWFsaXplci5fc2VyaWFsaXplX2RlY2lzaW9uX3RyZWUoc2FtcGxlX3J1bGVzKQogICAgICAgIGFzc2VydCBydWxlX2RpY3QgPT0gewogICAgICAgICAgICAiY29uZGl0aW9uIjogeyJ2YXIiOiAid2hvX2FtX2kifSwKICAgICAgICAgICAgImlmX2ZhbHNlIjogewogICAgICAgICAgICAgICAgIm5hbWUiOiAibWFueSB0aGluZ3MiLAogICAgICAgICAgICAgICAgInJ1bGVzIjogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImNvbmRpdGlvbiI6IHsiISI6IHsiPCI6IFszLCA0XX19LAogICAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJ2ZXJ5IG5pY2UiCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJjb25kaXRpb24iOiB7ImlmIjogW3siPCI6IFszLCA0XX0sIHsidmFyIjogIm15c3RlcnkifSwgNDQ0NF19LAogICAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJ2ZXJ5IGdvb2QgIzEiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAgICAibmFtZSI6ICJoZXkiLAogICAgICAgICAgICAiaWZfdHJ1ZSI6ICJCSUdfTlVNQkVSIgogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Y2xhc3MgVGVzdFNlcmlhbGl6ZURlY2lzaW9uVHJlZToKICAgIGRlZiB0ZXN0X3NlcmlhbGl6ZV9ib29sZWFuX3J1bGVfaW50b19kaWN0KHNlbGYsIHNhbXBsZV9ydWxlcyk6CiAgICAgICAgcnVsZV9kaWN0ID0gRGVjaXNpb25UcmVlUm9vdFNlcmlhbGl6ZXIuX3NlcmlhbGl6ZV9kZWNpc2lvbl90cmVlKHNhbXBsZV9ydWxlcykKICAgICAgICBhc3NlcnQgcnVsZV9kaWN0ID09IHsKICAgICAgICAgICAgImNvbmRpdGlvbiI6ICd7InZhciI6ICJ3aG9fYW1faSJ9JywKICAgICAgICAgICAgImlmX2ZhbHNlIjogewogICAgICAgICAgICAgICAgIm5hbWUiOiAibWFueSB0aGluZ3MiLAogICAgICAgICAgICAgICAgInJ1bGVzIjogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImNvbmRpdGlvbiI6ICd7IiEiOiB7IjwiOiBbMywgNF19fScsCiAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogInZlcnkgbmljZSIKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImNvbmRpdGlvbiI6ICd7ImlmIjogW3siPCI6IFszLCA0XX0sIHsidmFyIjogIm15c3RlcnkifSwgNDQ0NF19JywKICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAidmVyeSBnb29kICMxIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgIm5hbWUiOiAiaGV5IiwKICAgICAgICAgICAgImlmX3RydWUiOiAiQklHX05VTUJFUiIKICAgICAgICB9CgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfc2VyaWFsaXplX3J1bGUoY2xzLCBub2RlOiAnX0NhbkV2YWx1YXRlJykgLT4gRGljdDogICMgVE9ETzogbWlnaHQgbm90IGJlIGJvb2xlYW4gcnVsZQogICAgICAgIG5vZGVfZGljdCA9IGNscy5fc2VyaWFsaXplX3J1bGVfYXR0cmlidXRlcyhub2RlKQogICAgICAgIGlmIGhhc2F0dHIobm9kZSwgJ3J1bGVzJyk6CiAgICAgICAgICAgIHJ1bGVzID0gW2Nscy5fc2VyaWFsaXplX3J1bGUoc3ViX25vZGUpIGZvciBzdWJfbm9kZSBpbiBub2RlLnJ1bGVzXQogICAgICAgICAgICBub2RlX2RpY3RbJ3J1bGVzJ10gPSBydWxlcwogICAgICAgIGlmIGdldGF0dHIobm9kZSwgJ2lmX3RydWUnLCBOb25lKToKICAgICAgICAgICAgbm9kZV9kaWN0WydpZl90cnVlJ10gPSBjbHMuX3NlcmlhbGl6ZV9kZWNpc2lvbl90cmVlKG5vZGUuaWZfdHJ1ZSkKICAgICAgICBpZiBnZXRhdHRyKG5vZGUsICdpZl9mYWxzZScsIE5vbmUpOgogICAgICAgICAgICBub2RlX2RpY3RbJ2lmX2ZhbHNlJ10gPSBjbHMuX3NlcmlhbGl6ZV9kZWNpc2lvbl90cmVlKG5vZGUuaWZfZmFsc2UpCiAgICAgICAgcmV0dXJuIG5vZGVfZGljdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF9zZXJpYWxpemVfZGVjaXNpb25fdHJlZShjbHMsIG5vZGUpOgogICAgICAgICMgVE9ETzogdGhpcyBsb2dpYyBtYXkgaGF2ZSB0byBiZSBhZGp1c3RlZAogICAgICAgIGlmIGlzaW5zdGFuY2Uobm9kZSwgX0NhbkV2YWx1YXRlKToKICAgICAgICAgICAgcmV0dXJuIGNscy5fc2VyaWFsaXplX3J1bGUobm9kZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gbm9kZQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ2dvdCBkYXRlIHBhcmFtOiAlcycsIGRhdGVfcGFyYW0pCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncmVxdWVzdCBhZnRlciBpbml0aWFsaXplOicsIGRpcihyZXF1ZXN0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ2V0YXR0cihwcmVzZW50X25vZGUsICdpZl90cnVlJywgTm9uZSk6CiAgICAgICAgICAgICAgICBjb3VudGVyICs9IDEKICAgICAgICAgICAgICAgIG5vZGVzLmFwcGVuZCgoY291bnRlciwgcHJlc2VudF9ub2RlLmlmX3RydWUpKQogICAgICAgICAgICAgICAgc2VyaWFsaXplZF9ub2RlWydpZl90cnVlJ10gPSBjb3VudGVyCiAgICAgICAgICAgIGlmIGdldGF0dHIocHJlc2VudF9ub2RlLCAnaWZfZmFsc2UnLCBOb25lKToKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQogICAgICAgICAgICAgICAgbm9kZXMuYXBwZW5kKChjb3VudGVyLCBwcmVzZW50X25vZGUuaWZfZmFsc2UpKQogICAgICAgICAgICAgICAgc2VyaWFsaXplZF9ub2RlWydpZl9mYWxzZSddID0gY291bnRlcgogICAgICAgICAgICBpZiBoYXNhdHRyKHByZXNlbnRfbm9kZSwgJ3J1bGVzJyk6CiAgICAgICAgICAgICAgICBzZXJpYWxpemVkX25vZGVbJ3J1bGVzJ10gPSBbXQogICAgICAgICAgICAgICAgZm9yIHJ1bGUgaW4gcHJlc2VudF9ub2RlLnJ1bGVzOgogICAgICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQogICAgICAgICAgICAgICAgICAgIG5vZGVzLmFwcGVuZCgoY291bnRlciwgcnVsZSkpCiAgICAgICAgICAgICAgICAgICAgc2VyaWFsaXplZF9ub2RlWydydWxlcyddLmFwcGVuZChjb3VudGVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS5kaXNwYXRjaChyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcHJlc2VudF9ub2RlLmdldCgnaWZfJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXNwYXRjaChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2RlX2RpY3RbJ3J1bGVzJ10gPSBydWxlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bGVzID0gW2Nscy5fc2VyaWFsaXplX3J1bGUoc3ViX25vZGUpIGZvciBzdWJfbm9kZSBpbiBub2RlLnJ1bGVzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSByZXF1ZXN0LnF1ZXJ5X3BhcmFtcwogICAgICAgIGRhdGVfcGFyYW0gPSBxdWVyeV9wYXJhbXMuZ2V0KCdkYXRlJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIGFzX29mX2RhdGUgPSBzdHJpbmdfdG9fZGF0ZShkYXRlX3BhcmFtKSBpZiBkYXRlX3BhcmFtIGVsc2UgZGF0ZXRpbWUubm93KCkKICAgICAgICAgICAga3dhcmdzWydhc19vZl9kYXRlJ10gPSBhc19vZl9kYXRlCiAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgIHJhaXNlIEJhZFJlcXVlc3QoJ1VuZXhwZWN0ZWQgZGF0ZSBmb3JtYXQgaW5wdXQ6IHt9LCBleHBlY3RlZCB7fS4nLmZvcm1hdChkYXRlX3BhcmFtLCBEQVRFX0ZPUk1BVCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVfZGljdFsnaWZfZmFsc2UnXSA9IGNscy5fc2VyaWFsaXplX2RlY2lzaW9uX3RyZWUocHJlc2VudF9ub2RlLmlmX2ZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
