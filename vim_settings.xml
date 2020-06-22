@@ -109,11 +109,11 @@
         <mark key="." line="89" column="63" />
         <mark key="^" line="89" column="64" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_sample_policy.py" timestamp="1592794624071">
-        <mark key="[" line="75" column="18" />
-        <mark key="]" line="81" column="51" />
-        <mark key="." line="81" column="50" />
-        <mark key="^" line="81" column="51" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_sample_policy.py" timestamp="1592794803524">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="79" column="51" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/group.py" timestamp="1592691592596">
         <mark key="[" line="11" column="0" />
@@ -313,8 +313,8 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>next_revision_model.id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeV9pZCA9IHBvbGljeS5pZAo=</text>
       </register>
       <register name="-" type="4">
         <text>next_revision_model.id</text>
@@ -329,31 +329,31 @@ max</text>
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvbGljeV9pZCA9IHBvbGljeS5pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3lfaWQgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X251bGw9VHJ1ZSwgYWxsb3dfYmxhbms9VHJ1ZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IHNlcmlhbGl6ZXJzLkxpc3RGaWVsZChjaGlsZD1zZXJpYWxpemVycy5DaGFyRmllbGQoKSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZCgpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG91dHB1dCA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5hbWUgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X251bGw9VHJ1ZSwgYWxsb3dfYmxhbms9VHJ1ZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IHNlcmlhbGl6ZXJzLkxpc3RGaWVsZChjaGlsZD1zZXJpYWxpemVycy5DaGFyRmllbGQoKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
