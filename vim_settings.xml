@@ -113,10 +113,10 @@
         <mark key="." line="531" column="38" />
         <mark key="^" line="531" column="39" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" timestamp="1592701236804">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="20" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/early_exit.py" timestamp="1592791834318">
+        <mark key="[" line="53" column="18" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
         <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1592774088632">
@@ -191,11 +191,11 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" timestamp="1592701229614">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="41" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="47" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" timestamp="1592774837311">
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="57" column="24" />
+        <mark key="." line="57" column="23" />
+        <mark key="^" line="57" column="24" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/definition.py" timestamp="1592691715436">
         <mark key="[" line="13" column="0" />
@@ -312,11 +312,11 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>serializers.Serializer</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>query_params</text>
