@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\n\n</entry>
-        <entry>VAL_POLICY_SEGMENTATION_CUTOVER</entry>
         <entry>in_atomic</entry>
         <entry>print</entry>
         <entry>Meta</entry>
@@ -27,6 +25,8 @@
         <entry>valuation</entry>
         <entry>valuation_ty</entry>
         <entry>ValuationCont</entry>
+        <entry>GraphRoot</entry>
+        <entry>DecisionTreeRo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -88,6 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/utils.py" timestamp="1592938675444">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1592851708417">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -116,13 +122,6 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1592774088632">
-        <mark key="'" line="12" column="31" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="127" column="45" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_new_segmentation_revision.py" timestamp="1592794536971">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="39" column="76" />
@@ -135,11 +134,12 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" timestamp="1592794703834">
-        <mark key="[" line="162" column="15" />
-        <mark key="]" line="162" column="64" />
-        <mark key="." line="162" column="63" />
-        <mark key="^" line="162" column="64" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" timestamp="1592938724681">
+        <mark key="'" line="66" column="58" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="56" />
+        <mark key="." line="71" column="55" />
+        <mark key="^" line="71" column="56" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/context/hybrid.py" timestamp="1592856490600" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/repository/repository.py" timestamp="1592794527611">
@@ -168,12 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="11" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/subject.py" />
-      <jump line="145" column="19" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
-      <jump line="143" column="50" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
-      <jump line="60" column="56" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
-      <jump line="221" column="35" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
-      <jump line="165" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="187" column="42" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
       <jump line="20" column="62" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/conditions.py" />
       <jump line="64" column="68" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
@@ -268,6 +262,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/__init__.py" />
       <jump line="2" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/__init__.py" />
       <jump line="52" column="69" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/__init__.py" />
+      <jump line="71" column="55" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" />
+      <jump line="62" column="61" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" />
+      <jump line="148" column="24" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" />
+      <jump line="16" column="67" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" />
+      <jump line="66" column="58" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/repository/django/repository.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,16 +278,16 @@ ninetieth
 max</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>models.GraphRoot.objects.get(pk=policy_id)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>models.GraphRoot.objects.get(pk=policy_id)</text>
       </register>
       <register name="/" type="4">
-        <text>ValuationCont</text>
+        <text>DecisionTreeRo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlX3NjZW5hcmlvcyhpbnN0YW5jZSwgaW5mbywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ZGVmIGdldF9ncmFwaF9yb290KHBvbGljeV9pZDogaW50KSAtPiAnbW9kZWxzLkdyYXBoUm9vdCc6CiAgICB0cnk6CiAgICAgICAgcmV0dXJuIG1vZGVscy5HcmFwaFJvb3Qub2JqZWN0cy5nZXQocGs9cG9saWN5X2lkKQogICAgZXhjZXB0IE9iamVjdERvZXNOb3RFeGlzdCBhcyBlOgogICAgICAgIHJhaXNlIE5vdEZvdW5kRXhjZXB0aW9uIGZyb20gZQoKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -326,9 +326,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ValuationCont</last-search>
+      <last-search>DecisionTreeRo</last-search>
       <last-offset />
-      <last-pattern>ValuationCont</last-pattern>
+      <last-pattern>DecisionTreeRo</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
