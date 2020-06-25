@@ -93,12 +93,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_sample_policy.py" timestamp="1592794803524">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="79" column="51" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1593046116701">
         <mark key="'" line="12" column="31" />
         <mark key="[" line="98" column="0" />
@@ -111,7 +105,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/root.py" timestamp="1593107782019">
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/root.py" timestamp="1593109220297">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -122,10 +116,12 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/context/hybrid.py" timestamp="1592856490600" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" timestamp="1592850934397">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" timestamp="1593109453950">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="268" column="52" />
+        <mark key="." line="264" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/context/hybrid.py" timestamp="1592856490600" />
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/valuation_context_type.py" timestamp="1592851931970">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="11" column="57" />
@@ -144,6 +140,7 @@
         <mark key="^" line="34" column="82" />
         <mark key="." line="34" column="81" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/carta-3.5/lib/python3.5/site-packages/django/http/response.py" timestamp="1593109428682" />
     </filemarks>
     <jumps>
       <jump line="272" column="13" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/policy/irc409a/segmentation/policy_compatible/rules.py" />
@@ -256,10 +253,10 @@ ninetieth
 max</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19QT0xJQ1lfTUFOQUdFUik6CiAgICAgICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2VSZWRpcmVjdChyZWRpcmVjdF90bz0nLycpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="-" type="4">
-        <text>return Response('This endpoint is not enabled', status=status.HTTP_403_FORBIDDEN)</text>
+        <text>Redirec</text>
       </register>
       <register name="/" type="4">
         <text>VALUA</text>
@@ -271,31 +268,31 @@ max</text>
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19QT0xJQ1lfTUFOQUdFUik6CiAgICAgICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2VSZWRpcmVjdChyZWRpcmVjdF90bz0nLycpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCdGYWlsZWQgdG8gc2VyaWFsaXplIHJ1bGU6ICVzJywgbm9kZS5jb25kaXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJlY3Vyc2lvbkVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCdGYWlsZWQgdG8gc2VyaWFsaXplIHJ1bGU6ICVzJywgbm9kZS5jb25kaXRpb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgTWlnaHQgbmVlZCB0byBmZXRjaCBsaXZlIGJ5IElELgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJlY3Vyc2lvbkVycm9yOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBuZWVkIHRvIHNlcmlhbGl6ZSB0aGlzIGJ1dCBoaXRzIG1heCByZWN1cnNpb24gZGVwdGguCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgTWlnaHQgbmVlZCB0byBmZXRjaCBsaXZlIGJ5IElELgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
