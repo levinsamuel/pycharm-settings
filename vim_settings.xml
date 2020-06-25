@@ -116,11 +116,10 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_new_segmentation_revision.py" timestamp="1592794536971">
-        <mark key="[" line="39" column="75" />
-        <mark key="]" line="39" column="76" />
-        <mark key="^" line="39" column="60" />
-        <mark key="." line="39" column="76" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_new_segmentation_revision.py" timestamp="1593037949192">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/valuation_template_type.py" timestamp="1592851674530">
         <mark key="[" line="2" column="0" />
@@ -264,8 +263,8 @@
 ninetieth
 max</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>models.GraphRoot.objects.get(pk=policy_id)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>models.GraphRoot.objects.get(pk=policy_id)</text>
@@ -283,28 +282,28 @@ max</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldF91bWJyZWxsYSwK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudW1icmVsbGEgaW1wb3J0ICgK</text>
+        <text encoding="base64">ICAgIGdldF91bWJyZWxsYSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGdyYXBoZW5lX3R5cGVzIGFzIGN1c3RvbV90eXBlcwo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudW1icmVsbGEgaW1wb3J0ICgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVxdWl0eV9hZGp1c3RtZW50X2RhdGVfb3ZlcnJpZGUgPSBncmFwaGVuZS50eXBlcy5kYXRldGltZS5EYXRlKCkK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGdyYXBoZW5lX3R5cGVzIGFzIGN1c3RvbV90eXBlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZhaXJfbWFya2V0X3ZhbHVlID0gY3VzdG9tX3R5cGVzLkRlY2ltYWwoKQo=</text>
+        <text encoding="base64">ICAgIGVxdWl0eV9hZGp1c3RtZW50X2RhdGVfb3ZlcnJpZGUgPSBncmFwaGVuZS50eXBlcy5kYXRldGltZS5EYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
