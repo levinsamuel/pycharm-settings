@@ -116,6 +116,13 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/serializers.py" timestamp="1593046116701">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="122" column="45" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_new_segmentation_revision.py" timestamp="1593037949192">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -145,12 +152,6 @@
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/context.py" timestamp="1592851946508">
         <mark key="[" line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/hybrid_backsolve/late_exit.py" timestamp="1592774837311">
-        <mark key="[" line="56" column="48" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="23" />
-        <mark key="^" line="57" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -264,7 +265,7 @@ ninetieth
 max</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCdGYWlsZWQgdG8gc2VyaWFsaXplIHJ1bGU6ICVzJywgbm9kZS5jb25kaXRpb24pCg==</text>
       </register>
       <register name="-" type="4">
         <text>models.GraphRoot.objects.get(pk=policy_id)</text>
@@ -279,31 +280,31 @@ max</text>
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCdGYWlsZWQgdG8gc2VyaWFsaXplIHJ1bGU6ICVzJywgbm9kZS5jb25kaXRpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJlY3Vyc2lvbkVycm9yOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNvbHZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgTWlnaHQgbmVlZCB0byBmZXRjaCBsaXZlIGJ5IElELgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBuZWVkIHRvIHNlcmlhbGl6ZSB0aGlzIGJ1dCBoaXRzIG1heCByZWN1cnNpb24gZGVwdGguCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldF91bWJyZWxsYSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMuc2VydmljZXMudW1icmVsbGEgaW1wb3J0ICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMgaW1wb3J0IGdyYXBoZW5lX3R5cGVzIGFzIGN1c3RvbV90eXBlcwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVxdWl0eV9hZGp1c3RtZW50X2RhdGVfb3ZlcnJpZGUgPSBncmFwaGVuZS50eXBlcy5kYXRldGltZS5EYXRlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
