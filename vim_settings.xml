@@ -89,6 +89,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/c/carta-web/eshares/feature_flags/features.py" timestamp="1593119262115" />
+      <file name="/a.dummy" timestamp="1593149018460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/conftest.py" timestamp="1593144341644">
         <mark key="'" line="41" column="4" />
       </file>
@@ -106,11 +111,6 @@
         <mark key="^" line="122" column="45" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/management/commands/create_new_segmentation_revision.py" timestamp="1593037949192">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/valuation_policy/views/root.py" timestamp="1593109220297">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -127,12 +127,12 @@
         <mark key="^" line="120" column="40" />
         <mark key="." line="120" column="39" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/asc820/test_ledger.py" timestamp="1593147398092">
-        <mark key="'" line="83" column="18" />
-        <mark key="[" line="138" column="19" />
-        <mark key="]" line="138" column="23" />
-        <mark key="^" line="138" column="23" />
-        <mark key="." line="138" column="22" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/asc820/test_ledger.py" timestamp="1593150601580">
+        <mark key="'" line="135" column="107" />
+        <mark key="[" line="123" column="9" />
+        <mark key="]" line="123" column="9" />
+        <mark key="^" line="123" column="48" />
+        <mark key="." line="123" column="9" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/corporations/models/legacy_models.py" timestamp="1593139678625">
         <mark key="[" line="46" column="0" />
@@ -141,6 +141,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1593105764927">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/asc820/urls.py" timestamp="1593148722243">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/devserver.py" timestamp="1593106677539">
         <mark key="[" line="34" column="99" />
@@ -159,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1434" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
       <jump line="20" column="0" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" />
       <jump line="75" column="8" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/segmentation/test_service.py" />
       <jump line="66" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/delete_duplicate_multiples.py" />
@@ -259,6 +264,7 @@
       <jump line="10" column="14" filename="$USER_HOME$/git/c/carta-web/tests/api/valuations/conftest.py" />
       <jump line="41" column="4" filename="$USER_HOME$/git/c/carta-web/tests/api/valuations/conftest.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/.circleci/config.yml" />
+      <jump line="135" column="107" filename="$USER_HOME$/git/c/carta-web/tests/api/valuations/asc820/test_ledger.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -267,51 +273,46 @@
         <text encoding="base64">ICAgIHJldHVybiBfY2hhbmdlXzgyMF92YWx1YXRpb25fc3RhdHVzKGFzYzgyMF9zZWxmX3NlcnZpY2VfdmFsdWF0aW9uLCBBU0M4MjBfRFJBRlQpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>full</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>full</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>api-te</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC0tbm8tbWlncmF0aW9ucyAtLWRpc2FibGUtd2FybmluZ3M=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleGlzdGluZ19wcm9qZWN0X2xlZGdlciA9IGFzYzgyMF9kcmFmdF9zZWxmX3NlcnZpY2VfdmFsdWF0aW9uLnByb2plY3RfbGVkZ2VyICAjIHR5cGU6IFByb2plY3RMZWRnZXIKICAgICAgICAjIGFzc2VydCBwcmVtaXNlIG9mIHRlc3QgaXMgdmFsaWQKICAgICAgICBhc3NlcnQgZXhpc3RpbmdfcHJvamVjdF9sZWRnZXIuc3RhdHVzID09IEFTQzgyMF9EUkFGVAogICAgICAgIHByb2plY3QgPSBleGlzdGluZ19wcm9qZWN0X2xlZGdlci5wcm9qZWN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcmV2ZXJzZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc2M4MjBfZmluYWxpemVkX3NlbGZfc2VydmljZV92YWx1YXRpb24sCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBQcm9qZWN0TGVkZ2VyCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAogICAgbGVkZ2VyID0gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24ucHJvamVjdF9sZWRnZXIKICAgIGxlZGdlci5zdGF0dXMgPSBBU0M4MjBfRklOQUwKICAgIGxlZGdlci5zYXZlKCkKCiAgICByZXR1cm4gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24K</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAogICAgbGVkZ2VyID0gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24ucHJvamVjdF9sZWRnZXIKICAgIGxlZGdlci5zdGF0dXMgPSBBU0M4MjBfRklOQUwKICAgIGxlZGdlci5zYXZlKCkKCiAgICByZXR1cm4gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBhc2M4MjBfZmluYWxpemVkX3NlbGZfc2VydmljZV92YWx1YXRpb24sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAogICAgbGVkZ2VyID0gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24ucHJvamVjdF9sZWRnZXIKICAgIGxlZGdlci5zdGF0dXMgPSBBU0M4MjBfRklOQUwKICAgIGxlZGdlci5zYXZlKCkKCiAgICByZXR1cm4gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAogICAgbGVkZ2VyID0gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24ucHJvamVjdF9sZWRnZXIKICAgIGxlZGdlci5zdGF0dXMgPSBBU0M4MjBfRklOQUwKICAgIGxlZGdlci5zYXZlKCkKCiAgICByZXR1cm4gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAo=</text>
+        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAogICAgbGVkZ2VyID0gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24ucHJvamVjdF9sZWRnZXIKICAgIGxlZGdlci5zdGF0dXMgPSBBU0M4MjBfRklOQUwKICAgIGxlZGdlci5zYXZlKCkKCiAgICByZXR1cm4gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24K</text>
       </register>
-      <register name="9" type="4">
-        <text># update project ledger status to be final
-    ledger = asc820_self_service_valuation.project_ledger
-    ledger.status = ASC820_FINAL
-    ledger.save()
-
-    return asc820_self_service_valuation</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QgbGVkZ2VyIHN0YXR1cyB0byBiZSBmaW5hbAogICAgbGVkZ2VyID0gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24ucHJvamVjdF9sZWRnZXIKICAgIGxlZGdlci5zdGF0dXMgPSBBU0M4MjBfRklOQUwKICAgIGxlZGdlci5zYXZlKCkKCiAgICByZXR1cm4gYXNjODIwX3NlbGZfc2VydmljZV92YWx1YXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
