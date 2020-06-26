@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Meta</entry>
         <entry>\\n</entry>
         <entry>VAL_P</entry>
         <entry>Any</entry>
@@ -27,6 +26,7 @@
         <entry>DecisionTreeRo</entry>
         <entry>VALU</entry>
         <entry>VALUA</entry>
+        <entry>depreca</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -111,13 +111,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/valuation_template_type.py" timestamp="1592851674530">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/context/hybrid.py" timestamp="1592856490600" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/corporations/models/legacy_models.py" timestamp="1593139678625">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/graphene/types/valuation_context_type.py" timestamp="1592851931970">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="11" column="57" />
@@ -249,13 +248,13 @@ ninetieth
 max</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19QT0xJQ1lfTUFOQUdFUik6CiAgICAgICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2VSZWRpcmVjdChyZWRpcmVjdF90bz0nLycpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmRlcHJlY2F0aW9ucyBpbXBvcnQgQ2FydGFEZXByZWNhdGlvbldhcm5pbmcK</text>
       </register>
       <register name="-" type="4">
         <text>Redirec</text>
       </register>
       <register name="/" type="4">
-        <text>VALUA</text>
+        <text>depreca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUFUSU9OU19WQUxCT1RfVjIgPSAnVkFMVUFUSU9OU19WQUxCT1RfVjInCg==</text>
@@ -264,31 +263,31 @@ max</text>
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19QT0xJQ1lfTUFOQUdFUik6CiAgICAgICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2VSZWRpcmVjdChyZWRpcmVjdF90bz0nLycpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLmRlcHJlY2F0aW9ucyBpbXBvcnQgQ2FydGFEZXByZWNhdGlvbldhcm5pbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHdhcm5pbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgd2FybmluZ3Mud2FybigKICAgICAgICAgICAgIkNvcnBvcmF0aW9uLm9iamVjdHMuZ2V0KCkgaXMgZGVwcmVjYXRlZC4gIgogICAgICAgICAgICAiVXNlOiBjb3JlZGF0YS5zZXJ2aWNlcy4iCiAgICAgICAgICAgICJjb3Jwb3JhdGlvbl9zZXJ2aWNlLkNvcnBvcmF0aW9uU2VydmljZS5nZXQoKSAiLAogICAgICAgICAgICBDYXJ0YURlcHJlY2F0aW9uV2FybmluZywKICAgICAgICApCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0KCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbm90IGlzX2VuYWJsZWQoZmVhdHVyZXMuVkFMVUFUSU9OU19QT0xJQ1lfTUFOQUdFUik6CiAgICAgICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2VSZWRpcmVjdChyZWRpcmVjdF90bz0nLycpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCdGYWlsZWQgdG8gc2VyaWFsaXplIHJ1bGU6ICVzJywgbm9kZS5jb25kaXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJlY3Vyc2lvbkVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZW5hYmxlZChmZWF0dXJlcy5WQUxVQVRJT05TX1BPTElDWV9NQU5BR0VSKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgnVGhpcyBlbmRwb2ludCBpcyBkaXNhYmxlZC4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgTWlnaHQgbmVlZCB0byBmZXRjaCBsaXZlIGJ5IElELgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCdGYWlsZWQgdG8gc2VyaWFsaXplIHJ1bGU6ICVzJywgbm9kZS5jb25kaXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
@@ -297,9 +296,9 @@ max</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>VALUA</last-search>
+      <last-search>depreca</last-search>
       <last-offset />
-      <last-pattern>VALUA</last-pattern>
+      <last-pattern>depreca</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
