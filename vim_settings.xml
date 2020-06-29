@@ -99,6 +99,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1593460788391">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="12" />
+        <mark key="." line="219" column="12" />
+        <mark key="^" line="218" column="48" />
+      </file>
       <file name="/a.dummy" timestamp="1593149018460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -126,6 +132,12 @@
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/api/asc820/views/create_valuation.py" timestamp="1593199225521">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="100" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/tasks/utils.py" timestamp="1593461476182">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="91" />
+        <mark key="^" line="14" column="91" />
+        <mark key="." line="14" column="90" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/request-409a/test_pivots_step.py" timestamp="1593204066230">
         <mark key="[" line="20" column="0" />
@@ -278,13 +290,13 @@
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>asset</text>
@@ -296,28 +308,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBWYWxib3REYXRhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ2R1bWIgdGVzdCBSRU1PVkUgVEhJUycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNz</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNz</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
