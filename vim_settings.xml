@@ -94,15 +94,21 @@
         <mark key="^" line="33" column="36" />
         <mark key="." line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/fields.py" timestamp="1593468747702">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="53" column="39" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/request-409a/test_financing_round_step.py" timestamp="1593204076859">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1593462618696">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="12" />
-        <mark key="." line="220" column="12" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="12" />
+        <mark key="." line="219" column="12" />
         <mark key="^" line="219" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1593149018460">
@@ -144,12 +150,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="44" column="36" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/graphql/.gitignore" timestamp="1593147344423">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/valbot.py" timestamp="1593366526340">
         <mark key="[" line="33" column="44" />
@@ -290,13 +290,13 @@
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>from carta.django.util.helpers import</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>from carta.django.util.helpers import</text>
       </register>
       <register name="/" type="4">
         <text>asset</text>
@@ -308,31 +308,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBWYWxib3REYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ2R1bWIgdGVzdCBSRU1PVkUgVEhJUycpCg==</text>
+        <text encoding="base64">RkRldGFpbCA9IEZpZWxkRGV0YWlsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICgnbGFiZWwnLCBzdHIpLAogICAgKCd0eXBlJywgRlR5cGUpLAogICAgKCdyZWFzb24nLCBVbmlvbltzdHIsIE5vbmVdKSwKXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">RkRldGFpbCA9IE5hbWVkVHVwbGUoJ0ZpZWxkRGV0YWlsJywgWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBWYWxib3REYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ2R1bWIgdGVzdCBSRU1PVkUgVEhJUycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNz</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
