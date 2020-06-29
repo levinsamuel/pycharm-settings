@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>valuations</entry>
         <entry>IBIS</entry>
         <entry>Ibis</entry>
         <entry>method</entry>
@@ -27,6 +26,7 @@
         <entry>generate_query_file</entry>
         <entry>app_gql</entry>
         <entry>artifact</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -287,7 +287,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>artifact</text>
+        <text>asset</text>
       </register>
       <register name="0" type="4">
         <text>It is Carta policy to use a time to exit of 1 year for this methodology.',</text>
@@ -329,9 +329,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>artifact</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>artifact</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
