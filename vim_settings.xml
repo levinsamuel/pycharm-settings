@@ -109,10 +109,11 @@
       <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/conftest.py" timestamp="1593204164345">
         <mark key="'" line="93" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593627449214">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593642858165">
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="40" />
+        <mark key="^" line="54" column="41" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy_client.py" timestamp="1593627392200">
         <mark key="[" line="16" column="0" />
@@ -304,13 +305,13 @@
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0ZSwg</text>
+        <text>ValbotStrategies.from_policy_name(self.policy_name),</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZSwg</text>
+        <text>ValbotStrategies.from_policy_name(self.policy_name),</text>
       </register>
       <register name="/" type="4">
         <text>asset</text>
