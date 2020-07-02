@@ -101,17 +101,16 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/services/policy/client/client.py" timestamp="1593584354345">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/strategy_getter.py" timestamp="1593669687256">
         <mark key="[" line="53" column="58" />
         <mark key="]" line="54" column="42" />
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/fields/test_base_field.py" timestamp="1593719017735">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593670326396">
         <mark key="'" line="91" column="22" />
@@ -120,22 +119,16 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="45" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/base_serializer/test_multi_section_table_serializer.py" timestamp="1593718965534">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="34" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="34" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/base_serializer/test_multi_section_table_serializer.py" timestamp="1593720603829">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="70" />
+        <mark key="." line="35" column="69" />
+        <mark key="^" line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy_client.py" timestamp="1593627392200">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="88" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="49" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/base_serializer/test_base_strategy_table_serializer.py" timestamp="1593718930225">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/base_serializer/test_base_strategy_table_serializer.py" timestamp="1593720460341">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/base_serializer.py" timestamp="1593668908534">
         <mark key="'" line="180" column="53" />
@@ -150,6 +143,12 @@
         <mark key="]" line="18" column="17" />
         <mark key="^" line="19" column="25" />
         <mark key="." line="18" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py" timestamp="1593720222313">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="/" timestamp="1593627494578">
         <mark key="[" line="0" column="0" />
@@ -269,13 +268,13 @@
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>get_overview_sections</text>
+        <text>dicts_with_title_and_tables_for_each</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>get_overview_sections</text>
+        <text>dicts_with_title_and_tables_for_each</text>
       </register>
       <register name="/" type="4">
         <text>hybrid</text>
@@ -286,32 +285,39 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+                'title': fake_serializer_name_one,
+                'tables': fake_overview_tables_one,
+            },
+            {
+                'title': fake_serializer_name_two,
+                'tables': fake_overview_tables_two,
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VyaWFsaXplci5nZXRfb3ZlcnZpZXdfc2VjdGlvbnMoKSA9PSBbXQo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdENvbGxlY3RUYWJsZXM6CiAgICBkZWYgdGVzdF93aGVuX2NhbGxlZF9yZXR1cm5zX2RpY3RfZm9yX2VhY2hfdGFibGVfd2l0aF92YWx1ZXNfY29udGFpbmluZ19sYWJlbHNfYW5kX2xpc3Rfb2ZfZW1wdHlfcm93cygKICAgICAgICBzZWxmLAogICAgICAgIHNlcmlhbGl6ZXIsCiAgICApOgogICAgICAgIHJldHVybl92YWx1ZSA9IHNlcmlhbGl6ZXIuX2J1aWxkX3RhYmxlX2NvbnRleHQoKQoKICAgICAgICBhc3NlcnQgYWxsKFsKICAgICAgICAgICAgaXNpbnN0YW5jZSh2YWx1ZXNbJ2xhYmVsJ10sIHN0cikgYW5kIHZhbHVlc1sndGFibGVzJ10gPT0gW10KICAgICAgICAgICAgZm9yIGtleSwgdmFsdWVzIGluIHJldHVybl92YWx1ZS5pdGVtcygpCiAgICAgICAgXSkKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5faGFzX25vX21vZGVsX3NlcmlhbGl6ZXJzX3JldHVybnNfZW1wdHlfbGlzdChzZWxmLCBzZXJpYWxpemVyKToK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBHcGMsIEJhY2tzb2x2ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpjbGFzcyBUZXN0UnVuOgoKICAgIGRlZiB0ZXN0X3doZW5fY2FsbGVkX2NhbGxzX2luc3RhbmNlX21ldGhvZF9idWlsZF90YWJsZV9jb250ZXh0KHNlbGYsIG1vY2tlciwgc2VyaWFsaXplcik6CiAgICAgICAgc2VyaWFsaXplci5fYnVpbGRfdGFibGVfY29udGV4dCA9IG1vY2tlci5NYWdpY01vY2soKQogICAgICAgIHNlcmlhbGl6ZXIucnVuKCkKCiAgICAgICAgc2VyaWFsaXplci5fYnVpbGRfdGFibGVfY29udGV4dC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
+        <text encoding="base64">ICAgIGlzX2h5YnJpZCA9IGlzX2h5YnJpZF92YWx1YXRpb24odmFsdWF0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fY2FsbGVkX21ha2VzX2NhbGxfdG9fdGhyZWVfdGFibGVfZ2V0dGVyX21ldGhvZHMoc2VsZiwgbW9ja2VyLCBzZXJpYWxpemVyKToKICAgICAgICBzZXJpYWxpemVyLmdldF9vdmVydmlld19zZWN0aW9ucyA9IG1vY2tlci5NYWdpY01vY2soKQogICAgICAgIHNlcmlhbGl6ZXIuZ2V0X29wbV9pbnB1dHNfdGFibGUgPSBtb2NrZXIuTWFnaWNNb2NrKCkKICAgICAgICBzZXJpYWxpemVyLmdldF9kbG9tX2lucHV0c190YWJsZSA9IG1vY2tlci5NYWdpY01vY2soKQoKICAgICAgICBzZXJpYWxpemVyLl9jb2xsZWN0X3RhYmxlcygpCgogICAgICAgIGFzc2VydCBhbGwoWwogICAgICAgICAgICBzZXJpYWxpemVyLmdldF9vdmVydmlld19zZWN0aW9ucy5jYWxsZWQsCiAgICAgICAgICAgIHNlcmlhbGl6ZXIuZ2V0X29wbV9pbnB1dHNfdGFibGUuY2FsbGVkLAogICAgICAgICAgICBzZXJpYWxpemVyLmdldF9kbG9tX2lucHV0c190YWJsZS5jYWxsZWQsCiAgICAgICAgXSkK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcnkgPSBIWUJSSURfRVFVSVRZX0FESlVTVE1FTlQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtZXRob2RvbG9neV93aXRoX2Z1bGxfd2VpZ2h0Lmhhc19lcXVpdHlfYWRqdXN0bWVudDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdEdldE92ZXJWaWV3U2VjdGlvbnM6CgogICAgZGVmIHRlc3Rfd2hlbl9jYWxsZWRfcmV0dXJuc19lbXB0eV9saXN0KHNlbGYsIHNlcmlhbGl6ZXIpOgogICAgICAgIGFzc2VydCBzZXJpYWxpemVyLmdldF9vdmVydmlld19zZWN0aW9ucygpID09IFtdCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
