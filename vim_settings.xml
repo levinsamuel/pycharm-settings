@@ -109,11 +109,12 @@
       <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/conftest.py" timestamp="1593204164345">
         <mark key="'" line="93" column="33" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593652152183">
-        <mark key="[" line="58" column="54" />
-        <mark key="]" line="58" column="54" />
-        <mark key="." line="58" column="54" />
-        <mark key="^" line="58" column="54" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593655420987">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="60" column="61" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy_client.py" timestamp="1593627392200">
         <mark key="[" line="16" column="0" />
@@ -140,16 +141,24 @@
         <mark key="^" line="30" column="52" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/request-409a/test_financing_round_step.py" timestamp="1593204076859">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_policy_table.py" timestamp="1593656103499">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/base.py" timestamp="1593462618696">
         <mark key="[" line="219" column="0" />
         <mark key="]" line="219" column="12" />
         <mark key="." line="219" column="12" />
         <mark key="^" line="219" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/valbot_data.py" timestamp="1593655928181">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="76" />
+        <mark key="." line="37" column="75" />
+        <mark key="^" line="37" column="76" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/model_serializers/sample_modeled_values.py" timestamp="1593455937123">
         <mark key="'" line="12" column="28" />
@@ -183,12 +192,6 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="90" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/request-409a/test_pivots_step.py" timestamp="1593204066230">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/.circleci/config.yml" timestamp="1593213574520">
         <mark key="'" line="776" column="14" />
         <mark key="[" line="448" column="20" />
@@ -198,10 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="10" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" />
-      <jump line="95" column="36" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/models/multiple.py" />
-      <jump line="8" column="69" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/helpers/test_get_fmv_range.py" />
-      <jump line="0" column="443" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.txt" />
       <jump line="7" column="13" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_default_policy.py" />
       <jump line="8" column="13" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_default_policy.py" />
       <jump line="9" column="13" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/policy/irc409a/test_default_policy.py" />
@@ -298,6 +297,10 @@
       <jump line="205" column="39" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/base_serializer.py" />
       <jump line="211" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/base_serializer.py" />
       <jump line="180" column="53" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/base_serializer.py" />
+      <jump line="59" column="7" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" />
+      <jump line="14" column="31" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_policy_table.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_policy_table.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,13 +309,13 @@
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tables</text>
+        <text>return super().__str__()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>tables</text>
+        <text>return super().__str__()</text>
       </register>
       <register name="/" type="4">
         <text>asset</text>
@@ -324,31 +327,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2tleSc6IHNlbGYubmFtZSwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlX25hbWUgPSB0YWJsZV9uYW1lCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZV9uYW1lOiBzdHIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfb3ZlcnZpZXdfc2VjdGlvbnMoc2VsZikgLT4gTGlzdFtEaWN0XToK</text>
+        <text encoding="base64">ICAgICAgICAqYXJncywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ292ZXJ2aWV3X3RhYmxlJzogeydsYWJlbCc6ICdPdmVydmlldycsICdzZWN0aW9ucyc6IHNlbGYuZ2V0X292ZXJ2aWV3X3NlY3Rpb25zKCl9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2tleSc6IHNlbGYubmFtZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBHcmFwaFBvbGljeVJldmlzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBHcmFwaFBvbGljeVJldmlzaW9uCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfb3ZlcnZpZXdfc2VjdGlvbnMoc2VsZikgLT4gTGlzdFtEaWN0XToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
