@@ -88,6 +88,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.py" timestamp="1593666102922">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2469" />
+        <mark key="^" line="0" column="2469" />
+        <mark key="." line="0" column="2468" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/fields.py" timestamp="1593652211098">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -106,15 +112,11 @@
         <mark key="^" line="37" column="28" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/api/valuations/conftest.py" timestamp="1593204164345">
-        <mark key="'" line="93" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593662665541">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="78" column="21" />
-        <mark key="^" line="78" column="21" />
-        <mark key="." line="78" column="20" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593666656620">
+        <mark key="[" line="109" column="40" />
+        <mark key="]" line="109" column="50" />
+        <mark key="^" line="109" column="50" />
+        <mark key="." line="109" column="49" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/interfaces/services/policy_client.py" timestamp="1593627392200">
         <mark key="[" line="16" column="0" />
@@ -153,12 +155,6 @@
         <mark key="]" line="219" column="12" />
         <mark key="." line="219" column="12" />
         <mark key="^" line="219" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/valbot_data.py" timestamp="1593655928181">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="76" />
-        <mark key="." line="37" column="75" />
-        <mark key="^" line="37" column="76" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/model_serializers/sample_modeled_values.py" timestamp="1593455937123">
         <mark key="'" line="12" column="28" />
@@ -308,50 +304,52 @@
       <register name="a" type="4">
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>[self._create_row(node, sub_instance) for node in nodes]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>[self._create_row(node, sub_instance) for node in nodes]</text>
       </register>
       <register name="/" type="4">
         <text>asset</text>
       </register>
       <register name="0" type="4">
-        <text>List[Dict[str, Any]]:</text>
+        <text>section_name = ' - '.join(names)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHN1Yl9pbnN0YW5jZS5nZXQobm9kZS5vdXRwdXQpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text>[
+            self._create_row(node) for node in nodes
+        ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5wb2xpY3kuZGVmaW5pdGlvbiBpbXBvcnQgUG9saWN5R3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cHMgPSBzZWxmLmdlbmVyYXRpbmdfcG9saWN5Lgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWN0aW9uX25hbWUgPSAnIC0gJy5qb2luKG5hbWVzKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ3BvbGljeSBpbnN0YW5jZTogJXMnLCBzZWxmLnBvbGljeV9pbnN0YW5jZSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5wb2xpY3kuZGVmaW5pdGlvbiBpbXBvcnQ=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWN0aW9uX25hbWUgPSAnIC0gJy5qb2luKG5hbWVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlX25hbWUgPSB0YWJsZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZV9uYW1lOiBzdHIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqYXJncywK</text>
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5wb2xpY3kuZGVmaW5pdGlvbiBpbXBvcnQgUG9saWN5R3JvdXAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
