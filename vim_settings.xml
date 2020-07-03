@@ -101,11 +101,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/strategy_getter.py" timestamp="1593669687256">
-        <mark key="[" line="53" column="58" />
-        <mark key="]" line="54" column="42" />
-        <mark key="." line="54" column="41" />
-        <mark key="^" line="54" column="42" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/strategy_getter.py" timestamp="1593734656749">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="52" column="42" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/fields/test_base_field.py" timestamp="1593719017735">
         <mark key="[" line="17" column="0" />
@@ -137,6 +137,11 @@
         <mark key="." line="207" column="16" />
         <mark key="^" line="207" column="17" />
       </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/valbot.py" timestamp="1593745680978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_policy_table.py" timestamp="1593656103499">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="18" column="16" />
@@ -149,9 +154,6 @@
         <mark key="]" line="11" column="25" />
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="24" />
-      </file>
-      <file name="/" timestamp="1593627494578">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/categorize_valuation.py" timestamp="1593715945901">
         <mark key="[" line="11" column="0" />
@@ -267,8 +269,8 @@
       <register name="a" type="4">
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>dicts_with_title_and_tables_for_each</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
@@ -285,39 +287,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>{
-                'title': fake_serializer_name_one,
-                'tables': fake_overview_tables_one,
-            },
-            {
-                'title': fake_serializer_name_two,
-                'tables': fake_overview_tables_two,
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdENvbGxlY3RUYWJsZXM6CiAgICBkZWYgdGVzdF93aGVuX2NhbGxlZF9yZXR1cm5zX2RpY3RfZm9yX2VhY2hfdGFibGVfd2l0aF92YWx1ZXNfY29udGFpbmluZ19sYWJlbHNfYW5kX2xpc3Rfb2ZfZW1wdHlfcm93cygKICAgICAgICBzZWxmLAogICAgICAgIHNlcmlhbGl6ZXIsCiAgICApOgogICAgICAgIHJldHVybl92YWx1ZSA9IHNlcmlhbGl6ZXIuX2J1aWxkX3RhYmxlX2NvbnRleHQoKQoKICAgICAgICBhc3NlcnQgYWxsKFsKICAgICAgICAgICAgaXNpbnN0YW5jZSh2YWx1ZXNbJ2xhYmVsJ10sIHN0cikgYW5kIHZhbHVlc1sndGFibGVzJ10gPT0gW10KICAgICAgICAgICAgZm9yIGtleSwgdmFsdWVzIGluIHJldHVybl92YWx1ZS5pdGVtcygpCiAgICAgICAgXSkKCgo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIERpY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbnMubW9kZWxzIGltcG9ydCBHcGMsIEJhY2tzb2x2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzX2h5YnJpZCA9IGlzX2h5YnJpZF92YWx1YXRpb24odmFsdWF0aW9uKQo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">CgpAYXR0ci5zKHNsb3RzPVRydWUpCmNsYXNzIE1vZGVsZWRWYWx1ZToKICAgIGZpZWxkX2tleSA9IGF0dHIuaWIodHlwZT1zdHIpCiAgICAjIFZhbHVlIGlzIGFsd2F5cyBhIHN0cmluZywgdGhlIHNlcmlhbGl6ZXIgaGFuZGxlcyBwYXJzaW5nIGl0CiAgICB2YWx1ZSA9IGF0dHIuaWIodHlwZT1zdHIpCiAgICByZWFzb24gPSBhdHRyLmliKHR5cGU9c3RyLCBkZWZhdWx0PScnKQoKCkBhdHRyLnMoc2xvdHM9VHJ1ZSkKY2xhc3MgTW9kZWxlZE1vZGVsOgogICAgbW9kZWxfdHlwZSA9IGF0dHIuaWIodHlwZT1zdHIpCiAgICBpZCA9IGF0dHIuaWIodHlwZT1pbnQpCiAgICBsYWJlbCA9IGF0dHIuaWIodHlwZT1zdHIpCiAgICBtb2RlbGVkX3ZhbHVlcyA9IGF0dHIuaWIodHlwZT1MaXN0W01vZGVsZWRWYWx1ZV0sIGRlZmF1bHQ9YXR0ci5GYWN0b3J5KGxpc3QpKQoKCkBhdHRyLnMoc2xvdHM9VHJ1ZSkKY2xhc3MgVmFsYm90TW9kZWxlZFZhbHVlczoKICAgIG1vZGVscyA9IGF0dHIuaWIodHlwZT1MaXN0W01vZGVsZWRNb2RlbF0sIGRlZmF1bHQ9YXR0ci5GYWN0b3J5KGxpc3QpKQoKICAgIGRlZiBnZXRfbW9kZWxzX2tleWVkX2J5X21vZGVsX3R5cGUoc2VsZikgLT4gRGljdFtzdHIsIExpc3RbTW9kZWxlZE1vZGVsXV06CiAgICAgICAgcmV0ID0gZGVmYXVsdGRpY3QobGlzdCkKICAgICAgICBmb3IgbW9kZWwgaW4gc2VsZi5tb2RlbHM6CiAgICAgICAgICAgIHJldFttb2RlbC5tb2RlbF90eXBlXS5hcHBlbmQobW9kZWwpCiAgICAgICAgcmV0dXJuIHJldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcnkgPSBIWUJSSURfRVFVSVRZX0FESlVTVE1FTlQK</text>
+        <text encoding="base64">ZnJvbSAuLi5jb3JlLmV4Y2VwdGlvbnMgaW1wb3J0IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZXRob2RvbG9neV93aXRoX2Z1bGxfd2VpZ2h0Lmhhc19lcXVpdHlfYWRqdXN0bWVudDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSAuc2VyaWFsaXplcnMucG9saWN5X3NlcmlhbGl6ZXIgaW1wb3J0IFBvbGljeVRhYmxlU2VyaWFsaXplcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBpbXBsZW1lbnRhdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
