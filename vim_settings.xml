@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>serializer_class</entry>
         <entry>query_params</entry>
         <entry>valuation</entry>
         <entry>valuation_ty</entry>
@@ -27,6 +26,7 @@
         <entry>previous_valuation_methodology</entry>
         <entry>hybrid</entry>
         <entry>Proce</entry>
+        <entry>RulesContext</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\n/,/g</entry>
@@ -88,66 +88,88 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.py" timestamp="1593669233664">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="0" column="13561" />
-        <mark key="^" line="320" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/procedure.py" timestamp="1593755517082">
+        <mark key="[" line="8" column="85" />
+        <mark key="]" line="8" column="85" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="8" column="85" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/models/umbrella/umbrella.py" timestamp="1593717452175" />
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/strategy_getter.py" timestamp="1593734656749">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="52" column="42" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/rules/__init__.py" timestamp="1593756521986">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/fields/test_base_field.py" timestamp="1593719017735">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/policy/__init__.py" timestamp="1593754327912">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593753766806">
-        <mark key="'" line="99" column="47" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/base_serializer/test_multi_section_table_serializer.py" timestamp="1593720603829">
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="70" />
-        <mark key="." line="35" column="69" />
-        <mark key="^" line="35" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/base_serializer/test_base_strategy_table_serializer.py" timestamp="1593720460341">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/base_serializer.py" timestamp="1593668908534">
-        <mark key="'" line="180" column="53" />
-        <mark key="[" line="206" column="16" />
-        <mark key="]" line="207" column="17" />
-        <mark key="." line="207" column="16" />
-        <mark key="^" line="207" column="17" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/rules/planner.py" timestamp="1593756283301">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="55" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/core/data/valbot.py" timestamp="1593745680978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/scripts/create_policy_table.py" timestamp="1593656103499">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/rules/json.py" timestamp="1593754459871">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py" timestamp="1593720222313">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="24" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/rules/evaluation.py" timestamp="1593756925825">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/definition.py" timestamp="1593755729898">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="14" column="72" />
+        <mark key="^" line="14" column="72" />
+        <mark key="." line="14" column="71" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/planner/rule_evaluation_planner.py" timestamp="1593756372893">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" timestamp="1593756585884">
+        <mark key="'" line="17" column="57" />
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593754027775">
+        <mark key="'" line="99" column="47" />
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="84" />
+        <mark key="^" line="15" column="84" />
+        <mark key="." line="15" column="83" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/__init__.py" timestamp="1593755970425">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/rules/node.py" timestamp="1593756697895">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/evaluable.py" timestamp="1593755535605">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="81" />
+        <mark key="^" line="11" column="81" />
+        <mark key="." line="11" column="80" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/utils/serializer.py" timestamp="1593753594160">
         <mark key="[" line="48" column="0" />
@@ -155,18 +177,31 @@
         <mark key="^" line="30" column="58" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/helpers/categorize_valuation.py" timestamp="1593715945901">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/json/rule_service.py" timestamp="1593755312102">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/planner/flattener.py" timestamp="1593756107880">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/interfaces/rules/evaluator.py" timestamp="1593756330891">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/core/data/policy/definition/definition.py" timestamp="1593755483663">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="34" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/mappers/django/policy/hybrid.py" />
-      <jump line="157" column="7" filename="$USER_HOME$/git/c/carta-web/tests/backend/valuations/automation/test_hybrid_strategy.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/views.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/git/c/carta-web/entries.js" />
-      <jump line="20" column="53" filename="$USER_HOME$/git/c/carta-web/entries.js" />
       <jump line="52" column="50" filename="$USER_HOME$/git/c/carta-web/entries.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
@@ -262,6 +297,11 @@
       <jump line="112" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" />
       <jump line="19" column="8" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" />
       <jump line="99" column="47" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" />
+      <jump line="5" column="3" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" />
+      <jump line="62" column="12" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" />
+      <jump line="30" column="33" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" />
+      <jump line="4" column="53" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" />
+      <jump line="17" column="57" filename="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -269,50 +309,50 @@
       <register name="a" type="4">
         <text encoding="base64">YXBwX2dxbCwg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBQb2xpY3lEZWZpbml0aW9uLCBQcm9jZWR1cmUK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>Po</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>Proce</text>
+        <text>RulesContext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgZW5jb2RlciA9IERlY2ltYWxFbmNvZGVyKCkKIyAgICAgcmVhc29uID0gZW5jb2Rlci5lbmNvZGUobm9kZS5ydWxlLnJ1bGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dHB1dCA9IGV2YWx1YWJsZS5vdXRwdXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5kYXRhLnBvbGljeS5kZWZpbml0aW9uIGltcG9ydCBQb2xpY3lEZWZpbml0aW9uLCBQcm9jZWR1cmUK</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5pbnRlcmZhY2VzLnJ1bGVzLm5vZGUgaW1wb3J0IEFic3RyYWN0UG9saWN5Tm9kZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjYXJ0YS51dGlsLmVuY29kZXJzIGltcG9ydCBEZWNpbWFsRW5jb2Rlcgo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgbmFtZShzZWxmKSAtPiBPcHRpb25hbFtzdHJdOgogICAgICAgIC4uLgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAKIyBpZiBpc2luc3RhbmNlKG5vZGUsIFBvbGljeURlZmluaXRpb24pOgojICAgICBlbmNvZGVyID0gRGVjaW1hbEVuY29kZXIoKQojICAgICByZWFzb24gPSBlbmNvZGVyLmVuY29kZShub2RlLnJ1bGUucnVsZSkKIyBlbGlmIGlzaW5zdGFuY2Uobm9kZSwgUHJvY2VkdXJlKToKIyAgICAgcmVhc29uID0gJ0Z1bmN0aW9uIGNhbGw6IHt9Jy5mb3JtYXQobm9kZS5mdW5jdGlvbikKIyBlbHNlOgojICAgICByYWlzZSBJbnZhbGlkU3RhdGVFeGNlcHRpb24oJ1VuZXhwZWN0ZWQgbm9kZToge30nLmZvcm1hdChub2RlKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZyb20gZXNoYXJlcy52YWx1YXRpb25fcG9saWN5LmNvcmUuZGF0YS5wb2xpY3kuZXZhbHVhdGlvbl9wbGFuIGltcG9ydCBQb2xpY3lFdmFsdWF0aW9uUGxhbgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG5vZGUsIFBvbGljeURlZmluaXRpb24pOgogICAgICAgICAgICBlbmNvZGVyID0gRGVjaW1hbEVuY29kZXIoKQogICAgICAgICAgICByZWFzb24gPSBlbmNvZGVyLmVuY29kZShub2RlLnJ1bGUucnVsZSkKICAgICAgICBlbGlmIGlzaW5zdGFuY2Uobm9kZSwgUHJvY2VkdXJlKToKICAgICAgICAgICAgcmVhc29uID0gJ0Z1bmN0aW9uIGNhbGw6IHt9Jy5mb3JtYXQobm9kZS5mdW5jdGlvbikKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBJbnZhbGlkU3RhdGVFeGNlcHRpb24oJ1VuZXhwZWN0ZWQgbm9kZToge30nLmZvcm1hdChub2RlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwb2xpY3lfbm9kZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpjbGFzcyBfRXZhbHVhYmxlU2VyaWFsaXplcihBQkMpOgogICAgCiAgICBAYWJzdHJhY3RtZXRob2QKICAgIGRlZiBnZXRfcnVsZV9zdW1tYXJ5KHNlbGYpIC0+ICdzdHInOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/\r/g</text>
@@ -321,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Proce</last-search>
+      <last-search>RulesContext</last-search>
       <last-offset />
-      <last-pattern>Proce</last-pattern>
+      <last-pattern>RulesContext</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
