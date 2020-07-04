@@ -95,11 +95,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/core/interfaces/test_function_registry.py" timestamp="1593801232297">
-        <mark key="[" line="4" column="103" />
-        <mark key="]" line="4" column="85" />
-        <mark key="^" line="4" column="85" />
-        <mark key="." line="4" column="84" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/core/interfaces/test_function_registry.py" timestamp="1593829958583">
+        <mark key="[" line="52" column="72" />
+        <mark key="]" line="52" column="72" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="52" column="72" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_rule_evaluator.py" timestamp="1593801008055">
         <mark key="[" line="1" column="32" />
@@ -186,11 +186,11 @@
         <mark key="^" line="11" column="115" />
         <mark key="." line="11" column="114" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1593802347146">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1593803439428">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="43" column="27" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/api.py" timestamp="1593795253699">
         <mark key="[" line="56" column="87" />
@@ -317,52 +317,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">YXBwX2dxbCwg</text>
+        <text>, evaluate_node</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, mocker</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIG5vcWE6IEY0MDE=</text>
+        <text>, mocker</text>
       </register>
       <register name="/" type="4">
         <text>valuations_service</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBmbGF0dGVuZXIoKToKICAgIGZ1bmN0aW9uX3JlZ2lzdHJ5ID0gU2VydmljZVJlZ2lzdHJ5LmdldF9mdW5jdGlvbl9yZWdpc3RyeSgpCiAgICByZXR1cm4gRmxhdHRlbmVyKGZ1bmN0aW9uX3JlZ2lzdHJ5KQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXZhbHVhdGVfbm9kZShwb2xpY3ksIGNvbnRleHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcnVsZV9zZXJ2aWNlLmV2YWx1YXRlX3J1bGUoY29udGV4dD1jb250ZXh0LCBwb2xpY3lfZGVmaW5pdGlvbj1wb2xpY3kpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBKU09OUnVsZVNlcnZpY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHJ1bGVfc2VydmljZSgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBKU09OUnVsZVNlcnZpY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uX3JlZ2lzdHJ5ID0gU2VydmljZVJlZ2lzdHJ5LmdldF9mdW5jdGlvbl9yZWdpc3RyeSgpCg==</text>
+        <text encoding="base64">ZGVmIHJ1bGVfc2VydmljZSgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBGbGF0dGVuZXIoZnVuY3Rpb25fcmVnaXN0cnkpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZXNwYWNlPSdhbGxvY2F0aW9uJywK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uX3JlZ2lzdHJ5ID0gU2VydmljZVJlZ2lzdHJ5LmdldF9mdW5jdGlvbl9yZWdpc3RyeSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZXNwYWNlPQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBGbGF0dGVuZXIoZnVuY3Rpb25fcmVnaXN0cnkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>36,48s/valuations_service/function_registry</text>
