@@ -156,18 +156,20 @@
         <mark key="^" line="62" column="41" />
         <mark key="." line="62" column="40" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/nodes/procedure.py" timestamp="1593795006186">
-        <mark key="'" line="17" column="57" />
-        <mark key="[" line="31" column="46" />
-        <mark key="]" line="31" column="46" />
-        <mark key="." line="31" column="46" />
-        <mark key="^" line="39" column="46" />
-      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/planner/test_flattener.py" timestamp="1593799486561">
         <mark key="[" line="66" column="16" />
         <mark key="]" line="66" column="25" />
         <mark key="^" line="66" column="25" />
         <mark key="." line="66" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" timestamp="1593886897003">
+        <mark key="'" line="80" column="79" />
+        <mark key="j" line="89" column="20" />
+        <mark key="[" line="113" column="16" />
+        <mark key="m" line="78" column="0" />
+        <mark key="]" line="113" column="35" />
+        <mark key="^" line="113" column="35" />
+        <mark key="." line="113" column="34" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/rules/evaluator/rule_evaluator.py" timestamp="1593800794218">
         <mark key="[" line="14" column="0" />
@@ -207,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="41" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
       <jump line="106" column="20" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
       <jump line="103" column="14" filename="$USER_HOME$/git/c/carta-web/eshares/staff/urls.py" />
       <jump line="12" column="0" filename="$USER_HOME$/git/c/carta-web/templates/menu/includes/nav_primary.html" />
@@ -307,6 +308,7 @@
       <jump line="24" column="15" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/evaluator/test_evaluate_selector.py" />
       <jump line="178" column="18" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/rules/procedures/test_functions.py" />
       <jump line="238" column="68" filename="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" />
+      <jump line="80" column="79" filename="$USER_HOME$/git/c/carta-web/eshares/valuations/automation/strategies/serializers/policy_serializer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,14 +316,14 @@
       <register name="a" type="4">
         <text>, evaluate_node</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuanNvbiBpbXBvcnQgSlNPTlJ1bGVTZXJ2aWNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>sub_instance</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anNvbl9ydWxlX3NlcnZpY2U9SlNPTlJ1bGVTZXJ2aWNlKCksIA==</text>
+        <text>sub_instance</text>
       </register>
       <register name="/" type="4">
         <text>valuations_service</text>
@@ -333,31 +335,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuanNvbiBpbXBvcnQgSlNPTlJ1bGVTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzID0gZ3JvdXAuZ3JvdXBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVzID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGdyb3VwIGluIGdyb3VwczoKICAgICAgICAgICAgICAgIG5ld190YWJsZXMgPSBzZWxmLl9jcmVhdGVfdGFibGVzKGdyb3VwLCBwb2xpY3lfaW5zdGFuY2U9c3ViX2luc3RhbmNlLCBuYW1lX3N0YWNrPW5hbWVfc3RhY2spCiAgICAgICAgICAgICAgICBpZiBuZXdfdGFibGVzOgogICAgICAgICAgICAgICAgICAgIHRhYmxlcy5leHRlbmQobmV3X3RhYmxlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcnVsZV9zZXJ2aWNlLmV2YWx1YXRlX3J1bGUoY29udGV4dD1jb250ZXh0LCBwb2xpY3lfZGVmaW5pdGlvbj1wb2xpY3kpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kucnVsZXMuanNvbiBpbXBvcnQgSlNPTlJ1bGVTZXJ2aWNlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBKU09OUnVsZVNlcnZpY2UoKQo=</text>
+        <text encoding="base64">ZnJvbSBlc2hhcmVzLnZhbHVhdGlvbl9wb2xpY3kuY29yZS5zZXJ2aWNlX3JlZ2lzdHJ5IGltcG9ydCBTZXJ2aWNlUmVnaXN0cnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHJ1bGVfc2VydmljZSgpOgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcnVsZV9zZXJ2aWNlLmV2YWx1YXRlX3J1bGUoY29udGV4dD1jb250ZXh0LCBwb2xpY3lfZGVmaW5pdGlvbj1wb2xpY3kpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>36,48s/valuations_service/function_registry</text>
