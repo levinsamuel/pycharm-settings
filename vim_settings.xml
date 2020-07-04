@@ -186,11 +186,11 @@
         <mark key="^" line="11" column="115" />
         <mark key="." line="11" column="114" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1593803439428">
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="43" column="27" />
-        <mark key="^" line="43" column="27" />
-        <mark key="." line="43" column="26" />
+      <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuation_policy/generators/test_asset_rules.py" timestamp="1593832719190">
+        <mark key="[" line="256" column="17" />
+        <mark key="]" line="256" column="30" />
+        <mark key="^" line="256" column="30" />
+        <mark key="." line="256" column="29" />
       </file>
       <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/services/api.py" timestamp="1593795253699">
         <mark key="[" line="56" column="87" />
@@ -320,13 +320,13 @@
         <text>, evaluate_node</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, mocker</text>
+        <text>valuate</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>, mocker</text>
+        <text>valuate</text>
       </register>
       <register name="/" type="4">
         <text>valuations_service</text>
