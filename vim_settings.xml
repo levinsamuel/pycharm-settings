@@ -136,7 +136,11 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" timestamp="1594322894418" />
+      <file name="$USER_HOME$/git/c/carta-web/eshares/valuation_policy/generators/standard_backsolve/policy.py" timestamp="1594323639951">
+        <mark key="[" line="209" column="49" />
+        <mark key="]" line="209" column="49" />
+        <mark key="." line="209" column="49" />
+      </file>
       <file name="$USER_HOME$/git/c/carta-web/tests/unit/eshares/valuations/automation/strategies/serializers/test_policy_serializer.py" timestamp="1593904452179">
         <mark key="'" line="153" column="0" />
       </file>
@@ -263,14 +267,14 @@
       <register name="a" type="4">
         <text>, evaluate_node</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXF1aXR5X2FkanVzdG1lbnRfZGF0ZV9jYXB0YWJsZT0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>cap_table_by_share_class</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHBfZ3FsKCk6CiAgICAiIiIKICAgIHF1ZXJpZXMgYXJlIGdlbmVyYXRlZCBhIHRlc3QgYnVpbGQgdGltZSwgbm90IGxvYWQgdGltZSwgc28gdGhleSBoYXZlCiAgICB0byBiZSBsb2FkZWQgaW4gYSBmaXh0dXJlLgogICAgIiIiCiAgICBmcm9tIHRlc3RzLmFwaS52YWx1YXRpb25zLmdyYXBocWwuYXBwX2dlbmVyYXRlZF9xdWVyaWVzIGltcG9ydCBxdWVyaWVzIGFzIGFwcF9ncWwKICAgIHJldHVybiBhcHBfZ3FsCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>effective_date + relativedelta(minutes=1)</text>
+        <text>cap_table_by_share_class</text>
       </register>
       <register name="/" type="4">
         <text>literal</text>
