@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="Black" description="Black reformatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Black" description="Black reformatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/black" />
-      <option name="PARAMETERS" value="$FileDirRelativeToProjectRoot$" />
+      <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

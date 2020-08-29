@@ -4,6 +4,7 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="BLACKReformatCode" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -66,6 +67,9 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ShowNavBar" />
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="ctrl meta v" />
