@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="12">
+        <list size="15">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -17,6 +17,9 @@
           <item index="9" class="java.lang.String" itemvalue="unidecode" />
           <item index="10" class="java.lang.String" itemvalue="graphene_django" />
           <item index="11" class="java.lang.String" itemvalue="django-webpack-loader" />
+          <item index="12" class="java.lang.String" itemvalue="lxml" />
+          <item index="13" class="java.lang.String" itemvalue="cryptography" />
+          <item index="14" class="java.lang.String" itemvalue="djangorestframework" />
         </list>
       </value>
     </option>
