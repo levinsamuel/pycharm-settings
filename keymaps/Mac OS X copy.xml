@@ -62,6 +62,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="OptimizeImports" />
   <action id="ParserActionId" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -70,6 +71,9 @@
   <action id="ShowNavBar" />
   <action id="Tool_External Tools_Black">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Tool_External Tools_ISort">
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="meta alt v" />
