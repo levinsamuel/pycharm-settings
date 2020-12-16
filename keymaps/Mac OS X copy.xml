@@ -62,7 +62,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
-  <action id="OptimizeImports" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="ParserActionId" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
