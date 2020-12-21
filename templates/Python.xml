@@ -19,8 +19,8 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="lggr" value="from core_logging import Logger&#10;$LOG$ = Logger.factory(&quot;$LOGGER_NAME$&quot;)" description="New logger" toReformat="false" toShortenFQNames="true">
-    <variable name="LOG" expression="logger" defaultValue="" alwaysStopAt="true" />
+  <template name="lggr" value="from core_logging import Logger&#10;&#10;$LOG$ = Logger.factory(&quot;$LOGGER_NAME$&quot;)" description="New logger" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="&quot;logger&quot;" defaultValue="&quot;logger&quot;" alwaysStopAt="true" />
     <variable name="LOGGER_NAME" expression="&quot;compensation&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
