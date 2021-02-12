@@ -278,6 +278,8 @@
       <list>
         <option value="compensation_django.db.employee.models.ids.IdSet.*" />
         <option value="compensation_django.db.employee.models.equity_award.EquityAwardSet.equity_awards" />
+        <option value="compensation_django.db.employee.models.salary_compensation.SalaryCompensationSet.salary_compensations" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.employee_link" />
       </list>
     </option>
   </inspection_tool>
