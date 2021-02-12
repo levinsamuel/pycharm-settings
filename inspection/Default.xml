@@ -277,6 +277,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="compensation_django.db.employee.models.ids.IdSet.*" />
+        <option value="compensation_django.db.employee.models.equity_award.EquityAwardSet.equity_awards" />
       </list>
     </option>
   </inspection_tool>
