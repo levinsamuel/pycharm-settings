@@ -273,6 +273,19 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="compensation_django.db.employee.models.ids.IdSet.*" />
+        <option value="compensation_django.db.employee.models.equity_award.EquityAwardSet.equity_awards" />
+        <option value="compensation_django.db.employee.models.salary_compensation.SalaryCompensationSet.salary_compensations" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.employee_link" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.salary_compensation_set_id" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.tenure_set_id" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.equity_award_set_id" />
+      </list>
+    </option>
+  </inspection_tool>
   <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
