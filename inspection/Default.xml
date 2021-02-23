@@ -284,6 +284,11 @@
         <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.tenure_set_id" />
         <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.equity_award_set_id" />
         <option value="compensation_django.db.user.models.settings.UserSettings.corporation_settings" />
+        <option value="compensation_django.db.benchmarking.models.report_card.BenchmarkedEmployee.equity_unvested_id" />
+        <option value="compensation_django.db.benchmarking.models.report_card.BenchmarkedEmployee.equity_vested_id" />
+        <option value="compensation_django.db.benchmarking.models.report_card.BenchmarkedEmployee.equity_initial_grant_id" />
+        <option value="compensation_django.db.benchmarking.models.report_card.BenchmarkedEmployee.equity_total_grant_id" />
+        <option value="compensation_django.db.benchmarking.models.report_card.BenchmarkedEmployee.equity_awards" />
       </list>
     </option>
   </inspection_tool>
