@@ -5,7 +5,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="256">
+        <list size="259">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -262,6 +262,9 @@
           <item index="253" class="java.lang.String" itemvalue="django-fsm" />
           <item index="254" class="java.lang.String" itemvalue="pillow" />
           <item index="255" class="java.lang.String" itemvalue="openpyxl" />
+          <item index="256" class="java.lang.String" itemvalue="carta-notifications-email-interface" />
+          <item index="257" class="java.lang.String" itemvalue="carta-notifications-email-grpc-client" />
+          <item index="258" class="java.lang.String" itemvalue="carta-notifications-email-mock-client" />
         </list>
       </value>
     </option>
