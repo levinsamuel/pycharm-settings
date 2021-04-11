@@ -303,6 +303,11 @@
         <option value="compensation_django.db.benchmarking.models.report_card.ReportCardExecution.employees" />
         <option value="compensation_django.db.employee.models.location.LocationSet.locations" />
         <option value="compensation_django.db.benchmarking.models.report_card.BenchmarkedEmployee.securities" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_unvested_id" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_vested_id" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_initial_grant_id" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_total_grant_id" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.securities" />
       </list>
     </option>
   </inspection_tool>
