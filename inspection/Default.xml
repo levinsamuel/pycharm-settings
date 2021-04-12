@@ -308,6 +308,8 @@
         <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_initial_grant_id" />
         <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_total_grant_id" />
         <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.securities" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.location_set_id" />
+        <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.equity_set_id" />
       </list>
     </option>
   </inspection_tool>
