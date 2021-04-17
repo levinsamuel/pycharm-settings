@@ -27,4 +27,10 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
+  <template name="fix" value="@pytest.fixture&#10;def $FIXTURE_NAME$(self):&#10;    " description="pytest fixture" toReformat="false" toShortenFQNames="true">
+    <variable name="FIXTURE_NAME" expression="" defaultValue="&quot;func&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
