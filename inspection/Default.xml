@@ -311,6 +311,8 @@
         <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.securities" />
         <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.location_set_id" />
         <option value="compensation_django.db.employee.models.employee_record.EmployeeRecord.equity_set_id" />
+        <option value="compensation_django.db.benchmarking.models.plan.Plan.plan_detail" />
+        <option value="compensation_django.db.benchmarking.models.plan.PlanEventSet.events" />
       </list>
     </option>
   </inspection_tool>
