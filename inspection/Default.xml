@@ -348,6 +348,8 @@
         <option value="compensation_django.db.benchmarking.models.plan.PlanEventSet.events" />
         <option value="compensation_django.rest.benchmarking_rest.views.base.PlanViewMixin.kwargs" />
         <option value="compensation_django.db.employee.models.equity.EquitySet.equity_awards" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.ScorecardExecution.id" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.id" />
       </list>
     </option>
   </inspection_tool>
