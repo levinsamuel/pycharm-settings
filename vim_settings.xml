@@ -52,34 +52,34 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -319,7 +319,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
