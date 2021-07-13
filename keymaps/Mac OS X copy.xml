@@ -2,6 +2,9 @@
   <action id="ActivateJsonParserToolWindow">
     <keyboard-shortcut first-keystroke="shift meta alt j" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="BLACKReformatCode" />
