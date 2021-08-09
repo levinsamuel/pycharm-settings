@@ -368,6 +368,7 @@
         <option value="compensation_django.db.tasks.models.task_update.TaskUpdate.task_id" />
         <option value="eshares.data_integrations.integrations.models.data_integration.DataIntegration.corporation_id" />
         <option value="compensation_django.db.audit.models.RequestLog.id" />
+        <option value="carta_compensation.apps.benchmarking.interfaces.adapters.employee.BenchmarkingEmployeeDataAdapter.employee_db" />
       </list>
     </option>
   </inspection_tool>
