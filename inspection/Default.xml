@@ -372,6 +372,14 @@
         <option value="compensation_django.db.employee.models.equity.Certificate.id" />
         <option value="compensation_django.db.benchmarking.models.scorecard.Security.id" />
         <option value="compensation_django.db.employee.models.cached_employee_image.CachedEquityImage.id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.equity_unvested_id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.equity_vested_id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.equity_initial_grant_id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.equity_total_grant_id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.equity_next_12_months_id" />
+        <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_next_12_months_id" />
+        <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.securities" />
       </list>
     </option>
   </inspection_tool>
