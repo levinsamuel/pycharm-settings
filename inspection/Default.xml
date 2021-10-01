@@ -38,7 +38,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="270">
+        <list size="276">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -309,6 +309,12 @@
           <item index="267" class="java.lang.String" itemvalue="types-attrs" />
           <item index="268" class="java.lang.String" itemvalue="djangorestframework-dataclasses" />
           <item index="269" class="java.lang.String" itemvalue="pytest-lazy-fixture" />
+          <item index="270" class="java.lang.String" itemvalue="pytest-repeat" />
+          <item index="271" class="java.lang.String" itemvalue="flake8-json" />
+          <item index="272" class="java.lang.String" itemvalue="debugpy" />
+          <item index="273" class="java.lang.String" itemvalue="amplitude-python-sdk" />
+          <item index="274" class="java.lang.String" itemvalue="pytest-dotenv" />
+          <item index="275" class="java.lang.String" itemvalue="libcst" />
         </list>
       </value>
     </option>
