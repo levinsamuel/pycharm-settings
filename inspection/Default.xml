@@ -388,6 +388,8 @@
         <option value="compensation_django.db.benchmarking.models.scorecard.BenchmarkedEmployee.equity_next_12_months_id" />
         <option value="compensation_django.db.employee.models.cached_employee_image.CachedEmployeeImage.securities" />
         <option value="compensation_django.db.total_rewards.models.package.Package.benefits" />
+        <option value="grpc.HandlerCallDetails.method" />
+        <option value="grpc.HandlerCallDetails.invocation_metadata" />
       </list>
     </option>
   </inspection_tool>
