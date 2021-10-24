@@ -336,6 +336,7 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyRedundantParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredIdentifiers">
       <list>
@@ -393,6 +394,7 @@
         <option value="grpc.HandlerCallDetails.invocation_metadata" />
         <option value="compensation_django.db.employee.models.tenure.Tenure.id" />
         <option value="compensation_django.db.employee.models.tenure.TenureSet.employee_record" />
+        <option value="grpc.RpcError.code" />
       </list>
     </option>
   </inspection_tool>
