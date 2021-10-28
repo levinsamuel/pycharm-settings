@@ -38,7 +38,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="278">
+        <list size="285">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -317,6 +317,13 @@
           <item index="275" class="java.lang.String" itemvalue="libcst" />
           <item index="276" class="java.lang.String" itemvalue="carta-frontend-app-registry-client" />
           <item index="277" class="java.lang.String" itemvalue="fixit" />
+          <item index="278" class="java.lang.String" itemvalue="pyotp" />
+          <item index="279" class="java.lang.String" itemvalue="pyserde" />
+          <item index="280" class="java.lang.String" itemvalue="python-json-logger" />
+          <item index="281" class="java.lang.String" itemvalue="django-migration-linter" />
+          <item index="282" class="java.lang.String" itemvalue="PyYaml" />
+          <item index="283" class="java.lang.String" itemvalue="human-friendly_pedantic-timedelta" />
+          <item index="284" class="java.lang.String" itemvalue="django-event-publisher" />
         </list>
       </value>
     </option>
