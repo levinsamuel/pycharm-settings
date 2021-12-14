@@ -406,6 +406,8 @@
         <option value="compensation_django.db.employee.models.equity.Certificate.vesting_event_set_id" />
         <option value="compensation_django.db.employee.models.equity.HasVestingEvents.vesting_event_set_id" />
         <option value="compensation_django.db.employee.models.equity.EquityAward.vesting_event_set_id" />
+        <option value="compensation_django.db.employee.models.equity.SecurityBase.id" />
+        <option value="compensation_django.db.employee.models.equity.SecurityBase.vesting_event_set_id" />
       </list>
     </option>
   </inspection_tool>
