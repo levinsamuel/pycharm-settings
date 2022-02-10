@@ -48,7 +48,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="286">
+        <list size="297">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -335,6 +335,17 @@
           <item index="283" class="java.lang.String" itemvalue="human-friendly_pedantic-timedelta" />
           <item index="284" class="java.lang.String" itemvalue="django-event-publisher" />
           <item index="285" class="java.lang.String" itemvalue="fixit-linter" />
+          <item index="286" class="java.lang.String" itemvalue="grpc-stubs" />
+          <item index="287" class="java.lang.String" itemvalue="joblib" />
+          <item index="288" class="java.lang.String" itemvalue="threadpoolctl" />
+          <item index="289" class="java.lang.String" itemvalue="types-pytz" />
+          <item index="290" class="java.lang.String" itemvalue="more-itertools" />
+          <item index="291" class="java.lang.String" itemvalue="django-add-default-value" />
+          <item index="292" class="java.lang.String" itemvalue="pytest-monkeytype" />
+          <item index="293" class="java.lang.String" itemvalue="types-requests" />
+          <item index="294" class="java.lang.String" itemvalue="jsonschema" />
+          <item index="295" class="java.lang.String" itemvalue="types-protobuf" />
+          <item index="296" class="java.lang.String" itemvalue="assertpy" />
         </list>
       </value>
     </option>
