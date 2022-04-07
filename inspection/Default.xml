@@ -434,6 +434,8 @@
         <option value="compensation_django.db.employee.models.equity.SecurityBase.vesting_event_set_id" />
         <option value="compensation_django.db.better_offer_letter.models.offer_letter.OfferLetter.messages" />
         <option value="type.*" />
+        <option value="compensation_django.db.better_offer_letter.models.offer_version.OfferVersion.offer_set_id" />
+        <option value="compensation_django.db.better_offer_letter.models.offer_set.OfferSet.offer_versions" />
       </list>
     </option>
   </inspection_tool>
