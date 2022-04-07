@@ -2,7 +2,7 @@
   <tool name="Black" description="Black reformatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.pyenv/versions/3.10.2/bin/black" />
-      <option name="PARAMETERS" value="$FileRelativePath$" />
+      <option name="PARAMETERS" value="$FileRelativePath$ --target-version py310" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
