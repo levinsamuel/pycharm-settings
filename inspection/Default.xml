@@ -439,6 +439,9 @@
         <option value="compensation_django.db.better_offer_letter.models.offer_version.OfferVersion.offer_set_id" />
         <option value="compensation_django.db.better_offer_letter.models.offer_set.OfferSet.offer_versions" />
         <option value="compensation_django.db.better_offer_letter.models.access_token.OfferAccessToken.id" />
+        <option value="compensation_django.db.benchmarking.models.benchmark_comparison_notes.BenchmarkComparisonNotes.id" />
+        <option value="compensation_django.db.benchmarking.models.benchmark_data_version.BenchmarkDataVersion.id" />
+        <option value="compensation_django.db.benchmarking.models.benchmark_geo_adjustment_version.BenchmarkGeoAdjustmentVersion.id" />
       </list>
     </option>
   </inspection_tool>
