@@ -48,7 +48,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="301">
+        <list size="302">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -350,6 +350,7 @@
           <item index="298" class="java.lang.String" itemvalue="carta-proto-events" />
           <item index="299" class="java.lang.String" itemvalue="money" />
           <item index="300" class="java.lang.String" itemvalue="types-redis" />
+          <item index="301" class="java.lang.String" itemvalue="boto3-stubs" />
         </list>
       </value>
     </option>
