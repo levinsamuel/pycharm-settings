@@ -48,7 +48,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="308">
+        <list size="309">
           <item index="0" class="java.lang.String" itemvalue="psycopg2" />
           <item index="1" class="java.lang.String" itemvalue="carta-django-util" />
           <item index="2" class="java.lang.String" itemvalue="carta-json-logic" />
@@ -357,6 +357,7 @@
           <item index="305" class="java.lang.String" itemvalue="django-stubs" />
           <item index="306" class="java.lang.String" itemvalue="django-stubs-ext" />
           <item index="307" class="java.lang.String" itemvalue="types-python-dateutil" />
+          <item index="308" class="java.lang.String" itemvalue="celery-types" />
         </list>
       </value>
     </option>
