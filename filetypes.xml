@@ -11,7 +11,9 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping pattern="__init__" type="Python" />
+      <mapping ext="txt" type="requirements.txt" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -20,6 +22,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*requirements*.txt" approved="true" type="requirements-pro.txt" />
     </extensionMap>
   </component>
 </application>
